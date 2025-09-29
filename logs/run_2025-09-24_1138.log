@@ -1,0 +1,11 @@
+[2025-09-24 11:38:30] 🔄 Fetching opponents list from IT…
+[2025-09-24 11:38:52] 📄 Processing TA_DSAR - gerarddovoa1 (bwin.com).xlsx (Deal 2212) in calculation Mode...
+[2025-09-24 11:38:55] ✔ Deposit sheets: ['Deposits']
+[2025-09-24 11:38:55] ✔ Cashout sheets: ['Cashouts']
+[2025-09-24 11:38:56] TA logic: Deposits = 70868.3, Cashouts = 75257.09, Net = -4388.789999999994
+[2025-09-24 11:38:56] ✅ Created Payment Summary with 330 rows.
+[2025-09-24 11:38:56] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-24 11:38:56] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-24 11:38:56] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-24 11:38:56] ✅ Finished processing: TA_DSAR - gerarddovoa1 (bwin.com).xlsx
+[2025-09-24 11:38:56] 📄 Processing TA_DSAR - Daniel6674 (bwin.com).xlsx (Deal 6838) in calculation Mode...

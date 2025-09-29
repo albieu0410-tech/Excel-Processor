@@ -1,0 +1,11 @@
+[2025-09-02 11:56:17] ➕ Added 1 file(s).
+[2025-09-02 11:56:20] 📄 Processing IB_Unibet_Niels Feijen (1).xlsx in calculation Mode...
+[2025-09-02 11:56:25] ⚠️ No distinct header row found (scanned 36 rows).
+[2025-09-02 11:56:25] ❌ No recognizable amount/date columns (Unibet and generic fallbacks failed).
+[2025-09-02 11:56:25] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-09-02 11:56:25] ✅ Created Payment Summary with 0 rows.
+[2025-09-02 11:56:25] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-02 11:56:25] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-02 11:56:25] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-02 11:56:25] ✅ Finished processing: IB_Unibet_Niels Feijen (1).xlsx
+[2025-09-02 11:56:30] Cleared all files.

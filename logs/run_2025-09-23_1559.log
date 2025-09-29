@@ -1,0 +1,72 @@
+[2025-09-23 15:59:05] 🔗 AC: fetching deals in pipeline=5 stage=37…
+[2025-09-23 15:59:05] ℹ️ AC: fetched 139 deal(s).
+[2025-09-23 15:59:05] 🧠 IT: fetching ALL leads (single request)…
+[2025-09-23 15:59:43] ℹ️ IT: received 139 lead(s).
+[2025-09-23 15:59:43] 📂 SharePoint root: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents
+[2025-09-23 15:59:44] 🔎 SP: Deal 15619 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\15619 - Minas Calisir, One Casino
+[2025-09-23 15:59:44] ✅ SP: No Checked_* files for deal 15619.
+[2025-09-23 15:59:44] 🚫 IT: 'Checked' note found for deal 22332 — filtering out.
+[2025-09-23 15:59:44]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:44]     ↳ preview: Checked (28.02.2025)
+[2025-09-23 15:59:44] 🚫 IT: 'Checked' note found for deal 22334 — filtering out.
+[2025-09-23 15:59:44]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:44]     ↳ preview: Checked (28.02.2025)
+[2025-09-23 15:59:45] 🔎 SP: Deal 23140 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\23140 - Geijtenbeek-Vink Petra, Bobcasino
+[2025-09-23 15:59:45] ✅ SP: No Checked_* files for deal 23140.
+[2025-09-23 15:59:46] 🔎 SP: Deal 23142 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\23142 - Geijtenbeek-Vink Petra, Oranjecasino
+[2025-09-23 15:59:46] ✅ SP: No Checked_* files for deal 23142.
+[2025-09-23 15:59:46] 🚫 IT: 'Checked' note found for deal 23544 — filtering out.
+[2025-09-23 15:59:46]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:46]     ↳ preview: Checked (28.02.2025)
+[2025-09-23 15:59:46] 🚫 IT: 'Checked' note found for deal 23626 — filtering out.
+[2025-09-23 15:59:46]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:46]     ↳ preview: Checked (28.02.2025)
+[2025-09-23 15:59:46] 🚫 IT: 'Checked' note found for deal 23632 — filtering out.
+[2025-09-23 15:59:46]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:46]     ↳ preview: Checked (28.02.2025)
+[2025-09-23 15:59:46] 🚫 IT: 'Checked' note found for deal 23635 — filtering out.
+[2025-09-23 15:59:46]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:46]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR
+[2025-09-23 15:59:48] 🔎 SP: Deal 24718 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\24718 - (Hilde) Elke Drok, Oranjecasino
+[2025-09-23 15:59:48] ✅ SP: No Checked_* files for deal 24718.
+[2025-09-23 15:59:48] 🚫 IT: 'Checked' note found for deal 29441 — filtering out.
+[2025-09-23 15:59:48]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:48]     ↳ preview: Checked (28.02.2025)
+[2025-09-23 15:59:50] 🔎 SP: Deal 30096 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\30096 - Robbie van Heertum, King Billy
+[2025-09-23 15:59:50] ✅ SP: No Checked_* files for deal 30096.
+[2025-09-23 15:59:53] 🔎 SP: Deal 37644 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\37644 - Marc Perlo, 888
+[2025-09-23 15:59:53] ✅ SP: No Checked_* files for deal 37644.
+[2025-09-23 15:59:57] 🔎 SP: Deal 45032 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\45032 - Youri Thorig, Casumo
+[2025-09-23 15:59:57] ✅ SP: No Checked_* files for deal 45032.
+[2025-09-23 15:59:57] 🚫 IT: 'Checked' note found for deal 46370 — filtering out.
+[2025-09-23 15:59:57]     ↳ first line: Checked (7.7.2025)
+[2025-09-23 15:59:57]     ↳ preview: Checked (7.7.2025)
+[2025-09-23 15:59:57] 🚫 IT: 'Checked' note found for deal 19624 — filtering out.
+[2025-09-23 15:59:57]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:57]     ↳ preview: Checked (28.02.2025)
+[2025-09-23 15:59:57] 🚫 IT: 'Checked' note found for deal 19637 — filtering out.
+[2025-09-23 15:59:57]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:57]     ↳ preview: Checked (28.02.2025)
+[2025-09-23 15:59:57] 🚫 IT: 'Checked' note found for deal 21670 — filtering out.
+[2025-09-23 15:59:57]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:57]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR
+[2025-09-23 15:59:57] 🚫 IT: 'Checked' note found for deal 21672 — filtering out.
+[2025-09-23 15:59:57]     ↳ first line: Checked (17.03.2025)
+[2025-09-23 15:59:57]     ↳ preview: Checked (17.03.2025)
+[2025-09-23 15:59:57] 🚫 IT: 'Checked' note found for deal 21673 — filtering out.
+[2025-09-23 15:59:57]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:57]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR
+[2025-09-23 15:59:57] 🚫 IT: 'Checked' note found for deal 21675 — filtering out.
+[2025-09-23 15:59:57]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:57]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR
+[2025-09-23 15:59:59] 🔎 SP: Deal 21676 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\21676 - Fabian Wink, CasinoEuro
+[2025-09-23 15:59:59] ✅ SP: No Checked_* files for deal 21676.
+[2025-09-23 15:59:59] 🚫 IT: 'Checked' note found for deal 21677 — filtering out.
+[2025-09-23 15:59:59]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:59]     ↳ preview: Checked (28.02.2025)
+[2025-09-23 15:59:59] 🚫 IT: 'Checked' note found for deal 21678 — filtering out.
+[2025-09-23 15:59:59]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:59]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR
+[2025-09-23 15:59:59] 🚫 IT: 'Checked' note found for deal 21679 — filtering out.
+[2025-09-23 15:59:59]     ↳ first line: Checked (28.02.2025)
+[2025-09-23 15:59:59]     ↳ preview: Checked (28.02.2025)

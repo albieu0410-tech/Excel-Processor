@@ -1,0 +1,6 @@
+[2025-08-21 11:10:34] ➕ Added 1 file(s).
+[2025-08-21 11:10:35] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-21 11:10:35] 📑 Using sheet: PS Transactions
+[2025-08-21 11:10:35] Detected single combined transaction sheet. Attempting auto-detection (with header scan)...
+[2025-08-21 11:10:35] ✅ Detected header row at Excel row 8: ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-08-21 11:10:35] ❌ Error in C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/23193 - Richard Jonker, PokerStars/TA_Pokerstars.xlsx: not enough values to unpack (expected 5, got 4)

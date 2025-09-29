@@ -1,0 +1,40 @@
+[2025-09-04 13:11:06] ➕ Added 2 file(s).
+[2025-09-04 13:11:07] 📄 Processing TA_DSAR - jamaltarifit (bwin.com).xlsx in calculation Mode...
+[2025-09-04 13:11:12] ✔ Deposit sheets: ['Deposits']
+[2025-09-04 13:11:12] ✔ Cashout sheets: ['Cashouts']
+[2025-09-04 13:11:12] TA logic: Deposits = 8584.0, Cashouts = 9373.8, Net = -789.7999999999993
+[2025-09-04 13:11:12] ✅ Created Payment Summary with 75 rows.
+[2025-09-04 13:11:12] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-04 13:11:12] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-04 13:11:12] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-04 13:11:12] ✅ Finished processing: TA_DSAR - jamaltarifit (bwin.com).xlsx
+[2025-09-04 13:11:12] 📄 Processing TA_DSAR - jamaltarifit (premium.com).xlsx in calculation Mode...
+[2025-09-04 13:11:16] ✔ Deposit sheets: ['Deposits']
+[2025-09-04 13:11:16] ✔ Cashout sheets: ['Cashouts']
+[2025-09-04 13:11:16] TA logic: Deposits = 95200.0, Cashouts = 107000.6, Net = -11800.600000000006
+[2025-09-04 13:11:16] ✅ Created Payment Summary with 512 rows.
+[2025-09-04 13:11:16] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-04 13:11:16] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-04 13:11:16] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-04 13:11:16] ✅ Finished processing: TA_DSAR - jamaltarifit (premium.com).xlsx
+[2025-09-04 13:11:27] 📄 Processing TA_DSAR - jamaltarifit (bwin.com).xlsx in calculation Mode...
+[2025-09-04 13:11:30] ✔ Deposit sheets: ['Deposits', 'Deposits Archived']
+[2025-09-04 13:11:30] ✔ Cashout sheets: ['Cashouts', 'Cashouts Archived']
+[2025-09-04 13:11:30] ❌ No recognizable amount column (looking for Credited/Txn Amount/Amount/Initial/Net).
+[2025-09-04 13:11:30] ❌ No recognizable amount column (looking for Credited/Txn Amount/Amount/Initial/Net).
+[2025-09-04 13:11:30] TA logic: Deposits = 8584.0, Cashouts = 9373.8, Net = -789.7999999999993
+[2025-09-04 13:11:30] ✅ Created Payment Summary with 75 rows.
+[2025-09-04 13:11:30] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-04 13:11:30] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-04 13:11:30] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-04 13:11:30] ✅ Finished processing: TA_DSAR - jamaltarifit (bwin.com).xlsx
+[2025-09-04 13:11:30] 📄 Processing TA_DSAR - jamaltarifit (premium.com).xlsx in calculation Mode...
+[2025-09-04 13:11:34] ✔ Deposit sheets: ['Deposits']
+[2025-09-04 13:11:34] ✔ Cashout sheets: ['Cashouts']
+[2025-09-04 13:11:34] TA logic: Deposits = 95200.0, Cashouts = 107000.6, Net = -11800.600000000006
+[2025-09-04 13:11:34] ✅ Created Payment Summary with 512 rows.
+[2025-09-04 13:11:34] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-04 13:11:34] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-04 13:11:34] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-04 13:11:34] ✅ Finished processing: TA_DSAR - jamaltarifit (premium.com).xlsx
+[2025-09-04 13:11:48] Cleared all files.

@@ -1,0 +1,18 @@
+[2025-08-25 09:37:01] 📄 Processing TA_Unibet 2.xlsx in calculation Mode...
+[2025-08-25 09:37:12] ✔ Deposit sheets: ['Transaction history']
+[2025-08-25 09:37:12] ✔ Cashout sheets: ['Transaction history']
+[2025-08-25 09:37:12] ℹ️ Same sheet in both lists → will parse once as combined: ['Transaction history']
+[2025-08-25 09:37:13] TA logic: Deposits = 144094.81, Cashouts = 102065.79, Net = 42029.020000000004
+[2025-08-25 09:37:13] ✅ Created Payment Summary with 28728 rows.
+[2025-08-25 09:37:13] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 09:37:13] ✅ Finished processing: TA_Unibet 2.xlsx
+[2025-08-25 09:37:20] Cleared all files.
+[2025-08-25 09:37:26] ➕ Added 1 file(s).
+[2025-08-25 09:37:30] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-25 09:37:47] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 09:37:47] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 09:37:48] ❌ No recognizable amount/date columns (tolerant Unibet matcher).
+[2025-08-25 09:37:48] TA logic: Deposits = 17445.0, Cashouts = 0, Net = 17445.0
+[2025-08-25 09:37:48] ✅ Created Payment Summary with 150 rows.
+[2025-08-25 09:37:48] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 09:37:48] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx

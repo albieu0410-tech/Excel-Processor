@@ -1,0 +1,30 @@
+[2025-08-20 16:15:34] ✅ Loaded 40 deals from CSV.
+[2025-08-20 16:15:35] ✅ Selected deal: 12114
+[2025-08-20 16:15:48] 📎 Added file from Deal 12114: TA_TA_Pokerstars.xlsx
+[2025-08-20 16:15:50] 📄 Processing TA_TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-20 16:15:50] 📑 Using sheet: All
+[2025-08-20 16:15:50] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-08-20 16:15:50] ⚠️ Row 488: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 489: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 490: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 491: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 492: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 493: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 494: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 495: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 496: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 497: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 498: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 499: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 500: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 501: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 502: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 503: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 504: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 505: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 506: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] ⚠️ Row 507: Unparsable date/time → 'None'
+[2025-08-20 16:15:50] TA logic: Deposits = 11048.91, Cashouts/Withdrawals = 4777.5, Net = 6271.41
+[2025-08-20 16:15:50] ✅ Created Payment Summary with 442 rows.
+[2025-08-20 16:15:50] ✅ Created Summary (Currency → Type → Date) with Excel formats.
+[2025-08-20 16:15:50] ✅ Finished processing: TA_TA_Pokerstars.xlsx

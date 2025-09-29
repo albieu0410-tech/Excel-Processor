@@ -1,0 +1,1045 @@
+[2025-09-03 13:12:45] ➕ Added 1 file(s).
+[2025-09-03 13:12:47] 📄 Processing TA_Pokerstars (20).xlsx in calculation Mode...
+[2025-09-03 13:12:50] ✔ Deposit sheets: ['Sheet3']
+[2025-09-03 13:12:50] ✔ Cashout sheets: ['Sheet3']
+[2025-09-03 13:12:50] ℹ️ Same sheet in both lists → will parse once as combined: ['Sheet3']
+[2025-09-03 13:12:50] ✅ Detected header row at Excel row 1: ['Date/Time', 'Type', 'TransId', 'Account Currency', 'Account', 'Currency', 'Billing', 'Amount', 'Balance', 'GateWay', 'Descriptor', 'Original Trans']
+[2025-09-03 13:12:50] 🔎 Header row 1: ['Date/Time', 'Type', 'TransId', 'Account Currency', 'Account', 'Currency', 'Billing', 'Amount', 'Balance', 'GateWay', 'Descriptor', 'Original Trans']
+[2025-09-03 13:12:50] 🧭 Columns: amount=7, currency=3, type=1, ref_date=0, conf_date=None, status=None, gateway=9, descr=None, drcr=None
+[2025-09-03 13:12:50] 🔎 row 2: ✅ accept → dt=2017-01-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 3: ✅ accept → dt=2017-01-11 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 4: ✅ accept → dt=2017-01-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 5: ✅ accept → dt=2017-01-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 6: ✅ accept → dt=2017-01-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 7: ✅ accept → dt=2017-02-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 8: ✅ accept → dt=2017-02-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 9: ✅ accept → dt=2017-02-11 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 10: ✅ accept → dt=2017-02-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 11: ✅ accept → dt=2017-02-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 12: ✅ accept → dt=2017-03-10 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 13: ✅ accept → dt=2017-03-11 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 14: ✅ accept → dt=2017-04-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 15: ✅ accept → dt=2017-04-12 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 16: ✅ accept → dt=2017-04-12 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 17: ✅ accept → dt=2017-04-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 18: ✅ accept → dt=2017-05-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 19: ✅ accept → dt=2017-05-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 20: ✅ accept → dt=2017-05-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 21: ✅ accept → dt=2017-06-11 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 22: ✅ accept → dt=2017-06-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 23: ✅ accept → dt=2017-06-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 24: ✅ accept → dt=2017-06-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 25: ✅ accept → dt=2017-06-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 26: ✅ accept → dt=2017-06-12 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 27: ✅ accept → dt=2017-06-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 28: ✅ accept → dt=2017-07-10 amt=11.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 29: ✅ accept → dt=2017-07-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 30: ✅ accept → dt=2017-07-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 31: ✅ accept → dt=2017-08-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 32: ✅ accept → dt=2017-08-12 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 33: ✅ accept → dt=2017-08-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 34: ✅ accept → dt=2017-09-11 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:50] 🔎 row 35: ✅ accept → dt=2017-09-12 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 36: ✅ accept → dt=2017-09-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 37: ✅ accept → dt=2017-10-01 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 38: ✅ accept → dt=2017-10-01 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 39: ✅ accept → dt=2017-10-10 amt=288.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 40: ✅ accept → dt=2017-10-10 amt=250.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 41: ✅ accept → dt=2017-10-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 42: ✅ accept → dt=2017-10-11 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 43: ✅ accept → dt=2017-10-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 44: ✅ accept → dt=2017-10-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 45: ✅ accept → dt=2017-11-01 amt=13.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 46: ✅ accept → dt=2017-11-11 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 47: ✅ accept → dt=2017-11-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 48: ✅ accept → dt=2017-11-12 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 49: ✅ accept → dt=2017-12-04 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 50: ✅ accept → dt=2017-12-12 amt=35.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 51: ✅ accept → dt=2017-12-12 amt=0.50 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 52: ✅ accept → dt=2017-12-12 amt=1.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 53: ✅ accept → dt=2017-12-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 54: ✅ accept → dt=2018-01-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 55: ✅ accept → dt=2018-01-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 56: ✅ accept → dt=2018-01-08 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 57: ✅ accept → dt=2018-01-08 amt=35.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 58: ✅ accept → dt=2018-01-08 amt=35.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 59: ✅ accept → dt=2018-01-09 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 60: ✅ accept → dt=2018-02-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 61: ✅ accept → dt=2018-02-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 62: ✅ accept → dt=2018-02-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 63: ✅ accept → dt=2018-02-08 amt=28.58 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 64: ✅ accept → dt=2018-02-08 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 65: ✅ accept → dt=2018-03-02 amt=1.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 66: ✅ accept → dt=2018-03-08 amt=25.90 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 67: ✅ accept → dt=2018-03-08 amt=14.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 68: ✅ accept → dt=2018-03-08 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 69: ✅ accept → dt=2018-03-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 70: ✅ accept → dt=2018-03-09 amt=35.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 71: ✅ accept → dt=2018-03-09 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 72: ✅ accept → dt=2018-04-02 amt=1.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 73: ✅ accept → dt=2018-04-02 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 74: ✅ accept → dt=2018-04-02 amt=1.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 75: ✅ accept → dt=2018-04-05 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 76: ✅ accept → dt=2018-04-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 77: ✅ accept → dt=2018-04-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 78: ✅ accept → dt=2018-04-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 79: ✅ accept → dt=2018-04-07 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 80: ✅ accept → dt=2018-04-07 amt=35.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 81: ✅ accept → dt=2018-04-07 amt=30.91 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 82: ✅ accept → dt=2018-04-08 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 83: ✅ accept → dt=2018-04-08 amt=100.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 84: ✅ accept → dt=2018-05-02 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 85: ✅ accept → dt=2018-05-05 amt=23.22 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 86: ✅ accept → dt=2018-05-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 87: ✅ accept → dt=2018-05-05 amt=18.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 88: ✅ accept → dt=2018-05-06 amt=45.27 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 89: ✅ accept → dt=2018-05-06 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 90: ✅ accept → dt=2018-05-06 amt=57.55 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 91: ✅ accept → dt=2018-05-06 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 92: ✅ accept → dt=2018-05-06 amt=24.75 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 93: ✅ accept → dt=2018-05-07 amt=60.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 94: ✅ accept → dt=2018-05-08 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 95: ✅ accept → dt=2018-05-09 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 96: ✅ accept → dt=2018-05-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 97: ✅ accept → dt=2018-05-09 amt=100.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 98: ✅ accept → dt=2018-05-09 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 99: ✅ accept → dt=2018-06-02 amt=54.82 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 100: ✅ accept → dt=2018-06-02 amt=0.50 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 101: ✅ accept → dt=2018-06-02 amt=0.50 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 102: ✅ accept → dt=2018-06-02 amt=2.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 103: ✅ accept → dt=2018-06-05 amt=33.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 104: ✅ accept → dt=2018-06-05 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 105: ✅ accept → dt=2018-06-08 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 106: ✅ accept → dt=2018-06-09 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 107: ✅ accept → dt=2018-07-02 amt=68.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 108: ✅ accept → dt=2018-07-02 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 109: ✅ accept → dt=2018-07-02 amt=19.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 110: ✅ accept → dt=2018-07-04 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 111: ✅ accept → dt=2018-07-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 112: ✅ accept → dt=2018-07-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 113: ✅ accept → dt=2018-08-01 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 114: ✅ accept → dt=2018-08-05 amt=40.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 115: ✅ accept → dt=2018-08-05 amt=44.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 116: ✅ accept → dt=2018-08-05 amt=21.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 117: ✅ accept → dt=2018-08-05 amt=27.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 118: ✅ accept → dt=2018-08-05 amt=60.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 119: ✅ accept → dt=2018-08-05 amt=26.76 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 120: ✅ accept → dt=2018-08-05 amt=55.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 121: ✅ accept → dt=2018-08-05 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 122: ✅ accept → dt=2018-08-05 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 123: ✅ accept → dt=2018-08-05 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 124: ✅ accept → dt=2018-08-05 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 125: ✅ accept → dt=2018-08-05 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 126: ✅ accept → dt=2018-08-06 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 127: ✅ accept → dt=2018-08-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 128: ✅ accept → dt=2018-08-08 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 129: ✅ accept → dt=2018-08-09 amt=40.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 130: ✅ accept → dt=2018-08-09 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 131: ✅ accept → dt=2018-08-09 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 132: ✅ accept → dt=2018-09-04 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 133: ✅ accept → dt=2018-09-04 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 134: ✅ accept → dt=2018-09-05 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 135: ✅ accept → dt=2018-09-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 136: ✅ accept → dt=2018-09-05 amt=35.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 137: ✅ accept → dt=2018-09-06 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 138: ✅ accept → dt=2018-09-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 139: ✅ accept → dt=2018-09-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 140: ✅ accept → dt=2018-09-08 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 141: ✅ accept → dt=2018-09-08 amt=32.10 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 142: ✅ accept → dt=2018-10-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 143: ✅ accept → dt=2018-10-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 144: ✅ accept → dt=2018-10-04 amt=41.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 145: ✅ accept → dt=2018-10-04 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 146: ✅ accept → dt=2018-10-04 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 147: ✅ accept → dt=2018-10-04 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 148: ✅ accept → dt=2018-10-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:51] 🔎 row 149: ✅ accept → dt=2018-10-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 150: ✅ accept → dt=2018-10-05 amt=12.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 151: ✅ accept → dt=2018-10-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 152: ✅ accept → dt=2018-10-08 amt=28.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 153: ✅ accept → dt=2018-10-08 amt=19.20 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 154: ✅ accept → dt=2018-11-02 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 155: ✅ accept → dt=2018-11-05 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 156: ✅ accept → dt=2018-11-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 157: ✅ accept → dt=2018-11-08 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 158: ✅ accept → dt=2018-12-01 amt=14.34 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 159: ✅ accept → dt=2018-12-02 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 160: ✅ accept → dt=2018-12-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 161: ✅ accept → dt=2018-12-05 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 162: ✅ accept → dt=2018-12-06 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 163: ✅ accept → dt=2018-12-08 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 164: ✅ accept → dt=2018-12-08 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 165: ✅ accept → dt=2019-01-07 amt=0.12 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 166: ✅ accept → dt=2019-01-10 amt=15.72 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 167: ✅ accept → dt=2019-01-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 168: ✅ accept → dt=2019-02-04 amt=60.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 169: ✅ accept → dt=2019-02-06 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 170: ✅ accept → dt=2019-02-09 amt=60.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 171: ✅ accept → dt=2019-03-04 amt=100.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 172: ✅ accept → dt=2019-03-04 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 173: ✅ accept → dt=2019-03-04 amt=0.01 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 174: ✅ accept → dt=2019-03-06 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 175: ✅ accept → dt=2019-03-07 amt=11.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 176: ✅ accept → dt=2019-03-10 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 177: ✅ accept → dt=2019-03-10 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 178: ✅ accept → dt=2019-03-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 179: ✅ accept → dt=2019-04-06 amt=15.40 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 180: ✅ accept → dt=2019-04-06 amt=0.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 181: ✅ accept → dt=2019-04-06 amt=11.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 182: ✅ accept → dt=2019-04-06 amt=15.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 183: ✅ accept → dt=2019-04-06 amt=30.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 184: ✅ accept → dt=2019-04-09 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 185: ✅ accept → dt=2019-04-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 186: ✅ accept → dt=2019-05-05 amt=0.54 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 187: ✅ accept → dt=2019-05-06 amt=65.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 188: ✅ accept → dt=2019-05-06 amt=0.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 189: ✅ accept → dt=2019-05-06 amt=0.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 190: ✅ accept → dt=2019-05-10 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 191: ✅ accept → dt=2019-05-12 amt=35.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 192: ✅ accept → dt=2019-06-05 amt=0.30 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 193: ✅ accept → dt=2019-06-05 amt=19.70 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 194: ✅ accept → dt=2019-06-05 amt=5.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 195: ✅ accept → dt=2019-06-06 amt=0.16 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 196: ✅ accept → dt=2019-06-06 amt=15.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 197: ✅ accept → dt=2019-06-07 amt=0.10 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 198: ✅ accept → dt=2019-06-07 amt=0.10 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 199: ✅ accept → dt=2019-06-07 amt=0.30 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 200: ✅ accept → dt=2019-06-09 amt=0.30 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 201: ✅ accept → dt=2019-06-10 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 202: ✅ accept → dt=2019-06-12 amt=0.28 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 203: ✅ accept → dt=2019-06-12 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 204: ✅ accept → dt=2019-06-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 205: ✅ accept → dt=2019-08-05 amt=25.57 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 206: ✅ accept → dt=2019-08-05 amt=5.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 207: ✅ accept → dt=2019-08-06 amt=0.02 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 208: ✅ accept → dt=2019-08-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 209: ✅ accept → dt=2019-08-09 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 210: ✅ accept → dt=2019-08-12 amt=0.20 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 211: ✅ accept → dt=2019-08-12 amt=0.70 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 212: ✅ accept → dt=2019-08-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 213: ✅ accept → dt=2019-08-12 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 214: ✅ accept → dt=2019-09-03 amt=0.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 215: ✅ accept → dt=2019-09-03 amt=0.70 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 216: ✅ accept → dt=2019-09-05 amt=0.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 217: ✅ accept → dt=2019-09-06 amt=15.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 218: ✅ accept → dt=2019-09-06 amt=5.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 219: ✅ accept → dt=2019-09-10 amt=0.20 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 220: ✅ accept → dt=2019-10-06 amt=0.74 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 221: ✅ accept → dt=2019-10-07 amt=13.47 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 222: ✅ accept → dt=2019-10-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 223: ✅ accept → dt=2019-10-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 224: ✅ accept → dt=2019-11-03 amt=80.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 225: ✅ accept → dt=2019-11-03 amt=112.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 226: ✅ accept → dt=2019-11-03 amt=0.04 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 227: ✅ accept → dt=2019-11-03 amt=0.14 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 228: ✅ accept → dt=2019-11-03 amt=75.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 229: ✅ accept → dt=2019-11-03 amt=0.10 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 230: ✅ accept → dt=2019-11-12 amt=0.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 231: ✅ accept → dt=2019-11-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 232: ✅ accept → dt=2019-11-12 amt=0.22 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 233: ✅ accept → dt=2019-11-12 amt=0.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 234: ✅ accept → dt=2019-12-03 amt=35.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 235: ✅ accept → dt=2019-12-07 amt=0.61 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 236: ✅ accept → dt=2019-12-09 amt=0.48 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 237: ✅ accept → dt=2019-12-09 amt=0.84 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 238: ✅ accept → dt=2020-01-01 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 239: ✅ accept → dt=2020-01-05 amt=0.04 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 240: ✅ accept → dt=2020-01-06 amt=0.02 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 241: ✅ accept → dt=2020-01-07 amt=0.34 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 242: ✅ accept → dt=2020-01-07 amt=0.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 243: ✅ accept → dt=2020-01-07 amt=0.14 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 244: ✅ accept → dt=2020-01-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 245: ✅ accept → dt=2020-01-07 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 246: ✅ accept → dt=2020-01-08 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 247: ✅ accept → dt=2020-01-09 amt=0.25 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 248: ✅ accept → dt=2020-01-10 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 249: ✅ accept → dt=2020-01-10 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 250: ✅ accept → dt=2020-01-10 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 251: ✅ accept → dt=2020-01-11 amt=400.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 252: ✅ accept → dt=2020-01-11 amt=338.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 253: ✅ accept → dt=2020-01-11 amt=280.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 254: ✅ accept → dt=2020-01-11 amt=241.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 255: ✅ accept → dt=2020-01-11 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 256: ✅ accept → dt=2020-01-11 amt=201.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 257: ✅ accept → dt=2020-01-11 amt=26.60 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 258: ✅ accept → dt=2020-01-11 amt=0.16 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 259: ✅ accept → dt=2020-01-11 amt=160.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 260: ✅ accept → dt=2020-01-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 261: ✅ accept → dt=2020-01-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 262: ✅ accept → dt=2020-01-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 263: ✅ accept → dt=2020-01-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 264: ✅ accept → dt=2020-01-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 265: ✅ accept → dt=2020-02-01 amt=0.28 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:52] 🔎 row 266: ✅ accept → dt=2020-02-01 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 267: ✅ accept → dt=2020-02-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 268: ✅ accept → dt=2020-02-04 amt=0.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 269: ✅ accept → dt=2020-02-04 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 270: ✅ accept → dt=2020-02-04 amt=18.57 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 271: ✅ accept → dt=2020-02-04 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 272: ✅ accept → dt=2020-02-05 amt=0.15 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 273: ✅ accept → dt=2020-02-05 amt=0.16 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 274: ✅ accept → dt=2020-02-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 275: ✅ accept → dt=2020-02-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 276: ✅ accept → dt=2020-02-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 277: ✅ accept → dt=2020-02-07 amt=0.43 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 278: ✅ accept → dt=2020-02-08 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 279: ✅ accept → dt=2020-02-09 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 280: ✅ accept → dt=2020-02-10 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 281: ✅ accept → dt=2020-02-10 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 282: ✅ accept → dt=2020-02-10 amt=0.68 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 283: ✅ accept → dt=2020-02-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 284: ✅ accept → dt=2020-02-12 amt=14.28 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 285: ✅ accept → dt=2020-02-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 286: ✅ accept → dt=2020-02-12 amt=0.15 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 287: ✅ accept → dt=2020-02-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 288: ✅ accept → dt=2020-03-01 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 289: ✅ accept → dt=2020-03-01 amt=30.15 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 290: ✅ accept → dt=2020-03-02 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 291: ✅ accept → dt=2020-03-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 292: ✅ accept → dt=2020-03-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 293: ✅ accept → dt=2020-03-02 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 294: ✅ accept → dt=2020-03-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 295: ✅ accept → dt=2020-03-04 amt=13.20 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 296: ✅ accept → dt=2020-03-04 amt=0.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 297: ✅ accept → dt=2020-03-04 amt=0.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 298: ✅ accept → dt=2020-03-05 amt=0.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 299: ✅ accept → dt=2020-03-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 300: ✅ accept → dt=2020-03-07 amt=0.45 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 301: ✅ accept → dt=2020-03-07 amt=0.26 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 302: ✅ accept → dt=2020-03-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 303: ✅ accept → dt=2020-03-07 amt=27.54 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 304: ✅ accept → dt=2020-03-09 amt=0.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 305: ✅ accept → dt=2020-03-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 306: ✅ accept → dt=2020-03-10 amt=0.30 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 307: ✅ accept → dt=2020-03-12 amt=0.02 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 308: ✅ accept → dt=2020-03-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 309: ✅ accept → dt=2020-04-05 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 310: ✅ accept → dt=2020-04-05 amt=0.57 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 311: ✅ accept → dt=2020-04-06 amt=0.14 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 312: ✅ accept → dt=2020-04-06 amt=29.65 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 313: ✅ accept → dt=2020-04-07 amt=0.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 314: ✅ accept → dt=2020-04-07 amt=0.02 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 315: ✅ accept → dt=2020-04-07 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 316: ✅ accept → dt=2020-04-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 317: ✅ accept → dt=2020-04-10 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 318: ✅ accept → dt=2020-04-10 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 319: ✅ accept → dt=2020-04-10 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 320: ✅ accept → dt=2020-04-10 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 321: ✅ accept → dt=2020-05-01 amt=0.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 322: ✅ accept → dt=2020-05-01 amt=58.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 323: ✅ accept → dt=2020-05-01 amt=0.26 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 324: ✅ accept → dt=2020-05-01 amt=10.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 325: ✅ accept → dt=2020-05-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 326: ✅ accept → dt=2020-05-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 327: ✅ accept → dt=2020-05-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 328: ✅ accept → dt=2020-05-04 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 329: ✅ accept → dt=2020-05-06 amt=0.38 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 330: ✅ accept → dt=2020-05-06 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 331: ✅ accept → dt=2020-05-06 amt=0.70 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 332: ✅ accept → dt=2020-05-07 amt=0.30 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 333: ✅ accept → dt=2020-05-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 334: ✅ accept → dt=2020-05-07 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 335: ✅ accept → dt=2020-05-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 336: ✅ accept → dt=2020-05-09 amt=0.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 337: ✅ accept → dt=2020-05-10 amt=0.34 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 338: ✅ accept → dt=2020-05-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 339: ✅ accept → dt=2020-06-04 amt=0.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 340: ✅ accept → dt=2020-06-06 amt=0.40 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 341: ✅ accept → dt=2020-06-06 amt=0.30 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 342: ✅ accept → dt=2020-06-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 343: ✅ accept → dt=2020-06-09 amt=0.59 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 344: ✅ accept → dt=2020-06-09 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 345: ✅ accept → dt=2020-06-10 amt=0.80 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 346: ✅ accept → dt=2020-06-12 amt=220.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 347: ✅ accept → dt=2020-06-12 amt=140.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 348: ✅ accept → dt=2020-06-12 amt=96.01 sign=-1 curr=USD label=Redeem (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 349: ✅ accept → dt=2020-07-01 amt=10.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 350: ✅ accept → dt=2020-07-02 amt=0.45 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 351: ✅ accept → dt=2020-07-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 352: ✅ accept → dt=2020-07-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 353: ✅ accept → dt=2020-07-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 354: ✅ accept → dt=2020-07-02 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 355: ✅ accept → dt=2020-07-06 amt=0.28 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 356: ✅ accept → dt=2020-07-06 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 357: ✅ accept → dt=2020-07-07 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 358: ✅ accept → dt=2020-07-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 359: ✅ accept → dt=2020-07-09 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 360: ✅ accept → dt=2020-07-10 amt=0.77 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 361: ✅ accept → dt=2020-07-10 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 362: ✅ accept → dt=2020-07-12 amt=0.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 363: ✅ accept → dt=2020-07-12 amt=26.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 364: ✅ accept → dt=2020-07-12 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 365: ✅ accept → dt=2020-07-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 366: ✅ accept → dt=2020-08-01 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 367: ✅ accept → dt=2020-08-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 368: ✅ accept → dt=2020-08-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 369: ✅ accept → dt=2020-08-02 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 370: ✅ accept → dt=2020-08-02 amt=0.15 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 371: ✅ accept → dt=2020-08-05 amt=0.95 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 372: ✅ accept → dt=2020-08-05 amt=0.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 373: ✅ accept → dt=2020-08-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 374: ✅ accept → dt=2020-08-09 amt=19.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 375: ✅ accept → dt=2020-08-09 amt=0.02 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 376: ✅ accept → dt=2020-08-10 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 377: ✅ accept → dt=2020-08-12 amt=0.50 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 378: ✅ accept → dt=2020-08-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 379: ✅ accept → dt=2020-09-01 amt=0.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 380: ✅ accept → dt=2020-09-01 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 381: ✅ accept → dt=2020-09-05 amt=0.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:53] 🔎 row 382: ✅ accept → dt=2020-09-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 383: ✅ accept → dt=2020-09-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 384: ✅ accept → dt=2020-09-10 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 385: ✅ accept → dt=2020-09-12 amt=0.10 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 386: ✅ accept → dt=2020-09-12 amt=0.15 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 387: ✅ accept → dt=2020-09-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 388: ✅ accept → dt=2020-09-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 389: ✅ accept → dt=2020-09-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 390: ✅ accept → dt=2020-10-01 amt=0.16 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 391: ✅ accept → dt=2020-10-01 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 392: ✅ accept → dt=2020-10-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 393: ✅ accept → dt=2020-10-02 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 394: ✅ accept → dt=2020-10-04 amt=0.03 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 395: ✅ accept → dt=2020-10-04 amt=0.10 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 396: ✅ accept → dt=2020-10-05 amt=0.30 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 397: ✅ accept → dt=2020-10-07 amt=0.62 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 398: ✅ accept → dt=2020-10-07 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 399: ✅ accept → dt=2020-10-10 amt=0.22 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 400: ✅ accept → dt=2020-10-10 amt=19.45 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 401: ✅ accept → dt=2020-10-12 amt=36.16 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 402: ✅ accept → dt=2020-10-12 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 403: ✅ accept → dt=2020-11-01 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 404: ✅ accept → dt=2020-11-04 amt=0.12 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 405: ✅ accept → dt=2020-11-07 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 406: ✅ accept → dt=2020-11-10 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 407: ✅ accept → dt=2020-11-10 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 408: ✅ accept → dt=2020-11-12 amt=0.25 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 409: ✅ accept → dt=2020-11-12 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 410: ✅ accept → dt=2020-11-12 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 411: ✅ accept → dt=2020-11-12 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 412: ✅ accept → dt=2020-12-01 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 413: ✅ accept → dt=2020-12-01 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 414: ✅ accept → dt=2020-12-01 amt=0.22 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 415: ✅ accept → dt=2020-12-06 amt=0.15 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 416: ✅ accept → dt=2020-12-07 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 417: ✅ accept → dt=2020-12-12 amt=0.72 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 418: ✅ accept → dt=2020-12-12 amt=0.02 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 419: ✅ accept → dt=2021-01-08 amt=0.65 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 420: ✅ accept → dt=2021-01-08 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 421: ✅ accept → dt=2021-01-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 422: ✅ accept → dt=2021-02-01 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 423: ✅ accept → dt=2021-02-01 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 424: ✅ accept → dt=2021-02-01 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 425: ✅ accept → dt=2021-03-01 amt=0.64 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 426: ✅ accept → dt=2021-03-01 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 427: ✅ accept → dt=2021-03-01 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 428: ✅ accept → dt=2021-03-01 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 429: ✅ accept → dt=2021-03-01 amt=223.04 sign=-1 curr=USD label=Redeem (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 430: ✅ accept → dt=2021-03-08 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 431: ✅ accept → dt=2021-03-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 432: ✅ accept → dt=2021-04-06 amt=17.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 433: ✅ accept → dt=2021-04-08 amt=30.67 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 434: ✅ accept → dt=2021-04-08 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 435: ✅ accept → dt=2021-04-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 436: ✅ accept → dt=2021-05-01 amt=0.35 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 437: ✅ accept → dt=2021-05-01 amt=0.30 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 438: ✅ accept → dt=2021-05-08 amt=0.85 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 439: ✅ accept → dt=2021-05-09 amt=19.44 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 440: ✅ accept → dt=2021-05-09 amt=0.19 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 441: ✅ accept → dt=2021-06-09 amt=21.76 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 442: ✅ accept → dt=2021-06-10 amt=2.10 sign=-1 curr=EUR label=Redeem (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 443: ✅ accept → dt=2021-07-01 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 444: ✅ accept → dt=2021-07-01 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 445: ✅ accept → dt=2021-07-06 amt=20.47 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 446: ✅ accept → dt=2021-07-10 amt=1.76 sign=-1 curr=USD label=Redeem (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 447: ✅ accept → dt=2021-08-01 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 448: ✅ accept → dt=2021-08-01 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 449: ✅ accept → dt=2021-08-06 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 450: ✅ accept → dt=2021-08-08 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 451: ✅ accept → dt=2021-09-06 amt=30.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 452: ✅ accept → dt=2021-10-01 amt=26.27 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 453: ✅ accept → dt=2021-10-01 amt=25.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 454: ✅ accept → dt=2021-10-01 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 455: ✅ accept → dt=2021-10-06 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 456: ✅ accept → dt=2021-10-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 457: ✅ accept → dt=2021-11-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 458: ✅ accept → dt=2021-12-01 amt=20.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 459: ✅ accept → dt=2021-12-01 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 460: ✅ accept → dt=2021-12-08 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 461: ✅ accept → dt=2021-12-09 amt=10.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='auto'
+[2025-09-03 13:12:54] 🔎 row 462: ⏭️ skip — bad date ref='1/15/2020 1:21:27 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 463: ⏭️ skip — bad date ref='1/15/2020 5:28:27 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 464: ⏭️ skip — bad date ref='1/16/2018 11:45:00 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 465: ⏭️ skip — bad date ref='1/16/2018 11:46:04 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 466: ⏭️ skip — bad date ref='1/16/2018 4:16:37 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 467: ⏭️ skip — bad date ref='1/16/2018 6:02:44 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 468: ⏭️ skip — bad date ref='1/16/2020 2:29:49 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 469: ⏭️ skip — bad date ref='1/16/2020 4:00:34 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 470: ⏭️ skip — bad date ref='1/17/2018 9:42:00 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 471: ⏭️ skip — bad date ref='1/17/2020 3:36:13 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 472: ⏭️ skip — bad date ref='1/18/2017 6:39:41 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 473: ⏭️ skip — bad date ref='1/18/2018 6:35:18 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 474: ⏭️ skip — bad date ref='1/18/2018 7:00:44 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 475: ⏭️ skip — bad date ref='1/18/2020 3:13:06 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 476: ⏭️ skip — bad date ref='1/19/2017 7:25:43 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 477: ⏭️ skip — bad date ref='1/20/2020 1:02:00 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 478: ⏭️ skip — bad date ref='1/21/2020 1:56:38 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 479: ⏭️ skip — bad date ref='1/22/2018 6:23:12 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 480: ⏭️ skip — bad date ref='1/22/2018 7:27:17 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 481: ⏭️ skip — bad date ref='1/22/2018 7:28:53 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 482: ⏭️ skip — bad date ref='1/22/2018 9:15:48 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 483: ⏭️ skip — bad date ref='1/22/2020 2:31:40 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 484: ⏭️ skip — bad date ref='1/22/2020 3:17:28 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 485: ⏭️ skip — bad date ref='1/22/2020 3:28:07 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 486: ⏭️ skip — bad date ref='1/23/2020 3:16:53 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 487: ⏭️ skip — bad date ref='1/24/2017 1:38:52 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 488: ⏭️ skip — bad date ref='1/24/2017 8:44:26 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 489: ⏭️ skip — bad date ref='1/24/2020 1:22:40 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 490: ⏭️ skip — bad date ref='1/24/2020 4:51:33 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 491: ⏭️ skip — bad date ref='1/25/2017 1:09:42 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 492: ⏭️ skip — bad date ref='1/25/2017 1:43:06 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 493: ⏭️ skip — bad date ref='1/25/2017 11:53:24 AM' conf=None
+[2025-09-03 13:12:54] 🔎 row 494: ⏭️ skip — bad date ref='1/25/2017 12:15:14 PM' conf=None
+[2025-09-03 13:12:54] 🔎 row 495: ⏭️ skip — bad date ref='1/25/2017 12:26:35 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 496: ⏭️ skip — bad date ref='1/25/2017 12:36:02 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 497: ⏭️ skip — bad date ref='1/25/2017 9:29:32 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 498: ⏭️ skip — bad date ref='1/25/2018 10:07:40 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 499: ⏭️ skip — bad date ref='1/26/2017 11:09:04 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 500: ⏭️ skip — bad date ref='1/26/2020 2:58:16 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 501: ⏭️ skip — bad date ref='1/26/2020 4:33:14 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 502: ⏭️ skip — bad date ref='1/26/2020 4:45:14 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 503: ⏭️ skip — bad date ref='1/26/2020 7:36:17 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 504: ⏭️ skip — bad date ref='1/27/2018 5:38:41 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 505: ⏭️ skip — bad date ref='1/27/2018 7:09:05 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 506: ⏭️ skip — bad date ref='1/27/2020 1:42:49 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 507: ⏭️ skip — bad date ref='1/29/2018 2:01:18 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 508: ⏭️ skip — bad date ref='1/29/2020 2:47:18 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 509: ⏭️ skip — bad date ref='1/29/2020 2:48:45 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 510: ⏭️ skip — bad date ref='1/29/2020 2:49:40 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 511: ⏭️ skip — bad date ref='1/29/2020 2:50:30 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 512: ⏭️ skip — bad date ref='1/29/2020 2:54:57 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 513: ⏭️ skip — bad date ref='1/29/2020 3:18:03 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 514: ⏭️ skip — bad date ref='1/30/2020 2:32:55 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 515: ⏭️ skip — bad date ref='1/30/2020 5:44:05 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 516: ⏭️ skip — bad date ref='1/30/2020 7:07:53 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 517: ⏭️ skip — bad date ref='1/31/2020 1:28:46 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 518: ⏭️ skip — bad date ref='1/31/2020 3:58:26 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 519: ⏭️ skip — bad date ref='1/31/2020 5:39:08 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 520: ⏭️ skip — bad date ref='10/13/2019 2:54:18 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 521: ⏭️ skip — bad date ref='10/13/2019 9:21:27 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 522: ⏭️ skip — bad date ref='10/15/2017 9:14:02 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 523: ⏭️ skip — bad date ref='10/16/2017 8:49:02 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 524: ⏭️ skip — bad date ref='10/19/2020 1:52:42 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 525: ⏭️ skip — bad date ref='10/20/2020 3:24:17 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 526: ⏭️ skip — bad date ref='10/21/2020 2:02:51 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 527: ⏭️ skip — bad date ref='10/21/2020 3:08:32 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 528: ⏭️ skip — bad date ref='10/23/2020 10:11:00 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 529: ⏭️ skip — bad date ref='10/23/2020 2:27:47 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 530: ⏭️ skip — bad date ref='10/25/2020 1:22:23 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 531: ⏭️ skip — bad date ref='10/25/2020 1:28:25 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 532: ⏭️ skip — bad date ref='10/25/2020 11:41:24 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 533: ⏭️ skip — bad date ref='10/25/2020 12:42:54 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 534: ⏭️ skip — bad date ref='10/25/2020 3:48:00 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 535: ⏭️ skip — bad date ref='10/25/2020 5:36:34 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 536: ⏭️ skip — bad date ref='10/25/2020 8:51:46 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 537: ⏭️ skip — bad date ref='10/25/2020 9:19:05 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 538: ⏭️ skip — bad date ref='10/25/2020 9:39:25 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 539: ⏭️ skip — bad date ref='10/26/2017 12:14:12 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 540: ⏭️ skip — bad date ref='10/26/2017 8:20:47 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 541: ⏭️ skip — bad date ref='10/26/2020 2:27:39 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 542: ⏭️ skip — bad date ref='10/26/2020 3:49:20 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 543: ⏭️ skip — bad date ref='10/27/2017 6:32:45 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 544: ⏭️ skip — bad date ref='10/27/2020 11:06:17 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 545: ⏭️ skip — bad date ref='10/27/2020 2:48:28 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 546: ⏭️ skip — bad date ref='10/28/2020 3:43:57 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 547: ⏭️ skip — bad date ref='10/29/2017 6:56:39 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 548: ⏭️ skip — bad date ref='10/29/2020 2:09:08 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 549: ⏭️ skip — bad date ref='10/30/2020 10:37:38 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 550: ⏭️ skip — bad date ref='10/30/2020 12:01:01 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 551: ⏭️ skip — bad date ref='10/30/2020 4:05:14 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 552: ⏭️ skip — bad date ref='10/30/2020 9:05:53 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 553: ⏭️ skip — bad date ref='10/31/2017 10:28:47 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 554: ⏭️ skip — bad date ref='10/31/2017 6:18:14 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 555: ⏭️ skip — bad date ref='10/31/2020 4:02:06 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 556: ⏭️ skip — bad date ref='10/31/2020 6:58:48 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 557: ⏭️ skip — bad date ref='11/13/2017 4:50:40 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 558: ⏭️ skip — bad date ref='11/13/2019 7:07:13 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 559: ⏭️ skip — bad date ref='11/14/2017 9:14:56 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 560: ⏭️ skip — bad date ref='11/14/2017 9:25:53 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 561: ⏭️ skip — bad date ref='11/14/2017 9:47:20 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 562: ⏭️ skip — bad date ref='11/14/2019 1:41:55 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 563: ⏭️ skip — bad date ref='11/14/2019 6:25:52 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 564: ⏭️ skip — bad date ref='11/15/2019 10:31:53 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 565: ⏭️ skip — bad date ref='11/15/2019 9:29:54 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 566: ⏭️ skip — bad date ref='11/16/2019 12:02:07 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 567: ⏭️ skip — bad date ref='11/17/2017 8:24:10 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 568: ⏭️ skip — bad date ref='11/17/2019 10:43:55 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 569: ⏭️ skip — bad date ref='11/18/2019 3:42:56 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 570: ⏭️ skip — bad date ref='11/19/2019 12:31:10 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 571: ⏭️ skip — bad date ref='11/20/2017 7:42:22 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 572: ⏭️ skip — bad date ref='11/20/2019 3:56:44 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 573: ⏭️ skip — bad date ref='11/20/2019 4:10:08 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 574: ⏭️ skip — bad date ref='11/22/2017 6:47:06 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 575: ⏭️ skip — bad date ref='11/22/2017 9:01:07 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 576: ⏭️ skip — bad date ref='11/22/2019 6:42:49 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 577: ⏭️ skip — bad date ref='11/23/2019 12:37:07 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 578: ⏭️ skip — bad date ref='11/23/2019 9:36:46 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 579: ⏭️ skip — bad date ref='11/24/2017 3:54:38 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 580: ⏭️ skip — bad date ref='11/24/2017 5:27:12 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 581: ⏭️ skip — bad date ref='11/24/2017 5:49:56 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 582: ⏭️ skip — bad date ref='11/24/2017 8:07:06 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 583: ⏭️ skip — bad date ref='11/25/2019 3:00:42 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 584: ⏭️ skip — bad date ref='11/25/2019 5:00:33 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 585: ⏭️ skip — bad date ref='11/27/2017 9:55:19 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 586: ⏭️ skip — bad date ref='11/28/2019 2:58:45 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 587: ⏭️ skip — bad date ref='11/29/2017 9:08:13 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 588: ⏭️ skip — bad date ref='11/30/2017 11:52:38 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 589: ⏭️ skip — bad date ref='11/30/2019 12:25:34 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 590: ⏭️ skip — bad date ref='11/30/2019 2:04:57 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 591: ⏭️ skip — bad date ref='11/30/2019 9:09:48 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 592: ⏭️ skip — bad date ref='12/13/2019 1:30:48 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 593: ⏭️ skip — bad date ref='12/13/2019 9:46:18 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 594: ⏭️ skip — bad date ref='12/13/2020 12:16:53 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 595: ⏭️ skip — bad date ref='12/13/2020 5:20:34 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 596: ⏭️ skip — bad date ref='12/13/2020 6:10:14 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 597: ⏭️ skip — bad date ref='12/13/2020 7:55:58 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 598: ⏭️ skip — bad date ref='12/13/2020 8:25:54 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 599: ⏭️ skip — bad date ref='12/13/2020 9:21:28 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 600: ⏭️ skip — bad date ref='12/13/2020 9:55:20 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 601: ⏭️ skip — bad date ref='12/14/2016 10:10:32 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 602: ⏭️ skip — bad date ref='12/14/2016 10:58:45 AM' conf=None
+[2025-09-03 13:12:55] 🔎 row 603: ⏭️ skip — bad date ref='12/14/2017 12:27:00 PM' conf=None
+[2025-09-03 13:12:55] 🔎 row 604: ⏭️ skip — bad date ref='12/14/2017 7:56:31 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 605: ⏭️ skip — bad date ref='12/14/2020 3:52:36 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 606: ⏭️ skip — bad date ref='12/15/2016 6:41:55 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 607: ⏭️ skip — bad date ref='12/15/2019 5:11:54 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 608: ⏭️ skip — bad date ref='12/15/2019 5:14:51 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 609: ⏭️ skip — bad date ref='12/15/2020 2:14:56 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 610: ⏭️ skip — bad date ref='12/15/2020 9:23:15 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 611: ⏭️ skip — bad date ref='12/16/2019 1:43:55 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 612: ⏭️ skip — bad date ref='12/16/2020 12:36:34 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 613: ⏭️ skip — bad date ref='12/16/2020 12:57:09 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 614: ⏭️ skip — bad date ref='12/17/2019 12:43:58 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 615: ⏭️ skip — bad date ref='12/17/2020 11:34:23 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 616: ⏭️ skip — bad date ref='12/17/2020 11:55:04 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 617: ⏭️ skip — bad date ref='12/17/2020 2:46:55 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 618: ⏭️ skip — bad date ref='12/17/2020 8:20:47 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 619: ⏭️ skip — bad date ref='12/18/2019 4:32:29 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 620: ⏭️ skip — bad date ref='12/18/2020 11:41:43 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 621: ⏭️ skip — bad date ref='12/18/2020 12:33:52 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 622: ⏭️ skip — bad date ref='12/18/2020 2:54:41 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 623: ⏭️ skip — bad date ref='12/19/2019 2:16:38 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 624: ⏭️ skip — bad date ref='12/19/2019 3:03:45 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 625: ⏭️ skip — bad date ref='12/19/2019 8:36:33 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 626: ⏭️ skip — bad date ref='12/19/2020 11:54:33 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 627: ⏭️ skip — bad date ref='12/19/2020 8:14:48 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 628: ⏭️ skip — bad date ref='12/19/2020 8:20:48 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 629: ⏭️ skip — bad date ref='12/20/2016 4:04:00 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 630: ⏭️ skip — bad date ref='12/20/2016 4:22:39 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 631: ⏭️ skip — bad date ref='12/20/2016 8:24:51 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 632: ⏭️ skip — bad date ref='12/20/2016 9:31:42 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 633: ⏭️ skip — bad date ref='12/20/2019 1:30:51 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 634: ⏭️ skip — bad date ref='12/20/2019 10:08:11 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 635: ⏭️ skip — bad date ref='12/20/2019 12:21:55 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 636: ⏭️ skip — bad date ref='12/20/2019 12:24:10 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 637: ⏭️ skip — bad date ref='12/20/2019 2:16:14 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 638: ⏭️ skip — bad date ref='12/20/2019 2:57:39 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 639: ⏭️ skip — bad date ref='12/20/2019 3:03:27 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 640: ⏭️ skip — bad date ref='12/20/2019 7:26:41 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 641: ⏭️ skip — bad date ref='12/20/2020 2:35:42 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 642: ⏭️ skip — bad date ref='12/20/2020 3:12:34 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 643: ⏭️ skip — bad date ref='12/20/2020 8:48:49 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 644: ⏭️ skip — bad date ref='12/21/2019 1:38:10 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 645: ⏭️ skip — bad date ref='12/21/2019 5:11:55 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 646: ⏭️ skip — bad date ref='12/21/2019 8:48:04 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 647: ⏭️ skip — bad date ref='12/21/2019 9:15:26 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 648: ⏭️ skip — bad date ref='12/21/2020 1:16:54 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 649: ⏭️ skip — bad date ref='12/21/2020 5:45:32 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 650: ⏭️ skip — bad date ref='12/22/2019 1:19:05 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 651: ⏭️ skip — bad date ref='12/22/2019 6:44:40 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 652: ⏭️ skip — bad date ref='12/22/2019 7:33:47 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 653: ⏭️ skip — bad date ref='12/22/2019 7:34:25 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 654: ⏭️ skip — bad date ref='12/22/2020 3:50:07 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 655: ⏭️ skip — bad date ref='12/22/2020 8:36:26 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 656: ⏭️ skip — bad date ref='12/23/2020 1:44:36 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 657: ⏭️ skip — bad date ref='12/23/2020 6:01:55 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 658: ⏭️ skip — bad date ref='12/24/2017 8:44:10 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 659: ⏭️ skip — bad date ref='12/24/2019 6:40:51 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 660: ⏭️ skip — bad date ref='12/24/2020 1:52:12 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 661: ⏭️ skip — bad date ref='12/24/2020 9:51:43 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 662: ⏭️ skip — bad date ref='12/25/2013 6:42:11 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 663: ⏭️ skip — bad date ref='12/25/2020 3:29:52 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 664: ⏭️ skip — bad date ref='12/26/2019 1:03:09 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 665: ⏭️ skip — bad date ref='12/26/2020 3:01:46 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 666: ⏭️ skip — bad date ref='12/27/2019 1:51:43 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 667: ⏭️ skip — bad date ref='12/27/2019 3:17:57 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 668: ⏭️ skip — bad date ref='12/27/2020 12:29:05 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 669: ⏭️ skip — bad date ref='12/27/2020 3:16:14 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 670: ⏭️ skip — bad date ref='12/27/2020 5:14:24 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 671: ⏭️ skip — bad date ref='12/28/2019 4:42:51 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 672: ⏭️ skip — bad date ref='12/28/2020 1:41:56 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 673: ⏭️ skip — bad date ref='12/29/2019 3:03:29 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 674: ⏭️ skip — bad date ref='12/29/2019 3:11:13 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 675: ⏭️ skip — bad date ref='12/29/2019 9:04:23 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 676: ⏭️ skip — bad date ref='12/29/2020 10:20:03 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 677: ⏭️ skip — bad date ref='12/29/2020 3:43:42 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 678: ⏭️ skip — bad date ref='12/30/2019 2:25:39 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 679: ⏭️ skip — bad date ref='12/30/2020 3:02:02 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 680: ⏭️ skip — bad date ref='12/31/2020 1:39:55 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 681: ⏭️ skip — bad date ref='12/31/2020 10:18:05 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 682: ⏭️ skip — bad date ref='2/13/2018 10:05:10 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 683: ⏭️ skip — bad date ref='2/13/2018 11:14:06 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 684: ⏭️ skip — bad date ref='2/13/2018 12:33:33 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 685: ⏭️ skip — bad date ref='2/13/2018 9:13:34 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 686: ⏭️ skip — bad date ref='2/13/2018 9:23:11 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 687: ⏭️ skip — bad date ref='2/13/2018 9:42:02 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 688: ⏭️ skip — bad date ref='2/13/2018 9:52:45 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 689: ⏭️ skip — bad date ref='2/15/2018 10:36:53 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 690: ⏭️ skip — bad date ref='2/15/2018 10:41:17 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 691: ⏭️ skip — bad date ref='2/15/2018 8:47:00 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 692: ⏭️ skip — bad date ref='2/17/2018 8:16:24 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 693: ⏭️ skip — bad date ref='2/17/2018 8:29:29 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 694: ⏭️ skip — bad date ref='2/18/2018 8:46:31 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 695: ⏭️ skip — bad date ref='2/18/2018 9:35:30 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 696: ⏭️ skip — bad date ref='2/18/2020 1:28:30 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 697: ⏭️ skip — bad date ref='2/18/2020 5:22:07 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 698: ⏭️ skip — bad date ref='2/19/2018 11:31:52 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 699: ⏭️ skip — bad date ref='2/19/2018 11:43:26 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 700: ⏭️ skip — bad date ref='2/19/2018 8:33:36 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 701: ⏭️ skip — bad date ref='2/20/2018 10:26:55 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 702: ⏭️ skip — bad date ref='2/20/2018 8:33:14 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 703: ⏭️ skip — bad date ref='2/20/2018 8:45:03 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 704: ⏭️ skip — bad date ref='2/20/2018 9:00:07 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 705: ⏭️ skip — bad date ref='2/20/2020 3:19:36 PM' conf=None
+[2025-09-03 13:12:56] 🔎 row 706: ⏭️ skip — bad date ref='2/20/2020 4:07:21 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 707: ⏭️ skip — bad date ref='2/20/2020 7:37:29 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 708: ⏭️ skip — bad date ref='2/20/2020 8:40:51 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 709: ⏭️ skip — bad date ref='2/21/2018 11:18:23 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 710: ⏭️ skip — bad date ref='2/21/2018 11:25:24 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 711: ⏭️ skip — bad date ref='2/21/2020 8:10:29 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 712: ⏭️ skip — bad date ref='2/22/2018 4:52:39 AM' conf=None
+[2025-09-03 13:12:56] 🔎 row 713: ⏭️ skip — bad date ref='2/22/2018 5:34:19 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 714: ⏭️ skip — bad date ref='2/22/2020 6:19:22 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 715: ⏭️ skip — bad date ref='2/23/2018 10:07:53 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 716: ⏭️ skip — bad date ref='2/23/2018 7:46:20 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 717: ⏭️ skip — bad date ref='2/23/2020 2:20:12 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 718: ⏭️ skip — bad date ref='2/23/2020 6:22:34 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 719: ⏭️ skip — bad date ref='2/23/2020 8:37:15 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 720: ⏭️ skip — bad date ref='2/23/2020 9:01:49 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 721: ⏭️ skip — bad date ref='2/24/2018 9:55:21 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 722: ⏭️ skip — bad date ref='2/25/2018 10:33:09 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 723: ⏭️ skip — bad date ref='2/25/2018 12:52:48 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 724: ⏭️ skip — bad date ref='2/25/2018 6:09:58 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 725: ⏭️ skip — bad date ref='2/25/2018 7:19:29 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 726: ⏭️ skip — bad date ref='2/26/2018 1:11:39 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 727: ⏭️ skip — bad date ref='2/26/2018 1:19:15 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 728: ⏭️ skip — bad date ref='2/26/2018 10:34:33 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 729: ⏭️ skip — bad date ref='2/26/2018 11:55:54 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 730: ⏭️ skip — bad date ref='2/26/2018 12:46:27 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 731: ⏭️ skip — bad date ref='3/13/2019 12:08:50 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 732: ⏭️ skip — bad date ref='3/13/2019 4:06:44 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 733: ⏭️ skip — bad date ref='3/13/2019 9:22:36 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 734: ⏭️ skip — bad date ref='3/14/2019 9:14:39 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 735: ⏭️ skip — bad date ref='3/14/2019 9:15:17 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 736: ⏭️ skip — bad date ref='3/16/2019 3:13:58 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 737: ⏭️ skip — bad date ref='3/17/2019 4:55:07 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 738: ⏭️ skip — bad date ref='3/17/2019 5:56:40 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 739: ⏭️ skip — bad date ref='3/18/2019 10:45:46 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 740: ⏭️ skip — bad date ref='3/18/2019 10:46:18 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 741: ⏭️ skip — bad date ref='3/19/2019 1:47:19 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 742: ⏭️ skip — bad date ref='3/19/2019 1:49:06 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 743: ⏭️ skip — bad date ref='3/19/2019 12:27:05 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 744: ⏭️ skip — bad date ref='3/19/2019 2:18:00 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 745: ⏭️ skip — bad date ref='3/19/2019 4:20:40 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 746: ⏭️ skip — bad date ref='3/20/2019 10:08:00 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 747: ⏭️ skip — bad date ref='3/20/2019 9:32:03 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 748: ⏭️ skip — bad date ref='3/20/2019 9:34:07 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 749: ⏭️ skip — bad date ref='3/21/2019 10:09:10 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 750: ⏭️ skip — bad date ref='3/22/2019 10:19:39 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 751: ⏭️ skip — bad date ref='3/24/2019 12:20:47 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 752: ⏭️ skip — bad date ref='3/24/2019 2:19:45 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 753: ⏭️ skip — bad date ref='3/24/2019 3:59:02 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 754: ⏭️ skip — bad date ref='3/25/2019 10:03:39 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 755: ⏭️ skip — bad date ref='3/25/2020 10:22:06 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 756: ⏭️ skip — bad date ref='3/25/2020 5:05:08 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 757: ⏭️ skip — bad date ref='3/25/2020 5:06:21 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 758: ⏭️ skip — bad date ref='3/25/2020 8:35:40 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 759: ⏭️ skip — bad date ref='3/26/2019 4:31:28 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 760: ⏭️ skip — bad date ref='3/26/2019 6:46:21 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 761: ⏭️ skip — bad date ref='3/26/2019 8:58:01 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 762: ⏭️ skip — bad date ref='3/27/2019 10:08:50 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 763: ⏭️ skip — bad date ref='3/27/2019 10:42:03 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 764: ⏭️ skip — bad date ref='3/27/2020 2:30:42 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 765: ⏭️ skip — bad date ref='3/28/2018 8:48:52 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 766: ⏭️ skip — bad date ref='3/28/2018 9:32:37 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 767: ⏭️ skip — bad date ref='3/28/2018 9:49:09 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 768: ⏭️ skip — bad date ref='3/28/2019 10:11:29 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 769: ⏭️ skip — bad date ref='3/28/2020 10:08:44 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 770: ⏭️ skip — bad date ref='3/29/2018 6:54:24 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 771: ⏭️ skip — bad date ref='3/29/2019 2:54:15 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 772: ⏭️ skip — bad date ref='3/29/2019 4:59:53 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 773: ⏭️ skip — bad date ref='3/30/2019 10:11:56 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 774: ⏭️ skip — bad date ref='3/31/2020 2:01:04 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 775: ⏭️ skip — bad date ref='4/13/2020 4:09:50 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 776: ⏭️ skip — bad date ref='4/15/2020 8:34:18 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 777: ⏭️ skip — bad date ref='4/16/2018 8:33:30 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 778: ⏭️ skip — bad date ref='4/17/2018 8:29:19 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 779: ⏭️ skip — bad date ref='4/17/2018 9:42:35 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 780: ⏭️ skip — bad date ref='4/17/2020 3:54:05 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 781: ⏭️ skip — bad date ref='4/17/2020 4:23:23 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 782: ⏭️ skip — bad date ref='4/18/2018 8:05:50 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 783: ⏭️ skip — bad date ref='4/18/2018 9:00:50 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 784: ⏭️ skip — bad date ref='4/18/2020 11:59:50 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 785: ⏭️ skip — bad date ref='4/18/2020 5:56:30 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 786: ⏭️ skip — bad date ref='4/19/2018 7:09:50 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 787: ⏭️ skip — bad date ref='4/19/2018 9:51:41 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 788: ⏭️ skip — bad date ref='4/19/2020 9:59:45 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 789: ⏭️ skip — bad date ref='4/20/2018 1:11:27 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 790: ⏭️ skip — bad date ref='4/20/2018 1:44:59 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 791: ⏭️ skip — bad date ref='4/20/2018 12:25:12 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 792: ⏭️ skip — bad date ref='4/20/2018 7:00:50 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 793: ⏭️ skip — bad date ref='4/20/2018 7:33:57 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 794: ⏭️ skip — bad date ref='4/20/2020 4:04:07 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 795: ⏭️ skip — bad date ref='4/22/2018 9:15:22 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 796: ⏭️ skip — bad date ref='4/22/2020 3:50:19 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 797: ⏭️ skip — bad date ref='4/23/2018 3:17:35 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 798: ⏭️ skip — bad date ref='4/23/2018 6:49:48 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 799: ⏭️ skip — bad date ref='4/23/2018 8:01:45 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 800: ⏭️ skip — bad date ref='4/23/2018 8:59:11 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 801: ⏭️ skip — bad date ref='4/23/2020 1:00:41 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 802: ⏭️ skip — bad date ref='4/23/2020 1:13:28 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 803: ⏭️ skip — bad date ref='4/23/2020 3:50:08 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 804: ⏭️ skip — bad date ref='4/23/2020 6:26:29 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 805: ⏭️ skip — bad date ref='4/23/2020 7:38:59 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 806: ⏭️ skip — bad date ref='4/24/2018 12:25:15 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 807: ⏭️ skip — bad date ref='4/24/2020 3:07:43 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 808: ⏭️ skip — bad date ref='4/24/2020 4:46:58 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 809: ⏭️ skip — bad date ref='4/24/2020 5:04:33 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 810: ⏭️ skip — bad date ref='4/24/2020 6:33:51 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 811: ⏭️ skip — bad date ref='4/24/2020 6:56:37 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 812: ⏭️ skip — bad date ref='4/24/2020 6:57:11 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 813: ⏭️ skip — bad date ref='4/25/2020 3:51:50 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 814: ⏭️ skip — bad date ref='4/25/2020 9:17:51 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 815: ⏭️ skip — bad date ref='4/26/2020 1:35:53 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 816: ⏭️ skip — bad date ref='4/26/2020 11:19:30 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 817: ⏭️ skip — bad date ref='4/26/2020 4:01:14 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 818: ⏭️ skip — bad date ref='4/26/2020 8:02:04 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 819: ⏭️ skip — bad date ref='4/26/2020 8:09:42 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 820: ⏭️ skip — bad date ref='4/26/2020 9:22:32 AM' conf=None
+[2025-09-03 13:12:57] 🔎 row 821: ⏭️ skip — bad date ref='4/27/2018 12:08:02 PM' conf=None
+[2025-09-03 13:12:57] 🔎 row 822: ⏭️ skip — bad date ref='4/27/2020 1:32:14 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 823: ⏭️ skip — bad date ref='4/27/2020 1:36:32 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 824: ⏭️ skip — bad date ref='4/27/2020 1:37:28 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 825: ⏭️ skip — bad date ref='4/27/2020 1:38:19 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 826: ⏭️ skip — bad date ref='4/27/2020 4:48:29 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 827: ⏭️ skip — bad date ref='4/28/2018 1:15:14 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 828: ⏭️ skip — bad date ref='4/28/2018 11:56:07 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 829: ⏭️ skip — bad date ref='4/28/2018 7:03:47 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 830: ⏭️ skip — bad date ref='4/29/2018 7:34:14 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 831: ⏭️ skip — bad date ref='4/29/2018 8:28:11 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 832: ⏭️ skip — bad date ref='4/30/2018 11:01:19 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 833: ⏭️ skip — bad date ref='4/30/2018 2:11:31 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 834: ⏭️ skip — bad date ref='4/30/2018 5:42:26 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 835: ⏭️ skip — bad date ref='4/30/2018 6:55:02 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 836: ⏭️ skip — bad date ref='4/30/2018 9:01:00 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 837: ⏭️ skip — bad date ref='5/13/2018 4:33:04 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 838: ⏭️ skip — bad date ref='5/13/2018 4:45:56 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 839: ⏭️ skip — bad date ref='5/13/2018 6:02:11 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 840: ⏭️ skip — bad date ref='5/13/2018 8:36:22 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 841: ⏭️ skip — bad date ref='5/13/2019 6:31:08 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 842: ⏭️ skip — bad date ref='5/13/2019 8:00:15 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 843: ⏭️ skip — bad date ref='5/13/2019 8:06:46 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 844: ⏭️ skip — bad date ref='5/13/2019 8:17:05 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 845: ⏭️ skip — bad date ref='5/14/2018 1:30:43 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 846: ⏭️ skip — bad date ref='5/14/2019 10:13:39 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 847: ⏭️ skip — bad date ref='5/14/2019 10:36:17 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 848: ⏭️ skip — bad date ref='5/15/2018 4:48:29 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 849: ⏭️ skip — bad date ref='5/15/2019 1:45:10 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 850: ⏭️ skip — bad date ref='5/15/2019 1:54:18 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 851: ⏭️ skip — bad date ref='5/15/2019 12:52:40 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 852: ⏭️ skip — bad date ref='5/15/2019 2:17:17 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 853: ⏭️ skip — bad date ref='5/15/2019 8:05:06 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 854: ⏭️ skip — bad date ref='5/15/2020 3:36:07 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 855: ⏭️ skip — bad date ref='5/16/2019 10:22:28 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 856: ⏭️ skip — bad date ref='5/16/2019 6:08:13 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 857: ⏭️ skip — bad date ref='5/16/2019 8:30:00 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 858: ⏭️ skip — bad date ref='5/16/2020 4:41:15 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 859: ⏭️ skip — bad date ref='5/16/2020 4:42:21 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 860: ⏭️ skip — bad date ref='5/16/2020 4:43:29 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 861: ⏭️ skip — bad date ref='5/16/2020 7:44:37 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 862: ⏭️ skip — bad date ref='5/17/2018 1:32:56 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 863: ⏭️ skip — bad date ref='5/17/2018 12:39:11 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 864: ⏭️ skip — bad date ref='5/17/2018 3:20:58 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 865: ⏭️ skip — bad date ref='5/17/2020 3:17:49 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 866: ⏭️ skip — bad date ref='5/17/2020 3:19:56 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 867: ⏭️ skip — bad date ref='5/18/2018 5:20:14 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 868: ⏭️ skip — bad date ref='5/18/2019 3:46:11 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 869: ⏭️ skip — bad date ref='5/18/2019 9:45:08 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 870: ⏭️ skip — bad date ref='5/18/2020 11:49:55 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 871: ⏭️ skip — bad date ref='5/19/2020 3:31:16 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 872: ⏭️ skip — bad date ref='5/20/2018 12:17:37 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 873: ⏭️ skip — bad date ref='5/20/2018 3:37:04 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 874: ⏭️ skip — bad date ref='5/20/2019 4:31:34 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 875: ⏭️ skip — bad date ref='5/20/2019 5:54:08 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 876: ⏭️ skip — bad date ref='5/20/2019 6:16:11 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 877: ⏭️ skip — bad date ref='5/20/2019 9:08:01 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 878: ⏭️ skip — bad date ref='5/20/2020 4:10:26 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 879: ⏭️ skip — bad date ref='5/20/2020 8:10:40 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 880: ⏭️ skip — bad date ref='5/21/2018 11:21:07 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 881: ⏭️ skip — bad date ref='5/21/2019 6:20:19 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 882: ⏭️ skip — bad date ref='5/21/2020 1:39:38 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 883: ⏭️ skip — bad date ref='5/21/2020 11:01:32 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 884: ⏭️ skip — bad date ref='5/21/2020 11:51:34 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 885: ⏭️ skip — bad date ref='5/21/2020 3:45:47 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 886: ⏭️ skip — bad date ref='5/22/2018 12:06:59 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 887: ⏭️ skip — bad date ref='5/22/2018 2:29:15 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 888: ⏭️ skip — bad date ref='5/22/2018 3:10:46 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 889: ⏭️ skip — bad date ref='5/22/2018 4:59:41 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 890: ⏭️ skip — bad date ref='5/22/2019 11:58:19 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 891: ⏭️ skip — bad date ref='5/22/2019 9:45:11 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 892: ⏭️ skip — bad date ref='5/22/2020 2:48:31 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 893: ⏭️ skip — bad date ref='5/22/2020 3:41:05 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 894: ⏭️ skip — bad date ref='5/22/2020 3:51:30 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 895: ⏭️ skip — bad date ref='5/23/2018 11:53:16 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 896: ⏭️ skip — bad date ref='5/23/2018 9:23:22 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 897: ⏭️ skip — bad date ref='5/23/2020 3:10:01 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 898: ⏭️ skip — bad date ref='5/24/2018 5:44:30 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 899: ⏭️ skip — bad date ref='5/24/2019 9:05:10 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 900: ⏭️ skip — bad date ref='5/24/2019 9:17:58 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 901: ⏭️ skip — bad date ref='5/24/2020 10:13:20 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 902: ⏭️ skip — bad date ref='5/24/2020 3:53:39 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 903: ⏭️ skip — bad date ref='5/24/2020 8:26:00 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 904: ⏭️ skip — bad date ref='5/25/2018 1:58:11 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 905: ⏭️ skip — bad date ref='5/25/2018 12:56:11 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 906: ⏭️ skip — bad date ref='5/25/2021 12:32:35 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 907: ⏭️ skip — bad date ref='5/26/2020 10:41:12 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 908: ⏭️ skip — bad date ref='5/26/2020 10:49:52 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 909: ⏭️ skip — bad date ref='5/26/2020 10:59:28 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 910: ⏭️ skip — bad date ref='5/26/2021 2:52:40 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 911: ⏭️ skip — bad date ref='5/27/2018 2:43:18 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 912: ⏭️ skip — bad date ref='5/27/2019 12:28:20 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 913: ⏭️ skip — bad date ref='5/27/2019 2:32:06 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 914: ⏭️ skip — bad date ref='5/27/2019 3:05:01 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 915: ⏭️ skip — bad date ref='5/27/2020 2:09:43 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 916: ⏭️ skip — bad date ref='5/27/2020 3:09:22 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 917: ⏭️ skip — bad date ref='5/27/2020 4:53:06 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 918: ⏭️ skip — bad date ref='5/27/2020 4:56:22 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 919: ⏭️ skip — bad date ref='5/27/2020 5:21:31 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 920: ⏭️ skip — bad date ref='5/28/2018 4:05:47 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 921: ⏭️ skip — bad date ref='5/28/2019 6:35:40 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 922: ⏭️ skip — bad date ref='5/29/2019 10:07:35 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 923: ⏭️ skip — bad date ref='5/29/2019 10:19:39 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 924: ⏭️ skip — bad date ref='5/29/2019 11:02:23 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 925: ⏭️ skip — bad date ref='5/29/2019 12:20:19 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 926: ⏭️ skip — bad date ref='5/29/2019 4:56:16 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 927: ⏭️ skip — bad date ref='5/30/2020 3:22:56 AM' conf=None
+[2025-09-03 13:12:58] 🔎 row 928: ⏭️ skip — bad date ref='5/31/2019 1:03:53 PM' conf=None
+[2025-09-03 13:12:58] 🔎 row 929: ⏭️ skip — bad date ref='5/31/2020 1:08:43 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 930: ⏭️ skip — bad date ref='5/31/2020 4:26:38 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 931: ⏭️ skip — bad date ref='6/13/2017 4:36:56 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 932: ⏭️ skip — bad date ref='6/13/2017 9:30:34 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 933: ⏭️ skip — bad date ref='6/13/2018 9:35:22 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 934: ⏭️ skip — bad date ref='6/13/2019 10:34:25 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 935: ⏭️ skip — bad date ref='6/13/2019 11:56:31 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 936: ⏭️ skip — bad date ref='6/13/2019 7:03:32 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 937: ⏭️ skip — bad date ref='6/13/2019 8:00:04 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 938: ⏭️ skip — bad date ref='6/13/2020 3:30:27 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 939: ⏭️ skip — bad date ref='6/14/2017 3:42:19 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 940: ⏭️ skip — bad date ref='6/14/2018 1:54:24 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 941: ⏭️ skip — bad date ref='6/14/2018 10:02:33 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 942: ⏭️ skip — bad date ref='6/14/2018 11:21:18 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 943: ⏭️ skip — bad date ref='6/14/2019 5:59:59 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 944: ⏭️ skip — bad date ref='6/14/2019 7:33:59 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 945: ⏭️ skip — bad date ref='6/14/2019 7:42:41 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 946: ⏭️ skip — bad date ref='6/14/2020 12:20:51 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 947: ⏭️ skip — bad date ref='6/15/2019 12:45:26 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 948: ⏭️ skip — bad date ref='6/15/2021 3:24:25 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 949: ⏭️ skip — bad date ref='6/16/2019 2:03:56 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 950: ⏭️ skip — bad date ref='6/16/2021 3:03:10 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 951: ⏭️ skip — bad date ref='6/17/2019 12:37:21 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 952: ⏭️ skip — bad date ref='6/17/2019 5:01:43 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 953: ⏭️ skip — bad date ref='6/18/2020 8:24:56 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 954: ⏭️ skip — bad date ref='6/19/2018 12:23:34 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 955: ⏭️ skip — bad date ref='6/19/2019 4:17:11 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 956: ⏭️ skip — bad date ref='6/19/2019 8:44:48 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 957: ⏭️ skip — bad date ref='6/19/2020 1:32:34 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 958: ⏭️ skip — bad date ref='6/19/2020 3:28:23 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 959: ⏭️ skip — bad date ref='6/20/2018 11:00:58 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 960: ⏭️ skip — bad date ref='6/20/2018 6:31:05 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 961: ⏭️ skip — bad date ref='6/20/2018 8:49:07 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 962: ⏭️ skip — bad date ref='6/20/2019 8:18:37 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 963: ⏭️ skip — bad date ref='6/20/2020 4:30:49 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 964: ⏭️ skip — bad date ref='6/21/2018 1:57:49 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 965: ⏭️ skip — bad date ref='6/21/2018 3:23:55 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 966: ⏭️ skip — bad date ref='6/21/2020 2:17:37 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 967: ⏭️ skip — bad date ref='6/21/2020 3:32:57 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 968: ⏭️ skip — bad date ref='6/21/2020 6:44:38 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 969: ⏭️ skip — bad date ref='6/22/2018 7:47:17 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 970: ⏭️ skip — bad date ref='6/22/2019 5:46:41 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 971: ⏭️ skip — bad date ref='6/22/2020 4:26:35 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 972: ⏭️ skip — bad date ref='6/23/2019 6:45:34 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 973: ⏭️ skip — bad date ref='6/23/2020 3:30:23 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 974: ⏭️ skip — bad date ref='6/23/2020 5:11:29 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 975: ⏭️ skip — bad date ref='6/23/2021 4:45:14 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 976: ⏭️ skip — bad date ref='6/24/2019 5:16:49 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 977: ⏭️ skip — bad date ref='6/24/2020 5:11:17 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 978: ⏭️ skip — bad date ref='6/25/2019 11:37:20 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 979: ⏭️ skip — bad date ref='6/26/2019 8:48:54 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 980: ⏭️ skip — bad date ref='6/26/2020 3:22:35 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 981: ⏭️ skip — bad date ref='6/27/2019 1:04:08 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 982: ⏭️ skip — bad date ref='6/27/2020 4:14:29 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 983: ⏭️ skip — bad date ref='6/27/2020 8:46:00 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 984: ⏭️ skip — bad date ref='6/28/2020 3:49:04 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 985: ⏭️ skip — bad date ref='6/28/2020 8:26:48 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 986: ⏭️ skip — bad date ref='6/29/2018 3:32:51 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 987: ⏭️ skip — bad date ref='6/29/2020 11:21:38 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 988: ⏭️ skip — bad date ref='6/29/2020 3:37:23 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 989: ⏭️ skip — bad date ref='6/29/2020 3:40:42 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 990: ⏭️ skip — bad date ref='6/29/2020 4:02:46 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 991: ⏭️ skip — bad date ref='6/29/2020 4:12:23 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 992: ⏭️ skip — bad date ref='6/29/2020 4:15:31 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 993: ⏭️ skip — bad date ref='6/29/2020 4:33:03 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 994: ⏭️ skip — bad date ref='6/30/2019 9:34:40 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 995: ⏭️ skip — bad date ref='6/30/2020 1:28:13 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 996: ⏭️ skip — bad date ref='6/30/2020 5:23:09 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 997: ⏭️ skip — bad date ref='6/30/2020 8:02:31 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 998: ⏭️ skip — bad date ref='6/30/2020 8:03:30 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 999: ⏭️ skip — bad date ref='6/30/2020 8:04:18 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1000: ⏭️ skip — bad date ref='7/14/2019 2:42:33 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1001: ⏭️ skip — bad date ref='7/14/2020 1:01:29 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1002: ⏭️ skip — bad date ref='7/14/2020 2:07:56 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1003: ⏭️ skip — bad date ref='7/15/2019 12:03:13 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1004: ⏭️ skip — bad date ref='7/15/2019 5:03:15 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1005: ⏭️ skip — bad date ref='7/16/2020 3:16:10 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1006: ⏭️ skip — bad date ref='7/16/2020 5:51:36 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1007: ⏭️ skip — bad date ref='7/17/2018 1:30:13 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1008: ⏭️ skip — bad date ref='7/17/2018 2:28:09 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1009: ⏭️ skip — bad date ref='7/17/2018 9:23:05 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1010: ⏭️ skip — bad date ref='7/17/2020 2:39:04 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1011: ⏭️ skip — bad date ref='7/17/2020 4:40:49 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1012: ⏭️ skip — bad date ref='7/17/2020 5:54:36 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1013: ⏭️ skip — bad date ref='7/18/2018 1:25:58 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1014: ⏭️ skip — bad date ref='7/18/2018 10:22:30 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1015: ⏭️ skip — bad date ref='7/18/2018 11:05:20 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1016: ⏭️ skip — bad date ref='7/18/2020 2:31:41 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1017: ⏭️ skip — bad date ref='7/18/2020 4:07:26 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1018: ⏭️ skip — bad date ref='7/18/2021 2:29:31 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1019: ⏭️ skip — bad date ref='7/19/2018 1:47:30 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1020: ⏭️ skip — bad date ref='7/19/2019 10:57:30 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1021: ⏭️ skip — bad date ref='7/19/2019 6:25:43 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1022: ⏭️ skip — bad date ref='7/19/2019 6:43:20 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1023: ⏭️ skip — bad date ref='7/19/2020 4:02:01 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1024: ⏭️ skip — bad date ref='7/19/2020 6:44:19 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1025: ⏭️ skip — bad date ref='7/19/2021 3:00:39 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1026: ⏭️ skip — bad date ref='7/20/2018 4:35:19 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1027: ⏭️ skip — bad date ref='7/20/2018 5:17:17 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1028: ⏭️ skip — bad date ref='7/20/2018 6:31:16 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1029: ⏭️ skip — bad date ref='7/20/2018 7:04:22 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1030: ⏭️ skip — bad date ref='7/20/2018 7:55:56 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1031: ⏭️ skip — bad date ref='7/20/2019 2:11:45 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1032: ⏭️ skip — bad date ref='7/20/2019 5:55:47 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1033: ⏭️ skip — bad date ref='7/20/2019 8:48:12 AM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1034: ⏭️ skip — bad date ref='7/20/2020 2:35:35 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1035: ⏭️ skip — bad date ref='7/20/2021 3:19:03 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1036: ⏭️ skip — bad date ref='7/21/2020 3:09:55 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1037: ⏭️ skip — bad date ref='7/22/2019 2:50:25 PM' conf=None
+[2025-09-03 13:12:59] 🔎 row 1038: ⏭️ skip — bad date ref='7/22/2020 10:49:02 AM' conf=None

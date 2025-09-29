@@ -1,0 +1,7 @@
+[2025-09-22 15:53:27] --- ActiveCampaign (https://glts.activehosted.com/api/3) ---
+[2025-09-22 15:53:27] ✅ AC /dealGroups OK — groups: 20, stages: 137
+[2025-09-22 15:53:28] ✅ AC /dealStages OK — 100 stages
+[2025-09-22 15:53:28] ✅ AC /deals OK — sample size: 5
+[2025-09-22 15:53:28] --- IT (https://api.golden-tech.de/glts_ac) ---
+[2025-09-22 15:53:28] 🔧 IT probe → https://api.golden-tech.de/glts_ac  (read timeout 90s)
+[2025-09-22 15:53:28] ✅ IT base [422] keys=['detail'] data_items=0

@@ -1,0 +1,9 @@
+[2025-08-21 14:13:18] ➕ Added 1 file(s).
+[2025-08-21 14:13:23] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-21 14:13:35] 📑 Using sheet: Deposits
+[2025-08-21 14:13:35] Detected separate Deposit and Cashout sheets.
+[2025-08-21 14:13:35] ❌ Error in C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/30100 - Bert Relker, BWIN/TA_DSAR - Bertje22 (bwin.com).xlsx: extract_rows_from_sheet() got an unexpected keyword argument 'valid_status'
+[2025-08-21 14:13:39] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-21 14:13:41] 📑 Using sheet: Cashouts
+[2025-08-21 14:13:41] Detected separate Deposit and Cashout sheets.
+[2025-08-21 14:13:41] ❌ Error in C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/30100 - Bert Relker, BWIN/TA_DSAR - Bertje22 (bwin.com).xlsx: extract_rows_from_sheet() got an unexpected keyword argument 'valid_status'

@@ -1,0 +1,66 @@
+[2025-07-17 09:36:24] Cleared all selected files.
+[2025-07-17 09:36:25] Cleared all files.
+[2025-07-17 09:36:28] Added 1 file(s).
+[2025-07-17 09:36:29] 📄 Processing TA_Unibet (4).xlsx...
+[2025-07-17 09:36:29] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-07-17 09:36:29] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-07-17 09:36:29] ✅ Detected normal tabular structure. No CSV conversion needed.
+[2025-07-17 09:36:29] 📋 Raw headers: ['Datum', 'Tijdzone', 'Transactie', 'ID', 'Context', 'ID', 'Activiteit', 'Omschrijving', 'Betalingskenmerk', 'Datum', 'betaling', 'aangevraagd', 'Tijd', 'betaling', 'aangevraagd', 'Betalingskosten', 'Hoeveelheid', 'Cash', 'Niet', 'opneembare', 'hoeveelheid', 'cash', 'Bonus', 'aantal', 'Totaal', 'aantal']
+[2025-07-17 09:36:29] 🔍 Normalized headers: ['datum', 'tijdzone', 'transactie', 'id', 'context', 'id', 'activiteit', 'omschrijving', 'betalingskenmerk', 'datum', 'betaling', 'aangevraagd', 'tijd', 'betaling', 'aangevraagd', 'betalingskosten', 'hoeveelheid', 'cash', 'niet', 'opneembare', 'hoeveelheid', 'cash', 'bonus', 'aantal', 'totaal', 'aantal']
+[2025-07-17 09:36:29] ✅ Indexes — Date: 9, Time: 12, Type: 6, Amount: 20, Status: None
+[2025-07-17 09:36:29] ⚠️ Row 2: Unparsable date/time → '2025-02-18 00:00:00 10.00'
+[2025-07-17 09:36:29] ⚠️ Row 3: Unparsable date/time → '2025-02-15 00:00:00 10.00'
+[2025-07-17 09:36:29] ⚠️ Row 4: Unparsable date/time → '2025-02-15 00:00:00 20.00'
+[2025-07-17 09:36:29] ⚠️ Row 5: Unparsable date/time → '2025-02-14 00:00:00 30.00'
+[2025-07-17 09:36:29] ⚠️ Row 6: Unparsable date/time → '2025-02-13 00:00:00 -101.48'
+[2025-07-17 09:36:29] ⚠️ Row 7: Unparsable date/time → '2025-02-07 00:00:00 100.00'
+[2025-07-17 09:36:29] ⚠️ Row 8: Unparsable date/time → '2025-02-01 00:00:00 -206.63'
+[2025-07-17 09:36:29] ⚠️ Row 9: Unparsable date/time → '2025-01-31 00:00:00 100.00'
+[2025-07-17 09:36:29] ⚠️ Row 10: Unparsable date/time → '2025-01-19 00:00:00 5.00'
+[2025-07-17 09:36:29] ⚠️ Row 11: Unparsable date/time → '2025-01-18 00:00:00 10.00'
+[2025-07-17 09:36:30] ⚠️ Row 12: Unparsable date/time → '2025-01-18 00:00:00 10.00'
+[2025-07-17 09:36:30] ⚠️ Row 13: Unparsable date/time → '2025-01-16 00:00:00 -56.01'
+[2025-07-17 09:36:30] ⚠️ Row 14: Unparsable date/time → '2025-01-16 00:00:00 20.00'
+[2025-07-17 09:36:30] ⚠️ Row 15: Unparsable date/time → '2024-12-15 00:00:00 500.00'
+[2025-07-17 09:36:30] ⚠️ Row 16: Unparsable date/time → '2024-12-15 00:00:00 100.00'
+[2025-07-17 09:36:30] ⚠️ Row 17: Unparsable date/time → '2024-12-15 00:00:00 100.00'
+[2025-07-17 09:36:30] ⚠️ Row 18: Unparsable date/time → '2024-11-22 00:00:00 15.00'
+[2025-07-17 09:36:30] ⚠️ Row 19: Unparsable date/time → '2024-11-22 00:00:00 20.00'
+[2025-07-17 09:36:30] ⚠️ Row 20: Unparsable date/time → '2024-11-16 00:00:00 15.00'
+[2025-07-17 09:36:30] ⚠️ Row 21: Unparsable date/time → '2024-11-14 00:00:00 -17.50'
+[2025-07-17 09:36:30] ⚠️ Row 22: Unparsable date/time → '2024-11-14 00:00:00 15.00'
+[2025-07-17 09:36:30] ⚠️ Row 23: Unparsable date/time → '2024-11-09 00:00:00 5.00'
+[2025-07-17 09:36:30] ⚠️ Row 24: Unparsable date/time → '2024-11-07 00:00:00 10.00'
+[2025-07-17 09:36:30] ⚠️ Row 25: Unparsable date/time → '2024-11-07 00:00:00 10.00'
+[2025-07-17 09:36:30] ⚠️ Row 26: Unparsable date/time → '2024-11-06 00:00:00 30.00'
+[2025-07-17 09:36:30] ⚠️ Row 27: Unparsable date/time → '2024-11-04 00:00:00 -33.40'
+[2025-07-17 09:36:30] ⚠️ Row 28: Unparsable date/time → '2024-11-01 00:00:00 30.00'
+[2025-07-17 09:36:30] ⚠️ Row 29: Unparsable date/time → '2024-10-18 00:00:00 200.00'
+[2025-07-17 09:36:30] ⚠️ Row 30: Unparsable date/time → '2024-10-09 00:00:00 130.00'
+[2025-07-17 09:36:30] ⚠️ Row 31: Unparsable date/time → '2024-09-29 00:00:00 200.00'
+[2025-07-17 09:36:30] ⚠️ Row 32: Unparsable date/time → '2024-09-28 00:00:00 300.00'
+[2025-07-17 09:36:30] ⚠️ Row 33: Unparsable date/time → '2024-09-27 00:00:00 300.00'
+[2025-07-17 09:36:30] ⚠️ Row 34: Unparsable date/time → '2024-09-22 00:00:00 20.00'
+[2025-07-17 09:36:30] ⚠️ Row 35: Unparsable date/time → '2024-09-21 00:00:00 -50.34'
+[2025-07-17 09:36:30] ⚠️ Row 36: Unparsable date/time → '2024-09-21 00:00:00 50.00'
+[2025-07-17 09:36:30] ⚠️ Row 37: Unparsable date/time → '2024-09-20 00:00:00 -76.10'
+[2025-07-17 09:36:30] ⚠️ Row 38: Unparsable date/time → '2024-09-20 00:00:00 -31.97'
+[2025-07-17 09:36:30] ⚠️ Row 39: Unparsable date/time → '2024-09-19 00:00:00 50.00'
+[2025-07-17 09:36:30] ⚠️ Row 40: Unparsable date/time → '2024-09-14 00:00:00 -208.09'
+[2025-07-17 09:36:30] ⚠️ Row 41: Unparsable date/time → '2024-09-13 00:00:00 30.00'
+[2025-07-17 09:36:30] ⚠️ Row 42: Unparsable date/time → '2024-09-06 00:00:00 100.00'
+[2025-07-17 09:36:30] ⚠️ Row 43: Unparsable date/time → '2024-09-01 00:00:00 30.00'
+[2025-07-17 09:36:30] ⚠️ Row 44: Unparsable date/time → '2024-08-31 00:00:00 30.00'
+[2025-07-17 09:36:30] ⚠️ Row 45: Unparsable date/time → '2024-08-31 00:00:00 300.00'
+[2025-07-17 09:36:30] ⚠️ Row 46: Unparsable date/time → '2024-08-30 00:00:00 100.00'
+[2025-07-17 09:36:30] ⚠️ Row 47: Unparsable date/time → '2024-08-30 00:00:00 300.00'
+[2025-07-17 09:36:30] ⚠️ Row 48: Unparsable date/time → '2024-08-11 00:00:00 -209.14'
+[2025-07-17 09:36:30] ⚠️ Row 49: Unparsable date/time → '2024-08-10 00:00:00 200.00'
+[2025-07-17 09:36:30] ⚠️ Row 50: Unparsable date/time → '2024-08-09 00:00:00 -1115.33'
+[2025-07-17 09:36:30] ⚠️ Row 51: Unparsable date/time → '2024-08-06 00:00:00 500.00'
+[2025-07-17 09:36:30] ⚠️ Row 52: Unparsable date/time → '2024-08-04 00:00:00 500.00'
+[2025-07-17 09:36:30] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-07-17 09:36:30] ✅ Created Payment Summary with 0 rows.
+[2025-07-17 09:36:30] ⚠️ No valid dates found in Payment Summary.
+[2025-07-17 09:36:30] 🧾 Final claim value (from Payment Summary): 0
+[2025-07-17 09:36:30] ✅ Finished processing: TA_Unibet (4).xlsx

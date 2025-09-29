@@ -1,0 +1,10 @@
+[2025-08-25 11:56:08] 📎 Added file from Deal 44458: IB_BWIN_Jamal Tarifit.xlsx
+[2025-08-25 11:56:10] 📄 Processing IB_BWIN_Jamal Tarifit.xlsx in calculation Mode...
+[2025-08-25 11:56:14] ✔ Deposit sheets: ['payment transactions']
+[2025-08-25 11:56:14] ✔ Cashout sheets: ['payment transactions']
+[2025-08-25 11:56:14] ℹ️ Same sheet in both lists → will parse once as combined: ['payment transactions']
+[2025-08-25 11:56:15] ⚠️ No distinct header row found (scanned 655 rows).
+[2025-08-25 11:56:15] TA logic: Deposits = 103784.0, Cashouts = 0, Net = 103784.0
+[2025-08-25 11:56:15] ✅ Created Payment Summary with 433 rows.
+[2025-08-25 11:56:15] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:56:15] ✅ Finished processing: IB_BWIN_Jamal Tarifit.xlsx

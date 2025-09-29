@@ -1,0 +1,65 @@
+[2025-07-17 09:49:57] Added 1 file(s).
+[2025-07-17 09:49:57] 📄 Processing TA_Unibet (4).xlsx...
+[2025-07-17 09:49:57] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-07-17 09:49:57] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-07-17 09:49:57] ✅ Detected normal tabular structure. No CSV conversion needed.
+[2025-07-17 09:49:57] 📋 Raw headers: ['Datum', 'Tijdzone', 'Transactie', 'ID', 'Context', 'ID', 'Activiteit', 'Betalingskenmerk', 'aangevraagd', 'Cash', 'betaling', 'aangevraagd', 'Betalingskosten', 'Hoeveelheid', 'Cash', 'Niet', 'opneembare', 'hoeveelheid', 'cash', 'Bonus', 'aantal', 'Totaal', 'aantal']
+[2025-07-17 09:49:57] 🔍 Normalized headers: ['datum', 'tijdzone', 'transactie', 'id', 'context', 'id', 'activiteit', 'betalingskenmerk', 'aangevraagd', 'cash', 'betaling', 'aangevraagd', 'betalingskosten', 'hoeveelheid', 'cash', 'niet', 'opneembare', 'hoeveelheid', 'cash', 'bonus', 'aantal', 'totaal', 'aantal']
+[2025-07-17 09:49:57] ⚠️ Detected amount column has only None values. Fallback mode activated.
+[2025-07-17 09:49:57] ⚠️ Header check failed: amount column invalid. Using fallback mode (Column 0 = date, Column 1 = signed amount).
+[2025-07-17 09:49:57] ❌ Row 2: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 3: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 4: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 5: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 6: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 7: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 8: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 9: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 10: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 11: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 12: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 13: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 14: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 15: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 16: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 17: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 18: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:57] ❌ Row 19: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 20: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 21: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 22: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 23: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 24: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 25: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 26: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 27: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 28: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 29: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 30: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 31: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 32: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 33: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 34: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 35: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 36: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 37: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 38: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 39: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 40: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 41: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 42: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 43: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 44: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 45: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 46: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 47: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 48: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 49: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 50: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 51: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] ❌ Row 52: Fallback parsing failed — could not convert string to float: 'Europe/Amsterdam'
+[2025-07-17 09:49:58] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-07-17 09:49:58] ✅ Created Payment Summary with 0 rows.
+[2025-07-17 09:49:58] ⚠️ No valid dates found in Payment Summary.
+[2025-07-17 09:49:58] 🧾 Final claim value (from Payment Summary): 0
+[2025-07-17 09:49:58] ✅ Finished processing: TA_Unibet (4).xlsx

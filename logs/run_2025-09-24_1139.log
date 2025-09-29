@@ -1,0 +1,77 @@
+[2025-09-24 11:39:03] ✔ Deposit sheets: ['Deposits']
+[2025-09-24 11:39:03] ✔ Cashout sheets: ['Cashouts']
+[2025-09-24 11:39:03] TA logic: Deposits = 100.0, Cashouts = 45.4, Net = 54.6
+[2025-09-24 11:39:03] ✅ Created Payment Summary with 3 rows.
+[2025-09-24 11:39:03] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-24 11:39:03] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-24 11:39:03] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-24 11:39:03] ✅ Finished processing: TA_DSAR - Daniel6674 (bwin.com).xlsx
+[2025-09-24 11:39:03] 📄 Processing TA_DSAR - danikarlkani88 (bwin.com).xlsx (Deal 6838) in calculation Mode...
+[2025-09-24 11:39:07] ℹ️ IT returned no opponents; parsing from AC deal titles…
+[2025-09-24 11:39:07] ✅ Loaded 0 opponents.
+[2025-09-24 11:39:25] ✔ Deposit sheets: ['Deposits']
+[2025-09-24 11:39:25] ✔ Cashout sheets: ['Deposits']
+[2025-09-24 11:39:25] ℹ️ Same sheet in both lists → will parse once as combined: ['Deposits']
+[2025-09-24 11:39:25] ✅ Detected header row at Excel row 1: ['Txn Id', 'Created', 'Updated', 'Type', 'Status', 'Acct. Curr.', 'Initial', 'Credited', 'Settled', 'Txn Amount', 'Txn Currency', 'IP']
+[2025-09-24 11:39:25] 🔎 Header row 1: ['Txn Id', 'Created', 'Updated', 'Type', 'Status', 'Acct. Curr.', 'Initial', 'Credited', 'Settled', 'Txn Amount', 'Txn Currency', 'IP']
+[2025-09-24 11:39:25] 🧭 Columns: amount=9, currency=10, type=3, ref_date=1, conf_date=8, status=4, gateway=None, descr=None, drcr=None
+[2025-09-24 11:39:25] 🔎 row 2: ⏭️ drop — not final 'dep_new' (type_raw='MASTERCARD')
+[2025-09-24 11:39:25] 🔎 row 3: ⏭️ drop — not final 'dep_new' (type_raw='MASTERCARD')
+[2025-09-24 11:39:25] 🔎 row 4: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 5: ✅ accept → dt=1900-04-09 amt=100.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 6: ✅ accept → dt=1900-04-09 amt=100.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 7: ✅ accept → dt=1900-01-19 amt=20.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 8: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 9: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 10: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 11: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 12: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 13: ✅ accept → dt=1900-01-19 amt=20.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 14: ✅ accept → dt=1900-01-19 amt=20.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 15: ✅ accept → dt=1900-01-09 amt=10.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 16: ✅ accept → dt=1900-04-09 amt=100.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 17: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 18: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 19: ✅ accept → dt=1900-01-14 amt=15.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 20: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 21: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 22: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 23: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 24: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 25: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 26: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 27: ⏭️ drop — bad status 'dep_pending' (type_raw='INSTANTBANK')
+[2025-09-24 11:39:25] 🔎 row 28: ⏭️ drop — bad status 'dep_failed' (type_raw='INSTANTBANK')
+[2025-09-24 11:39:25] 🔎 row 29: ⏭️ drop — bad status 'dep_failed' (type_raw='INSTANTBANK')
+[2025-09-24 11:39:25] 🔎 row 30: ⏭️ drop — bad status 'dep_failed' (type_raw='INSTANTBANK')
+[2025-09-24 11:39:25] 🔎 row 31: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 32: ⏭️ drop — bad status 'dep_failed' (type_raw='MASTERCARD')
+[2025-09-24 11:39:25] 🔎 row 33: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 34: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 35: ✅ accept → dt=1900-04-09 amt=100.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 36: ⏭️ drop — bad status 'dep_failed' (type_raw='MASTERCARD')
+[2025-09-24 11:39:25] 🔎 row 37: ⏭️ drop — bad status 'dep_failed' (type_raw='MASTERCARD')
+[2025-09-24 11:39:25] 🔎 row 38: ⏭️ drop — bad status 'dep_failed' (type_raw='MASTERCARD')
+[2025-09-24 11:39:25] 🔎 row 39: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 40: ⏭️ drop — bad status 'dep_failed' (type_raw='MASTERCARD')
+[2025-09-24 11:39:25] 🔎 row 41: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 42: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 43: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 row 44: ✅ accept → dt=1900-02-18 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='dep_settled'
+[2025-09-24 11:39:25] 🔎 recap: deposits=1635.00, cashouts=0.00, net=1635.00
+[2025-09-24 11:39:25] TA logic: Deposits = 1635.0, Cashouts = 0, Net = 1635.0
+[2025-09-24 11:39:25] ✅ Created Payment Summary with 32 rows.
+[2025-09-24 11:39:25] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-24 11:39:25] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-24 11:39:25] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-24 11:39:25] ✅ Finished processing: TA_DSAR - danikarlkani88 (bwin.com).xlsx
+[2025-09-24 11:39:25] 📄 Processing TA_DSAR - iMoreno10 (bwin.com).xlsx (Deal 47788) in calculation Mode...
+[2025-09-24 11:39:28] ✔ Deposit sheets: ['Deposits']
+[2025-09-24 11:39:28] ✔ Cashout sheets: ['Cashouts']
+[2025-09-24 11:39:28] TA logic: Deposits = 247.0, Cashouts = 500.0, Net = -253.0
+[2025-09-24 11:39:28] ✅ Created Payment Summary with 13 rows.
+[2025-09-24 11:39:28] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-24 11:39:28] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-24 11:39:28] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-24 11:39:28] ✅ Finished processing: TA_DSAR - iMoreno10 (bwin.com).xlsx
+[2025-09-24 11:39:46] ↪️ No moves selected.

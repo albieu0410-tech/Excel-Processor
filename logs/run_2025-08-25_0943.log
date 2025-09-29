@@ -1,0 +1,24 @@
+[2025-08-25 09:43:17] ➕ Added 1 file(s).
+[2025-08-25 09:43:18] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-25 09:43:21] ✔ Deposit sheets: ['PS Transactions']
+[2025-08-25 09:43:21] ✔ Cashout sheets: ['PS Transactions']
+[2025-08-25 09:43:21] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-08-25 09:43:22] ✅ Detected header row at Excel row 8: ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-08-25 09:43:22] TA logic: Deposits = 13771.79, Cashouts = 10173.06, Net = 3598.7300000000014
+[2025-08-25 09:43:22] ✅ Created Payment Summary with 594 rows.
+[2025-08-25 09:43:22] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 09:43:22] ✅ Finished processing: TA_Pokerstars.xlsx
+[2025-08-25 09:43:28] Cleared all files.
+[2025-08-25 09:43:36] ➕ Added 1 file(s).
+[2025-08-25 09:43:37] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-25 09:43:42] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 09:43:42] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 09:43:42] ⚠️ No distinct header row found (scanned 181 rows).
+[2025-08-25 09:43:42] ⚠️ No distinct header row found (scanned 181 rows).
+[2025-08-25 09:43:42] ⚠️ No distinct header row found (scanned 17 rows).
+[2025-08-25 09:43:42] ⚠️ No distinct header row found (scanned 17 rows).
+[2025-08-25 09:43:42] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-25 09:43:42] ✅ Created Payment Summary with 0 rows.
+[2025-08-25 09:43:42] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 09:43:42] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx
+[2025-08-25 09:43:54] Cleared all files.

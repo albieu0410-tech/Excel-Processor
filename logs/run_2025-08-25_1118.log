@@ -1,0 +1,1098 @@
+[2025-08-25 11:17:59] 🛑 [PS TRACE] Row 188: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 189: read date=2016-04-04 11:04:07, amount=11.11, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 189: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 190: read date=2016-04-04 08:56:26, amount=11.11, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 190: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 191: read date=2016-04-04 09:37:11, amount=11.11, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 191: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 192: read date=2016-04-06 08:22:51, amount=35.39, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 192: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 193: read date=2016-04-06 08:49:42, amount=11.06, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 193: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 194: read date=2016-04-06 12:52:50, amount=20.05, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 194: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 195: read date=2016-04-07 04:55:19, amount=16.62, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 195: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 196: read date=2016-04-15 06:24:40, amount=10.98, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 196: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 197: read date=2016-04-15 11:18:13, amount=27.48, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 197: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 198: read date=2016-04-15 09:10:33, amount=27.48, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 198: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 199: read date=2016-04-15 13:22:11, amount=26.43, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 199: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 200: read date=2016-04-18 02:36:05, amount=27.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 200: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 201: read date=2016-04-19 13:10:42, amount=15.52, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 201: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 202: read date=2016-04-26 14:07:35, amount=23.11, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 202: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 203: read date=2016-04-26 14:54:48, amount=18.71, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 203: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 204: read date=2016-04-27 05:33:30, amount=11.02, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 204: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 205: read date=2016-04-27 06:35:17, amount=19.96, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 205: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 206: read date=2016-04-30 07:58:38, amount=27.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 206: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 207: read date=2016-04-30 15:19:24, amount=23.44, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 207: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 208: read date=2016-05-08 06:09:36, amount=22.24, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 208: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 209: read date=2016-05-08 06:28:27, amount=11.12, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 209: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 210: read date=2016-05-08 08:07:48, amount=11.12, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 210: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 211: read date=2016-05-08 12:49:14, amount=11.12, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 211: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 212: read date=2016-05-09 07:20:16, amount=13.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 212: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 213: read date=2016-05-10 15:05:15, amount=44.34, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 213: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 214: read date=2016-05-11 07:38:44, amount=50.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] ✅ [PS TRACE] Row 214: ACCEPT Redeem 50.0 USD on 2016-05-11 07:38:44 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 215: read date=2016-05-11 13:55:04, amount=16.71, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 215: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 216: read date=2016-05-11 14:57:59, amount=14.48, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 216: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 217: read date=2016-05-12 03:38:29, amount=14.46, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 217: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 218: read date=2016-05-12 04:09:37, amount=11.12, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 218: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 219: read date=2016-05-12 14:40:05, amount=11.09, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 219: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 220: read date=2016-05-13 13:24:21, amount=13.21, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 220: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 221: read date=2016-05-21 13:58:20, amount=32.83, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 221: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 222: read date=2016-05-21 14:23:20, amount=27.35, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 222: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 223: read date=2016-05-21 14:42:01, amount=10.94, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 223: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 224: read date=2016-05-21 15:08:31, amount=10.94, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 224: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 225: read date=2016-05-30 11:01:20, amount=16.29, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 225: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 226: read date=2016-06-07 04:20:41, amount=13.29, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 226: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:00] 🔍 [PS TRACE] Row 227: read date=2016-06-07 16:15:38, amount=22.14, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:00] 🛑 [PS TRACE] Row 227: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 228: read date=2016-06-10 04:51:12, amount=15.43, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 228: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 229: read date=2016-06-10 17:32:29, amount=18.65, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 229: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 230: read date=2016-06-11 06:33:41, amount=19.74, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 230: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 231: read date=2016-06-19 14:42:57, amount=13.19, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 231: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 232: read date=2016-06-21 07:53:37, amount=15.45, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 232: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 233: read date=2016-06-23 12:59:28, amount=16.65, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 233: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 234: read date=2016-06-25 10:58:15, amount=32.52, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 234: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 235: read date=2016-06-30 06:56:54, amount=32.62, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 235: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 236: read date=2016-06-30 08:08:39, amount=16.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 236: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 237: read date=2016-07-06 06:17:16, amount=26.95, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 237: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 238: read date=2016-07-08 08:44:18, amount=250.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] ✅ [PS TRACE] Row 238: ACCEPT Redeem 250.0 USD on 2016-07-08 08:44:18 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 239: read date=2016-07-17 12:49:17, amount=37.65, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 239: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 240: read date=2016-07-18 07:04:19, amount=11.84, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 240: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 241: read date=2016-07-18 07:11:17, amount=10.76, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 241: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 242: read date=2016-07-19 14:14:58, amount=18.25, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 242: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 243: read date=2016-07-23 14:08:35, amount=11.02, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 243: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 244: read date=2016-07-25 06:19:11, amount=26.79, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 244: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 245: read date=2016-07-27 16:03:40, amount=21.54, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 245: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 246: read date=2016-07-28 15:20:33, amount=12.95, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 246: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 247: read date=2016-07-29 06:32:57, amount=17.7, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 247: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 248: read date=2016-08-19 19:01:43, amount=11.04, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 248: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 249: read date=2016-08-19 16:53:52, amount=11.04, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 249: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 250: read date=2016-08-20 05:47:11, amount=18.77, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 250: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 251: read date=2016-09-01 13:37:45, amount=16.37, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 251: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 252: read date=2016-10-08 00:28:11, amount=23.05, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 252: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 253: read date=2016-09-06 14:50:22, amount=15.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 253: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 254: read date=2016-09-07 13:28:59, amount=20.81, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 254: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 255: read date=2016-09-10 05:53:23, amount=11.06, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 255: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 256: read date=2016-09-10 14:58:55, amount=13.0, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 256: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 257: read date=2016-09-11 14:33:16, amount=15.33, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 257: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 258: read date=2016-09-17 15:26:54, amount=10.87, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 258: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 259: read date=2016-09-27 13:13:17, amount=15.09, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 259: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 260: read date=2016-09-30 09:57:08, amount=10.0, type_raw='Deposit', label='Deposit', currency='EUR', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 260: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 261: read date=2016-11-05 00:26:54, amount=10.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 261: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 262: read date=2016-10-05 08:47:29, amount=12.02, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 262: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 263: read date=2016-11-07 00:37:39, amount=10.9, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 263: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 264: read date=2016-10-07 12:42:51, amount=38.06, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 264: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 265: read date=2016-10-08 06:06:05, amount=10.92, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 265: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 266: read date=2016-10-08 06:19:17, amount=10.92, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 266: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:01] 🔍 [PS TRACE] Row 267: read date=2016-10-08 13:34:28, amount=18.02, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:01] 🛑 [PS TRACE] Row 267: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 268: read date=2016-10-19 05:40:50, amount=10.72, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 268: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 269: read date=2016-10-19 21:29:46, amount=400.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] ✅ [PS TRACE] Row 269: ACCEPT Redeem 400.0 USD on 2016-10-19 21:29:46 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 270: read date=2016-10-24 05:02:52, amount=10.61, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 270: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 271: read date=2016-10-24 13:47:22, amount=10.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 271: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 272: read date=2016-10-24 14:15:42, amount=10.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 272: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 273: read date=2016-10-25 12:53:05, amount=24.41, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 273: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 274: read date=2016-10-30 08:23:56, amount=10.71, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 274: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 275: read date=2016-10-31 13:59:09, amount=14.96, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 275: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 276: read date=2016-11-01 13:35:25, amount=26.94, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 276: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 277: read date=2016-11-02 04:40:01, amount=10.81, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 277: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 278: read date=2016-11-04 06:02:24, amount=18.39, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 278: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 279: read date=2016-12-10 00:33:16, amount=10.74, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 279: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 280: read date=2016-11-08 13:36:31, amount=10.74, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 280: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 281: read date=2016-11-11 04:18:21, amount=18.56, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 281: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 282: read date=2016-11-14 06:58:27, amount=10.49, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 282: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 283: read date=2016-11-14 07:02:20, amount=10.49, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 283: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 284: read date=2016-11-15 15:15:10, amount=10.45, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 284: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 285: read date=2016-11-22 13:37:50, amount=13.45, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 285: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 286: read date=2016-11-24 04:05:35, amount=10.29, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 286: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 287: read date=2016-11-24 08:54:22, amount=10.29, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 287: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 288: read date=2016-11-25 09:17:47, amount=10.33, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 288: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 289: read date=2016-11-26 05:58:42, amount=20.65, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 289: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 290: read date=2016-11-28 21:04:55, amount=43.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] ✅ [PS TRACE] Row 290: ACCEPT Redeem 43.0 USD on 2016-11-28 21:04:55 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 291: read date=2016-12-01 15:25:37, amount=25.43, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 291: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 292: read date=2016-12-05 11:16:15, amount=10.45, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 292: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 293: read date=2016-12-06 19:52:33, amount=224.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] ✅ [PS TRACE] Row 293: ACCEPT Redeem 224.0 USD on 2016-12-06 19:52:33 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 294: read date=2016-12-13 14:52:21, amount=17.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 294: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 295: read date=2016-12-15 19:21:02, amount=20.3, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 295: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 296: read date=2016-12-16 04:26:32, amount=23.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] ✅ [PS TRACE] Row 296: ACCEPT Redeem 23.0 USD on 2016-12-16 04:26:32 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 297: read date=2016-12-16 05:15:50, amount=20.39, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 297: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 298: read date=2016-12-16 16:50:25, amount=30.0, type_raw='Deposit', label='Deposit', currency='EUR', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 298: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 299: read date=2016-12-21 05:08:11, amount=17.93, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 299: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 300: read date=2016-12-29 05:56:08, amount=15.31, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 300: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 301: read date=2017-01-04 13:37:04, amount=20.42, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 301: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 302: read date=2017-01-10 10:41:06, amount=30.96, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 302: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 303: read date=2017-01-24 05:54:36, amount=17.79, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 303: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 304: read date=2017-02-04 15:23:14, amount=10.51, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 304: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:02] 🔍 [PS TRACE] Row 305: read date=2017-03-14 00:53:45, amount=17.64, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:02] 🛑 [PS TRACE] Row 305: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 306: read date=2017-02-10 06:07:16, amount=17.64, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 306: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 307: read date=2017-02-13 06:10:17, amount=15.56, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 307: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 308: read date=2017-03-17 00:53:29, amount=11.41, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 308: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 309: read date=2017-02-13 06:41:59, amount=10.37, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 309: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 310: read date=2017-02-14 08:12:10, amount=10.35, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 310: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 311: read date=2017-02-16 12:41:04, amount=17.66, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 311: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 312: read date=2017-02-18 05:37:02, amount=12.42, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 312: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 313: read date=2017-02-18 09:05:49, amount=10.35, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 313: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 314: read date=2017-02-20 08:08:53, amount=10.34, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 314: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 315: read date=2017-02-24 10:35:33, amount=10.31, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 315: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 316: read date=2017-02-25 06:54:17, amount=10.29, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 316: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 317: read date=2017-03-01 09:39:08, amount=10.26, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 317: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 318: read date=2017-03-04 09:37:44, amount=20.71, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 318: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 319: read date=2017-03-06 04:57:35, amount=10.35, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 319: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 320: read date=2017-03-06 05:56:31, amount=11.04, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 320: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 321: read date=2017-03-09 12:25:06, amount=10.31, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 321: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 322: read date=2017-03-10 10:52:53, amount=10.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 322: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 323: read date=2017-03-17 10:34:34, amount=10.48, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 323: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 324: read date=2017-03-20 12:45:25, amount=12.56, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 324: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 325: read date=2017-03-21 09:43:01, amount=10.53, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 325: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 326: read date=2017-04-08 06:47:49, amount=10.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 326: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 327: read date=2017-04-20 12:29:14, amount=26.19, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 327: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 328: read date=2017-04-26 17:13:44, amount=26.57, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 328: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 329: read date=2017-04-28 12:36:47, amount=14.87, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 329: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 330: read date=2017-05-02 11:17:36, amount=18.07, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 330: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 331: read date=2017-05-02 13:16:41, amount=15.95, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 331: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 332: read date=2017-05-03 06:04:32, amount=13.82, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 332: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 333: read date=2017-05-04 11:08:53, amount=21.34, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 333: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 334: read date=2017-05-06 14:15:46, amount=19.3, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 334: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 335: read date=2017-05-11 10:36:26, amount=21.19, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 335: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 336: read date=2017-05-19 11:14:47, amount=43.66, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 336: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 337: read date=2017-05-20 09:26:02, amount=21.84, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 337: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 338: read date=2017-06-24 00:34:47, amount=16.42, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 338: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 339: read date=2017-05-23 12:13:17, amount=16.37, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 339: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 340: read date=2017-05-26 13:30:46, amount=21.79, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 340: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 341: read date=2017-05-28 13:34:04, amount=51.23, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 341: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 342: read date=2017-06-06 04:34:37, amount=17.54, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 342: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 343: read date=2017-06-11 12:09:00, amount=19.64, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 343: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 344: read date=2017-08-18 12:35:04, amount=17.18, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 344: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 345: read date=2017-08-27 08:24:37, amount=11.62, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 345: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 346: read date=2017-10-06 10:22:25, amount=13.68, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 346: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 347: read date=2017-10-20 14:03:30, amount=11.49, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 347: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 348: read date=2017-10-24 22:11:59, amount=50.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] ✅ [PS TRACE] Row 348: ACCEPT Redeem 50.0 USD on 2017-10-24 22:11:59 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 349: read date=2017-10-31 05:37:34, amount=56.73, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 349: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 350: read date=2017-12-11 05:47:19, amount=14.2, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:03] 🛑 [PS TRACE] Row 350: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:03] 🔍 [PS TRACE] Row 351: read date=2018-01-18 10:38:56, amount=43.0, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 351: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 352: read date=2018-01-27 08:51:12, amount=30.29, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 352: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 353: read date=2018-02-04 10:02:56, amount=12.14, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 353: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 354: read date=2018-02-15 06:05:48, amount=20.7, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 354: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 355: read date=2018-03-08 11:09:40, amount=42.12, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 355: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 356: read date=2018-09-15 07:42:26, amount=11.34, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 356: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 357: read date=2018-10-29 14:45:24, amount=33.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 357: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 358: read date=2018-12-22 12:18:45, amount=27.71, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 358: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 359: read date=2019-01-18 11:19:12, amount=22.16, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 359: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 360: read date=2019-01-20 10:20:42, amount=27.7, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 360: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 361: read date=2019-01-21 08:28:01, amount=60.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:04] 🧪 [PS DEBUG] Skipping row 361: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 362: read date=2019-01-22 08:57:17, amount=11.06, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 362: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 363: read date=2019-01-22 10:53:17, amount=16.61, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 363: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 364: read date=2019-01-22 14:24:02, amount=11.08, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 364: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 365: read date=2019-01-27 05:41:13, amount=22.24, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 365: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 366: read date=2019-01-27 12:05:29, amount=14.45, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 366: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 367: read date=2019-01-27 22:02:22, amount=30.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] ✅ [PS TRACE] Row 367: ACCEPT Redeem 30.0 USD on 2019-01-27 22:02:22 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 368: read date=2019-01-29 13:43:35, amount=41.22, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 368: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 369: read date=2019-01-30 12:08:03, amount=12.02, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 369: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 370: read date=2019-02-04 11:31:28, amount=22.28, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 370: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 371: read date=2019-02-04 11:52:47, amount=13.37, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 371: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 372: read date=2019-02-07 14:40:13, amount=11.06, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 372: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 373: read date=2019-02-11 22:07:00, amount=145.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] ✅ [PS TRACE] Row 373: ACCEPT Redeem 145.0 USD on 2019-02-11 22:07:00 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 374: read date=2019-02-17 10:35:12, amount=90.0, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 374: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 375: read date=2019-02-18 11:18:45, amount=16.53, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 375: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 376: read date=2019-02-18 13:53:02, amount=11.02, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 376: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 377: read date=2019-02-19 05:14:44, amount=13.22, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 377: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 378: read date=2019-02-19 05:34:45, amount=11.02, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 378: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 379: read date=2019-02-26 04:00:32, amount=25.46, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 379: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 380: read date=2019-02-26 08:38:22, amount=12.18, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 380: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 381: read date=2019-02-27 14:51:49, amount=11.08, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 381: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 382: read date=2019-03-04 04:55:57, amount=16.59, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 382: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 383: read date=2019-03-06 13:51:40, amount=22.05, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 383: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 384: read date=2019-03-07 04:46:39, amount=12.13, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 384: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 385: read date=2019-03-07 13:58:42, amount=12.03, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 385: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 386: read date=2019-03-09 13:36:09, amount=11.17, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 386: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 387: read date=2019-03-10 15:31:12, amount=16.0, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 387: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 388: read date=2019-03-15 08:38:24, amount=32.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:04] 🧪 [PS DEBUG] Skipping row 388: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 389: read date=2019-03-17 14:09:47, amount=92.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:04] 🧪 [PS DEBUG] Skipping row 389: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 390: read date=2019-03-15 13:38:47, amount=22.07, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 390: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 391: read date=2019-03-16 06:26:18, amount=15.46, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 391: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 392: read date=2019-03-17 20:34:26, amount=49.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] ✅ [PS TRACE] Row 392: ACCEPT Redeem 49.0 USD on 2019-03-17 20:34:26 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 393: read date=2019-03-18 17:16:10, amount=12.38, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 393: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 394: read date=2019-03-19 13:12:36, amount=15.49, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 394: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 395: read date=2019-03-19 14:03:03, amount=11.07, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 395: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 396: read date=2019-03-19 14:24:52, amount=11.07, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 396: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 397: read date=2019-03-22 14:12:12, amount=12.11, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:04] 🛑 [PS TRACE] Row 397: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:04] 🔍 [PS TRACE] Row 398: read date=2019-03-22 15:50:31, amount=11.01, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 398: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 399: read date=2019-03-23 15:35:56, amount=107.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] ✅ [PS TRACE] Row 399: ACCEPT Redeem 107.0 USD on 2019-03-23 15:35:56 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 400: read date=2019-03-24 07:41:30, amount=16.53, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 400: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 401: read date=2019-03-27 04:53:42, amount=18.67, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 401: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 402: read date=2019-03-28 10:11:29, amount=10.93, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 402: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 403: read date=2019-03-28 10:30:56, amount=10.94, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 403: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 404: read date=2019-03-30 08:32:49, amount=27.37, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 404: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 405: read date=2019-03-30 19:10:05, amount=320.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 405: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 406: read date=2019-03-31 07:36:22, amount=379.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 406: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 407: read date=2019-03-31 10:18:04, amount=345.21, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 407: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 408: read date=2019-03-31 11:52:44, amount=329.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 408: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 409: read date=2019-03-31 12:05:51, amount=321.42, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 409: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 410: read date=2019-03-31 20:54:47, amount=310.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] ✅ [PS TRACE] Row 410: ACCEPT Redeem 310.0 USD on 2019-03-31 20:54:47 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 411: read date=2019-04-01 13:21:13, amount=22.06, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 411: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 412: read date=2019-04-04 13:10:11, amount=10.93, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 412: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 413: read date=2019-04-05 08:47:17, amount=29.56, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 413: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 414: read date=2019-04-06 12:28:43, amount=81.63, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 414: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 415: read date=2019-04-07 11:52:49, amount=19.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 415: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 416: read date=2019-04-07 15:22:24, amount=10.93, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 416: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 417: read date=2019-04-13 08:46:16, amount=55.08, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 417: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 418: read date=2019-04-13 11:17:12, amount=22.03, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 418: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 419: read date=2019-05-16 00:24:52, amount=11.01, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 419: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 420: read date=2019-04-15 04:49:47, amount=422.07, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] ✅ [PS TRACE] Row 420: ACCEPT Redeem 422.07 USD on 2019-04-15 04:49:47 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 421: read date=2019-04-15 08:18:14, amount=12.88, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 421: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 422: read date=2019-04-21 10:51:33, amount=21.92, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 422: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 423: read date=2019-04-21 12:25:26, amount=32.89, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 423: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 424: read date=2019-04-21 14:07:52, amount=25.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 424: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 425: read date=2019-04-21 14:12:40, amount=21.93, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 425: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 426: read date=2019-04-22 08:40:35, amount=13.16, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 426: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 427: read date=2019-04-29 09:47:04, amount=10.87, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 427: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 428: read date=2019-05-02 11:43:42, amount=10.13, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 428: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 429: read date=2019-05-05 14:19:57, amount=19.67, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 429: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 430: read date=2019-05-05 14:22:04, amount=26.23, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 430: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 431: read date=2019-05-05 14:53:40, amount=86.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 431: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 432: read date=2019-05-05 14:59:11, amount=64.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 432: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 433: read date=2019-05-05 15:26:05, amount=115.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 433: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 434: read date=2019-05-05 15:39:08, amount=101.23, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 434: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 435: read date=2019-05-05 21:17:05, amount=91.23, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] ✅ [PS TRACE] Row 435: ACCEPT Redeem 91.23 USD on 2019-05-05 21:17:05 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 436: read date=2019-05-09 09:54:18, amount=33.76, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 436: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 437: read date=2019-05-10 17:05:28, amount=10.05, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 437: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 438: read date=2019-05-11 08:05:02, amount=240.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 438: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 439: read date=2019-05-12 12:15:13, amount=170.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 439: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 440: read date=2019-05-12 21:44:51, amount=120.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] ✅ [PS TRACE] Row 440: ACCEPT Redeem 120.0 USD on 2019-05-12 21:44:51 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 441: read date=2019-05-13 09:06:42, amount=10.01, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:05] 🛑 [PS TRACE] Row 441: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 442: read date=2019-05-14 11:58:00, amount=290.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 442: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 443: read date=2019-05-14 14:26:56, amount=270.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 443: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 444: read date=2019-05-14 14:51:24, amount=260.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:05] 🧪 [PS DEBUG] Skipping row 444: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:05] 🔍 [PS TRACE] Row 445: read date=2019-05-14 22:09:30, amount=255.67, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] ✅ [PS TRACE] Row 445: ACCEPT Redeem 255.67 USD on 2019-05-14 22:09:30 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 446: read date=2019-05-15 12:14:06, amount=35.96, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 446: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 447: read date=2019-06-17 00:37:02, amount=21.74, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 447: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 448: read date=2019-05-16 11:04:09, amount=33.7, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 448: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 449: read date=2019-05-18 12:09:24, amount=200.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 449: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 450: read date=2019-05-18 12:51:00, amount=160.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 450: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 451: read date=2019-05-18 14:15:55, amount=150.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 451: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 452: read date=2019-05-19 19:11:01, amount=165.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] ✅ [PS TRACE] Row 452: ACCEPT Redeem 165.0 USD on 2019-05-19 19:11:01 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 453: read date=2019-05-23 14:30:49, amount=32.62, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 453: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 454: read date=2019-05-23 14:51:38, amount=32.62, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 454: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 455: read date=2019-06-24 00:25:35, amount=23.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 455: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 456: read date=2019-05-24 11:37:06, amount=24.63, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 456: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 457: read date=2019-05-27 14:00:41, amount=108.84, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 457: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 458: read date=2019-05-27 17:30:40, amount=14.48, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 458: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 459: read date=2019-05-28 16:01:40, amount=10.42, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 459: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 460: read date=2019-06-06 09:10:25, amount=10.12, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 460: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 461: read date=2019-06-08 09:09:25, amount=22.04, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 461: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 462: read date=2019-06-16 20:55:57, amount=270.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] ✅ [PS TRACE] Row 462: ACCEPT Redeem 270.0 USD on 2019-06-16 20:55:57 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 463: read date=2019-06-18 14:43:08, amount=10.01, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 463: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 464: read date=2019-06-19 09:45:54, amount=10.89, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 464: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 465: read date=2019-06-26 08:31:46, amount=10.05, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 465: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 466: read date=2019-06-26 10:57:24, amount=330.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 466: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 467: read date=2019-06-26 11:28:37, amount=380.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 467: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 468: read date=2019-06-26 11:40:05, amount=450.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 468: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 469: read date=2019-06-26 20:25:21, amount=100.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] ✅ [PS TRACE] Row 469: ACCEPT Redeem 100.0 USD on 2019-06-26 20:25:21 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 470: read date=2019-06-28 15:19:07, amount=200.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 470: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 471: read date=2019-06-28 15:29:46, amount=300.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 471: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 472: read date=2019-06-28 15:36:23, amount=300.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 472: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 473: read date=2019-06-28 15:42:45, amount=350.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 473: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 474: read date=2019-06-28 15:45:27, amount=340.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 474: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 475: read date=2019-06-28 16:20:53, amount=350.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 475: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 476: read date=2019-06-28 16:43:50, amount=600.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 476: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 477: read date=2019-06-28 17:01:35, amount=640.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 477: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 478: read date=2019-06-28 17:37:50, amount=24.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 478: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 479: read date=2019-06-28 19:07:47, amount=430.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 479: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 480: read date=2019-06-28 19:13:38, amount=375.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 480: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 481: read date=2019-06-29 06:24:03, amount=25.46, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 481: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 482: read date=2019-06-29 06:26:51, amount=18.82, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 482: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 483: read date=2019-06-29 06:32:12, amount=11.07, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 483: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 484: read date=2019-06-29 16:27:44, amount=22.11, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 484: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 485: read date=2019-06-29 18:02:45, amount=14.37, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 485: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 486: read date=2019-06-29 19:19:07, amount=400.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 486: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 487: read date=2019-06-30 07:36:30, amount=890.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 487: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 488: read date=2019-06-30 15:27:45, amount=780.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 488: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 489: read date=2019-07-01 13:21:17, amount=490.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 489: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 490: read date=2019-07-01 15:38:33, amount=670.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 490: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 491: read date=2019-07-02 11:27:15, amount=650.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 491: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 492: read date=2019-07-03 06:31:03, amount=1110.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 492: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 493: read date=2019-07-03 16:55:51, amount=860.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:06] 🧪 [PS DEBUG] Skipping row 493: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 494: read date=2019-07-15 16:09:26, amount=16.42, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:06] 🛑 [PS TRACE] Row 494: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:06] 🔍 [PS TRACE] Row 495: read date=2019-07-16 05:15:48, amount=14.43, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 495: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 496: read date=2019-08-17 00:39:54, amount=10.37, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 496: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 497: read date=2019-08-17 00:39:30, amount=10.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 497: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 498: read date=2019-07-16 10:01:35, amount=10.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 498: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 499: read date=2019-07-17 09:08:39, amount=10.9, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 499: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 500: read date=2019-07-17 10:12:00, amount=21.81, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 500: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 501: read date=2019-08-18 00:34:11, amount=16.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 501: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 502: read date=2019-07-17 11:02:56, amount=14.18, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 502: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 503: read date=2019-07-19 15:29:04, amount=16.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 503: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 504: read date=2019-07-19 15:34:07, amount=10.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 504: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 505: read date=2019-07-19 16:57:01, amount=10.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 505: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 506: read date=2019-07-20 03:55:54, amount=13.14, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 506: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 507: read date=2019-07-20 04:00:48, amount=10.95, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 507: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 508: read date=2019-07-20 15:56:50, amount=10.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 508: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 509: read date=2019-07-21 13:43:00, amount=13.8, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 509: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 510: read date=2019-07-21 14:19:44, amount=10.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 510: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 511: read date=2019-07-22 15:51:44, amount=10.41, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 511: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 512: read date=2019-07-23 13:56:15, amount=10.41, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 512: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 513: read date=2019-07-25 14:34:22, amount=10.51, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 513: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 514: read date=2019-07-26 15:50:48, amount=10.49, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 514: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 515: read date=2019-08-27 00:22:48, amount=12.98, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 515: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 516: read date=2019-11-16 11:30:16, amount=21.49, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 516: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 517: read date=2019-11-16 14:01:36, amount=10.53, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 517: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 518: read date=2019-11-21 12:43:30, amount=21.51, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 518: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 519: read date=2019-11-21 13:20:59, amount=10.75, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 519: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 520: read date=2019-11-28 16:15:03, amount=13.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 520: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 521: read date=2019-11-30 09:03:16, amount=14.99, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 521: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 522: read date=2020-01-07 01:56:32, amount=10.74, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 522: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 523: read date=2019-12-06 09:55:09, amount=21.48, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 523: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 524: read date=2019-12-06 11:02:32, amount=16.07, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 524: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 525: read date=2019-12-06 15:10:06, amount=21.44, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 525: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 526: read date=2019-12-06 15:13:59, amount=16.08, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 526: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 527: read date=2019-12-06 15:19:50, amount=10.72, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 527: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 528: read date=2019-12-06 15:24:02, amount=11.79, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 528: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 529: read date=2019-12-13 13:23:03, amount=16.18, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 529: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 530: read date=2019-12-14 10:44:49, amount=17.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 530: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 531: read date=2019-12-21 10:34:12, amount=21.48, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 531: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 532: read date=2019-12-21 10:55:07, amount=10.2, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 532: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 533: read date=2019-12-21 16:15:48, amount=10.2, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 533: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 534: read date=2019-12-21 16:45:25, amount=10.2, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 534: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 535: read date=2019-12-22 14:33:09, amount=21.48, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 535: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 536: read date=2019-12-25 15:51:29, amount=27.21, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 536: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 537: read date=2019-12-27 10:52:13, amount=37.94, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 537: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 538: read date=2019-12-28 08:25:29, amount=65.04, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 538: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:07] 🔍 [PS TRACE] Row 539: read date=2019-12-28 10:26:21, amount=108.4, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:07] 🛑 [PS TRACE] Row 539: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 540: read date=2019-12-28 12:00:21, amount=32.52, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 540: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 541: read date=2019-12-28 15:47:34, amount=43.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 541: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 542: read date=2019-12-30 03:21:14, amount=484.13, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] ✅ [PS TRACE] Row 542: ACCEPT Redeem 484.13 USD on 2019-12-30 03:21:14 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 543: read date=2020-01-01 13:41:34, amount=11.2, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 543: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 544: read date=2020-01-01 13:59:23, amount=16.33, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 544: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 545: read date=2020-01-01 14:22:50, amount=13.59, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 545: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 546: read date=2020-01-25 08:18:17, amount=22.46, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 546: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 547: read date=2020-02-08 12:15:56, amount=21.23, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 547: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 548: read date=2020-02-15 08:18:06, amount=25.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 548: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 549: read date=2020-02-15 13:53:01, amount=21.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 549: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 550: read date=2020-02-16 06:09:41, amount=12.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 550: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 551: read date=2020-02-25 13:19:23, amount=15.83, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 551: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 552: read date=2020-02-29 15:11:25, amount=23.53, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 552: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 553: read date=2020-03-01 15:41:24, amount=135.52, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:08] 🧪 [PS DEBUG] Skipping row 553: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 554: read date=2020-03-01 19:50:19, amount=135.32, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] ✅ [PS TRACE] Row 554: ACCEPT Redeem 135.32 USD on 2020-03-01 19:50:19 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 555: read date=2020-03-03 10:30:44, amount=10.83, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 555: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 556: read date=2020-03-07 07:42:26, amount=14.23, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 556: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 557: read date=2020-03-07 13:22:18, amount=11.38, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 557: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 558: read date=2020-03-14 15:14:28, amount=12.39, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 558: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 559: read date=2020-03-21 08:44:02, amount=21.89, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 559: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 560: read date=2020-03-21 10:36:02, amount=16.21, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 560: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 561: read date=2020-03-22 10:30:21, amount=20.85, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 561: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 562: read date=2020-03-29 07:16:39, amount=10.81, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 562: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 563: read date=2020-03-29 14:08:12, amount=17.3, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 563: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 564: read date=2020-04-04 07:19:37, amount=10.06, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 564: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 565: read date=2020-04-04 09:51:39, amount=10.06, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 565: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 566: read date=2020-04-05 05:26:37, amount=10.89, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 566: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 567: read date=2020-04-11 11:41:53, amount=18.03, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 567: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 568: read date=2020-04-11 13:21:57, amount=10.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 568: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 569: read date=2020-04-11 14:23:12, amount=14.85, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 569: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 570: read date=2020-04-12 08:16:01, amount=13.04, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 570: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 571: read date=2020-04-19 09:55:30, amount=21.09, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 571: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 572: read date=2020-04-19 13:23:18, amount=25.31, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 572: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 573: read date=2020-04-25 13:32:52, amount=13.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 573: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 574: read date=2020-04-26 13:49:09, amount=29.39, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 574: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 575: read date=2020-04-26 14:30:28, amount=17.01, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 575: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 576: read date=2020-05-03 07:07:03, amount=13.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 576: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 577: read date=2020-05-16 15:02:07, amount=12.59, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:08] 🛑 [PS TRACE] Row 577: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:08] 🔍 [PS TRACE] Row 578: read date=2020-05-17 10:13:22, amount=10.49, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 578: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 579: read date=2020-05-17 13:27:20, amount=31.49, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 579: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 580: read date=2020-05-24 14:15:42, amount=25.38, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 580: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 581: read date=2020-06-13 14:52:57, amount=10.92, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 581: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 582: read date=2020-06-18 08:57:19, amount=21.78, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 582: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 583: read date=2020-06-18 11:37:38, amount=13.06, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 583: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 584: read date=2020-06-23 05:27:11, amount=400.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] ✅ [PS TRACE] Row 584: ACCEPT Redeem 400.0 USD on 2020-06-23 05:27:11 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 585: read date=2020-06-30 04:51:24, amount=130.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] ✅ [PS TRACE] Row 585: ACCEPT Redeem 130.0 USD on 2020-06-30 04:51:24 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 586: read date=2020-07-03 14:52:28, amount=23.99, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 586: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 587: read date=2020-07-03 16:13:48, amount=16.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 587: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 588: read date=2020-07-04 06:47:55, amount=19.53, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 588: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 589: read date=2020-07-16 06:08:50, amount=10.05, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 589: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 590: read date=2020-07-16 06:10:55, amount=11.82, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 590: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 591: read date=2020-07-17 14:42:23, amount=38.05, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 591: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 592: read date=2020-07-19 20:15:07, amount=253.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] ✅ [PS TRACE] Row 592: ACCEPT Redeem 253.0 USD on 2020-07-19 20:15:07 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 593: read date=2020-07-23 07:28:41, amount=21.93, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 593: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 594: read date=2020-07-24 15:37:46, amount=22.58, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 594: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 595: read date=2020-07-25 15:26:57, amount=10.06, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 595: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 596: read date=2020-07-29 03:47:56, amount=388.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] ✅ [PS TRACE] Row 596: ACCEPT Redeem 388.0 USD on 2020-07-29 03:47:56 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 597: read date=2020-07-30 14:16:48, amount=22.94, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 597: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 598: read date=2020-08-02 13:05:17, amount=34.27, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 598: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 599: read date=2020-08-06 03:40:20, amount=333.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] ✅ [PS TRACE] Row 599: ACCEPT Redeem 333.0 USD on 2020-08-06 03:40:20 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 600: read date=2020-08-07 12:45:29, amount=13.7, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 600: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 601: read date=2020-08-07 12:50:58, amount=11.99, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 601: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 602: read date=2020-08-09 09:43:07, amount=350.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:09] 🧪 [PS DEBUG] Skipping row 602: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 603: read date=2020-08-09 11:47:08, amount=570.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:09] 🧪 [PS DEBUG] Skipping row 603: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 604: read date=2020-08-09 19:11:36, amount=700.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] ✅ [PS TRACE] Row 604: ACCEPT Redeem 700.0 USD on 2020-08-09 19:11:36 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 605: read date=2020-08-10 09:27:12, amount=11.41, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 605: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 606: read date=2020-08-10 13:52:22, amount=22.8, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 606: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 607: read date=2020-08-15 07:44:31, amount=11.02, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 607: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 608: read date=2020-08-22 14:56:33, amount=27.46, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 608: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 609: read date=2020-08-30 11:15:41, amount=20.44, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 609: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 610: read date=2020-09-04 13:41:24, amount=18.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 610: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 611: read date=2020-09-06 05:51:45, amount=10.79, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 611: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 612: read date=2020-09-06 07:42:29, amount=10.1, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 612: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 613: read date=2020-09-27 11:47:35, amount=22.56, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 613: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 614: read date=2020-10-02 13:21:20, amount=36.37, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:09] 🛑 [PS TRACE] Row 614: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:09] 🔍 [PS TRACE] Row 615: read date=2020-10-04 19:48:15, amount=170.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] ✅ [PS TRACE] Row 615: ACCEPT Redeem 170.0 USD on 2020-10-04 19:48:15 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 616: read date=2020-10-10 07:16:57, amount=22.95, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 616: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 617: read date=2020-10-10 08:30:02, amount=21.17, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:10] 🧪 [PS DEBUG] Skipping row 617: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 618: read date=2020-10-11 11:17:55, amount=270.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:10] 🧪 [PS DEBUG] Skipping row 618: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 619: read date=2020-10-12 13:00:51, amount=114.58, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 619: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 620: read date=2020-10-12 15:31:12, amount=22.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 620: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 621: read date=2020-10-16 11:11:15, amount=22.73, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 621: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 622: read date=2020-10-16 16:42:26, amount=34.09, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 622: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 623: read date=2020-10-16 16:57:46, amount=22.72, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 623: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 624: read date=2020-10-17 08:43:31, amount=22.73, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 624: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 625: read date=2020-10-17 11:16:52, amount=45.47, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 625: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 626: read date=2020-10-17 11:27:20, amount=22.73, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 626: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 627: read date=2020-10-17 11:31:11, amount=11.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 627: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 628: read date=2020-10-17 11:38:25, amount=11.36, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 628: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 629: read date=2020-10-17 11:44:59, amount=17.05, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 629: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 630: read date=2020-10-17 11:45:14, amount=17.05, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 630: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 631: read date=2020-10-17 11:46:07, amount=15.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 631: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 632: read date=2020-10-17 14:16:44, amount=17.05, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 632: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 633: read date=2020-10-17 12:33:58, amount=22.73, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 633: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 634: read date=2020-10-17 12:36:23, amount=22.73, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 634: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 635: read date=2020-10-17 15:44:53, amount=170.52, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 635: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 636: read date=2020-10-17 20:01:43, amount=56.84, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 636: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 637: read date=2020-10-17 18:09:38, amount=56.83, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 637: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 638: read date=2020-10-18 15:29:32, amount=34.1, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 638: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 639: read date=2020-10-18 15:35:27, amount=56.84, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 639: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 640: read date=2020-10-19 06:51:25, amount=57.03, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 640: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 641: read date=2020-10-19 07:32:50, amount=11.41, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 641: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 642: read date=2020-10-19 13:15:56, amount=57.15, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 642: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 643: read date=2020-10-19 14:54:26, amount=45.67, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 643: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 644: read date=2020-10-20 03:39:42, amount=509.73, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] ✅ [PS TRACE] Row 644: ACCEPT Redeem 509.73 EUR on 2020-10-20 03:39:42 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 645: read date=2020-10-20 16:24:00, amount=28.67, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 645: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 646: read date=2020-10-20 16:47:16, amount=10.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 646: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 647: read date=2020-10-21 05:04:00, amount=125.38, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 647: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 648: read date=2020-10-21 06:20:01, amount=22.98, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] 🛑 [PS TRACE] Row 648: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 649: read date=2020-10-22 04:47:19, amount=295.08, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:10] ✅ [PS TRACE] Row 649: ACCEPT Redeem 295.08 EUR on 2020-10-22 04:47:19 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:10] 🔍 [PS TRACE] Row 650: read date=2020-10-22 16:46:57, amount=22.93, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 650: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 651: read date=2020-10-23 07:08:46, amount=22.98, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 651: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 652: read date=2020-10-23 07:51:35, amount=11.49, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 652: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 653: read date=2020-10-23 14:19:31, amount=138.0, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 653: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 654: read date=2020-10-24 07:11:11, amount=28.76, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 654: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 655: read date=2020-10-25 10:35:16, amount=57.53, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 655: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 656: read date=2020-10-25 10:39:06, amount=23.01, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 656: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 657: read date=2020-10-25 11:00:01, amount=23.01, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 657: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 658: read date=2020-10-25 12:16:10, amount=225.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:11] 🧪 [PS DEBUG] Skipping row 658: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 659: read date=2020-10-25 12:29:45, amount=190.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:11] 🧪 [PS DEBUG] Skipping row 659: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 660: read date=2020-10-25 15:25:51, amount=172.42, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 660: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 661: read date=2020-10-25 15:30:21, amount=69.0, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 661: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 662: read date=2020-10-25 15:32:50, amount=67.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:11] 🧪 [PS DEBUG] Skipping row 662: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 663: read date=2020-10-25 15:34:41, amount=123.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:11] 🧪 [PS DEBUG] Skipping row 663: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 664: read date=2020-10-25 15:36:52, amount=190.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:11] 🧪 [PS DEBUG] Skipping row 664: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 665: read date=2020-10-25 15:42:07, amount=250.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:11] 🧪 [PS DEBUG] Skipping row 665: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 666: read date=2020-10-25 16:01:50, amount=340.0, type_raw='Redeem', label='Redeem', currency='USD', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:11] 🧪 [PS DEBUG] Skipping row 666: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 667: read date=2020-10-25 17:21:41, amount=253.0, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:11] 🧪 [PS DEBUG] Skipping row 667: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 668: read date=2020-10-25 21:27:17, amount=725.0, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] ✅ [PS TRACE] Row 668: ACCEPT Redeem 725.0 EUR on 2020-10-25 21:27:17 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 669: read date=2020-10-26 04:49:01, amount=37.83, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 669: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 670: read date=2020-10-26 05:52:46, amount=13.74, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 670: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 671: read date=2020-10-31 14:49:40, amount=90.45, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 671: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 672: read date=2020-10-31 16:22:25, amount=38.42, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 672: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 673: read date=2020-11-01 12:57:21, amount=10.19, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 673: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 674: read date=2020-11-01 13:51:06, amount=28.3, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 674: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 675: read date=2020-11-01 13:52:06, amount=28.3, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 675: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 676: read date=2020-11-01 14:50:07, amount=27.12, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 676: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 677: read date=2020-11-01 16:53:16, amount=56.49, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 677: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 678: read date=2020-11-01 16:58:02, amount=39.54, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 678: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 679: read date=2020-11-01 17:04:26, amount=16.94, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 679: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 680: read date=2020-11-10 05:05:21, amount=11.0, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 680: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 681: read date=2020-11-14 14:02:31, amount=11.47, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 681: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 682: read date=2020-11-15 09:58:01, amount=11.48, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 682: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 683: read date=2020-11-15 10:29:16, amount=10.33, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 683: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 684: read date=2020-11-15 12:56:56, amount=114.8, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:11] 🛑 [PS TRACE] Row 684: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:11] 🔍 [PS TRACE] Row 685: read date=2020-11-15 21:47:36, amount=717.58, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] ✅ [PS TRACE] Row 685: ACCEPT Redeem 717.58 EUR on 2020-11-15 21:47:36 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 686: read date=2020-11-16 14:45:00, amount=49.4, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 686: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 687: read date=2020-11-17 14:07:55, amount=115.08, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 687: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 688: read date=2020-11-18 12:53:06, amount=17.26, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 688: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 689: read date=2020-11-19 07:00:51, amount=10.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 689: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 690: read date=2020-11-19 07:43:31, amount=10.33, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 690: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 691: read date=2020-12-21 02:21:56, amount=10.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 691: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 692: read date=2020-11-19 09:30:47, amount=10.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 692: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 693: read date=2020-11-19 13:41:32, amount=16.09, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 693: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 694: read date=2020-11-19 14:48:47, amount=26.7, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 694: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 695: read date=2020-11-21 13:57:36, amount=46.0, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 695: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 696: read date=2020-11-21 14:35:43, amount=11.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 696: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 697: read date=2020-11-21 16:36:06, amount=11.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 697: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 698: read date=2020-11-27 13:30:16, amount=57.96, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 698: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 699: read date=2020-11-27 15:03:32, amount=40.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 699: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 700: read date=2020-11-27 17:48:11, amount=14.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 700: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 701: read date=2020-11-28 13:25:27, amount=19.72, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 701: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 702: read date=2020-11-28 13:21:56, amount=18.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 702: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 703: read date=2020-11-28 17:53:08, amount=69.63, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 703: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 704: read date=2020-11-29 19:06:11, amount=47.47, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] ✅ [PS TRACE] Row 704: ACCEPT Redeem 47.47 EUR on 2020-11-29 19:06:11 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 705: read date=2021-01-30 13:09:47, amount=82.4, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 705: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 706: read date=2021-02-21 11:47:51, amount=11.75, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 706: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 707: read date=2021-03-05 13:01:30, amount=70.29, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 707: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 708: read date=2021-03-03 12:21:53, amount=26.35, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 708: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 709: read date=2021-03-03 13:40:45, amount=10.18, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 709: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 710: read date=2021-03-04 08:09:02, amount=11.67, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 710: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 711: read date=2021-04-11 09:51:44, amount=63.52, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🧪 [PS DEBUG] Skipping row 711: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 712: read date=2021-04-11 11:26:42, amount=79.63, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 712: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 713: read date=2021-04-11 11:26:52, amount=79.63, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 713: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 714: read date=2021-04-13 13:25:41, amount=18.18, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 714: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 715: read date=2021-04-26 13:27:40, amount=70.34, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 715: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 716: read date=2021-05-06 08:37:05, amount=25.72, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 716: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 717: read date=2021-05-16 12:51:30, amount=10.01, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 717: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 718: read date=2021-05-24 14:25:29, amount=68.13, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 718: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 719: read date=2021-06-01 13:15:06, amount=35.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 719: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 720: read date=2021-06-22 04:35:19, amount=23.07, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 720: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 721: read date=2021-06-24 18:27:10, amount=201.0, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:18:12] 🧪 [PS DEBUG] Skipping row 721: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 722: read date=2021-06-28 11:15:38, amount=578.45, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 722: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 723: read date=2021-07-02 11:48:30, amount=40.21, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 723: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 724: read date=2021-07-03 08:00:37, amount=953.92, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:12] 🛑 [PS TRACE] Row 724: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 725: read date=2021-07-04 14:41:25, amount=1303.13, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:18:12] 🧪 [PS DEBUG] Skipping row 725: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 11:18:12] 🔍 [PS TRACE] Row 726: read date=2021-07-05 02:01:00, amount=1224.78, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:13] ✅ [PS TRACE] Row 726: ACCEPT Redeem 1224.78 EUR on 2021-07-05 02:01:00 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:13] 🔍 [PS TRACE] Row 727: read date=2021-07-08 02:41:04, amount=520.0, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:13] ✅ [PS TRACE] Row 727: ACCEPT Redeem 520.0 EUR on 2021-07-08 02:41:04 (status='Approved'→'pay_closed')
+[2025-08-25 11:18:13] 🔍 [PS TRACE] Row 728: read date=2021-07-09 04:47:45, amount=38.24, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:13] 🛑 [PS TRACE] Row 728: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:13] 🔍 [PS TRACE] Row 729: read date=2021-07-12 06:54:42, amount=26.44, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:13] 🛑 [PS TRACE] Row 729: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:13] 🔍 [PS TRACE] Row 730: read date=2021-07-12 11:40:34, amount=21.86, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:13] 🛑 [PS TRACE] Row 730: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:13] 🔍 [PS TRACE] Row 731: read date=2021-07-13 05:57:56, amount=29.86, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:13] 🛑 [PS TRACE] Row 731: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:13] 🔍 [PS TRACE] Row 732: read date=2021-07-13 05:59:17, amount=15.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:13] 🛑 [PS TRACE] Row 732: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:13] 🔍 [PS TRACE] Row 733: read date=2021-07-26 14:51:10, amount=24.9, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:13] 🛑 [PS TRACE] Row 733: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:13] 🔍 [PS TRACE] Row 734: read date=2021-08-12 07:37:01, amount=626.33, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='pay_closed'
+[2025-08-25 11:18:13] 🛑 [PS TRACE] Row 734: skipped — label='Deposit', status='Approved'→'pay_closed' not accepted
+[2025-08-25 11:18:13] 📊 [PS TRACE] Scan summary for 'PS Transactions': scanned=726, accepted=36, skipped=690
+[2025-08-25 11:18:13] TA logic: Deposits = 0, Cashouts = 10173.06, Net = -10173.06
+[2025-08-25 11:18:13] ✅ Created Payment Summary with 36 rows.
+[2025-08-25 11:18:13] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:18:13] ✅ Finished processing: TA_Pokerstars.xlsx

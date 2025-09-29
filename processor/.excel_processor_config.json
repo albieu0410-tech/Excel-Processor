@@ -1,0 +1,34 @@
+{
+  "sharepoint_dir": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents",
+  "it_health_path": "",
+  "it_notes_path": "",
+  "activecampaign": {
+    "pipeline_id": 5,
+    "pipeline_title": "GS Casino - NL",
+    "stage_id": 37,
+    "stage_title": "Gamechanger Check (Manual)",
+    "stage_order": 11,
+    "last_preview_deals": [
+      {
+        "id": "23142",
+        "title": "Geijtenbeek-Vink Petra, Oranjecasino"
+      },
+      {
+        "id": "22332",
+        "title": "Jan Nathanael Hoekstra, Betsson"
+      },
+      {
+        "id": "23140",
+        "title": "Geijtenbeek-Vink Petra, Bobcasino"
+      },
+      {
+        "id": "22334",
+        "title": "Jan Nathanael Hoekstra, Krooncasino"
+      },
+      {
+        "id": "15619",
+        "title": "Minas Calisir, One Casino"
+      }
+    ]
+  }
+}

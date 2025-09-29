@@ -1,0 +1,10 @@
+[2025-08-21 15:29:10] ❌ Failed to add TA_Pokerstars.xlsx — [Errno 13] Permission denied: 'C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/23193 - Richard Jonker, PokerStars/TA_Pokerstars.xlsx'
+[2025-08-21 15:29:20] ➕ Added 1 file(s).
+[2025-08-21 15:29:21] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-21 15:29:21] 📑 Using sheet: PS Transactions
+[2025-08-21 15:29:21] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-08-21 15:29:21] ℹ️ PokerStars parser: scanned 726 rows after header; classified 629 deposits and 97 cashouts. Skipped 0 non-payment rows.
+[2025-08-21 15:29:21] TA logic: Deposits = 13771.79, Cashouts = 10173.06, Net = 3598.7300000000014
+[2025-08-21 15:29:21] ✅ Created Payment Summary with 594 rows.
+[2025-08-21 15:29:21] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 15:29:21] ✅ Finished processing: TA_Pokerstars.xlsx

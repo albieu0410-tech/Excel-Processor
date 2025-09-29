@@ -1,0 +1,958 @@
+[2025-08-21 12:59:59] ✅ Row 259: Deposit accepted — 15.09 at 2016-09-27 13:12:27 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 260: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.0 dt='2016-09-30 09:56:09'
+[2025-08-21 13:00:00] ✅ Row 260: Deposit accepted — 10.0 at 2016-09-30 09:56:09 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 261: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=10.91 dt='2016-10-04 14:56:37'
+[2025-08-21 13:00:00] ⚠️ Row 261: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:00] ℹ️ Row 262: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.02 dt='2016-10-05 08:46:33'
+[2025-08-21 13:00:00] ✅ Row 262: Deposit accepted — 12.02 at 2016-10-05 08:46:33 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 263: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=10.9 dt='2016-10-06 10:23:52'
+[2025-08-21 13:00:00] ⚠️ Row 263: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:00] ℹ️ Row 264: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=38.06 dt='2016-10-07 12:42:04'
+[2025-08-21 13:00:00] ✅ Row 264: Deposit accepted — 38.06 at 2016-10-07 12:42:04 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 265: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.92 dt='2016-10-08 06:05:03'
+[2025-08-21 13:00:00] ✅ Row 265: Deposit accepted — 10.92 at 2016-10-08 06:05:03 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 266: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.92 dt='2016-10-08 06:18:35'
+[2025-08-21 13:00:00] ✅ Row 266: Deposit accepted — 10.92 at 2016-10-08 06:18:35 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 267: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=18.02 dt='2016-10-08 13:33:38'
+[2025-08-21 13:00:00] ✅ Row 267: Deposit accepted — 18.02 at 2016-10-08 13:33:38 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 268: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.72 dt='2016-10-19 05:39:59'
+[2025-08-21 13:00:00] ✅ Row 268: Deposit accepted — 10.72 at 2016-10-19 05:39:59 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 269: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=400.0 dt='2016-10-19 12:21:04'
+[2025-08-21 13:00:00] ✅ Row 269: Redeem accepted — -400.0 at 2016-10-19 12:21:04 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 270: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.61 dt='2016-10-24 05:01:53'
+[2025-08-21 13:00:00] ✅ Row 270: Deposit accepted — 10.61 at 2016-10-24 05:01:53 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 271: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.6 dt='2016-10-24 13:46:38'
+[2025-08-21 13:00:00] ✅ Row 271: Deposit accepted — 10.6 at 2016-10-24 13:46:38 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 272: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.6 dt='2016-10-24 14:15:04'
+[2025-08-21 13:00:00] ✅ Row 272: Deposit accepted — 10.6 at 2016-10-24 14:15:04 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 273: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=24.41 dt='2016-10-25 12:52:16'
+[2025-08-21 13:00:00] ✅ Row 273: Deposit accepted — 24.41 at 2016-10-25 12:52:16 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 274: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.71 dt='2016-10-30 08:22:08'
+[2025-08-21 13:00:00] ✅ Row 274: Deposit accepted — 10.71 at 2016-10-30 08:22:08 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 275: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=14.96 dt='2016-10-31 13:58:26'
+[2025-08-21 13:00:00] ✅ Row 275: Deposit accepted — 14.96 at 2016-10-31 13:58:26 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 276: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=26.94 dt='2016-11-01 13:34:31'
+[2025-08-21 13:00:00] ✅ Row 276: Deposit accepted — 26.94 at 2016-11-01 13:34:31 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 277: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.81 dt='2016-11-02 04:39:03'
+[2025-08-21 13:00:00] ✅ Row 277: Deposit accepted — 10.81 at 2016-11-02 04:39:03 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 278: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=18.39 dt='2016-11-04 06:01:32'
+[2025-08-21 13:00:00] ✅ Row 278: Deposit accepted — 18.39 at 2016-11-04 06:01:32 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 279: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=10.74 dt='2016-11-08 12:40:45'
+[2025-08-21 13:00:00] ⚠️ Row 279: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:00] ℹ️ Row 280: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.74 dt='2016-11-08 13:35:41'
+[2025-08-21 13:00:00] ✅ Row 280: Deposit accepted — 10.74 at 2016-11-08 13:35:41 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 281: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=18.56 dt='2016-11-11 04:17:13'
+[2025-08-21 13:00:00] ✅ Row 281: Deposit accepted — 18.56 at 2016-11-11 04:17:13 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 282: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.49 dt='2016-11-14 06:57:41'
+[2025-08-21 13:00:00] ✅ Row 282: Deposit accepted — 10.49 at 2016-11-14 06:57:41 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 283: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.49 dt='2016-11-14 07:01:37'
+[2025-08-21 13:00:00] ✅ Row 283: Deposit accepted — 10.49 at 2016-11-14 07:01:37 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 284: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.45 dt='2016-11-15 15:12:59'
+[2025-08-21 13:00:00] ✅ Row 284: Deposit accepted — 10.45 at 2016-11-15 15:12:59 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 285: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.45 dt='2016-11-22 13:36:55'
+[2025-08-21 13:00:00] ✅ Row 285: Deposit accepted — 13.45 at 2016-11-22 13:36:55 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 286: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.29 dt='2016-11-24 04:04:56'
+[2025-08-21 13:00:00] ✅ Row 286: Deposit accepted — 10.29 at 2016-11-24 04:04:56 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 287: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.29 dt='2016-11-24 08:53:21'
+[2025-08-21 13:00:00] ✅ Row 287: Deposit accepted — 10.29 at 2016-11-24 08:53:21 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 288: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.33 dt='2016-11-25 09:16:59'
+[2025-08-21 13:00:00] ✅ Row 288: Deposit accepted — 10.33 at 2016-11-25 09:16:59 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 289: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=20.65 dt='2016-11-26 05:58:05'
+[2025-08-21 13:00:00] ✅ Row 289: Deposit accepted — 20.65 at 2016-11-26 05:58:05 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 290: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=43.0 dt='2016-11-28 16:19:22'
+[2025-08-21 13:00:00] ✅ Row 290: Redeem accepted — -43.0 at 2016-11-28 16:19:22 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 291: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=25.43 dt='2016-12-01 15:24:56'
+[2025-08-21 13:00:00] ✅ Row 291: Deposit accepted — 25.43 at 2016-12-01 15:24:56 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 292: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.45 dt='2016-12-05 11:15:23'
+[2025-08-21 13:00:00] ✅ Row 292: Deposit accepted — 10.45 at 2016-12-05 11:15:23 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 293: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=224.0 dt='2016-12-06 12:13:16'
+[2025-08-21 13:00:00] ✅ Row 293: Redeem accepted — -224.0 at 2016-12-06 12:13:16 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 294: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.6 dt='2016-12-13 14:51:34'
+[2025-08-21 13:00:00] ✅ Row 294: Deposit accepted — 17.6 at 2016-12-13 14:51:34 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 295: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=20.3 dt='2016-12-15 19:20:12'
+[2025-08-21 13:00:00] ✅ Row 295: Deposit accepted — 20.3 at 2016-12-15 19:20:12 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 296: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=23.0 dt='2016-12-15 20:30:36'
+[2025-08-21 13:00:00] ✅ Row 296: Redeem accepted — -23.0 at 2016-12-15 20:30:36 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 297: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=20.39 dt='2016-12-16 05:14:57'
+[2025-08-21 13:00:00] ✅ Row 297: Deposit accepted — 20.39 at 2016-12-16 05:14:57 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 298: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=30.0 dt='2016-12-16 16:49:24'
+[2025-08-21 13:00:00] ✅ Row 298: Deposit accepted — 30.0 at 2016-12-16 16:49:24 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 299: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.93 dt='2016-12-21 05:06:45'
+[2025-08-21 13:00:00] ✅ Row 299: Deposit accepted — 17.93 at 2016-12-21 05:06:45 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 300: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=15.31 dt='2016-12-29 05:53:52'
+[2025-08-21 13:00:00] ✅ Row 300: Deposit accepted — 15.31 at 2016-12-29 05:53:52 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 301: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=20.42 dt='2017-01-04 13:34:31'
+[2025-08-21 13:00:00] ✅ Row 301: Deposit accepted — 20.42 at 2017-01-04 13:34:31 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 302: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=30.96 dt='2017-01-10 10:40:31'
+[2025-08-21 13:00:00] ✅ Row 302: Deposit accepted — 30.96 at 2017-01-10 10:40:31 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 303: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.79 dt='2017-01-24 05:53:04'
+[2025-08-21 13:00:00] ✅ Row 303: Deposit accepted — 17.79 at 2017-01-24 05:53:04 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 304: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.51 dt='2017-02-04 15:22:04'
+[2025-08-21 13:00:00] ✅ Row 304: Deposit accepted — 10.51 at 2017-02-04 15:22:04 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 305: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=17.64 dt='2017-02-10 05:49:36'
+[2025-08-21 13:00:00] ⚠️ Row 305: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:00] ℹ️ Row 306: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.64 dt='2017-02-10 06:05:12'
+[2025-08-21 13:00:00] ✅ Row 306: Deposit accepted — 17.64 at 2017-02-10 06:05:12 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 307: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=15.56 dt='2017-02-13 06:09:44'
+[2025-08-21 13:00:00] ✅ Row 307: Deposit accepted — 15.56 at 2017-02-13 06:09:44 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 308: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=11.41 dt='2017-02-13 06:20:52'
+[2025-08-21 13:00:00] ⚠️ Row 308: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:00] ℹ️ Row 309: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.37 dt='2017-02-13 06:41:20'
+[2025-08-21 13:00:00] ✅ Row 309: Deposit accepted — 10.37 at 2017-02-13 06:41:20 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 310: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.35 dt='2017-02-14 08:11:21'
+[2025-08-21 13:00:00] ✅ Row 310: Deposit accepted — 10.35 at 2017-02-14 08:11:21 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 311: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.66 dt='2017-02-16 12:40:16'
+[2025-08-21 13:00:00] ✅ Row 311: Deposit accepted — 17.66 at 2017-02-16 12:40:16 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 312: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.42 dt='2017-02-18 05:35:41'
+[2025-08-21 13:00:00] ✅ Row 312: Deposit accepted — 12.42 at 2017-02-18 05:35:41 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 313: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.35 dt='2017-02-18 09:05:15'
+[2025-08-21 13:00:00] ✅ Row 313: Deposit accepted — 10.35 at 2017-02-18 09:05:15 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 314: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.34 dt='2017-02-20 08:07:56'
+[2025-08-21 13:00:00] ✅ Row 314: Deposit accepted — 10.34 at 2017-02-20 08:07:56 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 315: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.31 dt='2017-02-24 10:34:56'
+[2025-08-21 13:00:00] ✅ Row 315: Deposit accepted — 10.31 at 2017-02-24 10:34:56 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 316: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.29 dt='2017-02-25 06:53:14'
+[2025-08-21 13:00:00] ✅ Row 316: Deposit accepted — 10.29 at 2017-02-25 06:53:14 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 317: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.26 dt='2017-03-01 09:36:57'
+[2025-08-21 13:00:00] ✅ Row 317: Deposit accepted — 10.26 at 2017-03-01 09:36:57 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 318: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=20.71 dt='2017-03-04 09:36:52'
+[2025-08-21 13:00:00] ✅ Row 318: Deposit accepted — 20.71 at 2017-03-04 09:36:52 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 319: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.35 dt='2017-03-06 04:56:48'
+[2025-08-21 13:00:00] ✅ Row 319: Deposit accepted — 10.35 at 2017-03-06 04:56:48 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 320: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.04 dt='2017-03-06 05:55:53'
+[2025-08-21 13:00:00] ✅ Row 320: Deposit accepted — 11.04 at 2017-03-06 05:55:53 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 321: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.31 dt='2017-03-09 12:24:26'
+[2025-08-21 13:00:00] ✅ Row 321: Deposit accepted — 10.31 at 2017-03-09 12:24:26 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 322: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.36 dt='2017-03-10 10:52:23'
+[2025-08-21 13:00:00] ✅ Row 322: Deposit accepted — 10.36 at 2017-03-10 10:52:23 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 323: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.48 dt='2017-03-17 10:34:06'
+[2025-08-21 13:00:00] ✅ Row 323: Deposit accepted — 10.48 at 2017-03-17 10:34:06 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 324: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.56 dt='2017-03-20 12:44:46'
+[2025-08-21 13:00:00] ✅ Row 324: Deposit accepted — 12.56 at 2017-03-20 12:44:46 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 325: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.53 dt='2017-03-21 09:41:33'
+[2025-08-21 13:00:00] ✅ Row 325: Deposit accepted — 10.53 at 2017-03-21 09:41:33 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 326: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.32 dt='2017-04-08 06:47:29'
+[2025-08-21 13:00:00] ✅ Row 326: Deposit accepted — 10.32 at 2017-04-08 06:47:29 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 327: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=26.19 dt='2017-04-20 12:27:59'
+[2025-08-21 13:00:00] ✅ Row 327: Deposit accepted — 26.19 at 2017-04-20 12:27:59 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 328: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=26.57 dt='2017-04-26 17:12:53'
+[2025-08-21 13:00:00] ✅ Row 328: Deposit accepted — 26.57 at 2017-04-26 17:12:53 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 329: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=14.87 dt='2017-04-28 12:35:00'
+[2025-08-21 13:00:00] ✅ Row 329: Deposit accepted — 14.87 at 2017-04-28 12:35:00 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 330: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=18.07 dt='2017-05-02 11:16:55'
+[2025-08-21 13:00:00] ✅ Row 330: Deposit accepted — 18.07 at 2017-05-02 11:16:55 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 331: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=15.95 dt='2017-05-02 13:15:55'
+[2025-08-21 13:00:00] ✅ Row 331: Deposit accepted — 15.95 at 2017-05-02 13:15:55 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 332: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.82 dt='2017-05-03 06:03:42'
+[2025-08-21 13:00:00] ✅ Row 332: Deposit accepted — 13.82 at 2017-05-03 06:03:42 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 333: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.34 dt='2017-05-04 11:07:08'
+[2025-08-21 13:00:00] ✅ Row 333: Deposit accepted — 21.34 at 2017-05-04 11:07:08 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 334: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=19.3 dt='2017-05-06 14:14:29'
+[2025-08-21 13:00:00] ✅ Row 334: Deposit accepted — 19.3 at 2017-05-06 14:14:29 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 335: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.19 dt='2017-05-11 10:35:17'
+[2025-08-21 13:00:00] ✅ Row 335: Deposit accepted — 21.19 at 2017-05-11 10:35:17 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 336: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=43.66 dt='2017-05-19 11:13:43'
+[2025-08-21 13:00:00] ✅ Row 336: Deposit accepted — 43.66 at 2017-05-19 11:13:43 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 337: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.84 dt='2017-05-20 09:24:28'
+[2025-08-21 13:00:00] ✅ Row 337: Deposit accepted — 21.84 at 2017-05-20 09:24:28 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 338: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=16.42 dt='2017-05-23 11:21:20'
+[2025-08-21 13:00:00] ⚠️ Row 338: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:00] ℹ️ Row 339: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.37 dt='2017-05-23 12:12:54'
+[2025-08-21 13:00:00] ✅ Row 339: Deposit accepted — 16.37 at 2017-05-23 12:12:54 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 340: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.79 dt='2017-05-26 13:30:04'
+[2025-08-21 13:00:00] ✅ Row 340: Deposit accepted — 21.79 at 2017-05-26 13:30:04 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 341: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=51.23 dt='2017-05-28 13:32:54'
+[2025-08-21 13:00:00] ✅ Row 341: Deposit accepted — 51.23 at 2017-05-28 13:32:54 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 342: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.54 dt='2017-06-06 04:33:59'
+[2025-08-21 13:00:00] ✅ Row 342: Deposit accepted — 17.54 at 2017-06-06 04:33:59 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 343: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=19.64 dt='2017-06-11 12:08:19'
+[2025-08-21 13:00:00] ✅ Row 343: Deposit accepted — 19.64 at 2017-06-11 12:08:19 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 344: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.18 dt='2017-08-18 12:34:18'
+[2025-08-21 13:00:00] ✅ Row 344: Deposit accepted — 17.18 at 2017-08-18 12:34:18 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 345: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.62 dt='2017-08-27 08:24:15'
+[2025-08-21 13:00:00] ✅ Row 345: Deposit accepted — 11.62 at 2017-08-27 08:24:15 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 346: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.68 dt='2017-10-06 10:21:22'
+[2025-08-21 13:00:00] ✅ Row 346: Deposit accepted — 13.68 at 2017-10-06 10:21:22 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 347: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.49 dt='2017-10-20 14:02:56'
+[2025-08-21 13:00:00] ✅ Row 347: Deposit accepted — 11.49 at 2017-10-20 14:02:56 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 348: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=50.0 dt='2017-10-24 16:01:40'
+[2025-08-21 13:00:00] ✅ Row 348: Redeem accepted — -50.0 at 2017-10-24 16:01:40 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 349: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=56.73 dt='2017-10-31 05:37:11'
+[2025-08-21 13:00:00] ✅ Row 349: Deposit accepted — 56.73 at 2017-10-31 05:37:11 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 350: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=14.2 dt='2017-12-11 05:46:40'
+[2025-08-21 13:00:00] ✅ Row 350: Deposit accepted — 14.2 at 2017-12-11 05:46:40 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 351: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=43.0 dt='2018-01-18 10:38:15'
+[2025-08-21 13:00:00] ✅ Row 351: Deposit accepted — 43.0 at 2018-01-18 10:38:15 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 352: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=30.29 dt='2018-01-27 08:50:40'
+[2025-08-21 13:00:00] ✅ Row 352: Deposit accepted — 30.29 at 2018-01-27 08:50:40 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 353: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.14 dt='2018-02-04 10:00:52'
+[2025-08-21 13:00:00] ✅ Row 353: Deposit accepted — 12.14 at 2018-02-04 10:00:52 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 354: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=20.7 dt='2018-02-15 06:02:29'
+[2025-08-21 13:00:00] ✅ Row 354: Deposit accepted — 20.7 at 2018-02-15 06:02:29 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 355: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=42.12 dt='2018-03-08 11:04:22'
+[2025-08-21 13:00:00] ✅ Row 355: Deposit accepted — 42.12 at 2018-03-08 11:04:22 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 356: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.34 dt='2018-09-15 07:40:16'
+[2025-08-21 13:00:00] ✅ Row 356: Deposit accepted — 11.34 at 2018-09-15 07:40:16 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 357: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=33.32 dt='2018-10-29 14:42:53'
+[2025-08-21 13:00:00] ✅ Row 357: Deposit accepted — 33.32 at 2018-10-29 14:42:53 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 358: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=27.71 dt='2018-12-22 12:17:16'
+[2025-08-21 13:00:00] ✅ Row 358: Deposit accepted — 27.71 at 2018-12-22 12:17:16 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 359: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.16 dt='2019-01-18 11:18:10'
+[2025-08-21 13:00:00] ✅ Row 359: Deposit accepted — 22.16 at 2019-01-18 11:18:10 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 360: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=27.7 dt='2019-01-20 10:19:31'
+[2025-08-21 13:00:00] ✅ Row 360: Deposit accepted — 27.7 at 2019-01-20 10:19:31 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 361: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=60.0 dt='2019-01-21 05:10:34'
+[2025-08-21 13:00:00] ⚠️ Row 361: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:00] ℹ️ Row 362: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.06 dt='2019-01-22 08:56:19'
+[2025-08-21 13:00:00] ✅ Row 362: Deposit accepted — 11.06 at 2019-01-22 08:56:19 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 363: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.61 dt='2019-01-22 10:51:39'
+[2025-08-21 13:00:00] ✅ Row 363: Deposit accepted — 16.61 at 2019-01-22 10:51:39 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 364: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.08 dt='2019-01-22 14:22:35'
+[2025-08-21 13:00:00] ✅ Row 364: Deposit accepted — 11.08 at 2019-01-22 14:22:35 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 365: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.24 dt='2019-01-27 05:39:43'
+[2025-08-21 13:00:00] ✅ Row 365: Deposit accepted — 22.24 at 2019-01-27 05:39:43 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 366: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=14.45 dt='2019-01-27 12:04:28'
+[2025-08-21 13:00:00] ✅ Row 366: Deposit accepted — 14.45 at 2019-01-27 12:04:28 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 367: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=30.0 dt='2019-01-27 16:47:17'
+[2025-08-21 13:00:00] ✅ Row 367: Redeem accepted — -30.0 at 2019-01-27 16:47:17 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 368: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=41.22 dt='2019-01-29 13:42:27'
+[2025-08-21 13:00:00] ✅ Row 368: Deposit accepted — 41.22 at 2019-01-29 13:42:27 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 369: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.02 dt='2019-01-30 12:06:04'
+[2025-08-21 13:00:00] ✅ Row 369: Deposit accepted — 12.02 at 2019-01-30 12:06:04 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 370: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.28 dt='2019-02-04 11:30:05'
+[2025-08-21 13:00:00] ✅ Row 370: Deposit accepted — 22.28 at 2019-02-04 11:30:05 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 371: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.37 dt='2019-02-04 11:51:12'
+[2025-08-21 13:00:00] ✅ Row 371: Deposit accepted — 13.37 at 2019-02-04 11:51:12 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 372: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.06 dt='2019-02-07 14:39:01'
+[2025-08-21 13:00:00] ✅ Row 372: Deposit accepted — 11.06 at 2019-02-07 14:39:01 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 373: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=145.0 dt='2019-02-11 10:16:47'
+[2025-08-21 13:00:00] ✅ Row 373: Redeem accepted — -145.0 at 2019-02-11 10:16:47 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 374: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=90.0 dt='2019-02-17 10:33:33'
+[2025-08-21 13:00:00] ✅ Row 374: Deposit accepted — 90.0 at 2019-02-17 10:33:33 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 375: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.53 dt='2019-02-18 11:17:26'
+[2025-08-21 13:00:00] ✅ Row 375: Deposit accepted — 16.53 at 2019-02-18 11:17:26 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 376: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.02 dt='2019-02-18 13:51:30'
+[2025-08-21 13:00:00] ✅ Row 376: Deposit accepted — 11.02 at 2019-02-18 13:51:30 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 377: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.22 dt='2019-02-19 05:13:41'
+[2025-08-21 13:00:00] ✅ Row 377: Deposit accepted — 13.22 at 2019-02-19 05:13:41 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 378: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.02 dt='2019-02-19 05:33:31'
+[2025-08-21 13:00:00] ✅ Row 378: Deposit accepted — 11.02 at 2019-02-19 05:33:31 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 379: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=25.46 dt='2019-02-26 03:59:24'
+[2025-08-21 13:00:00] ✅ Row 379: Deposit accepted — 25.46 at 2019-02-26 03:59:24 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 380: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.18 dt='2019-02-26 08:36:35'
+[2025-08-21 13:00:00] ✅ Row 380: Deposit accepted — 12.18 at 2019-02-26 08:36:35 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 381: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.08 dt='2019-02-27 14:50:50'
+[2025-08-21 13:00:00] ✅ Row 381: Deposit accepted — 11.08 at 2019-02-27 14:50:50 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 382: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.59 dt='2019-03-04 04:54:55'
+[2025-08-21 13:00:00] ✅ Row 382: Deposit accepted — 16.59 at 2019-03-04 04:54:55 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 383: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.05 dt='2019-03-06 13:50:27'
+[2025-08-21 13:00:00] ✅ Row 383: Deposit accepted — 22.05 at 2019-03-06 13:50:27 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 384: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.13 dt='2019-03-07 04:45:05'
+[2025-08-21 13:00:00] ✅ Row 384: Deposit accepted — 12.13 at 2019-03-07 04:45:05 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 385: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.03 dt='2019-03-07 13:57:11'
+[2025-08-21 13:00:00] ✅ Row 385: Deposit accepted — 12.03 at 2019-03-07 13:57:11 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 386: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.17 dt='2019-03-09 13:34:53'
+[2025-08-21 13:00:00] ✅ Row 386: Deposit accepted — 11.17 at 2019-03-09 13:34:53 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 387: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.0 dt='2019-03-10 15:30:00'
+[2025-08-21 13:00:00] ✅ Row 387: Deposit accepted — 16.0 at 2019-03-10 15:30:00 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 388: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=32.0 dt='2019-03-15 05:12:32'
+[2025-08-21 13:00:00] ⚠️ Row 388: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:00] ℹ️ Row 389: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=92.0 dt='2019-03-15 08:40:12'
+[2025-08-21 13:00:00] ⚠️ Row 389: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:00] ℹ️ Row 390: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.07 dt='2019-03-15 13:37:26'
+[2025-08-21 13:00:00] ✅ Row 390: Deposit accepted — 22.07 at 2019-03-15 13:37:26 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 391: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=15.46 dt='2019-03-16 06:25:01'
+[2025-08-21 13:00:00] ✅ Row 391: Deposit accepted — 15.46 at 2019-03-16 06:25:01 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 392: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=49.0 dt='2019-03-17 14:27:37'
+[2025-08-21 13:00:00] ✅ Row 392: Redeem accepted — -49.0 at 2019-03-17 14:27:37 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 393: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.38 dt='2019-03-18 17:15:01'
+[2025-08-21 13:00:00] ✅ Row 393: Deposit accepted — 12.38 at 2019-03-18 17:15:01 (status='Approved')
+[2025-08-21 13:00:00] ℹ️ Row 394: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=15.49 dt='2019-03-19 13:11:17'
+[2025-08-21 13:00:01] ✅ Row 394: Deposit accepted — 15.49 at 2019-03-19 13:11:17 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 395: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.07 dt='2019-03-19 14:00:15'
+[2025-08-21 13:00:01] ✅ Row 395: Deposit accepted — 11.07 at 2019-03-19 14:00:15 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 396: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.07 dt='2019-03-19 14:23:35'
+[2025-08-21 13:00:01] ✅ Row 396: Deposit accepted — 11.07 at 2019-03-19 14:23:35 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 397: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.11 dt='2019-03-22 14:11:00'
+[2025-08-21 13:00:01] ✅ Row 397: Deposit accepted — 12.11 at 2019-03-22 14:11:00 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 398: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.01 dt='2019-03-22 15:49:11'
+[2025-08-21 13:00:01] ✅ Row 398: Deposit accepted — 11.01 at 2019-03-22 15:49:11 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 399: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=107.0 dt='2019-03-23 11:54:49'
+[2025-08-21 13:00:01] ✅ Row 399: Redeem accepted — -107.0 at 2019-03-23 11:54:49 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 400: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.53 dt='2019-03-24 07:38:53'
+[2025-08-21 13:00:01] ✅ Row 400: Deposit accepted — 16.53 at 2019-03-24 07:38:53 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 401: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=18.67 dt='2019-03-27 04:44:14'
+[2025-08-21 13:00:01] ✅ Row 401: Deposit accepted — 18.67 at 2019-03-27 04:44:14 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 402: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.93 dt='2019-03-28 10:10:25'
+[2025-08-21 13:00:01] ✅ Row 402: Deposit accepted — 10.93 at 2019-03-28 10:10:25 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 403: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.94 dt='2019-03-28 10:30:04'
+[2025-08-21 13:00:01] ✅ Row 403: Deposit accepted — 10.94 at 2019-03-28 10:30:04 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 404: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=27.37 dt='2019-03-30 08:31:57'
+[2025-08-21 13:00:01] ✅ Row 404: Deposit accepted — 27.37 at 2019-03-30 08:31:57 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 405: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=320.0 dt='2019-03-30 16:57:55'
+[2025-08-21 13:00:01] ⚠️ Row 405: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 406: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=379.0 dt='2019-03-30 19:22:19'
+[2025-08-21 13:00:01] ⚠️ Row 406: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 407: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=345.21 dt='2019-03-31 07:51:15'
+[2025-08-21 13:00:01] ⚠️ Row 407: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 408: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=329.0 dt='2019-03-31 10:31:39'
+[2025-08-21 13:00:01] ⚠️ Row 408: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 409: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=321.42 dt='2019-03-31 11:58:46'
+[2025-08-21 13:00:01] ⚠️ Row 409: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 410: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=310.0 dt='2019-03-31 12:09:51'
+[2025-08-21 13:00:01] ✅ Row 410: Redeem accepted — -310.0 at 2019-03-31 12:09:51 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 411: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.06 dt='2019-04-01 13:20:04'
+[2025-08-21 13:00:01] ✅ Row 411: Deposit accepted — 22.06 at 2019-04-01 13:20:04 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 412: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.93 dt='2019-04-04 13:09:14'
+[2025-08-21 13:00:01] ✅ Row 412: Deposit accepted — 10.93 at 2019-04-04 13:09:14 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 413: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=29.56 dt='2019-04-05 08:45:20'
+[2025-08-21 13:00:01] ✅ Row 413: Deposit accepted — 29.56 at 2019-04-05 08:45:20 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 414: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=81.63 dt='2019-04-06 11:02:16'
+[2025-08-21 13:00:01] ⚠️ Row 414: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 415: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=19.0 dt='2019-04-06 14:09:07'
+[2025-08-21 13:00:01] ⚠️ Row 415: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 416: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.93 dt='2019-04-07 15:21:09'
+[2025-08-21 13:00:01] ✅ Row 416: Deposit accepted — 10.93 at 2019-04-07 15:21:09 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 417: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=55.08 dt='2019-04-13 08:44:48'
+[2025-08-21 13:00:01] ✅ Row 417: Deposit accepted — 55.08 at 2019-04-13 08:44:48 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 418: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.03 dt='2019-04-13 11:15:53'
+[2025-08-21 13:00:01] ✅ Row 418: Deposit accepted — 22.03 at 2019-04-13 11:15:53 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 419: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=11.01 dt='2019-04-14 16:22:52'
+[2025-08-21 13:00:01] ⚠️ Row 419: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 420: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=422.07 dt='2019-04-14 19:36:55'
+[2025-08-21 13:00:01] ✅ Row 420: Redeem accepted — -422.07 at 2019-04-14 19:36:55 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 421: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.88 dt='2019-04-15 08:17:07'
+[2025-08-21 13:00:01] ✅ Row 421: Deposit accepted — 12.88 at 2019-04-15 08:17:07 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 422: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.92 dt='2019-04-21 10:49:25'
+[2025-08-21 13:00:01] ✅ Row 422: Deposit accepted — 21.92 at 2019-04-21 10:49:25 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 423: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=32.89 dt='2019-04-21 12:24:13'
+[2025-08-21 13:00:01] ✅ Row 423: Deposit accepted — 32.89 at 2019-04-21 12:24:13 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 424: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=25.0 dt='2019-04-21 12:31:50'
+[2025-08-21 13:00:01] ⚠️ Row 424: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 425: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.93 dt='2019-04-21 14:11:38'
+[2025-08-21 13:00:01] ✅ Row 425: Deposit accepted — 21.93 at 2019-04-21 14:11:38 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 426: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.16 dt='2019-04-22 08:39:33'
+[2025-08-21 13:00:01] ✅ Row 426: Deposit accepted — 13.16 at 2019-04-22 08:39:33 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 427: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.87 dt='2019-04-29 09:46:11'
+[2025-08-21 13:00:01] ✅ Row 427: Deposit accepted — 10.87 at 2019-04-29 09:46:11 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 428: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.13 dt='2019-05-02 11:42:27'
+[2025-08-21 13:00:01] ✅ Row 428: Deposit accepted — 10.13 at 2019-05-02 11:42:27 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 429: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=19.67 dt='2019-05-05 14:18:38'
+[2025-08-21 13:00:01] ✅ Row 429: Deposit accepted — 19.67 at 2019-05-05 14:18:38 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 430: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=26.23 dt='2019-05-05 14:21:06'
+[2025-08-21 13:00:01] ✅ Row 430: Deposit accepted — 26.23 at 2019-05-05 14:21:06 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 431: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=86.0 dt='2019-05-05 14:35:00'
+[2025-08-21 13:00:01] ⚠️ Row 431: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 432: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=64.0 dt='2019-05-05 14:57:06'
+[2025-08-21 13:00:01] ⚠️ Row 432: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 433: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=115.0 dt='2019-05-05 15:23:45'
+[2025-08-21 13:00:01] ⚠️ Row 433: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 434: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=101.23 dt='2019-05-05 15:29:50'
+[2025-08-21 13:00:01] ⚠️ Row 434: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 435: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=91.23 dt='2019-05-05 15:39:52'
+[2025-08-21 13:00:01] ✅ Row 435: Redeem accepted — -91.23 at 2019-05-05 15:39:52 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 436: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=33.76 dt='2019-05-09 09:52:39'
+[2025-08-21 13:00:01] ✅ Row 436: Deposit accepted — 33.76 at 2019-05-09 09:52:39 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 437: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.05 dt='2019-05-10 17:04:34'
+[2025-08-21 13:00:01] ✅ Row 437: Deposit accepted — 10.05 at 2019-05-10 17:04:34 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 438: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=240.0 dt='2019-05-10 19:41:07'
+[2025-08-21 13:00:01] ⚠️ Row 438: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 439: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=170.0 dt='2019-05-11 08:06:03'
+[2025-08-21 13:00:01] ⚠️ Row 439: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 440: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=120.0 dt='2019-05-12 12:38:56'
+[2025-08-21 13:00:01] ✅ Row 440: Redeem accepted — -120.0 at 2019-05-12 12:38:56 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 441: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.01 dt='2019-05-13 09:05:20'
+[2025-08-21 13:00:01] ✅ Row 441: Deposit accepted — 10.01 at 2019-05-13 09:05:20 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 442: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=290.0 dt='2019-05-14 10:12:36'
+[2025-08-21 13:00:01] ⚠️ Row 442: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 443: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=270.0 dt='2019-05-14 11:58:57'
+[2025-08-21 13:00:01] ⚠️ Row 443: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 444: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=260.0 dt='2019-05-14 14:27:10'
+[2025-08-21 13:00:01] ⚠️ Row 444: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 445: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=255.67 dt='2019-05-14 14:52:10'
+[2025-08-21 13:00:01] ✅ Row 445: Redeem accepted — -255.67 at 2019-05-14 14:52:10 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 446: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=35.96 dt='2019-05-15 12:12:45'
+[2025-08-21 13:00:01] ✅ Row 446: Deposit accepted — 35.96 at 2019-05-15 12:12:45 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 447: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=21.74 dt='2019-05-16 10:51:01'
+[2025-08-21 13:00:01] ⚠️ Row 447: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 448: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=33.7 dt='2019-05-16 11:03:08'
+[2025-08-21 13:00:01] ✅ Row 448: Deposit accepted — 33.7 at 2019-05-16 11:03:08 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 449: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=200.0 dt='2019-05-17 07:02:10'
+[2025-08-21 13:00:01] ⚠️ Row 449: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 450: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=160.0 dt='2019-05-18 12:36:29'
+[2025-08-21 13:00:01] ⚠️ Row 450: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 451: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=150.0 dt='2019-05-18 13:08:16'
+[2025-08-21 13:00:01] ⚠️ Row 451: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 452: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=165.0 dt='2019-05-18 18:52:01'
+[2025-08-21 13:00:01] ✅ Row 452: Redeem accepted — -165.0 at 2019-05-18 18:52:01 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 453: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=32.62 dt='2019-05-23 14:29:43'
+[2025-08-21 13:00:01] ✅ Row 453: Deposit accepted — 32.62 at 2019-05-23 14:29:43 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 454: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=32.62 dt='2019-05-23 14:50:17'
+[2025-08-21 13:00:01] ✅ Row 454: Deposit accepted — 32.62 at 2019-05-23 14:50:17 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 455: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=23.91 dt='2019-05-23 15:46:22'
+[2025-08-21 13:00:01] ⚠️ Row 455: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 456: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=24.63 dt='2019-05-24 11:35:44'
+[2025-08-21 13:00:01] ✅ Row 456: Deposit accepted — 24.63 at 2019-05-24 11:35:44 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 457: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=108.84 dt='2019-05-27 13:59:31'
+[2025-08-21 13:00:01] ✅ Row 457: Deposit accepted — 108.84 at 2019-05-27 13:59:31 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 458: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=14.48 dt='2019-05-27 17:30:12'
+[2025-08-21 13:00:01] ⚠️ Row 458: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 459: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.42 dt='2019-05-28 16:00:14'
+[2025-08-21 13:00:01] ✅ Row 459: Deposit accepted — 10.42 at 2019-05-28 16:00:14 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 460: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.12 dt='2019-06-06 09:08:26'
+[2025-08-21 13:00:01] ✅ Row 460: Deposit accepted — 10.12 at 2019-06-06 09:08:26 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 461: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.04 dt='2019-06-08 09:07:05'
+[2025-08-21 13:00:01] ✅ Row 461: Deposit accepted — 22.04 at 2019-06-08 09:07:05 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 462: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=270.0 dt='2019-06-16 18:24:39'
+[2025-08-21 13:00:01] ✅ Row 462: Redeem accepted — -270.0 at 2019-06-16 18:24:39 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 463: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.01 dt='2019-06-18 14:42:06'
+[2025-08-21 13:00:01] ✅ Row 463: Deposit accepted — 10.01 at 2019-06-18 14:42:06 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 464: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.89 dt='2019-06-19 09:44:20'
+[2025-08-21 13:00:01] ✅ Row 464: Deposit accepted — 10.89 at 2019-06-19 09:44:20 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 465: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.05 dt='2019-06-26 08:30:20'
+[2025-08-21 13:00:01] ✅ Row 465: Deposit accepted — 10.05 at 2019-06-26 08:30:20 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 466: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=330.0 dt='2019-06-26 10:56:25'
+[2025-08-21 13:00:01] ⚠️ Row 466: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 467: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=380.0 dt='2019-06-26 11:25:05'
+[2025-08-21 13:00:01] ⚠️ Row 467: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 468: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=450.0 dt='2019-06-26 11:38:46'
+[2025-08-21 13:00:01] ⚠️ Row 468: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 469: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=100.0 dt='2019-06-26 12:30:03'
+[2025-08-21 13:00:01] ✅ Row 469: Redeem accepted — -100.0 at 2019-06-26 12:30:03 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 470: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=200.0 dt='2019-06-28 15:18:28'
+[2025-08-21 13:00:01] ⚠️ Row 470: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 471: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=300.0 dt='2019-06-28 15:29:38'
+[2025-08-21 13:00:01] ⚠️ Row 471: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 472: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=300.0 dt='2019-06-28 15:34:09'
+[2025-08-21 13:00:01] ⚠️ Row 472: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 473: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=350.0 dt='2019-06-28 15:36:51'
+[2025-08-21 13:00:01] ⚠️ Row 473: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 474: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=340.0 dt='2019-06-28 15:45:22'
+[2025-08-21 13:00:01] ⚠️ Row 474: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 475: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=350.0 dt='2019-06-28 16:17:51'
+[2025-08-21 13:00:01] ⚠️ Row 475: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 476: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=600.0 dt='2019-06-28 16:38:59'
+[2025-08-21 13:00:01] ⚠️ Row 476: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 477: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=640.0 dt='2019-06-28 16:55:56'
+[2025-08-21 13:00:01] ⚠️ Row 477: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 478: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=24.32 dt='2019-06-28 17:36:40'
+[2025-08-21 13:00:01] ✅ Row 478: Deposit accepted — 24.32 at 2019-06-28 17:36:40 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 479: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=430.0 dt='2019-06-28 19:07:29'
+[2025-08-21 13:00:01] ⚠️ Row 479: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 480: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=375.0 dt='2019-06-28 19:12:46'
+[2025-08-21 13:00:01] ⚠️ Row 480: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 481: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=25.46 dt='2019-06-29 06:22:52'
+[2025-08-21 13:00:01] ✅ Row 481: Deposit accepted — 25.46 at 2019-06-29 06:22:52 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 482: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=18.82 dt='2019-06-29 06:25:40'
+[2025-08-21 13:00:01] ✅ Row 482: Deposit accepted — 18.82 at 2019-06-29 06:25:40 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 483: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.07 dt='2019-06-29 06:31:13'
+[2025-08-21 13:00:01] ✅ Row 483: Deposit accepted — 11.07 at 2019-06-29 06:31:13 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 484: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.11 dt='2019-06-29 16:25:39'
+[2025-08-21 13:00:01] ✅ Row 484: Deposit accepted — 22.11 at 2019-06-29 16:25:39 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 485: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=14.37 dt='2019-06-29 18:01:57'
+[2025-08-21 13:00:01] ✅ Row 485: Deposit accepted — 14.37 at 2019-06-29 18:01:57 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 486: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=400.0 dt='2019-06-29 19:13:26'
+[2025-08-21 13:00:01] ⚠️ Row 486: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 487: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=890.0 dt='2019-06-30 07:34:49'
+[2025-08-21 13:00:01] ⚠️ Row 487: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 488: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=780.0 dt='2019-06-30 15:27:33'
+[2025-08-21 13:00:01] ⚠️ Row 488: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 489: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=490.0 dt='2019-07-01 13:16:03'
+[2025-08-21 13:00:01] ⚠️ Row 489: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 490: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=670.0 dt='2019-07-01 15:35:31'
+[2025-08-21 13:00:01] ⚠️ Row 490: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 491: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=650.0 dt='2019-07-02 11:24:47'
+[2025-08-21 13:00:01] ⚠️ Row 491: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 492: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=1110.0 dt='2019-07-03 06:27:44'
+[2025-08-21 13:00:01] ⚠️ Row 492: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 493: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=860.0 dt='2019-07-03 16:54:14'
+[2025-08-21 13:00:01] ⚠️ Row 493: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 494: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.42 dt='2019-07-15 16:08:14'
+[2025-08-21 13:00:01] ✅ Row 494: Deposit accepted — 16.42 at 2019-07-15 16:08:14 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 495: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=14.43 dt='2019-07-16 05:14:44'
+[2025-08-21 13:00:01] ✅ Row 495: Deposit accepted — 14.43 at 2019-07-16 05:14:44 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 496: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=10.37 dt='2019-07-16 07:23:30'
+[2025-08-21 13:00:01] ⚠️ Row 496: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 497: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=10.36 dt='2019-07-16 07:36:54'
+[2025-08-21 13:00:01] ⚠️ Row 497: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 498: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.36 dt='2019-07-16 10:00:16'
+[2025-08-21 13:00:01] ✅ Row 498: Deposit accepted — 10.36 at 2019-07-16 10:00:16 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 499: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.9 dt='2019-07-17 09:07:11'
+[2025-08-21 13:00:01] ✅ Row 499: Deposit accepted — 10.9 at 2019-07-17 09:07:11 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 500: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.81 dt='2019-07-17 10:10:38'
+[2025-08-21 13:00:01] ✅ Row 500: Deposit accepted — 21.81 at 2019-07-17 10:10:38 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 501: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=16.36 dt='2019-07-17 10:45:15'
+[2025-08-21 13:00:01] ⚠️ Row 501: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 502: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=14.18 dt='2019-07-17 11:01:30'
+[2025-08-21 13:00:01] ✅ Row 502: Deposit accepted — 14.18 at 2019-07-17 11:01:30 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 503: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.36 dt='2019-07-19 15:27:58'
+[2025-08-21 13:00:01] ✅ Row 503: Deposit accepted — 16.36 at 2019-07-19 15:27:58 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 504: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.91 dt='2019-07-19 15:32:06'
+[2025-08-21 13:00:01] ✅ Row 504: Deposit accepted — 10.91 at 2019-07-19 15:32:06 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 505: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.91 dt='2019-07-19 16:54:36'
+[2025-08-21 13:00:01] ✅ Row 505: Deposit accepted — 10.91 at 2019-07-19 16:54:36 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 506: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.14 dt='2019-07-20 03:54:42'
+[2025-08-21 13:00:01] ✅ Row 506: Deposit accepted — 13.14 at 2019-07-20 03:54:42 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 507: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.95 dt='2019-07-20 03:59:44'
+[2025-08-21 13:00:01] ✅ Row 507: Deposit accepted — 10.95 at 2019-07-20 03:59:44 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 508: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.36 dt='2019-07-20 15:54:44'
+[2025-08-21 13:00:01] ✅ Row 508: Deposit accepted — 10.36 at 2019-07-20 15:54:44 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 509: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.8 dt='2019-07-21 13:41:27'
+[2025-08-21 13:00:01] ✅ Row 509: Deposit accepted — 13.8 at 2019-07-21 13:41:27 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 510: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.5 dt='2019-07-21 14:18:42'
+[2025-08-21 13:00:01] ✅ Row 510: Deposit accepted — 10.5 at 2019-07-21 14:18:42 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 511: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.41 dt='2019-07-22 15:50:11'
+[2025-08-21 13:00:01] ✅ Row 511: Deposit accepted — 10.41 at 2019-07-22 15:50:11 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 512: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.41 dt='2019-07-23 13:54:07'
+[2025-08-21 13:00:01] ✅ Row 512: Deposit accepted — 10.41 at 2019-07-23 13:54:07 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 513: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.51 dt='2019-07-25 14:33:05'
+[2025-08-21 13:00:01] ✅ Row 513: Deposit accepted — 10.51 at 2019-07-25 14:33:05 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 514: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.49 dt='2019-07-26 15:48:51'
+[2025-08-21 13:00:01] ✅ Row 514: Deposit accepted — 10.49 at 2019-07-26 15:48:51 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 515: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=12.98 dt='2019-07-26 17:15:05'
+[2025-08-21 13:00:01] ⚠️ Row 515: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 516: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.49 dt='2019-11-16 11:28:32'
+[2025-08-21 13:00:01] ✅ Row 516: Deposit accepted — 21.49 at 2019-11-16 11:28:32 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 517: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.53 dt='2019-11-16 13:57:23'
+[2025-08-21 13:00:01] ✅ Row 517: Deposit accepted — 10.53 at 2019-11-16 13:57:23 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 518: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.51 dt='2019-11-21 12:40:44'
+[2025-08-21 13:00:01] ✅ Row 518: Deposit accepted — 21.51 at 2019-11-21 12:40:44 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 519: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.75 dt='2019-11-21 13:18:32'
+[2025-08-21 13:00:01] ✅ Row 519: Deposit accepted — 10.75 at 2019-11-21 13:18:32 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 520: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.91 dt='2019-11-28 16:12:33'
+[2025-08-21 13:00:01] ✅ Row 520: Deposit accepted — 13.91 at 2019-11-28 16:12:33 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 521: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=14.99 dt='2019-11-30 09:01:55'
+[2025-08-21 13:00:01] ✅ Row 521: Deposit accepted — 14.99 at 2019-11-30 09:01:55 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 522: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=10.74 dt='2019-12-06 09:11:13'
+[2025-08-21 13:00:01] ⚠️ Row 522: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:01] ℹ️ Row 523: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.48 dt='2019-12-06 09:53:41'
+[2025-08-21 13:00:01] ✅ Row 523: Deposit accepted — 21.48 at 2019-12-06 09:53:41 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 524: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.07 dt='2019-12-06 11:00:39'
+[2025-08-21 13:00:01] ✅ Row 524: Deposit accepted — 16.07 at 2019-12-06 11:00:39 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 525: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.44 dt='2019-12-06 15:08:00'
+[2025-08-21 13:00:01] ✅ Row 525: Deposit accepted — 21.44 at 2019-12-06 15:08:00 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 526: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.08 dt='2019-12-06 15:12:40'
+[2025-08-21 13:00:01] ✅ Row 526: Deposit accepted — 16.08 at 2019-12-06 15:12:40 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 527: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.72 dt='2019-12-06 15:16:24'
+[2025-08-21 13:00:01] ✅ Row 527: Deposit accepted — 10.72 at 2019-12-06 15:16:24 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 528: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.79 dt='2019-12-06 15:22:12'
+[2025-08-21 13:00:01] ✅ Row 528: Deposit accepted — 11.79 at 2019-12-06 15:22:12 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 529: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.18 dt='2019-12-13 13:21:37'
+[2025-08-21 13:00:01] ✅ Row 529: Deposit accepted — 16.18 at 2019-12-13 13:21:37 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 530: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.36 dt='2019-12-14 10:42:16'
+[2025-08-21 13:00:01] ✅ Row 530: Deposit accepted — 17.36 at 2019-12-14 10:42:16 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 531: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.48 dt='2019-12-21 10:32:00'
+[2025-08-21 13:00:01] ✅ Row 531: Deposit accepted — 21.48 at 2019-12-21 10:32:00 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 532: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.2 dt='2019-12-21 10:52:17'
+[2025-08-21 13:00:01] ✅ Row 532: Deposit accepted — 10.2 at 2019-12-21 10:52:17 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 533: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.2 dt='2019-12-21 16:14:22'
+[2025-08-21 13:00:01] ✅ Row 533: Deposit accepted — 10.2 at 2019-12-21 16:14:22 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 534: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.2 dt='2019-12-21 16:43:33'
+[2025-08-21 13:00:01] ✅ Row 534: Deposit accepted — 10.2 at 2019-12-21 16:43:33 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 535: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.48 dt='2019-12-22 14:30:42'
+[2025-08-21 13:00:01] ✅ Row 535: Deposit accepted — 21.48 at 2019-12-22 14:30:42 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 536: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=27.21 dt='2019-12-25 15:50:16'
+[2025-08-21 13:00:01] ✅ Row 536: Deposit accepted — 27.21 at 2019-12-25 15:50:16 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 537: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=37.94 dt='2019-12-27 10:50:01'
+[2025-08-21 13:00:01] ✅ Row 537: Deposit accepted — 37.94 at 2019-12-27 10:50:01 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 538: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=65.04 dt='2019-12-28 08:23:30'
+[2025-08-21 13:00:01] ✅ Row 538: Deposit accepted — 65.04 at 2019-12-28 08:23:30 (status='Approved')
+[2025-08-21 13:00:01] ℹ️ Row 539: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=108.4 dt='2019-12-28 10:24:58'
+[2025-08-21 13:00:02] ✅ Row 539: Deposit accepted — 108.4 at 2019-12-28 10:24:58 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 540: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=32.52 dt='2019-12-28 11:59:04'
+[2025-08-21 13:00:02] ✅ Row 540: Deposit accepted — 32.52 at 2019-12-28 11:59:04 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 541: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=43.36 dt='2019-12-28 15:46:04'
+[2025-08-21 13:00:02] ✅ Row 541: Deposit accepted — 43.36 at 2019-12-28 15:46:04 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 542: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=484.13 dt='2019-12-29 22:24:07'
+[2025-08-21 13:00:02] ✅ Row 542: Redeem accepted — -484.13 at 2019-12-29 22:24:07 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 543: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.2 dt='2020-01-01 13:40:21'
+[2025-08-21 13:00:02] ✅ Row 543: Deposit accepted — 11.2 at 2020-01-01 13:40:21 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 544: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.33 dt='2020-01-01 13:57:53'
+[2025-08-21 13:00:02] ✅ Row 544: Deposit accepted — 16.33 at 2020-01-01 13:57:53 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 545: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.59 dt='2020-01-01 14:21:12'
+[2025-08-21 13:00:02] ✅ Row 545: Deposit accepted — 13.59 at 2020-01-01 14:21:12 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 546: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.46 dt='2020-01-25 08:16:36'
+[2025-08-21 13:00:02] ✅ Row 546: Deposit accepted — 22.46 at 2020-01-25 08:16:36 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 547: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.23 dt='2020-02-08 12:14:42'
+[2025-08-21 13:00:02] ✅ Row 547: Deposit accepted — 21.23 at 2020-02-08 12:14:42 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 548: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=25.32 dt='2020-02-15 08:16:53'
+[2025-08-21 13:00:02] ✅ Row 548: Deposit accepted — 25.32 at 2020-02-15 08:16:53 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 549: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.91 dt='2020-02-15 13:51:28'
+[2025-08-21 13:00:02] ✅ Row 549: Deposit accepted — 21.91 at 2020-02-15 13:51:28 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 550: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.6 dt='2020-02-16 06:08:40'
+[2025-08-21 13:00:02] ✅ Row 550: Deposit accepted — 12.6 at 2020-02-16 06:08:40 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 551: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=15.83 dt='2020-02-25 13:18:14'
+[2025-08-21 13:00:02] ✅ Row 551: Deposit accepted — 15.83 at 2020-02-25 13:18:14 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 552: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=23.53 dt='2020-02-29 15:10:06'
+[2025-08-21 13:00:02] ✅ Row 552: Deposit accepted — 23.53 at 2020-02-29 15:10:06 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 553: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=135.52 dt='2020-03-01 15:40:57'
+[2025-08-21 13:00:02] ⚠️ Row 553: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 554: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=135.32 dt='2020-03-01 15:41:37'
+[2025-08-21 13:00:02] ✅ Row 554: Redeem accepted — -135.32 at 2020-03-01 15:41:37 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 555: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.83 dt='2020-03-03 10:28:48'
+[2025-08-21 13:00:02] ✅ Row 555: Deposit accepted — 10.83 at 2020-03-03 10:28:48 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 556: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=14.23 dt='2020-03-07 07:41:01'
+[2025-08-21 13:00:02] ✅ Row 556: Deposit accepted — 14.23 at 2020-03-07 07:41:01 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 557: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.38 dt='2020-03-07 13:20:46'
+[2025-08-21 13:00:02] ✅ Row 557: Deposit accepted — 11.38 at 2020-03-07 13:20:46 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 558: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.39 dt='2020-03-14 15:13:10'
+[2025-08-21 13:00:02] ✅ Row 558: Deposit accepted — 12.39 at 2020-03-14 15:13:10 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 559: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.89 dt='2020-03-21 08:42:42'
+[2025-08-21 13:00:02] ✅ Row 559: Deposit accepted — 21.89 at 2020-03-21 08:42:42 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 560: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.21 dt='2020-03-21 10:34:45'
+[2025-08-21 13:00:02] ✅ Row 560: Deposit accepted — 16.21 at 2020-03-21 10:34:45 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 561: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=20.85 dt='2020-03-22 10:27:23'
+[2025-08-21 13:00:02] ✅ Row 561: Deposit accepted — 20.85 at 2020-03-22 10:27:23 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 562: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.81 dt='2020-03-29 07:14:20'
+[2025-08-21 13:00:02] ✅ Row 562: Deposit accepted — 10.81 at 2020-03-29 07:14:20 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 563: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.3 dt='2020-03-29 14:06:45'
+[2025-08-21 13:00:02] ✅ Row 563: Deposit accepted — 17.3 at 2020-03-29 14:06:45 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 564: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.06 dt='2020-04-04 07:17:31'
+[2025-08-21 13:00:02] ✅ Row 564: Deposit accepted — 10.06 at 2020-04-04 07:17:31 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 565: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.06 dt='2020-04-04 09:49:34'
+[2025-08-21 13:00:02] ✅ Row 565: Deposit accepted — 10.06 at 2020-04-04 09:49:34 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 566: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.89 dt='2020-04-05 05:24:38'
+[2025-08-21 13:00:02] ✅ Row 566: Deposit accepted — 10.89 at 2020-04-05 05:24:38 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 567: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=18.03 dt='2020-04-11 11:40:16'
+[2025-08-21 13:00:02] ✅ Row 567: Deposit accepted — 18.03 at 2020-04-11 11:40:16 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 568: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.6 dt='2020-04-11 13:20:25'
+[2025-08-21 13:00:02] ✅ Row 568: Deposit accepted — 10.6 at 2020-04-11 13:20:25 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 569: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=14.85 dt='2020-04-11 14:21:59'
+[2025-08-21 13:00:02] ✅ Row 569: Deposit accepted — 14.85 at 2020-04-11 14:21:59 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 570: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.04 dt='2020-04-12 08:14:21'
+[2025-08-21 13:00:02] ✅ Row 570: Deposit accepted — 13.04 at 2020-04-12 08:14:21 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 571: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.09 dt='2020-04-19 09:53:32'
+[2025-08-21 13:00:02] ✅ Row 571: Deposit accepted — 21.09 at 2020-04-19 09:53:32 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 572: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=25.31 dt='2020-04-19 13:21:53'
+[2025-08-21 13:00:02] ✅ Row 572: Deposit accepted — 25.31 at 2020-04-19 13:21:53 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 573: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.6 dt='2020-04-25 13:31:18'
+[2025-08-21 13:00:02] ✅ Row 573: Deposit accepted — 13.6 at 2020-04-25 13:31:18 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 574: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=29.39 dt='2020-04-26 13:47:27'
+[2025-08-21 13:00:02] ✅ Row 574: Deposit accepted — 29.39 at 2020-04-26 13:47:27 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 575: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.01 dt='2020-04-26 14:29:09'
+[2025-08-21 13:00:02] ✅ Row 575: Deposit accepted — 17.01 at 2020-04-26 14:29:09 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 576: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.6 dt='2020-05-03 07:05:43'
+[2025-08-21 13:00:02] ✅ Row 576: Deposit accepted — 13.6 at 2020-05-03 07:05:43 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 577: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=12.59 dt='2020-05-16 15:00:38'
+[2025-08-21 13:00:02] ✅ Row 577: Deposit accepted — 12.59 at 2020-05-16 15:00:38 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 578: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.49 dt='2020-05-17 10:12:07'
+[2025-08-21 13:00:02] ✅ Row 578: Deposit accepted — 10.49 at 2020-05-17 10:12:07 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 579: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=31.49 dt='2020-05-17 13:26:04'
+[2025-08-21 13:00:02] ✅ Row 579: Deposit accepted — 31.49 at 2020-05-17 13:26:04 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 580: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=25.38 dt='2020-05-24 14:14:35'
+[2025-08-21 13:00:02] ✅ Row 580: Deposit accepted — 25.38 at 2020-05-24 14:14:35 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 581: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.92 dt='2020-06-13 14:51:29'
+[2025-08-21 13:00:02] ✅ Row 581: Deposit accepted — 10.92 at 2020-06-13 14:51:29 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 582: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.78 dt='2020-06-18 08:56:13'
+[2025-08-21 13:00:02] ✅ Row 582: Deposit accepted — 21.78 at 2020-06-18 08:56:13 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 583: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.06 dt='2020-06-18 11:35:19'
+[2025-08-21 13:00:02] ✅ Row 583: Deposit accepted — 13.06 at 2020-06-18 11:35:19 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 584: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=400.0 dt='2020-06-22 19:30:42'
+[2025-08-21 13:00:02] ✅ Row 584: Redeem accepted — -400.0 at 2020-06-22 19:30:42 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 585: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=130.0 dt='2020-06-29 06:24:12'
+[2025-08-21 13:00:02] ✅ Row 585: Redeem accepted — -130.0 at 2020-06-29 06:24:12 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 586: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=23.99 dt='2020-07-03 14:50:39'
+[2025-08-21 13:00:02] ✅ Row 586: Deposit accepted — 23.99 at 2020-07-03 14:50:39 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 587: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.36 dt='2020-07-03 16:10:46'
+[2025-08-21 13:00:02] ✅ Row 587: Deposit accepted — 16.36 at 2020-07-03 16:10:46 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 588: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=19.53 dt='2020-07-04 06:46:45'
+[2025-08-21 13:00:02] ✅ Row 588: Deposit accepted — 19.53 at 2020-07-04 06:46:45 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 589: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.05 dt='2020-07-16 06:06:40'
+[2025-08-21 13:00:02] ✅ Row 589: Deposit accepted — 10.05 at 2020-07-16 06:06:40 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 590: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.82 dt='2020-07-16 06:09:40'
+[2025-08-21 13:00:02] ✅ Row 590: Deposit accepted — 11.82 at 2020-07-16 06:09:40 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 591: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=38.05 dt='2020-07-17 14:40:42'
+[2025-08-21 13:00:02] ✅ Row 591: Deposit accepted — 38.05 at 2020-07-17 14:40:42 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 592: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=253.0 dt='2020-07-19 16:48:09'
+[2025-08-21 13:00:02] ✅ Row 592: Redeem accepted — -253.0 at 2020-07-19 16:48:09 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 593: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.93 dt='2020-07-23 07:25:57'
+[2025-08-21 13:00:02] ✅ Row 593: Deposit accepted — 21.93 at 2020-07-23 07:25:57 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 594: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.58 dt='2020-07-24 15:36:19'
+[2025-08-21 13:00:02] ✅ Row 594: Deposit accepted — 22.58 at 2020-07-24 15:36:19 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 595: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.06 dt='2020-07-25 15:25:07'
+[2025-08-21 13:00:02] ✅ Row 595: Deposit accepted — 10.06 at 2020-07-25 15:25:07 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 596: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=388.0 dt='2020-07-28 06:39:12'
+[2025-08-21 13:00:02] ✅ Row 596: Redeem accepted — -388.0 at 2020-07-28 06:39:12 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 597: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.94 dt='2020-07-30 14:15:04'
+[2025-08-21 13:00:02] ✅ Row 597: Deposit accepted — 22.94 at 2020-07-30 14:15:04 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 598: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=34.27 dt='2020-08-02 13:03:48'
+[2025-08-21 13:00:02] ✅ Row 598: Deposit accepted — 34.27 at 2020-08-02 13:03:48 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 599: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=333.0 dt='2020-08-05 05:34:15'
+[2025-08-21 13:00:02] ✅ Row 599: Redeem accepted — -333.0 at 2020-08-05 05:34:15 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 600: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.7 dt='2020-08-07 12:43:48'
+[2025-08-21 13:00:02] ✅ Row 600: Deposit accepted — 13.7 at 2020-08-07 12:43:48 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 601: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.99 dt='2020-08-07 12:49:04'
+[2025-08-21 13:00:02] ✅ Row 601: Deposit accepted — 11.99 at 2020-08-07 12:49:04 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 602: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=350.0 dt='2020-08-09 09:40:41'
+[2025-08-21 13:00:02] ⚠️ Row 602: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 603: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=570.0 dt='2020-08-09 09:43:47'
+[2025-08-21 13:00:02] ⚠️ Row 603: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 604: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=700.0 dt='2020-08-09 11:47:27'
+[2025-08-21 13:00:02] ✅ Row 604: Redeem accepted — -700.0 at 2020-08-09 11:47:27 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 605: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.41 dt='2020-08-10 09:25:54'
+[2025-08-21 13:00:02] ✅ Row 605: Deposit accepted — 11.41 at 2020-08-10 09:25:54 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 606: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.8 dt='2020-08-10 13:50:44'
+[2025-08-21 13:00:02] ✅ Row 606: Deposit accepted — 22.8 at 2020-08-10 13:50:44 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 607: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.02 dt='2020-08-15 07:43:03'
+[2025-08-21 13:00:02] ✅ Row 607: Deposit accepted — 11.02 at 2020-08-15 07:43:03 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 608: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=27.46 dt='2020-08-22 14:52:09'
+[2025-08-21 13:00:02] ✅ Row 608: Deposit accepted — 27.46 at 2020-08-22 14:52:09 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 609: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=20.44 dt='2020-08-30 11:13:48'
+[2025-08-21 13:00:02] ✅ Row 609: Deposit accepted — 20.44 at 2020-08-30 11:13:48 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 610: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=18.6 dt='2020-09-04 13:39:56'
+[2025-08-21 13:00:02] ✅ Row 610: Deposit accepted — 18.6 at 2020-09-04 13:39:56 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 611: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.79 dt='2020-09-06 05:50:18'
+[2025-08-21 13:00:02] ✅ Row 611: Deposit accepted — 10.79 at 2020-09-06 05:50:18 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 612: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.1 dt='2020-09-06 07:41:03'
+[2025-08-21 13:00:02] ✅ Row 612: Deposit accepted — 10.1 at 2020-09-06 07:41:03 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 613: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.56 dt='2020-09-27 11:44:46'
+[2025-08-21 13:00:02] ✅ Row 613: Deposit accepted — 22.56 at 2020-09-27 11:44:46 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 614: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=36.37 dt='2020-10-02 13:18:55'
+[2025-08-21 13:00:02] ✅ Row 614: Deposit accepted — 36.37 at 2020-10-02 13:18:55 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 615: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=170.0 dt='2020-10-04 15:52:43'
+[2025-08-21 13:00:02] ✅ Row 615: Redeem accepted — -170.0 at 2020-10-04 15:52:43 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 616: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.95 dt='2020-10-10 07:14:16'
+[2025-08-21 13:00:02] ✅ Row 616: Deposit accepted — 22.95 at 2020-10-10 07:14:16 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 617: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=21.17 dt='2020-10-10 08:16:17'
+[2025-08-21 13:00:02] ⚠️ Row 617: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 618: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=270.0 dt='2020-10-11 11:08:26'
+[2025-08-21 13:00:02] ⚠️ Row 618: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 619: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=114.58 dt='2020-10-12 12:57:46'
+[2025-08-21 13:00:02] ✅ Row 619: Deposit accepted — 114.58 at 2020-10-12 12:57:46 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 620: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.91 dt='2020-10-12 15:29:26'
+[2025-08-21 13:00:02] ✅ Row 620: Deposit accepted — 22.91 at 2020-10-12 15:29:26 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 621: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.73 dt='2020-10-16 11:08:55'
+[2025-08-21 13:00:02] ✅ Row 621: Deposit accepted — 22.73 at 2020-10-16 11:08:55 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 622: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=34.09 dt='2020-10-16 16:40:08'
+[2025-08-21 13:00:02] ✅ Row 622: Deposit accepted — 34.09 at 2020-10-16 16:40:08 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 623: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.72 dt='2020-10-16 16:56:00'
+[2025-08-21 13:00:02] ✅ Row 623: Deposit accepted — 22.72 at 2020-10-16 16:56:00 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 624: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.73 dt='2020-10-17 08:41:09'
+[2025-08-21 13:00:02] ✅ Row 624: Deposit accepted — 22.73 at 2020-10-17 08:41:09 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 625: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=45.47 dt='2020-10-17 11:14:17'
+[2025-08-21 13:00:02] ✅ Row 625: Deposit accepted — 45.47 at 2020-10-17 11:14:17 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 626: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.73 dt='2020-10-17 11:24:45'
+[2025-08-21 13:00:02] ✅ Row 626: Deposit accepted — 22.73 at 2020-10-17 11:24:45 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 627: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.36 dt='2020-10-17 11:29:05'
+[2025-08-21 13:00:02] ✅ Row 627: Deposit accepted — 11.36 at 2020-10-17 11:29:05 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 628: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.36 dt='2020-10-17 11:36:00'
+[2025-08-21 13:00:02] ✅ Row 628: Deposit accepted — 11.36 at 2020-10-17 11:36:00 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 629: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=17.05 dt='2020-10-17 11:44:53'
+[2025-08-21 13:00:02] ⚠️ Row 629: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 630: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=17.05 dt='2020-10-17 11:45:09'
+[2025-08-21 13:00:02] ⚠️ Row 630: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 631: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=15.91 dt='2020-10-17 11:46:02'
+[2025-08-21 13:00:02] ⚠️ Row 631: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 632: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=17.05 dt='2020-10-17 11:46:43'
+[2025-08-21 13:00:02] ⚠️ Row 632: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 633: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=22.73 dt='2020-10-17 12:33:50'
+[2025-08-21 13:00:02] ⚠️ Row 633: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 634: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=22.73 dt='2020-10-17 12:36:16'
+[2025-08-21 13:00:02] ⚠️ Row 634: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 635: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=170.52 dt='2020-10-17 12:36:52'
+[2025-08-21 13:00:02] ⚠️ Row 635: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 636: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=56.84 dt='2020-10-17 17:31:41'
+[2025-08-21 13:00:02] ⚠️ Row 636: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 637: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=56.83 dt='2020-10-17 18:06:21'
+[2025-08-21 13:00:02] ✅ Row 637: Deposit accepted — 56.83 at 2020-10-17 18:06:21 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 638: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=34.1 dt='2020-10-18 15:27:04'
+[2025-08-21 13:00:02] ✅ Row 638: Deposit accepted — 34.1 at 2020-10-18 15:27:04 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 639: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=56.84 dt='2020-10-18 15:32:57'
+[2025-08-21 13:00:02] ✅ Row 639: Deposit accepted — 56.84 at 2020-10-18 15:32:57 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 640: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=57.03 dt='2020-10-19 06:49:46'
+[2025-08-21 13:00:02] ✅ Row 640: Deposit accepted — 57.03 at 2020-10-19 06:49:46 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 641: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.41 dt='2020-10-19 07:30:59'
+[2025-08-21 13:00:02] ✅ Row 641: Deposit accepted — 11.41 at 2020-10-19 07:30:59 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 642: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=57.15 dt='2020-10-19 13:14:09'
+[2025-08-21 13:00:02] ✅ Row 642: Deposit accepted — 57.15 at 2020-10-19 13:14:09 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 643: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=45.67 dt='2020-10-19 14:52:05'
+[2025-08-21 13:00:02] ✅ Row 643: Deposit accepted — 45.67 at 2020-10-19 14:52:05 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 644: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=509.73 dt='2020-10-19 18:47:53'
+[2025-08-21 13:00:02] ✅ Row 644: Redeem accepted — -509.73 at 2020-10-19 18:47:53 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 645: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=28.67 dt='2020-10-20 16:22:06'
+[2025-08-21 13:00:02] ✅ Row 645: Deposit accepted — 28.67 at 2020-10-20 16:22:06 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 646: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.32 dt='2020-10-20 16:45:05'
+[2025-08-21 13:00:02] ✅ Row 646: Deposit accepted — 10.32 at 2020-10-20 16:45:05 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 647: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=125.38 dt='2020-10-21 04:58:57'
+[2025-08-21 13:00:02] ✅ Row 647: Deposit accepted — 125.38 at 2020-10-21 04:58:57 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 648: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.98 dt='2020-10-21 06:18:22'
+[2025-08-21 13:00:02] ✅ Row 648: Deposit accepted — 22.98 at 2020-10-21 06:18:22 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 649: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=295.08 dt='2020-10-21 17:25:33'
+[2025-08-21 13:00:02] ✅ Row 649: Redeem accepted — -295.08 at 2020-10-21 17:25:33 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 650: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.93 dt='2020-10-22 16:44:52'
+[2025-08-21 13:00:02] ✅ Row 650: Deposit accepted — 22.93 at 2020-10-22 16:44:52 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 651: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=22.98 dt='2020-10-23 07:06:37'
+[2025-08-21 13:00:02] ✅ Row 651: Deposit accepted — 22.98 at 2020-10-23 07:06:37 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 652: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.49 dt='2020-10-23 07:49:42'
+[2025-08-21 13:00:02] ✅ Row 652: Deposit accepted — 11.49 at 2020-10-23 07:49:42 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 653: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=138.0 dt='2020-10-23 14:16:54'
+[2025-08-21 13:00:02] ✅ Row 653: Deposit accepted — 138.0 at 2020-10-23 14:16:54 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 654: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=28.76 dt='2020-10-24 07:09:26'
+[2025-08-21 13:00:02] ✅ Row 654: Deposit accepted — 28.76 at 2020-10-24 07:09:26 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 655: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=57.53 dt='2020-10-25 10:33:12'
+[2025-08-21 13:00:02] ✅ Row 655: Deposit accepted — 57.53 at 2020-10-25 10:33:12 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 656: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=23.01 dt='2020-10-25 10:37:00'
+[2025-08-21 13:00:02] ✅ Row 656: Deposit accepted — 23.01 at 2020-10-25 10:37:00 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 657: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=23.01 dt='2020-10-25 10:58:02'
+[2025-08-21 13:00:02] ✅ Row 657: Deposit accepted — 23.01 at 2020-10-25 10:58:02 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 658: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=225.0 dt='2020-10-25 12:11:46'
+[2025-08-21 13:00:02] ⚠️ Row 658: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 659: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=190.0 dt='2020-10-25 12:26:24'
+[2025-08-21 13:00:02] ⚠️ Row 659: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 660: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=172.42 dt='2020-10-25 15:23:59'
+[2025-08-21 13:00:02] ✅ Row 660: Deposit accepted — 172.42 at 2020-10-25 15:23:59 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 661: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=69.0 dt='2020-10-25 15:28:02'
+[2025-08-21 13:00:02] ✅ Row 661: Deposit accepted — 69.0 at 2020-10-25 15:28:02 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 662: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=67.0 dt='2020-10-25 15:32:33'
+[2025-08-21 13:00:02] ⚠️ Row 662: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 663: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=123.0 dt='2020-10-25 15:33:06'
+[2025-08-21 13:00:02] ⚠️ Row 663: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 664: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=190.0 dt='2020-10-25 15:34:49'
+[2025-08-21 13:00:02] ⚠️ Row 664: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 665: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=250.0 dt='2020-10-25 15:37:27'
+[2025-08-21 13:00:02] ⚠️ Row 665: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 666: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=340.0 dt='2020-10-25 15:44:38'
+[2025-08-21 13:00:02] ⚠️ Row 666: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 667: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=253.0 dt='2020-10-25 16:02:35'
+[2025-08-21 13:00:02] ⚠️ Row 667: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 668: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=725.0 dt='2020-10-25 18:45:37'
+[2025-08-21 13:00:02] ✅ Row 668: Redeem accepted — -725.0 at 2020-10-25 18:45:37 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 669: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=37.83 dt='2020-10-26 04:46:34'
+[2025-08-21 13:00:02] ✅ Row 669: Deposit accepted — 37.83 at 2020-10-26 04:46:34 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 670: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=13.74 dt='2020-10-26 05:50:29'
+[2025-08-21 13:00:02] ✅ Row 670: Deposit accepted — 13.74 at 2020-10-26 05:50:29 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 671: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=90.45 dt='2020-10-31 14:47:46'
+[2025-08-21 13:00:02] ✅ Row 671: Deposit accepted — 90.45 at 2020-10-31 14:47:46 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 672: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=38.42 dt='2020-10-31 16:19:24'
+[2025-08-21 13:00:02] ✅ Row 672: Deposit accepted — 38.42 at 2020-10-31 16:19:24 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 673: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.19 dt='2020-11-01 12:53:52'
+[2025-08-21 13:00:02] ✅ Row 673: Deposit accepted — 10.19 at 2020-11-01 12:53:52 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 674: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=28.3 dt='2020-11-01 13:39:51'
+[2025-08-21 13:00:02] ⚠️ Row 674: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:02] ℹ️ Row 675: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=28.3 dt='2020-11-01 13:50:08'
+[2025-08-21 13:00:02] ✅ Row 675: Deposit accepted — 28.3 at 2020-11-01 13:50:08 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 676: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=27.12 dt='2020-11-01 14:47:41'
+[2025-08-21 13:00:02] ✅ Row 676: Deposit accepted — 27.12 at 2020-11-01 14:47:41 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 677: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=56.49 dt='2020-11-01 16:51:12'
+[2025-08-21 13:00:02] ✅ Row 677: Deposit accepted — 56.49 at 2020-11-01 16:51:12 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 678: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=39.54 dt='2020-11-01 16:55:39'
+[2025-08-21 13:00:02] ✅ Row 678: Deposit accepted — 39.54 at 2020-11-01 16:55:39 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 679: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.94 dt='2020-11-01 17:02:26'
+[2025-08-21 13:00:02] ✅ Row 679: Deposit accepted — 16.94 at 2020-11-01 17:02:26 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 680: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.0 dt='2020-11-10 05:02:44'
+[2025-08-21 13:00:02] ✅ Row 680: Deposit accepted — 11.0 at 2020-11-10 05:02:44 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 681: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.47 dt='2020-11-14 13:59:32'
+[2025-08-21 13:00:02] ✅ Row 681: Deposit accepted — 11.47 at 2020-11-14 13:59:32 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 682: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.48 dt='2020-11-15 09:55:31'
+[2025-08-21 13:00:02] ✅ Row 682: Deposit accepted — 11.48 at 2020-11-15 09:55:31 (status='Approved')
+[2025-08-21 13:00:02] ℹ️ Row 683: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.33 dt='2020-11-15 10:26:20'
+[2025-08-21 13:00:03] ✅ Row 683: Deposit accepted — 10.33 at 2020-11-15 10:26:20 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 684: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=114.8 dt='2020-11-15 12:54:28'
+[2025-08-21 13:00:03] ✅ Row 684: Deposit accepted — 114.8 at 2020-11-15 12:54:28 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 685: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=717.58 dt='2020-11-15 19:11:21'
+[2025-08-21 13:00:03] ✅ Row 685: Redeem accepted — -717.58 at 2020-11-15 19:11:21 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 686: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=49.4 dt='2020-11-16 14:42:25'
+[2025-08-21 13:00:03] ✅ Row 686: Deposit accepted — 49.4 at 2020-11-16 14:42:25 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 687: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=115.08 dt='2020-11-17 14:05:25'
+[2025-08-21 13:00:03] ✅ Row 687: Deposit accepted — 115.08 at 2020-11-17 14:05:25 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 688: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=17.26 dt='2020-11-18 12:50:35'
+[2025-08-21 13:00:03] ✅ Row 688: Deposit accepted — 17.26 at 2020-11-18 12:50:35 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 689: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.32 dt='2020-11-19 06:58:20'
+[2025-08-21 13:00:03] ✅ Row 689: Deposit accepted — 10.32 at 2020-11-19 06:58:20 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 690: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.33 dt='2020-11-19 07:40:56'
+[2025-08-21 13:00:03] ✅ Row 690: Deposit accepted — 10.33 at 2020-11-19 07:40:56 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 691: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=10.32 dt='2020-11-19 09:17:32'
+[2025-08-21 13:00:03] ⚠️ Row 691: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 692: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.32 dt='2020-11-19 09:28:37'
+[2025-08-21 13:00:03] ✅ Row 692: Deposit accepted — 10.32 at 2020-11-19 09:28:37 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 693: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=16.09 dt='2020-11-19 13:39:26'
+[2025-08-21 13:00:03] ✅ Row 693: Deposit accepted — 16.09 at 2020-11-19 13:39:26 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 694: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=26.7 dt='2020-11-19 14:46:34'
+[2025-08-21 13:00:03] ✅ Row 694: Deposit accepted — 26.7 at 2020-11-19 14:46:34 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 695: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=46.0 dt='2020-11-21 13:55:41'
+[2025-08-21 13:00:03] ✅ Row 695: Deposit accepted — 46.0 at 2020-11-21 13:55:41 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 696: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.5 dt='2020-11-21 14:32:41'
+[2025-08-21 13:00:03] ✅ Row 696: Deposit accepted — 11.5 at 2020-11-21 14:32:41 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 697: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.5 dt='2020-11-21 16:32:55'
+[2025-08-21 13:00:03] ✅ Row 697: Deposit accepted — 11.5 at 2020-11-21 16:32:55 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 698: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=57.96 dt='2020-11-27 13:26:31'
+[2025-08-21 13:00:03] ✅ Row 698: Deposit accepted — 57.96 at 2020-11-27 13:26:31 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 699: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=40.6 dt='2020-11-27 15:01:01'
+[2025-08-21 13:00:03] ✅ Row 699: Deposit accepted — 40.6 at 2020-11-27 15:01:01 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 700: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=14.5 dt='2020-11-27 17:32:43'
+[2025-08-21 13:00:03] ⚠️ Row 700: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 701: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=19.72 dt='2020-11-28 13:03:01'
+[2025-08-21 13:00:03] ⚠️ Row 701: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 702: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=18.91 dt='2020-11-28 13:17:37'
+[2025-08-21 13:00:03] ✅ Row 702: Deposit accepted — 18.91 at 2020-11-28 13:17:37 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 703: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=69.63 dt='2020-11-28 17:50:46'
+[2025-08-21 13:00:03] ✅ Row 703: Deposit accepted — 69.63 at 2020-11-28 17:50:46 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 704: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=47.47 dt='2020-11-28 18:14:24'
+[2025-08-21 13:00:03] ✅ Row 704: Redeem accepted — -47.47 at 2020-11-28 18:14:24 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 705: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=82.4 dt='2021-01-30 13:06:39'
+[2025-08-21 13:00:03] ✅ Row 705: Deposit accepted — 82.4 at 2021-01-30 13:06:39 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 706: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.75 dt='2021-02-21 11:45:08'
+[2025-08-21 13:00:03] ✅ Row 706: Deposit accepted — 11.75 at 2021-02-21 11:45:08 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 707: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=70.29 dt='2021-02-26 12:58:10'
+[2025-08-21 13:00:03] ⚠️ Row 707: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 708: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=26.35 dt='2021-03-03 12:17:53'
+[2025-08-21 13:00:03] ✅ Row 708: Deposit accepted — 26.35 at 2021-03-03 12:17:53 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 709: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=10.18 dt='2021-03-03 13:36:53'
+[2025-08-21 13:00:03] ✅ Row 709: Deposit accepted — 10.18 at 2021-03-03 13:36:53 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 710: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=11.67 dt='2021-03-04 08:05:33'
+[2025-08-21 13:00:03] ✅ Row 710: Deposit accepted — 11.67 at 2021-03-04 08:05:33 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 711: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=63.52 dt='2021-04-11 09:51:44'
+[2025-08-21 13:00:03] ⚠️ Row 711: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 712: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=79.63 dt='2021-04-11 11:26:42'
+[2025-08-21 13:00:03] ⚠️ Row 712: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 713: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=79.63 dt='2021-04-11 11:26:52'
+[2025-08-21 13:00:03] ⚠️ Row 713: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 714: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=18.18 dt='2021-04-13 13:25:41'
+[2025-08-21 13:00:03] ⚠️ Row 714: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 715: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=70.34 dt='2021-04-26 13:27:40'
+[2025-08-21 13:00:03] ⚠️ Row 715: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 716: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=25.72 dt='2021-05-06 08:37:05'
+[2025-08-21 13:00:03] ⚠️ Row 716: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 717: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=10.01 dt='2021-05-16 12:51:30'
+[2025-08-21 13:00:03] ⚠️ Row 717: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 718: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=68.13 dt='2021-05-24 14:25:29'
+[2025-08-21 13:00:03] ⚠️ Row 718: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 719: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=35.6 dt='2021-06-01 13:15:06'
+[2025-08-21 13:00:03] ⚠️ Row 719: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 720: type='deposit' dep=True wdr=False status_orig='Rejected' canon='rejected' amount=23.07 dt='2021-06-22 04:35:19'
+[2025-08-21 13:00:03] ⚠️ Row 720: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 721: type='redeem' dep=False wdr=True status_orig='Rejected' canon='rejected' amount=201.0 dt='2021-06-24 18:27:10'
+[2025-08-21 13:00:03] ⚠️ Row 721: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 722: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=578.45 dt='2021-06-28 11:15:04'
+[2025-08-21 13:00:03] ✅ Row 722: Deposit accepted — 578.45 at 2021-06-28 11:15:04 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 723: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=40.21 dt='2021-07-02 11:48:14'
+[2025-08-21 13:00:03] ✅ Row 723: Deposit accepted — 40.21 at 2021-07-02 11:48:14 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 724: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=953.92 dt='2021-07-03 08:00:06'
+[2025-08-21 13:00:03] ✅ Row 724: Deposit accepted — 953.92 at 2021-07-03 08:00:06 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 725: type='redeem' dep=False wdr=True status_orig='Cancelled' canon='rejected' amount=1303.13 dt='2021-07-03 18:55:46'
+[2025-08-21 13:00:03] ⚠️ Row 725: Skipped — status not approved: canon='rejected'
+[2025-08-21 13:00:03] ℹ️ Row 726: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=1224.78 dt='2021-07-04 14:54:15'
+[2025-08-21 13:00:03] ✅ Row 726: Redeem accepted — -1224.78 at 2021-07-04 14:54:15 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 727: type='redeem' dep=False wdr=True status_orig='Approved' canon='approved' amount=520.0 dt='2021-07-07 15:46:42'
+[2025-08-21 13:00:03] ✅ Row 727: Redeem accepted — -520.0 at 2021-07-07 15:46:42 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 728: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=38.24 dt='2021-07-09 04:47:25'
+[2025-08-21 13:00:03] ✅ Row 728: Deposit accepted — 38.24 at 2021-07-09 04:47:25 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 729: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=26.44 dt='2021-07-12 06:54:08'
+[2025-08-21 13:00:03] ✅ Row 729: Deposit accepted — 26.44 at 2021-07-12 06:54:08 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 730: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=21.86 dt='2021-07-12 11:40:17'
+[2025-08-21 13:00:03] ✅ Row 730: Deposit accepted — 21.86 at 2021-07-12 11:40:17 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 731: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=29.86 dt='2021-07-13 05:57:30'
+[2025-08-21 13:00:03] ✅ Row 731: Deposit accepted — 29.86 at 2021-07-13 05:57:30 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 732: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=15.5 dt='2021-07-13 05:59:00'
+[2025-08-21 13:00:03] ✅ Row 732: Deposit accepted — 15.5 at 2021-07-13 05:59:00 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 733: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=24.9 dt='2021-07-26 14:50:22'
+[2025-08-21 13:00:03] ✅ Row 733: Deposit accepted — 24.9 at 2021-07-26 14:50:22 (status='Approved')
+[2025-08-21 13:00:03] ℹ️ Row 734: type='deposit' dep=True wdr=False status_orig='Approved' canon='approved' amount=626.33 dt='2021-08-12 07:36:38'
+[2025-08-21 13:00:03] ✅ Row 734: Deposit accepted — 626.33 at 2021-08-12 07:36:38 (status='Approved')
+[2025-08-21 13:00:03] 📊 Accepted rows by type/status: Deposit[approved]=558, Redeem[approved]=36
+[2025-08-21 13:00:03] 📊 Skipped rows by reason: status not approved: canon='rejected'=132
+[2025-08-21 13:00:03] TA logic: Deposits = 13771.79, Cashouts/Withdrawals = 10173.06, Net = 3598.73
+[2025-08-21 13:00:03] ✅ Created Payment Summary with 594 rows.
+[2025-08-21 13:00:03] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 13:00:03] ✅ Finished processing: TA_Pokerstars.xlsx
+[2025-08-21 13:00:12] 💾 Saved: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/23193 - Richard Jonker, PokerStars\Checked_TA_Pokerstars.xlsx

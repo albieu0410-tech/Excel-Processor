@@ -1,0 +1,11 @@
+[2025-08-25 09:38:00] Cleared all files.
+[2025-08-25 09:38:06] ➕ Added 1 file(s).
+[2025-08-25 09:38:07] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-25 09:38:15] ✔ Deposit sheets: ['PS Transactions']
+[2025-08-25 09:38:15] ✔ Cashout sheets: ['PS Transactions']
+[2025-08-25 09:38:15] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-08-25 09:38:15] ❌ No recognizable amount/date columns (tolerant Unibet matcher).
+[2025-08-25 09:38:15] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-25 09:38:15] ✅ Created Payment Summary with 0 rows.
+[2025-08-25 09:38:15] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 09:38:15] ✅ Finished processing: TA_Pokerstars.xlsx

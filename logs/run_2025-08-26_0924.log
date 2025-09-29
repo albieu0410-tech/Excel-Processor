@@ -1,0 +1,12 @@
+[2025-08-26 09:24:08] ➕ Added 1 file(s).
+[2025-08-26 09:24:09] 📄 Processing TA_Unibet (10).xlsx in calculation Mode...
+[2025-08-26 09:24:12] ✔ Deposit sheets: ['Export']
+[2025-08-26 09:24:12] ✔ Cashout sheets: ['Export']
+[2025-08-26 09:24:12] ℹ️ Same sheet in both lists → will parse once as combined: ['Export']
+[2025-08-26 09:24:55] ✅ Detected header row at Excel row 1: ['Date', 'User No', 'Transaction Id', 'Transfer Id', 'Status', 'Approved Date', 'Provider', 'Type', 'Amount', 'Currency', 'Fee Amount', 'Fee Currency', 'Provider Amount', 'Jurisdiction', 'Brand', 'Site', 'ThreeDSecure', 'Card Number', 'Country', 'Bank Code', 'Bank Account number', 'Ewallet account', '']
+[2025-08-26 09:24:55] TA logic: Deposits = 0, Cashouts = 164873.21, Net = -164873.21
+[2025-08-26 09:24:55] ✅ Created Payment Summary with 444 rows.
+[2025-08-26 09:24:55] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-26 09:24:55] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-08-26 09:24:55] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-08-26 09:24:55] ✅ Finished processing: TA_Unibet (10).xlsx

@@ -1,0 +1,14 @@
+[2025-08-25 13:52:29] Cleared all files.
+[2025-08-25 13:52:39] 📎 Added file from Deal 40144: TA_Unibet (9).xlsx
+[2025-08-25 13:52:41] 📄 Processing TA_Unibet (9).xlsx in calculation Mode...
+[2025-08-25 13:52:44] ✔ Deposit sheets: ['Recalc']
+[2025-08-25 13:52:44] ✔ Cashout sheets: ['Recalc']
+[2025-08-25 13:52:44] ℹ️ Same sheet in both lists → will parse once as combined: ['Recalc']
+[2025-08-25 13:52:44] ✅ Detected header row at Excel row 1: ['Date', 'User No', 'Transaction Id', 'Transfer Id', 'Domain State', 'Approved Date', 'Provider', 'Type', 'Status', 'Amount', 'Currency', 'Fee Amount', 'Fee Currency', 'Provider Amount', 'Jurisdiction', 'Brand', 'Site', 'ThreeDSecure', 'Card Number', 'Country', 'Bank Code', 'Bank Account number', 'Ewallet account']
+[2025-08-25 13:52:44] TA logic: Deposits = 26371.0, Cashouts = 17826.38, Net = 8544.619999999999
+[2025-08-25 13:52:44] ✅ Created Payment Summary with 451 rows.
+[2025-08-25 13:52:44] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 13:52:44] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-08-25 13:52:44] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-08-25 13:52:44] ✅ Finished processing: TA_Unibet (9).xlsx
+[2025-08-25 13:52:52] 💾 Saved: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/40144 - Frank Pierre Moonen, Unibet\Checked_TA_Unibet (9).xlsx

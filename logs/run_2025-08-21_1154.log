@@ -1,0 +1,181 @@
+[2025-08-21 11:54:03] ➕ Added 1 file(s).
+[2025-08-21 11:54:15] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-21 11:54:15] 📑 Using sheet: PS Transactions
+[2025-08-21 11:54:15] Detected single combined transaction sheet. Attempting auto-detection (with header scan)...
+[2025-08-21 11:54:15] ℹ️ Skipping banner row 3: All dates are in ET time zone
+[2025-08-21 11:54:15] ℹ️ Skipping banner row 4: From: 06/Nov/2014 00:00:00
+[2025-08-21 11:54:15] ℹ️ Skipping banner row 5: To: 17/Apr/2025 23:59:59
+[2025-08-21 11:54:15] ✅ Detected header row at Excel row 8: ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-08-21 11:54:15] 🚫 Row 11: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 14: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 17: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 40: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 41: Rejected transaction skipped
+[2025-08-21 11:54:15] ⚠️ Row 43: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:15] 🚫 Row 59: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 66: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 69: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 72: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 77: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 79: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 80: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 99: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 101: Rejected transaction skipped
+[2025-08-21 11:54:15] 🚫 Row 123: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 126: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 135: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 148: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 149: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 151: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 157: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 160: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 162: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 164: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 167: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 169: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 174: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 181: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 188: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 189: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 196: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 197: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 214: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 233: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 238: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 248: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 252: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 261: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 263: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 269: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 279: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 290: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] ⚠️ Row 293: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] ⚠️ Row 296: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 305: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 308: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 338: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 348: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 361: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 367: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] ⚠️ Row 373: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 388: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 389: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 392: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] ⚠️ Row 399: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 405: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 406: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 407: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 408: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 409: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 410: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 414: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 415: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 419: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 420: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 424: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 431: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 432: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 433: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 434: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 435: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 438: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 439: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 440: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 442: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 443: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 444: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 445: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 447: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 449: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 450: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 451: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 452: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 455: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 458: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 462: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 466: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 467: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 468: Rejected transaction skipped
+[2025-08-21 11:54:16] ⚠️ Row 469: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:16] 🚫 Row 470: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 471: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 472: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 473: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 474: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 475: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 476: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 477: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 479: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 480: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 486: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 487: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 488: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 489: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 490: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 491: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 492: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 493: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 496: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 497: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 501: Rejected transaction skipped
+[2025-08-21 11:54:16] 🚫 Row 515: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 522: Rejected transaction skipped
+[2025-08-21 11:54:17] ⚠️ Row 542: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] 🚫 Row 553: Rejected transaction skipped
+[2025-08-21 11:54:17] ⚠️ Row 554: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] ⚠️ Row 584: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] ⚠️ Row 585: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] ⚠️ Row 592: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] ⚠️ Row 596: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] ⚠️ Row 599: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] 🚫 Row 602: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 603: Rejected transaction skipped
+[2025-08-21 11:54:17] ⚠️ Row 604: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] ⚠️ Row 615: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] 🚫 Row 617: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 618: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 629: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 630: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 631: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 632: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 633: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 634: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 635: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 636: Rejected transaction skipped
+[2025-08-21 11:54:17] ⚠️ Row 644: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] ⚠️ Row 649: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] 🚫 Row 658: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 659: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 662: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 663: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 664: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 665: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 666: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 667: Rejected transaction skipped
+[2025-08-21 11:54:17] ⚠️ Row 668: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] 🚫 Row 674: Rejected transaction skipped
+[2025-08-21 11:54:17] ⚠️ Row 685: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] 🚫 Row 691: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 700: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 701: Rejected transaction skipped
+[2025-08-21 11:54:17] ⚠️ Row 704: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] 🚫 Row 707: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 711: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 712: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 713: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 714: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 715: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 716: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 717: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 718: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 719: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 720: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 721: Rejected transaction skipped
+[2025-08-21 11:54:17] 🚫 Row 725: Rejected transaction skipped
+[2025-08-21 11:54:17] ⚠️ Row 726: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] ⚠️ Row 727: Type/status mismatch (type=Redeem, status=Approved)
+[2025-08-21 11:54:17] TA logic: Deposits = 13771.79, Cashouts/Withdrawals = 0.0, Net = 13771.79
+[2025-08-21 11:54:17] ✅ Created Payment Summary with 558 rows.
+[2025-08-21 11:54:17] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 11:54:17] ✅ Finished processing: TA_Pokerstars.xlsx
+[2025-08-21 11:54:41] 💾 Saved: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/23193 - Richard Jonker, PokerStars\Checked_TA_Pokerstars.xlsx

@@ -1,0 +1,116 @@
+[2025-07-10 13:19:24] Added 1 file(s).
+[2025-07-10 13:19:25] 📄 Processing TA_Unibet (2).xlsx...
+[2025-07-10 13:19:25] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-07-10 13:19:25] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-07-10 13:19:25] ⚠️ Detected single-cell CSV-style header. Converting to columns...
+[2025-07-10 13:19:25] 📋 Raw headers: ['Datum', 'Tijd', 'Tijdzone', 'Transactie ID', 'Context ID', 'Activiteit', 'Omschrijving', 'Betalingskenmerk', 'Datum betaling aangevraagd', 'Tijd betaling aangevraagd', 'Betalingskosten', 'Hoeveelheid Cash', 'Niet opneembare hoeveelheid cash', 'Bonus aantal', 'Totaal aantal']
+[2025-07-10 13:19:25] 🔍 Normalized headers: ['datum', 'tijd', 'tijdzone', 'transactieid', 'contextid', 'activiteit', 'omschrijving', 'betalingskenmerk', 'datumbetalingaangevraagd', 'tijdbetalingaangevraagd', 'betalingskosten', 'hoeveelheidcash', 'nietopneembarehoeveelheidcash', 'bonusaantal', 'totaalaantal']
+[2025-07-10 13:19:25] ✅ Indexes — Date: 0, Time: 1, Type: 5, Amount: 11, Status: None
+[2025-07-10 13:19:25] 🔢 Row 2: Raw amount = '10.00'
+[2025-07-10 13:19:25] ✅ Row 2: Parsed as Deposit — 10.0 at 2025-02-18 20:53:00
+[2025-07-10 13:19:25] 🔢 Row 3: Raw amount = '10.00'
+[2025-07-10 13:19:25] ✅ Row 3: Parsed as Deposit — 10.0 at 2025-02-15 20:32:00
+[2025-07-10 13:19:25] 🔢 Row 4: Raw amount = '20.00'
+[2025-07-10 13:19:25] ✅ Row 4: Parsed as Deposit — 20.0 at 2025-02-15 16:10:00
+[2025-07-10 13:19:25] 🔢 Row 5: Raw amount = '30.00'
+[2025-07-10 13:19:25] ✅ Row 5: Parsed as Deposit — 30.0 at 2025-02-14 19:50:00
+[2025-07-10 13:19:25] 🔢 Row 6: Raw amount = '-101.48'
+[2025-07-10 13:19:25] ✅ Row 6: Parsed as Withdraw — -101.48 at 2025-02-13 23:03:00
+[2025-07-10 13:19:25] 🔢 Row 7: Raw amount = '100.00'
+[2025-07-10 13:19:25] ✅ Row 7: Parsed as Deposit — 100.0 at 2025-02-07 19:56:00
+[2025-07-10 13:19:25] 🔢 Row 8: Raw amount = '-206.63'
+[2025-07-10 13:19:25] ✅ Row 8: Parsed as Withdraw — -206.63 at 2025-02-01 22:50:00
+[2025-07-10 13:19:25] 🔢 Row 9: Raw amount = '100.00'
+[2025-07-10 13:19:25] ✅ Row 9: Parsed as Deposit — 100.0 at 2025-01-31 21:17:00
+[2025-07-10 13:19:25] 🔢 Row 10: Raw amount = '5.00'
+[2025-07-10 13:19:25] ✅ Row 10: Parsed as Deposit — 5.0 at 2025-01-19 16:38:00
+[2025-07-10 13:19:26] 🔢 Row 11: Raw amount = '10.00'
+[2025-07-10 13:19:26] ✅ Row 11: Parsed as Deposit — 10.0 at 2025-01-18 20:29:00
+[2025-07-10 13:19:26] 🔢 Row 12: Raw amount = '10.00'
+[2025-07-10 13:19:26] ✅ Row 12: Parsed as Deposit — 10.0 at 2025-01-18 18:01:00
+[2025-07-10 13:19:26] 🔢 Row 13: Raw amount = '-56.01'
+[2025-07-10 13:19:26] ✅ Row 13: Parsed as Withdraw — -56.01 at 2025-01-16 23:02:00
+[2025-07-10 13:19:26] 🔢 Row 14: Raw amount = '20.00'
+[2025-07-10 13:19:26] ✅ Row 14: Parsed as Deposit — 20.0 at 2025-01-16 18:02:00
+[2025-07-10 13:19:26] 🔢 Row 15: Raw amount = '500.00'
+[2025-07-10 13:19:26] ✅ Row 15: Parsed as Deposit — 500.0 at 2024-12-15 23:05:00
+[2025-07-10 13:19:26] 🔢 Row 16: Raw amount = '100.00'
+[2025-07-10 13:19:26] ✅ Row 16: Parsed as Deposit — 100.0 at 2024-12-15 21:50:00
+[2025-07-10 13:19:26] 🔢 Row 17: Raw amount = '100.00'
+[2025-07-10 13:19:26] ✅ Row 17: Parsed as Deposit — 100.0 at 2024-12-15 20:05:00
+[2025-07-10 13:19:26] 🔢 Row 18: Raw amount = '15.00'
+[2025-07-10 13:19:26] ✅ Row 18: Parsed as Deposit — 15.0 at 2024-11-22 15:59:00
+[2025-07-10 13:19:26] 🔢 Row 19: Raw amount = '20.00'
+[2025-07-10 13:19:26] ✅ Row 19: Parsed as Deposit — 20.0 at 2024-11-22 13:09:00
+[2025-07-10 13:19:26] 🔢 Row 20: Raw amount = '15.00'
+[2025-07-10 13:19:26] ✅ Row 20: Parsed as Deposit — 15.0 at 2024-11-16 20:05:00
+[2025-07-10 13:19:26] 🔢 Row 21: Raw amount = '-17.50'
+[2025-07-10 13:19:26] ✅ Row 21: Parsed as Withdraw — -17.5 at 2024-11-14 23:56:00
+[2025-07-10 13:19:26] 🔢 Row 22: Raw amount = '15.00'
+[2025-07-10 13:19:26] ✅ Row 22: Parsed as Deposit — 15.0 at 2024-11-14 21:06:00
+[2025-07-10 13:19:26] 🔢 Row 23: Raw amount = '5.00'
+[2025-07-10 13:19:26] ✅ Row 23: Parsed as Deposit — 5.0 at 2024-11-09 14:08:00
+[2025-07-10 13:19:26] 🔢 Row 24: Raw amount = '10.00'
+[2025-07-10 13:19:26] ✅ Row 24: Parsed as Deposit — 10.0 at 2024-11-07 20:55:00
+[2025-07-10 13:19:26] 🔢 Row 25: Raw amount = '10.00'
+[2025-07-10 13:19:26] ✅ Row 25: Parsed as Deposit — 10.0 at 2024-11-07 20:47:00
+[2025-07-10 13:19:26] 🔢 Row 26: Raw amount = '30.00'
+[2025-07-10 13:19:26] ✅ Row 26: Parsed as Deposit — 30.0 at 2024-11-06 20:33:00
+[2025-07-10 13:19:26] 🔢 Row 27: Raw amount = '-33.40'
+[2025-07-10 13:19:26] ✅ Row 27: Parsed as Withdraw — -33.4 at 2024-11-04 23:08:00
+[2025-07-10 13:19:26] 🔢 Row 28: Raw amount = '30.00'
+[2025-07-10 13:19:26] ✅ Row 28: Parsed as Deposit — 30.0 at 2024-11-01 19:02:00
+[2025-07-10 13:19:26] 🔢 Row 29: Raw amount = '200.00'
+[2025-07-10 13:19:26] ✅ Row 29: Parsed as Deposit — 200.0 at 2024-10-18 13:02:00
+[2025-07-10 13:19:26] 🔢 Row 30: Raw amount = '130.00'
+[2025-07-10 13:19:26] ✅ Row 30: Parsed as Deposit — 130.0 at 2024-10-09 19:38:00
+[2025-07-10 13:19:26] 🔢 Row 31: Raw amount = '200.00'
+[2025-07-10 13:19:26] ✅ Row 31: Parsed as Deposit — 200.0 at 2024-09-29 15:06:00
+[2025-07-10 13:19:26] 🔢 Row 32: Raw amount = '300.00'
+[2025-07-10 13:19:26] ✅ Row 32: Parsed as Deposit — 300.0 at 2024-09-28 13:27:00
+[2025-07-10 13:19:26] 🔢 Row 33: Raw amount = '300.00'
+[2025-07-10 13:19:26] ✅ Row 33: Parsed as Deposit — 300.0 at 2024-09-27 13:23:00
+[2025-07-10 13:19:26] 🔢 Row 34: Raw amount = '20.00'
+[2025-07-10 13:19:26] ✅ Row 34: Parsed as Deposit — 20.0 at 2024-09-22 18:51:00
+[2025-07-10 13:19:26] 🔢 Row 35: Raw amount = '-50.34'
+[2025-07-10 13:19:26] ✅ Row 35: Parsed as Withdraw — -50.34 at 2024-09-21 16:15:00
+[2025-07-10 13:19:26] 🔢 Row 36: Raw amount = '50.00'
+[2025-07-10 13:19:26] ✅ Row 36: Parsed as Deposit — 50.0 at 2024-09-21 13:33:00
+[2025-07-10 13:19:26] 🔢 Row 37: Raw amount = '-76.10'
+[2025-07-10 13:19:26] ✅ Row 37: Parsed as Withdraw — -76.1 at 2024-09-20 17:29:00
+[2025-07-10 13:19:26] 🔢 Row 38: Raw amount = '-31.97'
+[2025-07-10 13:19:26] ✅ Row 38: Parsed as Withdraw — -31.97 at 2024-09-20 16:56:00
+[2025-07-10 13:19:26] 🔢 Row 39: Raw amount = '50.00'
+[2025-07-10 13:19:26] ✅ Row 39: Parsed as Deposit — 50.0 at 2024-09-19 18:43:00
+[2025-07-10 13:19:26] 🔢 Row 40: Raw amount = '-208.09'
+[2025-07-10 13:19:26] ✅ Row 40: Parsed as Withdraw — -208.09 at 2024-09-14 23:11:00
+[2025-07-10 13:19:26] 🔢 Row 41: Raw amount = '30.00'
+[2025-07-10 13:19:26] ✅ Row 41: Parsed as Deposit — 30.0 at 2024-09-13 23:15:00
+[2025-07-10 13:19:26] 🔢 Row 42: Raw amount = '100.00'
+[2025-07-10 13:19:26] ✅ Row 42: Parsed as Deposit — 100.0 at 2024-09-06 13:23:00
+[2025-07-10 13:19:26] 🔢 Row 43: Raw amount = '30.00'
+[2025-07-10 13:19:26] ✅ Row 43: Parsed as Deposit — 30.0 at 2024-09-01 18:56:00
+[2025-07-10 13:19:26] 🔢 Row 44: Raw amount = '30.00'
+[2025-07-10 13:19:26] ✅ Row 44: Parsed as Deposit — 30.0 at 2024-08-31 20:45:00
+[2025-07-10 13:19:26] 🔢 Row 45: Raw amount = '300.00'
+[2025-07-10 13:19:26] ✅ Row 45: Parsed as Deposit — 300.0 at 2024-08-31 13:41:00
+[2025-07-10 13:19:26] 🔢 Row 46: Raw amount = '100.00'
+[2025-07-10 13:19:26] ✅ Row 46: Parsed as Deposit — 100.0 at 2024-08-30 19:48:00
+[2025-07-10 13:19:26] 🔢 Row 47: Raw amount = '300.00'
+[2025-07-10 13:19:26] ✅ Row 47: Parsed as Deposit — 300.0 at 2024-08-30 19:42:00
+[2025-07-10 13:19:26] 🔢 Row 48: Raw amount = '-209.14'
+[2025-07-10 13:19:26] ✅ Row 48: Parsed as Withdraw — -209.14 at 2024-08-11 16:38:00
+[2025-07-10 13:19:26] 🔢 Row 49: Raw amount = '200.00'
+[2025-07-10 13:19:26] ✅ Row 49: Parsed as Deposit — 200.0 at 2024-08-10 13:07:00
+[2025-07-10 13:19:26] 🔢 Row 50: Raw amount = '-1115.33'
+[2025-07-10 13:19:26] ✅ Row 50: Parsed as Withdraw — -1115.33 at 2024-08-09 15:00:00
+[2025-07-10 13:19:26] 🔢 Row 51: Raw amount = '500.00'
+[2025-07-10 13:19:26] ✅ Row 51: Parsed as Deposit — 500.0 at 2024-08-06 18:16:00
+[2025-07-10 13:19:26] 🔢 Row 52: Raw amount = '500.00'
+[2025-07-10 13:19:26] ✅ Row 52: Parsed as Deposit — 500.0 at 2024-08-04 17:26:00
+[2025-07-10 13:19:26] TA logic: Deposits = 4505.0, Cashouts = -2105.99, Net = 6610.99
+[2025-07-10 13:19:26] ✅ Created Payment Summary with 51 rows.
+[2025-07-10 13:19:26] ✅ Created Summary sheet from Payment Summary.
+[2025-07-10 13:19:26] 🧾 Final claim value (from Payment Summary): 2399.01
+[2025-07-10 13:19:26] ✅ Finished processing: TA_Unibet (2).xlsx
+[2025-07-10 13:19:28] 💾 Saved: C:/Users/salbahaca/Downloads\Checked_TA_Unibet (2).xlsx

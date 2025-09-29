@@ -1,0 +1,474 @@
+[2025-09-23 13:13:11] 🔗 Fetching ActiveCampaign deals in saved stage (top 5)…
+[2025-09-23 13:13:50] [] - 15619 | Minas Calisir, One Casino | [] Opponent 'ProviderConfig[DB](name=One Casino Limited)' not supported for calculations
+[2025-09-23 13:13:50] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:50] [] Calculation failed for: 15619 due to calculation error
+[2025-09-23 13:13:50] 
+[2025-09-23 13:13:50] [] - 22332 | Jan Nathanael Hoekstra, Betsson | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:50] 
+[2025-09-23 13:13:50] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:50] [] Checked (28.02.2025)
+[2025-09-23 13:13:50] 
+[2025-09-23 13:13:50] [] - 22334 | Jan Nathanael Hoekstra, Krooncasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:50] 
+[2025-09-23 13:13:50] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:50] [] Checked (28.02.2025)
+[2025-09-23 13:13:50] 
+[2025-09-23 13:13:50] [] - 23140 | Geijtenbeek-Vink Petra, Bobcasino | [] GameChanger Calculation failed
+[2025-09-23 13:13:50] [] No payments, GameChanger is not proceeding in this case.
+[2025-09-23 13:13:50] 
+[2025-09-23 13:13:50] [] - 23142 | Geijtenbeek-Vink Petra, Oranjecasino | [] GameChanger Calculation failed.
+[2025-09-23 13:13:50] This case will take a long time due to the large amount of bets. The script in the end provided a result but failed when it tried to create an IB file.
+[2025-09-23 13:13:50] ```
+[2025-09-23 13:13:50] Row numbers must be between 1 and 1048576
+[2025-09-23 13:13:50] Traceback (most recent call last):
+[2025-09-23 13:13:50]   File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/gt_process_automatisation/decorators.py&quot;, line 211, in wrapper
+[2025-09-23 13:13:50]     result = func(*args, **kwargs)
+[2025-09-23 13:13:50]              ^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:50]   File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 353, in calculate_client
+[2025-09-23 13:13:50]     save_report_and_dfs_to_excel(
+[2025-09-23 13:13:50]   File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/utils/utils_save_IB_report_to_excel.py&quot;, line 238, in save_report_and_dfs_to_excel
+[2025-09-23 13:13:50]     cell = ws.cell(row=r_idx, column=c_idx, value=value)
+[2025-09-23 13:13:50]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:50]   File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/venv/lib/python3.11/site-packages/openpyxl/worksheet/worksheet.py&quot;, line 240, in cell
+[2025-09-23 13:13:50]     cell = self._get_cell(row, column)
+[2025-09-23 13:13:50]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:50]   File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/venv/lib/python3.11/site-packages/openpyxl/worksheet/worksheet.py&quot;, line 253, in _get_cell
+[2025-09-23 13:13:50]     raise ValueError(&quot;Row numbers must be between 1 and 1048576&quot;)
+[2025-09-23 13:13:50] ValueError: Row numbers must be between 1 and 1048576
+[2025-09-23 13:13:50] ´´´
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51] [] - 23544 | De ruiter Kevin, Bobcasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:51] [] Checked (28.02.2025)
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51] [] - 23626 | Petrus Johannes Frederik Dreise, Avalon78 | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:51] [] Checked (28.02.2025)
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51] [] - 23632 | Petrus Johannes Frederik Dreise, GSlot | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:51] [] Checked (28.02.2025)
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51] [] - 23635 | Petrus Johannes Frederik Dreise, LeoVegas | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:51] [] Checked (28.02.2025)
+[2025-09-23 13:13:51]     
+[2025-09-23 13:13:51]     Amount is below 1000 EUR
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51] [] - 24718 | (Hilde) Elke Drok, Oranjecasino | [] Error processing file
+[2025-09-23 13:13:51] Error loading sheets from database 
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51]  No column of '['Amount']' found in table (Pre) Deposits with columns ['Date', 'AMOUNT / EUROCENTS', 'STATUS', 'SUBSTATUS', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'ExchangeRate'].   
+[2025-09-23 13:13:51] 
+[2025-09-23 13:13:51]  Traceback (most recent call last):
+[2025-09-23 13:13:51]   File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 193, in calculate_client
+[2025-09-23 13:13:51]     reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:13:51]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:51]   File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 248, in do_calculation
+[2025-09-23 13:13:51]     sheet_object.normalize_amounts()
+[2025-09-23 13:13:51]   File &quot;/usr/src/app/casino/models.py&quot;, line 2120, in normalize_amounts
+[2025-09-23 13:13:51]     check_normalizing_config(normalize_original_amount, df.columns.tolist())
+[2025-09-23 13:13:51]   File &quot;/usr/src/app/casino/models.py&quot;, line 2111, in check_normalizing_config
+[2025-09-23 13:13:51]     assert any([col in df_columns for col in
+[2025-09-23 13:13:51]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:51] AssertionError: No column of '['Amount']' found in table (Pre) Deposits with columns ['Date', 'AMOUNT / EUROCENTS', 'STATUS', 'SUBSTATUS', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'ExchangeRate'].
+[2025-09-23 13:13:51] [] Calculation failed for: 24718 due to calculation error
+[2025-09-23 13:13:51] [] Error processing file
+[2025-09-23 13:13:51]     Error loading sheets from database 
+[2025-09-23 13:13:51]     
+[2025-09-23 13:13:51]      No column of '['Amount']' found in table (Pre) Deposits with columns ['Date', 'AMOUNT / EUROCENTS', 'STATUS', 'SUBSTATUS', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'ExchangeRate'].   
+[2025-09-23 13:13:51]     
+[2025-09-23 13:13:51]      Traceback (most recent call last):
+[2025-09-23 13:13:51]       File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 213, in calculate_client
+[2025-09-23 13:13:52]         reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:13:52]                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:52]       File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 248, in do_calculation
+[2025-09-23 13:13:52]         sheet_object.normalize_amounts()
+[2025-09-23 13:13:52]       File &quot;/usr/src/app/casino/models.py&quot;, line 2120, in normalize_amounts
+[2025-09-23 13:13:52]         check_normalizing_config(normalize_original_amount, df.columns.tolist())
+[2025-09-23 13:13:52]       File &quot;/usr/src/app/casino/models.py&quot;, line 2111, in check_normalizing_config
+[2025-09-23 13:13:52]         assert any([col in df_columns for col in
+[2025-09-23 13:13:52]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:52]     AssertionError: No column of '['Amount']' found in table (Pre) Deposits with columns ['Date', 'AMOUNT / EUROCENTS', 'STATUS', 'SUBSTATUS', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'ExchangeRate'].
+[2025-09-23 13:13:52] [] Calculation failed for: 24718 due to calculation error
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] [] - 29441 | Rafal Augustyniak, N1 Interactive Ltd. | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:52] [] Checked (28.02.2025)
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] [] - 30096 | Robbie van Heertum, King Billy | [] Lead has no GamblingProvider. Please add a Opponent.
+[2025-09-23 13:13:52] [] Calculation failed for: 30096 due to calculation error
+[2025-09-23 13:13:52] [] No data found in the files
+[2025-09-23 13:13:52]     No data was found in the files by the script.
+[2025-09-23 13:13:52]     Please check the files.
+[2025-09-23 13:13:52] [] Calculation failed for: 30096 due to calculation error
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] [] - 37644 | Marc Perlo, 888 | [] Can not calculate. Unconverted pdf files are present: TA_GamingDetails_888.pdf
+[2025-09-23 13:13:52] [] Calculation failed for: 37644 due to calculation error
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] [] - 45032 | Youri Thorig, Casumo | [] Opponent 'ProviderConfig[DB](name=Casumo Services Limited)' not supported for calculations
+[2025-09-23 13:13:52] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:52] [] Calculation failed for: 45032 due to calculation error
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] [] - 46370 | de  Groot Haig, N1 interactive Ltd | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:52] [] Checked (7.7.2025)
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] [] - 19624 | Chayen Wittmer, Betchan | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:52] [] Checked (28.02.2025)
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] [] - 19637 | Chayen Wittmer, LeoVegas | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:52] 
+[2025-09-23 13:13:52] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:52] [] Checked (28.02.2025)
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] [] - 21670 | Fabian Wink, Avalon78 | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:53] [] Checked (28.02.2025)
+[2025-09-23 13:13:53]     
+[2025-09-23 13:13:53]     Amount is below 1000 EUR
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] [] - 21672 | Fabian Wink, Betsson | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:53] [] Checked (17.03.2025)
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] [] - 21673 | Fabian Wink, Bobcasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:53] [] Checked (28.02.2025)
+[2025-09-23 13:13:53]     
+[2025-09-23 13:13:53]     Amount is below 1000 EUR
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] [] - 21675 | Fabian Wink, Casino Rex | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:53] [] Checked (28.02.2025)
+[2025-09-23 13:13:53]     
+[2025-09-23 13:13:53]     Amount is below 1000 EUR
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] [] - 21676 | Fabian Wink, CasinoEuro | [] Case could not be calculated: errors found
+[2025-09-23 13:13:53] The case still has errors and could not be calculated.
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] [] - 21677 | Fabian Wink, Cookie Casino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:53] [] Checked (28.02.2025)
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] [] - 21678 | Fabian Wink, Evospin | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:53] 
+[2025-09-23 13:13:53] Stage was changed in the meantime. Current stage: 38. Did not move to next stage.
+[2025-09-23 13:13:53] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:53]     
+[2025-09-23 13:13:53]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:53] [] Checked (28.02.2025)
+[2025-09-23 13:13:53]     
+[2025-09-23 13:13:53]     Amount is below 1000 EUR
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] [] - 21679 | Fabian Wink, Maneki | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:54] [] Checked (28.02.2025)
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] [] - 21680 | Fabian Wink, Millionaria | [] Opponent not selected.
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] [] - 21683 | Fabian Wink, OctoCasino | [] Opponent not selected.
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] [] - 21684 | Fabian Wink, Pino Casino | [] Can not calculate. Unconverted pdf files are present: TA_PinoCasino.pdf
+[2025-09-23 13:13:54] [] Calculation failed for: 21684 due to internal error
+[2025-09-23 13:13:54] [] Detected unconverted files and starting PDF extraction.
+[2025-09-23 13:13:54] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:54]     
+[2025-09-23 13:13:54]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:54] [] Checked (28.02.2025)
+[2025-09-23 13:13:54]     
+[2025-09-23 13:13:54]     Amount is below 1000 EUR
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] [] - 21686 | Fabian Wink, Rizk | [] Case could not be calculated: errors found
+[2025-09-23 13:13:54] The case still has errors and could not be calculated.
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] [] - 21687 | Fabian Wink, Slothunter | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:54] [] Case could not be calculated: errors found
+[2025-09-23 13:13:54]     The case still has errors and could not be calculated.
+[2025-09-23 13:13:54] [] Checked (28.02.2025)
+[2025-09-23 13:13:54]     
+[2025-09-23 13:13:54]     Amount is below 1000 EUR
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] [] - 21688 | Fabian Wink, Spinia | [] Case could not be calculated: errors found
+[2025-09-23 13:13:54] The case still has errors and could not be calculated.
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] [] - 8439 | Roy Deneke, Krooncasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:54] [] Checked (24.02.2025)
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] [] - 10180 | Dennis Tjoonk, 888 | [] Opponent 'ProviderConfig[DB](name=Virtual Digital Services Ltd)' not supported for calculations
+[2025-09-23 13:13:54] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:54] 
+[2025-09-23 13:13:54] [] - 15373 | Justin Vangent1@hotmail.com, Betchan | [] The same request has been submitted again.
+[2025-09-23 13:13:54] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:54]     
+[2025-09-23 13:13:54]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:55] [] Checked (28.02.2025)
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 18588 | Stephan Westerdijk, Krooncasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:55] [] Checked (7.7.2025)
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 20000 | Michael Hovenga, Bobcasino | [] Case could not be calculated: errors found
+[2025-09-23 13:13:55] The case still has errors and could not be calculated.
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 27583 | Sachs-Wissingh Petra, N1 interactive Ltd. | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 27919 | Koopmans Marc, William Hill | [] Opponent 'ProviderConfig[DB](name=WHG (International) Ltd)' not supported for calculations
+[2025-09-23 13:13:55] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:55] [] Calculation failed for: 27919 due to calculation error
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 27923 | Ronald Poots, N1 Casino | [] TA_N1casino uploaded in Sharepoint
+[2025-09-23 13:13:55] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:55]     
+[2025-09-23 13:13:55]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:55] [] Checked (28.02.2025)
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 3631 | Roy Van der Velde, N1 Casino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:55] [] Checked (24.02.2025)
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 11930 | Max van Eijk, William Hill | [] Opponent 'ProviderConfig[DB](name=WHG (International) Ltd)' not supported for calculations
+[2025-09-23 13:13:55] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:55] [] Calculation failed for: 11930 due to calculation error
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 12866 | Shugailys Sophia, Pino Casino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:55] [] Checked (27.02.2025)
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 27515 | jacek kowalczyk, Duxcasino | [] Detected unconverted files and starting PDF extraction.
+[2025-09-23 13:13:55] [] Detected unconverted files and starting PDF extraction.
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 37865 | Maurice Van daalen, 888 | (no notes)
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] [] - 5505 | Kevin Van uden, Bobcasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:55] 
+[2025-09-23 13:13:55] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:55] [] Checked (24.02.2025)
+[2025-09-23 13:13:55]     
+[2025-09-23 13:13:56]     Amount is below 1000 EUR
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56] [] - 5507 | Kevin Van uden, Crazy Fox | [] Case could not be calculated: errors found
+[2025-09-23 13:13:56] The case still has errors and could not be calculated.
+[2025-09-23 13:13:56] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:56]     
+[2025-09-23 13:13:56]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:56] [] Checked (24.02.2025)
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56] [] - 25362 | Benjamin Oderkerk, Krooncasino | [] Error processing file
+[2025-09-23 13:13:56] Error loading sheets from database 
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56]  No column of '['Amount']' found in table (Pre) Deposits with columns ['Date', 'AMOUNT / EUROCENTS', 'STATUS', 'SUBSTATUS', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'ExchangeRate'].   
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56]  Traceback (most recent call last):
+[2025-09-23 13:13:56]   File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 193, in calculate_client
+[2025-09-23 13:13:56]     reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:13:56]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:56]   File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 248, in do_calculation
+[2025-09-23 13:13:56]     sheet_object.normalize_amounts()
+[2025-09-23 13:13:56]   File &quot;/usr/src/app/casino/models.py&quot;, line 2119, in normalize_amounts
+[2025-09-23 13:13:56]     check_normalizing_config(normalize_original_amount, df.columns.tolist())
+[2025-09-23 13:13:56]   File &quot;/usr/src/app/casino/models.py&quot;, line 2110, in check_normalizing_config
+[2025-09-23 13:13:56]     assert any([col in df_columns for col in
+[2025-09-23 13:13:56]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:56] AssertionError: No column of '['Amount']' found in table (Pre) Deposits with columns ['Date', 'AMOUNT / EUROCENTS', 'STATUS', 'SUBSTATUS', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'ExchangeRate'].
+[2025-09-23 13:13:56] [] Calculation failed for: 25362 due to calculation error
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56] [] - 28066 | Jelle Veenvliet, 888 | [] Opponent 'ProviderConfig[DB](name=Virtual Digital Services Ltd)' not supported for calculations
+[2025-09-23 13:13:56] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:56] [] Calculation failed for: 28066 due to calculation error
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56] [] - 5636 | Daniel Coen, King Billy | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:56] [] Checked (24.02.2025)
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56] [] - 15068 | Kursad Budak, Spinia | [] The same request has been submitted again.
+[2025-09-23 13:13:56] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:56]     
+[2025-09-23 13:13:56]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:56] [] Checked (27.02.2025)
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56] [] - 15690 | Mirwais Sefati, One Casino | [] Opponent 'ProviderConfig[DB](name=One Casino Limited)' not supported for calculations
+[2025-09-23 13:13:56] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:56] [] Calculation failed for: 15690 due to calculation error
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56] [] - 29951 | Lukasz Władysław Bogusz Bogusz, One Casino | [] Opponent 'ProviderConfig[DB](name=One Casino Limited)' not supported for calculations
+[2025-09-23 13:13:56] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:56] [] Calculation failed for: 29951 due to calculation error
+[2025-09-23 13:13:56] 
+[2025-09-23 13:13:56] [] - 29952 | Lukasz Władysław Bogusz Bogusz, Rizk | [] Lead has no GamblingProvider. Please add a Opponent.
+[2025-09-23 13:13:57] [] Calculation failed for: 29952 due to calculation error
+[2025-09-23 13:13:57] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:57]     
+[2025-09-23 13:13:57]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:57] [] Checked (28.02.2025)
+[2025-09-23 13:13:57] 
+[2025-09-23 13:13:57] [] - 40804 | Daan Pouw, MasonSlots | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:57] 
+[2025-09-23 13:13:57] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:57] [] Checked (7.7.2025)
+[2025-09-23 13:13:57] 
+[2025-09-23 13:13:57] [] - 2528 | Jacobus Petrus (Sjaak) Bijman, 888 | [] Opponent 'ProviderConfig[DB](name=Virtual Digital Services Ltd)' not supported for calculations
+[2025-09-23 13:13:57] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:57] [] Calculation failed for: 2528 due to calculation error
+[2025-09-23 13:13:57] 
+[2025-09-23 13:13:57] [] - 4058 | Rick van Beuningen, 888 | [] Opponent 'ProviderConfig[DB](name=Virtual Digital Services Ltd)' not supported for calculations
+[2025-09-23 13:13:57] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:57] [] Calculation failed for: 4058 due to calculation error
+[2025-09-23 13:13:57] [] Can not calculate. Unconverted pdf files are present: TA_888.pdf
+[2025-09-23 13:13:57] [] Calculation failed for: 4058 due to calculation error
+[2025-09-23 13:13:57] [] Can not calculate. Unconverted pdf files are present: TA_888.pdf
+[2025-09-23 13:13:57] [] Calculation failed for: 4058 due to calculation error
+[2025-09-23 13:13:57] 
+[2025-09-23 13:13:57] [] - 4062 | Rick van Beuningen, LeoVegas | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:57] 
+[2025-09-23 13:13:57] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:57] [] Checked (24.02.2025)
+[2025-09-23 13:13:57] 
+[2025-09-23 13:13:57] [] - 5571 | Roy Timmermans, Bobcasino | (no notes)
+[2025-09-23 13:13:57] 
+[2025-09-23 13:13:57] [] - 6565 | Bertus Stik, PokerStars | [] No data found in the files
+[2025-09-23 13:13:57] No data was found in the files by the script.
+[2025-09-23 13:13:57] Please check the files.
+[2025-09-23 13:13:57] [] HTML-encoded XLS documents and manually adjusted replacements will be uploaded.
+[2025-09-23 13:13:57] [] The data from the original documents are not normalized. The script can not calculate them.
+[2025-09-23 13:13:57] [] TA_Pokerstars requested via outlook (info@goldenstein.nl) - data in Sharepoint seems invalid /corrupted
+[2025-09-23 13:13:57] [] Error processing file
+[2025-09-23 13:13:57]     Error loading sheets from database 
+[2025-09-23 13:13:57]     
+[2025-09-23 13:13:57]      Amount format is not consistent in column Amount  
+[2025-09-23 13:13:57]     
+[2025-09-23 13:13:57]      Traceback (most recent call last):
+[2025-09-23 13:13:57]       File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 213, in calculate_client
+[2025-09-23 13:13:57]         reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:13:57]                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:57]       File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 213, in do_calculation
+[2025-09-23 13:13:57]         sheet_object.string_to_float()
+[2025-09-23 13:13:57]       File &quot;/usr/src/app/casino/models.py&quot;, line 1893, in string_to_float
+[2025-09-23 13:13:57]         df = string_to_float(df, config.amount_columns, config.amount_format)
+[2025-09-23 13:13:57]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/casino/extraction/cleaning/amounts.py&quot;, line 39, in string_to_float
+[2025-09-23 13:13:58]         raise ValueError(f&quot;Amount format is not consistent in column {amount_column}&quot;)
+[2025-09-23 13:13:58]     ValueError: Amount format is not consistent in column Amount
+[2025-09-23 13:13:58] [] Calculation failed for: 6565 due to calculation error
+[2025-09-23 13:13:58] [] Error processing file
+[2025-09-23 13:13:58]     Error loading sheets from database 
+[2025-09-23 13:13:58]     
+[2025-09-23 13:13:58]      Amount format is not consistent in column Amount  
+[2025-09-23 13:13:58]     
+[2025-09-23 13:13:58]      Traceback (most recent call last):
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 213, in calculate_client
+[2025-09-23 13:13:58]         reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:13:58]                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 213, in do_calculation
+[2025-09-23 13:13:58]         sheet_object.string_to_float()
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/casino/models.py&quot;, line 1893, in string_to_float
+[2025-09-23 13:13:58]         df = string_to_float(df, config.amount_columns, config.amount_format)
+[2025-09-23 13:13:58]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/casino/extraction/cleaning/amounts.py&quot;, line 39, in string_to_float
+[2025-09-23 13:13:58]         raise ValueError(f&quot;Amount format is not consistent in column {amount_column}&quot;)
+[2025-09-23 13:13:58]     ValueError: Amount format is not consistent in column Amount
+[2025-09-23 13:13:58] [] Calculation failed for: 6565 due to calculation error
+[2025-09-23 13:13:58] [] Error processing file
+[2025-09-23 13:13:58]     Error loading sheets from database 
+[2025-09-23 13:13:58]     
+[2025-09-23 13:13:58]      Amount format is not consistent in column Amount  
+[2025-09-23 13:13:58]     
+[2025-09-23 13:13:58]      Traceback (most recent call last):
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 213, in calculate_client
+[2025-09-23 13:13:58]         reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:13:58]                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 213, in do_calculation
+[2025-09-23 13:13:58]         sheet_object.string_to_float()
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/casino/models.py&quot;, line 1893, in string_to_float
+[2025-09-23 13:13:58]         df = string_to_float(df, config.amount_columns, config.amount_format)
+[2025-09-23 13:13:58]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/casino/extraction/cleaning/amounts.py&quot;, line 39, in string_to_float
+[2025-09-23 13:13:58]         raise ValueError(f&quot;Amount format is not consistent in column {amount_column}&quot;)
+[2025-09-23 13:13:58]     ValueError: Amount format is not consistent in column Amount
+[2025-09-23 13:13:58] [] Calculation failed for: 6565 due to calculation error
+[2025-09-23 13:13:58] [] Checked (19.08.2025)
+[2025-09-23 13:13:58] [] Error processing file
+[2025-09-23 13:13:58]     Error loading sheets from database 
+[2025-09-23 13:13:58]     
+[2025-09-23 13:13:58]      Amount format is not consistent in column Amount  
+[2025-09-23 13:13:58]     
+[2025-09-23 13:13:58]      Traceback (most recent call last):
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 213, in calculate_client
+[2025-09-23 13:13:58]         reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:13:58]                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 213, in do_calculation
+[2025-09-23 13:13:58]         sheet_object.string_to_float()
+[2025-09-23 13:13:58]       File &quot;/usr/src/app/casino/models.py&quot;, line 1893, in string_to_float
+[2025-09-23 13:13:59]         df = string_to_float(df, config.amount_columns, config.amount_format)
+[2025-09-23 13:13:59]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:59]       File &quot;/usr/src/app/casino/extraction/cleaning/amounts.py&quot;, line 39, in string_to_float
+[2025-09-23 13:13:59]         raise ValueError(f&quot;Amount format is not consistent in column {amount_column}&quot;)
+[2025-09-23 13:13:59]     ValueError: Amount format is not consistent in column Amount
+[2025-09-23 13:13:59] [] Calculation failed for: 6565 due to calculation error
+[2025-09-23 13:13:59] [] Error processing file
+[2025-09-23 13:13:59]     Error loading sheets from database 
+[2025-09-23 13:13:59]     
+[2025-09-23 13:13:59]      Amount format is not consistent in column Amount  
+[2025-09-23 13:13:59]     
+[2025-09-23 13:13:59]      Traceback (most recent call last):
+[2025-09-23 13:13:59]       File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 213, in calculate_client
+[2025-09-23 13:13:59]         reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:13:59]                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:59]       File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 213, in do_calculation
+[2025-09-23 13:13:59]         sheet_object.string_to_float()
+[2025-09-23 13:13:59]       File &quot;/usr/src/app/casino/models.py&quot;, line 1893, in string_to_float
+[2025-09-23 13:13:59]         df = string_to_float(df, config.amount_columns, config.amount_format)
+[2025-09-23 13:13:59]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:13:59]       File &quot;/usr/src/app/casino/extraction/cleaning/amounts.py&quot;, line 39, in string_to_float
+[2025-09-23 13:13:59]         raise ValueError(f&quot;Amount format is not consistent in column {amount_column}&quot;)
+[2025-09-23 13:13:59]     ValueError: Amount format is not consistent in column Amount
+[2025-09-23 13:13:59] [] Calculation failed for: 6565 due to calculation error
+[2025-09-23 13:13:59] 
+[2025-09-23 13:13:59] [] - 7175 | Gok Gulveli, Bobcasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:59] 
+[2025-09-23 13:13:59] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:59] [] Checked (24.02.2025)
+[2025-09-23 13:13:59] 
+[2025-09-23 13:13:59] [] - 9698 | Jordy Degeling, LeoVegas | [] Can not calculate. Unconverted pdf files are present: TA_Leovegas Jordy Degeling.pdf
+[2025-09-23 13:13:59] [] Calculation failed for: 9698 due to calculation error
+[2025-09-23 13:13:59] [] Can not calculate. Unconverted pdf files are present: TA_Leovegas Jordy Degeling.pdf
+[2025-09-23 13:13:59] [] Calculation failed for: 9698 due to calculation error
+[2025-09-23 13:13:59] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:59]     
+[2025-09-23 13:13:59]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:59] [] Checked (25.02.2025)
+[2025-09-23 13:13:59] 
+[2025-09-23 13:13:59] [] - 11789 | Gijsbert Dompeling, William Hill | [] Opponent 'ProviderConfig[DB](name=WHG (International) Ltd)' not supported for calculations
+[2025-09-23 13:13:59] Provider not supported. Please calculate manually.
+[2025-09-23 13:13:59] 
+[2025-09-23 13:13:59] [] - 24744 | Sebastiaan van der Meulen, Royal Panda | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:59] 
+[2025-09-23 13:13:59] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:13:59] [] Checked (17.03.2025)
+[2025-09-23 13:13:59] 
+[2025-09-23 13:13:59] [] - 32235 | Mohamed Essaghir, MasonSlots | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:13:59] 

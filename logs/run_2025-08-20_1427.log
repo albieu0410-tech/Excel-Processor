@@ -1,0 +1,52 @@
+[2025-08-20 14:27:21] 📄 Processing TA_Pokerstars.xlsx...
+[2025-08-20 14:27:21] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-08-20 14:27:21] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-08-20 14:27:21] ✅ Detected normal tabular structure. No CSV conversion needed.
+[2025-08-20 14:27:21] 📋 Raw headers: ['ParentId', 'TransType', 'Started', 'Completed']
+[2025-08-20 14:27:21] 🔍 Normalized headers: ['parentid', 'transtype', 'started', 'completed']
+[2025-08-20 14:27:21] ⚠️ Header check failed: Missing date or amount — fallback mode. Using fallback mode (Column 0 = date, Column 1 = signed amount).
+[2025-08-20 14:27:21] ⚠️ Row 2: Unparsable date → '807032263'
+[2025-08-20 14:27:21] ⚠️ Row 3: Unparsable date → '807044835'
+[2025-08-20 14:27:21] ⚠️ Row 4: Unparsable date → '811514644'
+[2025-08-20 14:27:21] ⚠️ Row 5: Unparsable date → '1039550851'
+[2025-08-20 14:27:21] ⚠️ Row 6: Unparsable date → '1101141951'
+[2025-08-20 14:27:21] ⚠️ Row 7: Unparsable date → '1185594126'
+[2025-08-20 14:27:21] ⚠️ Row 8: Unparsable date → '1188719117'
+[2025-08-20 14:27:21] ⚠️ Row 9: Unparsable date → '1197206379'
+[2025-08-20 14:27:21] ⚠️ Row 10: Unparsable date → '1199580820'
+[2025-08-20 14:27:21] ⚠️ Row 11: Unparsable date → '1199584560'
+[2025-08-20 14:27:21] ⚠️ Row 12: Unparsable date → '1200553416'
+[2025-08-20 14:27:21] ⚠️ Row 13: Unparsable date → '1200603308'
+[2025-08-20 14:27:21] ⚠️ Row 14: Unparsable date → '1201802386'
+[2025-08-20 14:27:21] ⚠️ Row 15: Unparsable date → '1201819100'
+[2025-08-20 14:27:21] ⚠️ Row 16: Unparsable date → '1202201915'
+[2025-08-20 14:27:21] ⚠️ Row 17: Unparsable date → '1202337700'
+[2025-08-20 14:27:21] ⚠️ Row 18: Unparsable date → '1202709746'
+[2025-08-20 14:27:21] ⚠️ Row 19: Unparsable date → '1202818970'
+[2025-08-20 14:27:21] ⚠️ Row 20: Unparsable date → '1202823751'
+[2025-08-20 14:27:21] ⚠️ Row 21: Unparsable date → '1203227528'
+[2025-08-20 14:27:21] ⚠️ Row 22: Unparsable date → '1203232171'
+[2025-08-20 14:27:21] ⚠️ Row 23: Unparsable date → '1203779824'
+[2025-08-20 14:27:21] ⚠️ Row 24: Unparsable date → '1203919523'
+[2025-08-20 14:27:21] ⚠️ Row 25: Unparsable date → '1204319715'
+[2025-08-20 14:27:21] ⚠️ Row 26: Unparsable date → '1205055345'
+[2025-08-20 14:27:21] ⚠️ Row 27: Unparsable date → '1207004140'
+[2025-08-20 14:27:21] ⚠️ Row 28: Unparsable date → '1211246526'
+[2025-08-20 14:27:21] ⚠️ Row 29: Unparsable date → '1214812647'
+[2025-08-20 14:27:21] ⚠️ Row 30: Unparsable date → '1214826322'
+[2025-08-20 14:27:21] ⚠️ Row 31: Unparsable date → '1215230841'
+[2025-08-20 14:27:21] ⚠️ Row 32: Unparsable date → '1215232477'
+[2025-08-20 14:27:21] ⚠️ Row 33: Unparsable date → '1215769249'
+[2025-08-20 14:27:21] ⚠️ Row 34: Unparsable date → '1220884162'
+[2025-08-20 14:27:21] ⚠️ Row 35: Unparsable date → '1220884600'
+[2025-08-20 14:27:21] ⚠️ Row 36: Unparsable date → '1220905993'
+[2025-08-20 14:27:21] ⚠️ Row 37: Unparsable date → '1221357483'
+[2025-08-20 14:27:21] ⚠️ Row 38: Unparsable date → '1221865155'
+[2025-08-20 14:27:21] ⚠️ Row 39: Unparsable date → '1222325715'
+[2025-08-20 14:27:21] ⚠️ Row 40: Unparsable date → '1222336707'
+[2025-08-20 14:27:21] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-20 14:27:21] ✅ Created Payment Summary with 0 rows.
+[2025-08-20 14:27:21] ⚠️ No valid dates found in Payment Summary.
+[2025-08-20 14:27:21] 🧾 Final claim value (from Payment Summary): 0
+[2025-08-20 14:27:21] ✅ Finished processing: TA_Pokerstars.xlsx
+[2025-08-20 14:27:24] 💾 Saved: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/12114 - lamin sanha, PokerStars\Checked_TA_Pokerstars.xlsx

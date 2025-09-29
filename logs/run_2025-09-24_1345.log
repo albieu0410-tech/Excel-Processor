@@ -1,0 +1,14 @@
+[2025-09-24 13:45:02]    • wrote ~46 rows (page≈1051) — total 4289
+[2025-09-24 13:45:02]    • wrote ~13 rows (page≈1052) — total 4302
+[2025-09-24 13:45:02]    • wrote ~33 rows (page≈1053) — total 4335
+[2025-09-24 13:45:02]    • wrote ~47 rows (page≈1054) — total 4382
+[2025-09-24 13:45:02]    • wrote ~8 rows (page≈1055) — total 4390
+[2025-09-24 13:45:02]    • wrote ~53 rows (page≈1056) — total 4443
+[2025-09-24 13:45:02] 🔎 Extracting pages 1101-1150 with Tabula…
+[2025-09-24 13:45:19]    • wrote ~34 rows (page≈1101) — total 4477
+[2025-09-24 13:45:19]    • wrote ~59 rows (page≈1102) — total 4536
+[2025-09-24 13:45:19]    • wrote ~47 rows (page≈1103) — total 4583
+[2025-09-24 13:45:19]    • wrote ~49 rows (page≈1104) — total 4632
+[2025-09-24 13:45:19] 🔎 Extracting pages 1151-1200 with Tabula…
+[2025-09-24 13:45:22] ⚠️ tabula failed on pages 1151-1200: Command '['java', '-Dfile.encoding=UTF8', '-jar', 'C:\\Users\\salbahaca\\Documents\\Automations\\Sorting Excel Dates\\Excel Processor\\venv\\lib\\site-packages\\tabula\\tabula-1.0.5-jar-with-dependencies.jar', '--pages', '1151-1200', '--lattice', '--guess', '--format', 'JSON', 'C:/Users/salbahaca/Downloads/transaction list.pdf']' returned non-zero exit status 1.
+[2025-09-24 13:45:22] 🔁 Falling back to Camelot for pages 1151-1200…

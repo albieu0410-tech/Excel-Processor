@@ -1,0 +1,105 @@
+{
+  "generated_at": "2025-09-24T11:36:58",
+  "pipeline_id": "5",
+  "stage_id": "37",
+  "stage_title": "Gamechanger Check (Manual)",
+  "sharepoint_root": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents",
+  "cases": [
+    {
+      "deal_id": "2514",
+      "title": "Deal 2514",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2514 - Aiko Vegter, PokerStars",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2514 - Aiko Vegter, PokerStars\\TA_PS information request - siddeburen (1).xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2514 - Aiko Vegter, PokerStars\\TA_PS information request - siddeburenFR.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "42190",
+      "title": "Deal 42190",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\42190 - Serkan Tas, PokerStars",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\42190 - Serkan Tas, PokerStars\\TA_Pokerstars Serkan Tas.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "45079",
+      "title": "Deal 45079",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45079 - Tom Hereijgers, Pokerstars",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45079 - Tom Hereijgers, Pokerstars\\CreditStatus.xls",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45079 - Tom Hereijgers, Pokerstars\\TA_POKERSTARS.xls"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "45110",
+      "title": "Deal 45110",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45110 - Reinier Van den Berg, PokerStars",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45110 - Reinier Van den Berg, PokerStars\\TA_PS information request - foxman2000.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "45119",
+      "title": "Deal 45119",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45119 - Mohammed El Kaddouri, PokerStars",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45119 - Mohammed El Kaddouri, PokerStars\\TA_RealMoneyAudit - hassanfluit.xls"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "2212",
+      "title": "Deal 2212",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2212 - Gerard Diepeveen, BWIN",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2212 - Gerard Diepeveen, BWIN\\TA_DSAR - gerarddovoa1 (bwin.com).xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "6838",
+      "title": "Deal 6838",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\6838 - Daniel van der Bent, BWIN",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\6838 - Daniel van der Bent, BWIN\\TA_DSAR - Daniel6674 (bwin.com).xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\6838 - Daniel van der Bent, BWIN\\TA_DSAR - danikarlkani88 (bwin.com).xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "47788",
+      "title": "Deal 47788",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\47788 - Moreno Hoepel, BWIN",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\47788 - Moreno Hoepel, BWIN\\TA_DSAR - iMoreno10 (bwin.com).xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "9871",
+      "title": "Deal 9871",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\9871 - De Boer Martijn, Party Poker",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\9871 - De Boer Martijn, Party Poker\\9871-2ndLvLForm-POA.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\9871 - De Boer Martijn, Party Poker\\TA_9871-Deposits Period 25-APR-2010 till 25-APR-2015 - martijn1231.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\9871 - De Boer Martijn, Party Poker\\TA_9871-Deposits Period 25-APR-2015 till 25-APR-2020 - martijn1231.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\9871 - De Boer Martijn, Party Poker\\TA_9871-Deposits Period 25-APR-2020 till 16-OCT-2024 - martijn1231.pdf"
+      ]
+    }
+  ]
+}

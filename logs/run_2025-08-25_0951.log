@@ -1,0 +1,27 @@
+[2025-08-25 09:51:04] ✔ Deposit sheets: ['Transaction history']
+[2025-08-25 09:51:04] ✔ Cashout sheets: ['Transaction history']
+[2025-08-25 09:51:04] ℹ️ Same sheet in both lists → will parse once as combined: ['Transaction history']
+[2025-08-25 09:51:05] TA logic: Deposits = 144094.81, Cashouts = 102065.79, Net = 42029.020000000004
+[2025-08-25 09:51:05] ✅ Created Payment Summary with 28728 rows.
+[2025-08-25 09:51:05] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 09:51:05] ✅ Finished processing: TA_Unibet 2.xlsx
+[2025-08-25 09:51:07] Cleared all selected files.
+[2025-08-25 09:51:12] ➕ Added 1 file(s).
+[2025-08-25 09:51:13] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-25 09:51:17] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 09:51:17] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 09:51:17] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-25 09:51:17] ✅ Created Payment Summary with 166 rows.
+[2025-08-25 09:51:17] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 09:51:17] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx
+[2025-08-25 09:51:21] Cleared all files.
+[2025-08-25 09:51:31] ➕ Added 1 file(s).
+[2025-08-25 09:51:31] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-25 09:51:34] ✔ Deposit sheets: ['PS Transactions']
+[2025-08-25 09:51:34] ✔ Cashout sheets: ['PS Transactions']
+[2025-08-25 09:51:34] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-08-25 09:51:34] ❌ No recognizable amount/date columns (Unibet and generic fallbacks failed).
+[2025-08-25 09:51:34] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-25 09:51:34] ✅ Created Payment Summary with 0 rows.
+[2025-08-25 09:51:34] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 09:51:34] ✅ Finished processing: TA_Pokerstars.xlsx

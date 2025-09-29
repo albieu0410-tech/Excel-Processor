@@ -1,0 +1,10 @@
+[2025-09-23 11:30:25] --- ActiveCampaign (https://glts.activehosted.com/api/3) ---
+[2025-09-23 11:30:25] ✅ AC /dealGroups OK — groups: 20, stages: 138
+[2025-09-23 11:30:25] ✅ AC /dealStages OK — 100 stages
+[2025-09-23 11:30:25] ✅ AC /deals OK — sample size: 5
+[2025-09-23 11:30:25] --- IT (https://api.golden-tech.de/glts_ac) ---
+[2025-09-23 11:30:25] 🔧 IT probe → https://api.golden-tech.de/glts_ac  (read timeout 90s)
+[2025-09-23 11:30:25] ✅ IT base [200] keys=['status', 'data', 'query_params'] data_items=139
+[2025-09-23 11:30:25] ℹ️ IT sample — id: 15619, title: Minas Calisir, One Casino, notes: 2
+[2025-09-23 11:30:25]    └─ first note: Opponent 'ProviderConfig[DB](name=One Casino Limited)' not supported for calcula
+[2025-09-23 11:30:58] 🔗 Fetching ActiveCampaign deals in saved stage (top 5)…

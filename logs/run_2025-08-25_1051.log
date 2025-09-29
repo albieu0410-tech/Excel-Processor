@@ -1,0 +1,7 @@
+[2025-08-25 10:51:56] ➕ Added 1 file(s).
+[2025-08-25 10:51:56] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-25 10:51:59] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 10:51:59] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 10:51:59] ⚡ Using 2 processes for 2 sheet(s)…
+[2025-08-25 10:51:59] 🧵 Queueing 'Deposits' → Deposit
+[2025-08-25 10:51:59] 🧵 Queueing 'Cashouts' → Redeem

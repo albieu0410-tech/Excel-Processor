@@ -1,0 +1,50 @@
+[2025-08-21 14:41:09] ❌ Failed to add TA_DSAR - Bertje22 (bwin.com).xlsx — [Errno 13] Permission denied: 'C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/30100 - Bert Relker, BWIN/TA_DSAR - Bertje22 (bwin.com).xlsx'
+[2025-08-21 14:41:18] ➕ Added 1 file(s).
+[2025-08-21 14:41:19] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-21 14:41:24] 📑 Using sheet: Deposits
+[2025-08-21 14:41:24] Detected separate Deposit and Cashout sheets.
+[2025-08-21 14:41:24] ⚠️ No distinct header row found (scanned 181 rows).
+[2025-08-21 14:41:24] ⚠️ No distinct header row found (scanned 17 rows).
+[2025-08-21 14:41:24] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-21 14:41:24] ✅ Created Payment Summary with 0 rows.
+[2025-08-21 14:41:24] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 14:41:24] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx
+[2025-08-21 14:41:32] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in checking Mode...
+[2025-08-21 14:41:32] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-08-21 14:41:33] Detected separate Deposit and Cashout sheets.
+[2025-08-21 14:41:33] ⚠️ No distinct header row found (scanned 181 rows).
+[2025-08-21 14:41:33] ⚠️ No distinct header row found (scanned 17 rows).
+[2025-08-21 14:41:33] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-21 14:41:33] ✅ Created Payment Summary with 0 rows.
+[2025-08-21 14:41:33] ⚠️ No valid dates found in Payment Summary.
+[2025-08-21 14:41:33] 🧾 Final claim value (from Payment Summary): 0
+[2025-08-21 14:41:33] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx
+[2025-08-21 14:41:36] ✔ Deposit sheets: ['Deposits']
+[2025-08-21 14:41:36] ✔ Cashout sheets: ['Cashouts']
+[2025-08-21 14:41:41] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in checking Mode...
+[2025-08-21 14:41:41] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-08-21 14:41:41] 🔧 Using user-selected sheets for TA summary.
+[2025-08-21 14:41:41] ⚠️ No distinct header row found (scanned 181 rows).
+[2025-08-21 14:41:41] ⚠️ No distinct header row found (scanned 17 rows).
+[2025-08-21 14:41:41] ⚠️ No rows from selections. Falling back to auto-detection.
+[2025-08-21 14:41:41] Detected separate Deposit and Cashout sheets.
+[2025-08-21 14:41:41] ⚠️ No distinct header row found (scanned 181 rows).
+[2025-08-21 14:41:41] ⚠️ No distinct header row found (scanned 17 rows).
+[2025-08-21 14:41:41] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-21 14:41:41] ✅ Created Payment Summary with 0 rows.
+[2025-08-21 14:41:41] ⚠️ No valid dates found in Payment Summary.
+[2025-08-21 14:41:41] 🧾 Final claim value (from Payment Summary): 0
+[2025-08-21 14:41:41] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx
+[2025-08-21 14:41:48] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-21 14:41:51] 📑 Using sheet: Deposits
+[2025-08-21 14:41:51] 🔧 Using user-selected sheets for TA summary.
+[2025-08-21 14:41:51] ⚠️ No distinct header row found (scanned 181 rows).
+[2025-08-21 14:41:51] ⚠️ No distinct header row found (scanned 17 rows).
+[2025-08-21 14:41:51] ⚠️ No rows from selections. Falling back to auto-detection.
+[2025-08-21 14:41:51] Detected separate Deposit and Cashout sheets.
+[2025-08-21 14:41:51] ⚠️ No distinct header row found (scanned 181 rows).
+[2025-08-21 14:41:51] ⚠️ No distinct header row found (scanned 17 rows).
+[2025-08-21 14:41:51] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-21 14:41:51] ✅ Created Payment Summary with 0 rows.
+[2025-08-21 14:41:51] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 14:41:51] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx

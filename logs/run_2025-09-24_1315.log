@@ -1,0 +1,4 @@
+[2025-09-24 13:15:00] ❌ Failed to queue CreditStatus.xls: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+[2025-09-24 13:15:00] ❌ Failed to queue TA_POKERSTARS.xls: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+[2025-09-24 13:15:00] ❌ Failed to queue TA_RealMoneyAudit - hassanfluit.xls: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+[2025-09-24 13:15:00] ✅ Queued 3 Excel file(s) for calculation.

@@ -1,0 +1,33 @@
+[2025-09-23 12:05:46] - 23142 | Geijtenbeek-Vink Petra, Oranjecasino | [] GameChanger Calculation failed.
+This case will take a long time due to the large amount of bets. The script in the end provided a result but failed when it tried to create an IB file.
+```
+Row numbers must be between 1 and 1048576
+Traceback (most recent call last):
+  File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/gt_process_automatisation/decorators.py&quot;, line 211, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 353, in calculate_client
+    save_report_and_dfs_to_excel(
+  File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/utils/utils_save_IB_report_to_excel.py&quot;, line 238, in save_report_and_dfs_to_excel
+    cell = ws.cell(row=r_idx, column=c_idx, value=value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/venv/lib/python3.11/site-packages/openpyxl/worksheet/worksheet.py&quot;, line 240, in cell
+    cell = self._get_cell(row, column)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/venv/lib/python3.11/site-packages/openpyxl/worksheet/worksheet.py&quot;, line 253, in _get_cell
+    raise ValueError(&quot;Row numbers must be between 1 and 1048576&quot;)
+ValueError: Row numbers must be between 1 and 1048576
+´´´
+[2025-09-23 12:05:46] - 22332 | Jan Nathanael Hoekstra, Betsson | [] Case calculated / Files uploaded (Source: webhook). 
+
+Lead was moved to next stage in NL pipeline
+    [] Checked (28.02.2025)
+[2025-09-23 12:05:46] - 23140 | Geijtenbeek-Vink Petra, Bobcasino | [] GameChanger Calculation failed
+    [] No payments, GameChanger is not proceeding in this case.
+[2025-09-23 12:05:46] - 22334 | Jan Nathanael Hoekstra, Krooncasino | [] Case calculated / Files uploaded (Source: webhook). 
+
+Lead was moved to next stage in NL pipeline
+    [] Checked (28.02.2025)
+[2025-09-23 12:05:46] - 15619 | Minas Calisir, One Casino | [] Opponent 'ProviderConfig[DB](name=One Casino Limited)' not supported for calculations
+Provider not supported. Please calculate manually.
+    [] Calculation failed for: 15619 due to calculation error

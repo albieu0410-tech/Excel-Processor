@@ -1,0 +1,10 @@
+[2025-08-25 12:01:04] 📎 Added file from Deal 43968: TA_Financial History Niels Feijen Unibet.xlsx
+[2025-08-25 12:01:06] 📄 Processing TA_Financial History Niels Feijen Unibet.xlsx in calculation Mode...
+[2025-08-25 12:01:08] ✔ Deposit sheets: ['Transaction History']
+[2025-08-25 12:01:08] ✔ Cashout sheets: ['Transaction History']
+[2025-08-25 12:01:08] ℹ️ Same sheet in both lists → will parse once as combined: ['Transaction History']
+[2025-08-25 12:01:09] ⚠️ No distinct header row found (scanned 758 rows).
+[2025-08-25 12:01:09] TA logic: Deposits = 69728.36, Cashouts = 0, Net = 69728.36
+[2025-08-25 12:01:09] ✅ Created Payment Summary with 756 rows.
+[2025-08-25 12:01:09] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 12:01:09] ✅ Finished processing: TA_Financial History Niels Feijen Unibet.xlsx

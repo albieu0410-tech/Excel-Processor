@@ -1,0 +1,35 @@
+[2025-09-23 16:03:02] 📦 40136 | Job van Maastricht, Pokerstars — 3 Excel file(s)
+[2025-09-23 16:03:06] 📦 45122 | Josh Daniel Dijkhuizen, PokerStars — 3 Excel file(s)
+[2025-09-23 16:03:10] 📄 47331 has no Excel; found 4 PDF(s).
+[2025-09-23 16:03:10] 📦 47331 | Tom Dam, William Hill — 0 Excel file(s)
+[2025-09-23 16:03:11] 📤 Exported JSON to: C:\Users\salbahaca\Documents\Automations\Sorting Excel Dates\Excel Processor\to_calculate_files_20250923_160310.json
+[2025-09-23 16:03:15] 🧪 Converting TA PDF → Excel: TA_GamingDetails_888.pdf
+[2025-09-23 16:03:15] 🧩 Converting PDF → Excel (default headers): TA_GamingDetails_888.pdf
+[2025-09-23 16:03:19] ✅ Created Excel: TA_TA_GamingDetails_888.xlsx with 235 rows, 9 cols
+[2025-09-23 16:03:19] ✅ Converted: TA_GamingDetails_888.pdf → TA_TA_GamingDetails_888.xlsx
+[2025-09-23 16:03:19] 🧪 Converting TA PDF → Excel: TA_Casumo.pdf
+[2025-09-23 16:03:19] 🧩 Converting PDF → Excel (default headers): TA_Casumo.pdf
+[2025-09-23 16:03:36] ✅ Created Excel: TA_TA_Casumo.xlsx with 13414 rows, 12 cols
+[2025-09-23 16:03:36] ✅ Converted: TA_Casumo.pdf → TA_TA_Casumo.xlsx
+[2025-09-23 16:03:36] 🧪 Converting TA PDF → Excel: TA_PinoCasino.pdf
+[2025-09-23 16:03:36] 🧩 Converting PDF → Excel (default headers): TA_PinoCasino.pdf
+[2025-09-23 16:03:37] ✅ Created Excel: TA_TA_PinoCasino.xlsx with 21 rows, 6 cols
+[2025-09-23 16:03:37] ✅ Converted: TA_PinoCasino.pdf → TA_TA_PinoCasino.xlsx
+[2025-09-23 16:03:37] 🧪 Converting TA PDF → Excel: TA_888Casino.pdf
+[2025-09-23 16:03:37] 🧩 Converting PDF → Excel (default headers): TA_888Casino.pdf
+[2025-09-23 16:03:40] ✅ Created Excel: TA_TA_888Casino.xlsx with 183 rows, 16 cols
+[2025-09-23 16:03:40] ✅ Converted: TA_888Casino.pdf → TA_TA_888Casino.xlsx
+[2025-09-23 16:03:40] 🧪 Converting TA PDF → Excel: TA_william hill transactieoverzicht.pdf
+[2025-09-23 16:03:40] 🧩 Converting PDF → Excel (default headers): TA_william hill transactieoverzicht.pdf
+[2025-09-23 16:03:46] ✅ Created Excel: TA_TA_william hill transactieoverzicht.xlsx with 88 rows, 8 cols
+[2025-09-23 16:03:46] ✅ Converted: TA_william hill transactieoverzicht.pdf → TA_TA_william hill transactieoverzicht.xlsx
+[2025-09-23 16:03:46] 🧪 Converting TA PDF → Excel: TA_11930-71104VT.pdf
+[2025-09-23 16:03:46] 🧩 Converting PDF → Excel (default headers): TA_11930-71104VT.pdf
+[2025-09-23 16:03:54] ✅ Created Excel: TA_TA_11930-71104VT.xlsx with 1413 rows, 11 cols
+[2025-09-23 16:03:54] ✅ Converted: TA_11930-71104VT.pdf → TA_TA_11930-71104VT.xlsx
+[2025-09-23 16:03:54] 🧪 Converting TA PDF → Excel: TA_Duxcasino.pdf
+[2025-09-23 16:03:54] 🧩 Converting PDF → Excel (default headers): TA_Duxcasino.pdf
+[2025-09-23 16:03:58] ✅ Created Excel: TA_TA_Duxcasino.xlsx with 3008 rows, 6 cols
+[2025-09-23 16:03:58] ✅ Converted: TA_Duxcasino.pdf → TA_TA_Duxcasino.xlsx
+[2025-09-23 16:03:58] 🧪 Converting TA PDF → Excel: TA_746193273 Thierry van Daalen - Financial Report.pdf
+[2025-09-23 16:03:58] 🧩 Converting PDF → Excel (default headers): TA_746193273 Thierry van Daalen - Financial Report.pdf

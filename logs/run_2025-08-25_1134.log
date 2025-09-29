@@ -1,0 +1,114 @@
+[2025-08-25 11:33:59] ✅ [PS TRACE] Row 685: ACCEPT Redeem 717.58 EUR on 2020-11-15 21:47:36 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 686: read date=2020-11-16 14:45:00, amount=49.4, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 686: ACCEPT Deposit 49.4 USD on 2020-11-16 14:45:00 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 687: read date=2020-11-17 14:07:55, amount=115.08, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 687: ACCEPT Deposit 115.08 USD on 2020-11-17 14:07:55 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 688: read date=2020-11-18 12:53:06, amount=17.26, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 688: ACCEPT Deposit 17.26 USD on 2020-11-18 12:53:06 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 689: read date=2020-11-19 07:00:51, amount=10.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 689: ACCEPT Deposit 10.32 USD on 2020-11-19 07:00:51 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 690: read date=2020-11-19 07:43:31, amount=10.33, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 690: ACCEPT Deposit 10.33 USD on 2020-11-19 07:43:31 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 691: read date=2020-12-21 02:21:56, amount=10.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 691: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 692: read date=2020-11-19 09:30:47, amount=10.32, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 692: ACCEPT Deposit 10.32 USD on 2020-11-19 09:30:47 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 693: read date=2020-11-19 13:41:32, amount=16.09, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 693: ACCEPT Deposit 16.09 USD on 2020-11-19 13:41:32 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 694: read date=2020-11-19 14:48:47, amount=26.7, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 694: ACCEPT Deposit 26.7 USD on 2020-11-19 14:48:47 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 695: read date=2020-11-21 13:57:36, amount=46.0, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 695: ACCEPT Deposit 46.0 USD on 2020-11-21 13:57:36 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 696: read date=2020-11-21 14:35:43, amount=11.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 696: ACCEPT Deposit 11.5 USD on 2020-11-21 14:35:43 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 697: read date=2020-11-21 16:36:06, amount=11.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 697: ACCEPT Deposit 11.5 USD on 2020-11-21 16:36:06 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 698: read date=2020-11-27 13:30:16, amount=57.96, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 698: ACCEPT Deposit 57.96 USD on 2020-11-27 13:30:16 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 699: read date=2020-11-27 15:03:32, amount=40.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 699: ACCEPT Deposit 40.6 USD on 2020-11-27 15:03:32 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 700: read date=2020-11-27 17:48:11, amount=14.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 700: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 701: read date=2020-11-28 13:25:27, amount=19.72, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 701: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 702: read date=2020-11-28 13:21:56, amount=18.91, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 702: ACCEPT Deposit 18.91 USD on 2020-11-28 13:21:56 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 703: read date=2020-11-28 17:53:08, amount=69.63, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 703: ACCEPT Deposit 69.63 USD on 2020-11-28 17:53:08 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 704: read date=2020-11-29 19:06:11, amount=47.47, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 704: ACCEPT Redeem 47.47 EUR on 2020-11-29 19:06:11 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 705: read date=2021-01-30 13:09:47, amount=82.4, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 705: ACCEPT Deposit 82.4 USD on 2021-01-30 13:09:47 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 706: read date=2021-02-21 11:47:51, amount=11.75, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 706: ACCEPT Deposit 11.75 USD on 2021-02-21 11:47:51 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 707: read date=2021-03-05 13:01:30, amount=70.29, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 707: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 708: read date=2021-03-03 12:21:53, amount=26.35, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 708: ACCEPT Deposit 26.35 USD on 2021-03-03 12:21:53 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 709: read date=2021-03-03 13:40:45, amount=10.18, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 709: ACCEPT Deposit 10.18 USD on 2021-03-03 13:40:45 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 710: read date=2021-03-04 08:09:02, amount=11.67, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 710: ACCEPT Deposit 11.67 USD on 2021-03-04 08:09:02 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 711: read date=2021-04-11 09:51:44, amount=63.52, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 711: skipped — label='Redeem', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 712: read date=2021-04-11 11:26:42, amount=79.63, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 712: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 713: read date=2021-04-11 11:26:52, amount=79.63, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 713: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 714: read date=2021-04-13 13:25:41, amount=18.18, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 714: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 715: read date=2021-04-26 13:27:40, amount=70.34, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 715: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 716: read date=2021-05-06 08:37:05, amount=25.72, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 716: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 717: read date=2021-05-16 12:51:30, amount=10.01, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 717: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 718: read date=2021-05-24 14:25:29, amount=68.13, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 718: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 719: read date=2021-06-01 13:15:06, amount=35.6, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 719: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 720: read date=2021-06-22 04:35:19, amount=23.07, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 720: skipped — label='Deposit', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 721: read date=2021-06-24 18:27:10, amount=201.0, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Rejected' → norm_status='rejected'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 721: skipped — label='Redeem', status='Rejected'→'rejected' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 722: read date=2021-06-28 11:15:38, amount=578.45, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 722: ACCEPT Deposit 578.45 USD on 2021-06-28 11:15:38 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 723: read date=2021-07-02 11:48:30, amount=40.21, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 723: ACCEPT Deposit 40.21 USD on 2021-07-02 11:48:30 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 724: read date=2021-07-03 08:00:37, amount=953.92, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 724: ACCEPT Deposit 953.92 USD on 2021-07-03 08:00:37 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 725: read date=2021-07-04 14:41:25, amount=1303.13, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Cancelled' → norm_status='cancelled'
+[2025-08-25 11:34:00] 🛑 [PS TRACE] Row 725: skipped — label='Redeem', status='Cancelled'→'cancelled' not accepted
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 726: read date=2021-07-05 02:01:00, amount=1224.78, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 726: ACCEPT Redeem 1224.78 EUR on 2021-07-05 02:01:00 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 727: read date=2021-07-08 02:41:04, amount=520.0, type_raw='Redeem', label='Redeem', currency='EUR', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 727: ACCEPT Redeem 520.0 EUR on 2021-07-08 02:41:04 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 728: read date=2021-07-09 04:47:45, amount=38.24, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 728: ACCEPT Deposit 38.24 USD on 2021-07-09 04:47:45 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 729: read date=2021-07-12 06:54:42, amount=26.44, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 729: ACCEPT Deposit 26.44 USD on 2021-07-12 06:54:42 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 730: read date=2021-07-12 11:40:34, amount=21.86, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 730: ACCEPT Deposit 21.86 USD on 2021-07-12 11:40:34 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 731: read date=2021-07-13 05:57:56, amount=29.86, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 731: ACCEPT Deposit 29.86 USD on 2021-07-13 05:57:56 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 732: read date=2021-07-13 05:59:17, amount=15.5, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 732: ACCEPT Deposit 15.5 USD on 2021-07-13 05:59:17 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 733: read date=2021-07-26 14:51:10, amount=24.9, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 733: ACCEPT Deposit 24.9 USD on 2021-07-26 14:51:10 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 🔍 [PS TRACE] Row 734: read date=2021-08-12 07:37:01, amount=626.33, type_raw='Deposit', label='Deposit', currency='USD', status_raw='Approved' → norm_status='approved'
+[2025-08-25 11:34:00] ✅ [PS TRACE] Row 734: ACCEPT Deposit 626.33 USD on 2021-08-12 07:37:01 (status='Approved'→'approved')
+[2025-08-25 11:34:00] 📊 [PS TRACE] Scan summary for 'PS Transactions': scanned=726, accepted=594, skipped=132
+[2025-08-25 11:34:00] TA logic: Deposits = 13771.79, Cashouts = 10173.06, Net = 3598.7300000000014
+[2025-08-25 11:34:00] ✅ Created Payment Summary with 594 rows.
+[2025-08-25 11:34:00] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:34:00] ✅ Finished processing: TA_Pokerstars.xlsx
+[2025-08-25 11:34:37] 💾 Saved: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/23193 - Richard Jonker, PokerStars\Checked_TA_Pokerstars.xlsx
+[2025-08-25 11:34:41] Cleared all files.
+[2025-08-25 11:34:50] ➕ Added 1 file(s).
+[2025-08-25 11:34:50] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-25 11:34:52] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 11:34:52] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 11:34:52] TA logic: Deposits = 17445.0, Cashouts = 5756.25, Net = 11688.75
+[2025-08-25 11:34:52] ✅ Created Payment Summary with 166 rows.
+[2025-08-25 11:34:53] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:34:53] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx

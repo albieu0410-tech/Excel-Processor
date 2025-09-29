@@ -1,0 +1,8 @@
+[2025-08-21 16:41:01] 📄 Processing TA_Unibet 2.xlsx in calculation Mode...
+[2025-08-21 16:41:05] ✔ Deposit sheets: ['Transaction history']
+[2025-08-21 16:41:05] ✔ Cashout sheets: ['Transaction history']
+[2025-08-21 16:41:05] ℹ️ Same sheet in both lists → will parse once as combined: ['Transaction history']
+[2025-08-21 16:41:06] TA logic: Deposits = 144094.81, Cashouts = 102065.79, Net = 42029.020000000004
+[2025-08-21 16:41:06] ✅ Created Payment Summary with 28728 rows.
+[2025-08-21 16:41:06] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 16:41:06] ✅ Finished processing: TA_Unibet 2.xlsx

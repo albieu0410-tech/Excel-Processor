@@ -1,0 +1,25 @@
+[2025-08-25 11:55:06] 📎 Added file from Deal 44458: TA_DSAR - jamaltarifit (bwin.com).xlsx
+[2025-08-25 11:55:14] 📎 Added file from Deal 44458: TA_DSAR - jamaltarifit (premium.com).xlsx
+[2025-08-25 11:55:16] 📄 Processing TA_DSAR - jamaltarifit (bwin.com).xlsx in checking Mode...
+[2025-08-25 11:55:21] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 11:55:21] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 11:55:21] TA logic: Deposits = 8584.0, Cashouts = 9373.8, Net = -789.7999999999993
+[2025-08-25 11:55:21] ✅ Created Payment Summary with 75 rows.
+[2025-08-25 11:55:21] ✅ Created Summary sheet (Currency → Type → Year).
+[2025-08-25 11:55:21] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:55:21] 🧾 Final claim value (from Payment Summary): -789.8
+[2025-08-25 11:55:21] ✅ Finished processing: TA_DSAR - jamaltarifit (bwin.com).xlsx
+[2025-08-25 11:55:21] 📄 Processing TA_DSAR - jamaltarifit (premium.com).xlsx in checking Mode...
+[2025-08-25 11:55:25] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 11:55:25] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 11:55:25] TA logic: Deposits = 95200.0, Cashouts = 107000.6, Net = -11800.600000000006
+[2025-08-25 11:55:25] ✅ Created Payment Summary with 512 rows.
+[2025-08-25 11:55:25] ✅ Created Summary sheet (Currency → Type → Year).
+[2025-08-25 11:55:25] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:55:25] 🧾 Final claim value (from Payment Summary): -11800.6
+[2025-08-25 11:55:25] ✅ Finished processing: TA_DSAR - jamaltarifit (premium.com).xlsx
+[2025-08-25 11:55:41] Cleared all files.
+[2025-08-25 11:55:50] 📎 Added file from Deal 44458: Extract_BWIN_Jamal Tarifit.xlsx
+[2025-08-25 11:55:52] 📄 Processing Extract_BWIN_Jamal Tarifit.xlsx in checking Mode...
+[2025-08-25 11:55:57] ❌ Error in C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/44458 - Jamal Tarifit, BWIN/Extract_BWIN_Jamal Tarifit.xlsx: ❌ Unsupported file prefix in Checking Mode (use TA_ or IB_).
+[2025-08-25 11:55:59] Cleared all files.

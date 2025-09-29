@@ -1,0 +1,5 @@
+[2025-08-26 09:19:19] ➕ Added 1 file(s).
+[2025-08-26 09:19:24] 📄 Processing TA_Unibet (10).xlsx in calculation Mode...
+[2025-08-26 09:19:28] ✔ Deposit sheets: ['Export']
+[2025-08-26 09:19:28] ✔ Cashout sheets: ['Export']
+[2025-08-26 09:19:28] ℹ️ Same sheet in both lists → will parse once as combined: ['Export']

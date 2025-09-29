@@ -1,0 +1,17 @@
+[2025-07-17 09:37:34] Cleared all files.
+[2025-07-17 09:37:35] ⚠️ No files selected.
+[2025-07-17 09:37:38] ⚠️ No files selected.
+[2025-07-17 09:37:41] Added 1 file(s).
+[2025-07-17 09:37:41] 📄 Processing TA_Unibet (4).xlsx...
+[2025-07-17 09:37:41] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-07-17 09:37:41] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-07-17 09:37:41] ✅ Detected normal tabular structure. No CSV conversion needed.
+[2025-07-17 09:37:41] 📋 Raw headers: ['Datum', 'Tijdzone', 'Transactie', 'ID', 'Context', 'ID', 'Activiteit', 'Omschrijving', 'Betalingskenmerk', 'Datum', 'betaling', 'aangevraagd', 'Cash', 'betaling', 'aangevraagd', 'Betalingskosten', 'Hoeveelheid', 'Cash', 'Niet', 'opneembare', 'hoeveelheid', 'cash', 'Bonus', 'aantal', 'Totaal', 'aantal']
+[2025-07-17 09:37:41] 🔍 Normalized headers: ['datum', 'tijdzone', 'transactie', 'id', 'context', 'id', 'activiteit', 'omschrijving', 'betalingskenmerk', 'datum', 'betaling', 'aangevraagd', 'cash', 'betaling', 'aangevraagd', 'betalingskosten', 'hoeveelheid', 'cash', 'niet', 'opneembare', 'hoeveelheid', 'cash', 'bonus', 'aantal', 'totaal', 'aantal']
+[2025-07-17 09:37:42] ✅ Indexes — Date: 9, Time: None, Type: 6, Amount: 20, Status: None
+[2025-07-17 09:37:42] ❌ Missing required headers in combined sheet: Missing required columns: datum/tijd/activiteit/hoeveelheid
+[2025-07-17 09:37:42] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-07-17 09:37:42] ✅ Created Payment Summary with 0 rows.
+[2025-07-17 09:37:42] ⚠️ No valid dates found in Payment Summary.
+[2025-07-17 09:37:42] 🧾 Final claim value (from Payment Summary): 0
+[2025-07-17 09:37:42] ✅ Finished processing: TA_Unibet (4).xlsx

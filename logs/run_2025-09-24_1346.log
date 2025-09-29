@@ -1,0 +1,10 @@
+[2025-09-24 13:46:07] ⚠️ camelot failed on pages 1151-1200: sequence index out of range
+[2025-09-24 13:46:07] ∅ No tables in 1151-1200 (empty streak 1).
+[2025-09-24 13:46:07] 🔎 Extracting pages 1201-1250 with Tabula…
+[2025-09-24 13:46:08] ⚠️ tabula failed on pages 1201-1250: Command '['java', '-Dfile.encoding=UTF8', '-jar', 'C:\\Users\\salbahaca\\Documents\\Automations\\Sorting Excel Dates\\Excel Processor\\venv\\lib\\site-packages\\tabula\\tabula-1.0.5-jar-with-dependencies.jar', '--pages', '1201-1250', '--lattice', '--guess', '--format', 'JSON', 'C:/Users/salbahaca/Downloads/transaction list.pdf']' returned non-zero exit status 1.
+[2025-09-24 13:46:08] 🔁 Falling back to Camelot for pages 1201-1250…
+[2025-09-24 13:46:08] ⚠️ camelot failed on pages 1201-1250: sequence index out of range
+[2025-09-24 13:46:08] ∅ No tables in 1201-1250 (empty streak 2).
+[2025-09-24 13:46:08] 🛑 Stopping scan on consecutive empty chunks.
+[2025-09-24 13:46:08] ✅ Created Excel: TA_transaction list.xlsx with 4632 rows, 2 cols
+[2025-09-24 13:46:09] ➕ Added 1 file(s).

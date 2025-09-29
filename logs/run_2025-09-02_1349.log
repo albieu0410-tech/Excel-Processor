@@ -1,0 +1,7 @@
+[2025-09-02 13:49:47] Cleared all files.
+[2025-09-02 13:49:53] ➕ Added 1 file(s).
+[2025-09-02 13:49:54] 📄 Processing TA_Pokerstars (18).xlsx in calculation Mode...
+[2025-09-02 13:49:55] 📄 Processing TA_Pokerstars (18).xlsx in calculation Mode...
+[2025-09-02 13:49:58] ✔ Deposit sheets: ['Sheet2']
+[2025-09-02 13:49:58] ✔ Cashout sheets: ['Sheet2']
+[2025-09-02 13:49:58] ℹ️ Same sheet in both lists → will parse once as combined: ['Sheet2']

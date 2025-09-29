@@ -1,0 +1,14 @@
+[2025-08-25 14:08:27] Cleared all files.
+[2025-08-25 14:08:40] ➕ Added 1 file(s).
+[2025-08-25 14:08:46] 📄 Processing TA_Pokerstars (17).xlsx in calculation Mode...
+[2025-08-25 14:08:50] ✔ Deposit sheets: ['Financial History']
+[2025-08-25 14:08:50] ✔ Cashout sheets: ['Financial History']
+[2025-08-25 14:08:50] ℹ️ Same sheet in both lists → will parse once as combined: ['Financial History']
+[2025-08-25 14:08:51] ⚠️ No distinct header row found (scanned 1266 rows).
+[2025-08-25 14:08:51] ❌ No recognizable amount/date columns (Unibet and generic fallbacks failed).
+[2025-08-25 14:08:51] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-25 14:08:51] ✅ Created Payment Summary with 0 rows.
+[2025-08-25 14:08:51] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 14:08:51] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-08-25 14:08:51] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-08-25 14:08:51] ✅ Finished processing: TA_Pokerstars (17).xlsx

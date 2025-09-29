@@ -1,0 +1,20 @@
+[2025-09-03 09:18:00] 📄 Processing TA_TA_pokerstars audit.xlsx in calculation Mode...
+[2025-09-03 09:18:03] ✔ Deposit sheets: ['All']
+[2025-09-03 09:18:03] ✔ Cashout sheets: ['All']
+[2025-09-03 09:18:03] ℹ️ Same sheet in both lists → will parse once as combined: ['All']
+[2025-09-03 09:18:03] ✅ Detected header row at Excel row 1: ['TransId', 'ParentId', 'Transaction Type', 'Started', 'Created', 'Currency', 'Amount', 'Status', 'Gateway', 'Country', 'Logged-In Reference']
+[2025-09-03 09:18:03] 🧭 Columns: amount=6, currency=5, type=2, ref_date=3, conf_date=None, status=7, gateway=8, descr=10, drcr=None
+[2025-09-03 09:18:03] TA logic: Deposits = 5897.06, Cashouts = 662.47, Net = 5234.59
+[2025-09-03 09:18:03] ✅ Created Payment Summary with 83 rows.
+[2025-09-03 09:18:03] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-03 09:18:03] 🌍 FX USD→EUR 2016 (2016-02-04…2016-02-04) avg = 0.892379
+[2025-09-03 09:18:03] 🌍 FX USD→EUR 2017 (2017-05-26…2017-08-29) avg = 0.870262
+[2025-09-03 09:18:03] 🌍 FX USD→EUR 2019 (2019-02-07…2019-12-03) avg = 0.894981
+[2025-09-03 09:18:03] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-03 09:18:03] 🔁 ECB parsed 0 points from CSV — text/csv; body: 
+[2025-09-03 09:18:04] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-03 09:18:04] 🔁 ECB parsed 0 points from CSV — text/csv; body: 
+[2025-09-03 09:18:04] ⚠️ ECB fetch failed for 2020 (2020-06-27…2020-06-27): ECB fetch failed for USD->EUR 2020-06-27…2020-06-27: No data for USD/EUR 2020-06-27…2020-06-27: no data
+[2025-09-03 09:18:04] ✅ Created 'Payment Summary EUR' (82 USD rows converted).
+[2025-09-03 09:18:04] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-03 09:18:04] ✅ Finished processing: TA_TA_pokerstars audit.xlsx

@@ -1,0 +1,14 @@
+[2025-09-24 13:14:09] ℹ️ IT: received 137 lead(s).
+[2025-09-24 13:14:09] 📂 SharePoint root: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents
+[2025-09-24 13:14:11] 🚫 SP: Checked_* file(s) present for 2514 — dropping. Samples: Checked_TA_PS information request - siddeburen (1).xlsx, Checked_TA_PS information request - siddeburenFR.xlsx
+[2025-09-24 13:14:14] 🚫 SP: Checked_* file(s) present for 42190 — dropping. Samples: Checked_TA_Pokerstars Serkan Tas.xlsx
+[2025-09-24 13:14:22] 🚫 SP: Checked_* file(s) present for 45110 — dropping. Samples: Checked_TA_PS information request - foxman2000.xlsx
+[2025-09-24 13:14:27] 🚫 SP: Checked_* file(s) present for 2212 — dropping. Samples: Checked_TA_DSAR - gerarddovoa1 (bwin.com).xlsx
+[2025-09-24 13:14:32] 🚫 SP: Checked_* file(s) present for 6838 — dropping. Samples: Checked_TA_DSAR - Daniel6674 (bwin.com).xlsx, Checked_TA_DSAR - danikarlkani88 (bwin.com).xlsx
+[2025-09-24 13:14:36] 🚫 SP: Checked_* file(s) present for 47788 — dropping. Samples: Checked_TA_DSAR - iMoreno10 (bwin.com).xlsx
+[2025-09-24 13:14:39] ℹ️ No selected files with Deal IDs to move. Tick some files first.
+[2025-09-24 13:14:41] 🧹 Filter result — total:9 kept:3 dropped_by_sharepoint:6 dropped_by_notes:0
+[2025-09-24 13:14:45] 📦 45079 | Deal 45079 — 2 Excel file(s)
+[2025-09-24 13:14:49] 📦 45119 | Deal 45119 — 1 Excel file(s)
+[2025-09-24 13:14:54] 📦 9871 | Deal 9871 — 3 Excel file(s)
+[2025-09-24 13:14:54] 📤 Exported JSON to: C:\Users\salbahaca\Documents\Automations\Sorting Excel Dates\Excel Processor\to_calculate_files_20250924_131454.json

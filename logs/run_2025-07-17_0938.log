@@ -1,0 +1,11 @@
+[2025-07-17 09:38:49] Cleared all files.
+[2025-07-17 09:38:58] Added 1 file(s).
+[2025-07-17 09:38:59] 📄 Processing TA_Unibet (4).xlsx...
+[2025-07-17 09:38:59] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-07-17 09:38:59] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-07-17 09:38:59] ✅ Detected normal tabular structure. No CSV conversion needed.
+[2025-07-17 09:38:59] 📋 Raw headers: ['Datum', 'Tijd', 'Tijdzone', 'Transactie', 'ID', 'Context', 'ID', 'Activiteit', 'Omschrijving', 'Betalingskenmerk', 'aangevraagd', 'Cash', 'betaling', 'aangevraagd', 'Betalingskosten', 'Hoeveelheid', 'Cash', 'Niet', 'opneembare', 'hoeveelheid', 'cash', 'Bonus', 'aantal', 'Totaal', 'aantal']
+[2025-07-17 09:38:59] 🔍 Normalized headers: ['datum', 'tijd', 'tijdzone', 'transactie', 'id', 'context', 'id', 'activiteit', 'omschrijving', 'betalingskenmerk', 'aangevraagd', 'cash', 'betaling', 'aangevraagd', 'betalingskosten', 'hoeveelheid', 'cash', 'niet', 'opneembare', 'hoeveelheid', 'cash', 'bonus', 'aantal', 'totaal', 'aantal']
+[2025-07-17 09:38:59] ✅ Indexes — Date: 0, Time: 1, Type: 7, Amount: 19, Status: None
+[2025-07-17 09:38:59] ⚠️ Row 2: Unparsable date/time → '2025-02-18 00:00:00 20:53:00'
+[2025-07-17 09:38:59] ⚠️ Row 3: Unparsable date/time → '2025-02-15 00:00:00 20:32:00'

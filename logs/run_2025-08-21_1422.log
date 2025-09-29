@@ -1,0 +1,5 @@
+[2025-08-21 14:22:14] ➕ Added 1 file(s).
+[2025-08-21 14:22:20] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-21 14:22:29] 📑 Using sheet: Deposits
+[2025-08-21 14:22:29] Detected separate Deposit and Cashout sheets.
+[2025-08-21 14:22:29] ❌ Error in C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/30100 - Bert Relker, BWIN/TA_DSAR - Bertje22 (bwin.com).xlsx: name 'extract_rows_from_sheet' is not defined

@@ -1,0 +1,8 @@
+[2025-08-25 11:09:02] ➕ Added 1 file(s).
+[2025-08-25 11:09:29] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-25 11:09:44] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 11:09:44] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 11:09:44] TA logic: Deposits = 17445.0, Cashouts = 5756.25, Net = 11688.75
+[2025-08-25 11:09:44] ✅ Created Payment Summary with 166 rows.
+[2025-08-25 11:09:44] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:09:45] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx

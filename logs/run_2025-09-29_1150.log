@@ -1,0 +1,696 @@
+[2025-09-29 11:50:38] 🔗 Auto-tagged from SharePoint: Deal 42190
+[2025-09-29 11:50:38] ➕ Added 1 file(s).
+[2025-09-29 11:50:40] 📄 Processing TA_Pokerstars Serkan Tas.xlsx (Deal 42190) in calculation Mode...
+[2025-09-29 11:50:43] ✔ Deposit sheets: ['PS Transactions']
+[2025-09-29 11:50:43] ✔ Cashout sheets: ['PS Transactions']
+[2025-09-29 11:50:43] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-09-29 11:50:43] ✅ Detected header row at Excel row 8: ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-09-29 11:50:43] 🔎 Header row 8: ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-09-29 11:50:43] 🧭 Columns: amount=6, currency=5, type=2, ref_date=3, conf_date=4, status=7, gateway=None, descr=10, drcr=None
+[2025-09-29 11:50:43] 🔎 row 9: ✅ accept → dt=2009-09-13 amt=145.70 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 10: ✅ accept → dt=2009-09-13 amt=36.42 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 11: ✅ accept → dt=2009-09-15 amt=109.95 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 12: ✅ accept → dt=2009-09-16 amt=44.16 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 13: ✅ accept → dt=2009-09-17 amt=22.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 14: ✅ accept → dt=2009-09-17 amt=147.34 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 15: ✅ accept → dt=2009-09-19 amt=22.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 16: ✅ accept → dt=2009-09-19 amt=36.77 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 17: ✅ accept → dt=2009-09-19 amt=14.71 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 18: ✅ accept → dt=2009-09-19 amt=36.77 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 19: ✅ accept → dt=2009-09-19 amt=36.77 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 20: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 21: ✅ accept → dt=2009-09-20 amt=73.55 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 22: ✅ accept → dt=2009-09-20 amt=73.55 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 23: ✅ accept → dt=2009-09-22 amt=14.77 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 24: ✅ accept → dt=2009-09-22 amt=147.86 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 25: ✅ accept → dt=2009-09-23 amt=147.79 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 26: ✅ accept → dt=2009-09-23 amt=147.53 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 27: ✅ accept → dt=2009-09-23 amt=44.07 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 28: ✅ accept → dt=2009-09-23 amt=102.84 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 29: ✅ accept → dt=2009-09-23 amt=147.13 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 30: ✅ accept → dt=2009-09-24 amt=38.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 31: ✅ accept → dt=2009-09-25 amt=14.68 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 32: ✅ accept → dt=2009-09-27 amt=24.89 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 33: ✅ accept → dt=2009-09-27 amt=14.68 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 34: ✅ accept → dt=2009-09-27 amt=14.68 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 35: ✅ accept → dt=2009-09-28 amt=14.61 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 36: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 37: ✅ accept → dt=2009-09-29 amt=14.58 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 38: ✅ accept → dt=2009-09-30 amt=36.60 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 39: ✅ accept → dt=2009-10-02 amt=36.33 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 40: ✅ accept → dt=2009-10-03 amt=72.86 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 41: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 42: ✅ accept → dt=2009-10-07 amt=38.19 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 43: ✅ accept → dt=2009-10-09 amt=73.65 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 44: ✅ accept → dt=2009-10-11 amt=36.82 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 45: ✅ accept → dt=2009-10-11 amt=73.65 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 46: ✅ accept → dt=2009-10-14 amt=37.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 47: ✅ accept → dt=2009-10-14 amt=37.28 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 48: ✅ accept → dt=2009-10-14 amt=74.61 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 49: ✅ accept → dt=2009-10-15 amt=37.37 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 50: ✅ accept → dt=2009-10-16 amt=14.88 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 51: ✅ accept → dt=2009-10-16 amt=37.25 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 52: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 53: ✅ accept → dt=2009-10-17 amt=37.26 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 54: ✅ accept → dt=2009-10-18 amt=37.26 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 55: ✅ accept → dt=2009-10-19 amt=37.36 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 56: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 57: ✅ accept → dt=2009-10-21 amt=15.03 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 58: ✅ accept → dt=2009-10-22 amt=74.92 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 59: ✅ accept → dt=2009-10-22 amt=75.11 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 60: ✅ accept → dt=2009-10-22 amt=150.39 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 61: ✅ accept → dt=2009-10-28 amt=87.33 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 62: ✅ accept → dt=2009-11-04 amt=14.87 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 63: ✅ accept → dt=2009-12-06 amt=74.29 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 64: ✅ accept → dt=2009-12-06 amt=148.59 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 65: ✅ accept → dt=2009-12-20 amt=143.33 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 66: ✅ accept → dt=2009-12-20 amt=71.66 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 67: ✅ accept → dt=2009-12-20 amt=143.33 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 68: ✅ accept → dt=2009-12-22 amt=142.57 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 69: ✅ accept → dt=2010-01-05 amt=14.38 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 70: ✅ accept → dt=2010-01-06 amt=14.38 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 71: ✅ accept → dt=2010-01-06 amt=21.64 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 72: ✅ accept → dt=2010-01-07 amt=35.78 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 73: ✅ accept → dt=2010-01-07 amt=50.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 74: ✅ accept → dt=2010-01-08 amt=35.94 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 75: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 76: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 77: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 78: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 79: ✅ accept → dt=2010-01-08 amt=36.03 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 80: ✅ accept → dt=2010-01-12 amt=36.33 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 81: ✅ accept → dt=2010-01-13 amt=29.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 82: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 83: ✅ accept → dt=2010-01-15 amt=129.51 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 84: ✅ accept → dt=2010-01-19 amt=71.45 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 85: ✅ accept → dt=2010-01-19 amt=14.29 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 86: ✅ accept → dt=2010-01-20 amt=84.84 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 87: ✅ accept → dt=2010-01-20 amt=70.74 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 88: ✅ accept → dt=2010-01-20 amt=49.35 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 89: ✅ accept → dt=2010-01-21 amt=14.05 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 90: ✅ accept → dt=2010-01-21 amt=31.01 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 91: ✅ accept → dt=2010-01-23 amt=14.13 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 92: ✅ accept → dt=2010-01-25 amt=70.75 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 93: ✅ accept → dt=2010-01-26 amt=70.43 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 94: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 95: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:43] 🔎 row 96: ✅ accept → dt=2010-01-26 amt=140.80 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 97: ✅ accept → dt=2010-01-26 amt=140.74 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:43] 🔎 row 98: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 99: ✅ accept → dt=2010-01-29 amt=167.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 100: ✅ accept → dt=2010-02-03 amt=34.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 101: ✅ accept → dt=2010-02-03 amt=13.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 102: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 103: ✅ accept → dt=2010-02-03 amt=27.78 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 104: ✅ accept → dt=2010-02-07 amt=34.21 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 105: ✅ accept → dt=2010-02-07 amt=34.27 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 106: ✅ accept → dt=2010-02-08 amt=13.69 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 107: ✅ accept → dt=2010-02-10 amt=13.68 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 108: ✅ accept → dt=2010-02-11 amt=20.53 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 109: ✅ accept → dt=2010-02-12 amt=34.07 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 110: ✅ accept → dt=2010-02-13 amt=34.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 111: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 112: ✅ accept → dt=2010-02-14 amt=34.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 113: ✅ accept → dt=2010-02-14 amt=34.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 114: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 115: ✅ accept → dt=2010-02-14 amt=47.71 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 116: ✅ accept → dt=2010-02-14 amt=68.16 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 117: ✅ accept → dt=2010-02-17 amt=13.60 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 118: ✅ accept → dt=2010-02-18 amt=34.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 119: ✅ accept → dt=2010-02-20 amt=68.04 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 120: ✅ accept → dt=2010-02-21 amt=68.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 121: ✅ accept → dt=2010-02-21 amt=34.07 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 122: ✅ accept → dt=2010-02-22 amt=16.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 123: ✅ accept → dt=2010-02-25 amt=81.28 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 124: ✅ accept → dt=2010-02-25 amt=54.23 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 125: ✅ accept → dt=2010-03-04 amt=27.34 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 126: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 127: ✅ accept → dt=2010-03-06 amt=68.15 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 128: ✅ accept → dt=2010-03-07 amt=68.11 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 129: ✅ accept → dt=2010-03-07 amt=136.22 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 130: ✅ accept → dt=2010-03-07 amt=68.14 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 131: ✅ accept → dt=2010-03-08 amt=27.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 132: ✅ accept → dt=2010-03-08 amt=13.63 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 133: ✅ accept → dt=2010-03-08 amt=20.45 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 134: ✅ accept → dt=2010-03-08 amt=81.77 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 135: ✅ accept → dt=2010-03-11 amt=20.50 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 136: ✅ accept → dt=2010-03-11 amt=23.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 137: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 138: ✅ accept → dt=2010-03-11 amt=24.62 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 139: ✅ accept → dt=2010-03-11 amt=58.82 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 140: ✅ accept → dt=2010-03-19 amt=13.53 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 141: ✅ accept → dt=2010-03-22 amt=27.04 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 142: ✅ accept → dt=2010-03-22 amt=20.33 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 143: ✅ accept → dt=2010-03-23 amt=67.49 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 144: ✅ accept → dt=2010-03-23 amt=26.96 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 145: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 146: ✅ accept → dt=2010-03-24 amt=40.31 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 147: ✅ accept → dt=2010-03-24 amt=66.81 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 148: ✅ accept → dt=2010-03-24 amt=66.71 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 149: ✅ accept → dt=2010-03-24 amt=80.05 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 150: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 151: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 152: ✅ accept → dt=2010-03-28 amt=134.50 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 153: ✅ accept → dt=2010-03-28 amt=60.49 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 154: ✅ accept → dt=2010-03-30 amt=67.07 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 155: ✅ accept → dt=2010-03-30 amt=201.42 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 156: ✅ accept → dt=2010-04-26 amt=33.28 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 157: ✅ accept → dt=2010-04-27 amt=13.36 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 158: ✅ accept → dt=2010-05-20 amt=61.80 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 159: ✅ accept → dt=2010-05-24 amt=32.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 160: ✅ accept → dt=2010-05-25 amt=24.46 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 161: ✅ accept → dt=2010-05-25 amt=31.78 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 162: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 163: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 164: ✅ accept → dt=2010-05-25 amt=30.91 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 165: ✅ accept → dt=2010-05-26 amt=32.01 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 166: ✅ accept → dt=2010-05-26 amt=29.25 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 167: ✅ accept → dt=2010-05-27 amt=65.59 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 168: ✅ accept → dt=2010-06-21 amt=74.52 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 169: ✅ accept → dt=2010-07-22 amt=59.31 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 170: ✅ accept → dt=2010-07-23 amt=27.15 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 171: ✅ accept → dt=2010-07-23 amt=27.17 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 172: ✅ accept → dt=2010-07-23 amt=33.64 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 173: ✅ accept → dt=2010-07-23 amt=37.48 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 174: ✅ accept → dt=2010-07-28 amt=52.02 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 175: ✅ accept → dt=2010-07-28 amt=110.50 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 176: ✅ accept → dt=2010-07-29 amt=65.42 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 177: ✅ accept → dt=2010-08-03 amt=1313.42 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 178: ✅ accept → dt=2010-07-31 amt=77.47 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 179: ✅ accept → dt=2010-08-03 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 180: ✅ accept → dt=2010-08-04 amt=46.23 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 181: ✅ accept → dt=2010-08-04 amt=26.31 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 182: ✅ accept → dt=2010-08-04 amt=86.85 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 183: ✅ accept → dt=2010-08-05 amt=33.05 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 184: ✅ accept → dt=2010-08-05 amt=105.51 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 185: ✅ accept → dt=2010-08-05 amt=39.55 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 186: ✅ accept → dt=2010-08-06 amt=71.46 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 187: ✅ accept → dt=2010-08-06 amt=33.23 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 188: ✅ accept → dt=2010-08-06 amt=66.41 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 189: ✅ accept → dt=2010-08-11 amt=26.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 190: ✅ accept → dt=2010-08-11 amt=13.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 191: ✅ accept → dt=2010-08-11 amt=13.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 192: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 193: ✅ accept → dt=2010-08-11 amt=72.52 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 194: ✅ accept → dt=2010-08-11 amt=65.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 195: ✅ accept → dt=2010-08-11 amt=25.93 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 196: ✅ accept → dt=2010-08-12 amt=64.12 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 197: ✅ accept → dt=2010-08-13 amt=63.75 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 198: ✅ accept → dt=2010-08-13 amt=63.76 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 199: ✅ accept → dt=2010-08-14 amt=63.80 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 200: ✅ accept → dt=2010-08-14 amt=63.80 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 201: ✅ accept → dt=2010-09-01 amt=15.22 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 202: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 203: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 204: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 205: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 206: ✅ accept → dt=2010-09-24 amt=28.42 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 207: ✅ accept → dt=2010-09-24 amt=13.40 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 208: ✅ accept → dt=2010-09-24 amt=67.45 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 209: ✅ accept → dt=2010-09-26 amt=26.98 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 210: ✅ accept → dt=2010-09-27 amt=40.43 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 211: ✅ accept → dt=2010-09-29 amt=50.40 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 212: ✅ accept → dt=2010-09-29 amt=13.59 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 213: ✅ accept → dt=2010-09-30 amt=27.31 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 214: ✅ accept → dt=2010-10-03 amt=68.91 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 215: ✅ accept → dt=2010-10-05 amt=109.46 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 216: ✅ accept → dt=2010-10-06 amt=27.83 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 217: ✅ accept → dt=2010-10-07 amt=69.59 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 218: ✅ accept → dt=2010-10-10 amt=69.91 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 219: ✅ accept → dt=2010-10-11 amt=137.13 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 220: ⏭️ drop — bad status 'cancelled' (type_raw='Redeem')
+[2025-09-29 11:50:44] 🔎 row 221: ✅ accept → dt=2010-10-19 amt=200.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 222: ✅ accept → dt=2010-10-21 amt=28.04 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 223: ✅ accept → dt=2010-10-25 amt=21.07 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 224: ✅ accept → dt=2010-10-26 amt=69.74 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 225: ✅ accept → dt=2010-10-28 amt=636.70 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 226: ✅ accept → dt=2010-10-31 amt=15.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 227: ✅ accept → dt=2010-10-31 amt=185.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 228: ✅ accept → dt=2010-10-31 amt=185.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 229: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 230: ✅ accept → dt=2010-11-09 amt=20.88 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 231: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 232: ✅ accept → dt=2011-03-17 amt=42.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 233: ✅ accept → dt=2011-03-18 amt=35.44 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 234: ✅ accept → dt=2011-03-20 amt=70.82 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 235: ✅ accept → dt=2011-03-22 amt=35.60 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 236: ✅ accept → dt=2011-03-22 amt=32.05 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 237: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 238: ✅ accept → dt=2011-03-23 amt=28.40 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 239: ✅ accept → dt=2011-03-24 amt=14.12 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 240: ✅ accept → dt=2011-03-24 amt=28.34 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 241: ✅ accept → dt=2011-03-27 amt=14.03 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 242: ✅ accept → dt=2011-03-28 amt=28.10 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 243: ✅ accept → dt=2011-03-29 amt=14.12 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 244: ✅ accept → dt=2011-03-30 amt=46.40 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 245: ✅ accept → dt=2011-04-04 amt=142.17 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 246: ✅ accept → dt=2011-04-07 amt=21.45 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 247: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 248: ✅ accept → dt=2011-04-07 amt=31.81 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 249: ✅ accept → dt=2011-04-11 amt=72.23 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 250: ✅ accept → dt=2011-04-16 amt=28.86 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 251: ✅ accept → dt=2011-04-16 amt=43.29 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 252: ✅ accept → dt=2011-04-18 amt=50.14 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 253: ✅ accept → dt=2011-04-26 amt=73.03 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 254: ✅ accept → dt=2011-04-27 amt=74.21 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 255: ✅ accept → dt=2011-04-28 amt=148.20 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 256: ✅ accept → dt=2011-05-02 amt=15.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 257: ✅ accept → dt=2011-05-03 amt=400.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 258: ✅ accept → dt=2011-05-04 amt=22.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 259: ✅ accept → dt=2011-05-05 amt=74.16 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 260: ✅ accept → dt=2011-05-05 amt=72.73 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 261: ✅ accept → dt=2011-05-09 amt=21.52 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 262: ✅ accept → dt=2011-05-10 amt=32.56 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 263: ✅ accept → dt=2011-05-10 amt=143.61 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 264: ✅ accept → dt=2011-05-11 amt=146.23 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 265: ✅ accept → dt=2011-05-11 amt=71.81 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 266: ✅ accept → dt=2011-05-11 amt=71.67 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 267: ✅ accept → dt=2011-05-12 amt=128.16 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 268: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 269: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 270: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 271: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 272: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 273: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:44] 🔎 row 274: ✅ accept → dt=2011-05-17 amt=71.35 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:44] 🔎 row 275: ✅ accept → dt=2011-05-17 amt=71.27 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 276: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 277: ✅ accept → dt=2011-05-19 amt=35.74 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 278: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 279: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 280: ✅ accept → dt=2011-05-24 amt=35.25 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 281: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 282: ✅ accept → dt=2011-05-25 amt=70.37 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 283: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 284: ✅ accept → dt=2011-05-29 amt=42.87 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 285: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 286: ✅ accept → dt=2011-05-29 amt=71.45 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 287: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 288: ✅ accept → dt=2011-05-30 amt=159.82 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 289: ✅ accept → dt=2011-05-31 amt=71.96 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 290: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 291: ✅ accept → dt=2011-06-02 amt=71.79 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 292: ✅ accept → dt=2011-06-02 amt=35.89 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 293: ✅ accept → dt=2011-06-04 amt=73.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 294: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 295: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 296: ✅ accept → dt=2011-06-09 amt=146.28 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 297: ✅ accept → dt=2011-06-14 amt=72.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 298: ✅ accept → dt=2011-06-14 amt=72.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 299: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 300: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 301: ✅ accept → dt=2011-06-14 amt=100.94 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 302: ✅ accept → dt=2011-06-16 amt=35.48 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 303: ✅ accept → dt=2011-06-19 amt=14.31 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 304: ✅ accept → dt=2011-06-21 amt=35.87 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 305: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 306: ✅ accept → dt=2011-06-22 amt=50.36 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 307: ✅ accept → dt=2011-06-22 amt=50.12 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 308: ✅ accept → dt=2011-06-22 amt=35.80 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 309: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 310: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 311: ✅ accept → dt=2011-06-23 amt=21.38 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 312: ✅ accept → dt=2011-06-23 amt=71.25 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 313: ✅ accept → dt=2011-06-24 amt=71.43 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 314: ✅ accept → dt=2011-06-25 amt=35.48 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 315: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 316: ✅ accept → dt=2011-06-26 amt=49.67 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 317: ✅ accept → dt=2011-06-26 amt=35.31 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 318: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 319: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 320: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 321: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 322: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 323: ✅ accept → dt=2011-06-30 amt=28.93 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 324: ✅ accept → dt=2011-06-30 amt=14.47 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 325: ✅ accept → dt=2011-07-01 amt=29.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 326: ✅ accept → dt=2011-07-01 amt=72.56 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 327: ✅ accept → dt=2011-07-01 amt=29.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 328: ✅ accept → dt=2011-07-01 amt=61.39 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 329: ✅ accept → dt=2011-07-03 amt=36.30 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 330: ✅ accept → dt=2011-07-04 amt=14.53 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 331: ✅ accept → dt=2011-07-07 amt=14.36 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 332: ✅ accept → dt=2011-07-07 amt=28.68 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 333: ✅ accept → dt=2011-07-08 amt=14.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 334: ✅ accept → dt=2011-07-08 amt=57.02 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 335: ✅ accept → dt=2011-07-08 amt=28.54 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 336: ✅ accept → dt=2011-07-08 amt=14.27 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 337: ✅ accept → dt=2011-07-10 amt=71.34 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 338: ✅ accept → dt=2011-07-10 amt=14.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 339: ✅ accept → dt=2011-07-10 amt=56.85 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 340: ✅ accept → dt=2011-07-10 amt=71.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 341: ✅ accept → dt=2011-07-10 amt=142.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 342: ✅ accept → dt=2011-07-10 amt=14.20 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 343: ✅ accept → dt=2011-07-13 amt=35.58 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 344: ✅ accept → dt=2011-07-15 amt=28.25 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 345: ✅ accept → dt=2011-07-16 amt=141.53 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 346: ✅ accept → dt=2011-07-17 amt=165.30 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 347: ✅ accept → dt=2011-07-24 amt=50.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 348: ✅ accept → dt=2011-07-27 amt=57.49 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 349: ✅ accept → dt=2011-07-28 amt=35.78 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 350: ✅ accept → dt=2011-07-30 amt=43.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 351: ✅ accept → dt=2011-07-30 amt=28.79 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 352: ✅ accept → dt=2011-08-01 amt=245.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 353: ✅ accept → dt=2011-08-02 amt=5.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 354: ✅ accept → dt=2011-08-01 amt=349.49 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 355: ✅ accept → dt=2011-08-05 amt=500.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 356: ✅ accept → dt=2011-08-04 amt=70.80 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 357: ✅ accept → dt=2011-08-05 amt=42.61 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 358: ✅ accept → dt=2011-08-05 amt=28.37 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 359: ✅ accept → dt=2011-08-07 amt=28.76 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 360: ✅ accept → dt=2011-08-09 amt=71.31 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 361: ✅ accept → dt=2011-08-09 amt=56.92 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 362: ✅ accept → dt=2011-08-09 amt=71.86 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 363: ✅ accept → dt=2011-08-11 amt=178.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 364: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 365: ✅ accept → dt=2011-08-14 amt=71.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 366: ✅ accept → dt=2011-08-14 amt=71.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 367: ✅ accept → dt=2011-08-14 amt=71.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 368: ✅ accept → dt=2011-08-15 amt=144.46 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 369: ✅ accept → dt=2011-08-15 amt=72.19 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 370: ✅ accept → dt=2011-08-16 amt=14.40 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 371: ✅ accept → dt=2011-08-18 amt=143.68 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 372: ✅ accept → dt=2011-08-19 amt=71.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 373: ✅ accept → dt=2011-08-20 amt=117.97 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 374: ✅ accept → dt=2011-08-20 amt=215.97 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 375: ✅ accept → dt=2011-08-21 amt=50.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 376: ✅ accept → dt=2011-08-23 amt=59.13 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 377: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 378: ✅ accept → dt=2011-08-23 amt=14.41 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 379: ✅ accept → dt=2011-08-25 amt=35.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 380: ✅ accept → dt=2011-08-26 amt=36.03 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 381: ✅ accept → dt=2011-08-26 amt=72.04 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 382: ✅ accept → dt=2011-08-28 amt=144.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 383: ✅ accept → dt=2011-08-28 amt=144.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 384: ✅ accept → dt=2011-08-30 amt=250.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 385: ✅ accept → dt=2011-08-31 amt=35.94 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 386: ✅ accept → dt=2011-09-01 amt=35.72 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 387: ✅ accept → dt=2011-09-01 amt=35.70 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 388: ✅ accept → dt=2011-09-01 amt=35.70 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 389: ✅ accept → dt=2011-09-02 amt=37.76 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 390: ✅ accept → dt=2011-09-02 amt=212.89 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 391: ✅ accept → dt=2011-09-05 amt=35.23 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 392: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 393: ✅ accept → dt=2011-09-14 amt=25.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 394: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 395: ✅ accept → dt=2011-09-17 amt=75.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 396: ✅ accept → dt=2011-09-23 amt=67.52 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 397: ✅ accept → dt=2011-09-24 amt=134.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 398: ✅ accept → dt=2011-09-26 amt=67.32 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 399: ✅ accept → dt=2011-10-01 amt=29.44 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 400: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 401: ✅ accept → dt=2011-10-02 amt=191.36 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 402: ✅ accept → dt=2011-10-03 amt=133.67 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 403: ✅ accept → dt=2011-10-03 amt=65.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 404: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 405: ✅ accept → dt=2011-10-04 amt=33.11 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 406: ✅ accept → dt=2011-10-05 amt=69.25 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 407: ✅ accept → dt=2011-10-05 amt=133.03 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 408: ✅ accept → dt=2011-10-05 amt=133.17 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 409: ✅ accept → dt=2011-10-05 amt=133.23 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 410: ✅ accept → dt=2011-10-06 amt=33.59 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 411: ✅ accept → dt=2011-10-06 amt=33.59 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 412: ✅ accept → dt=2011-10-07 amt=134.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 413: ✅ accept → dt=2011-10-07 amt=40.19 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 414: ✅ accept → dt=2011-10-09 amt=134.47 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 415: ✅ accept → dt=2011-10-12 amt=149.79 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 416: ✅ accept → dt=2011-10-15 amt=69.39 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 417: ✅ accept → dt=2011-10-16 amt=69.37 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 418: ✅ accept → dt=2011-11-16 amt=67.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 419: ✅ accept → dt=2011-11-22 amt=10.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 420: ✅ accept → dt=2011-11-27 amt=26.64 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 421: ✅ accept → dt=2012-01-01 amt=25.89 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 422: ✅ accept → dt=2012-01-01 amt=38.83 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 423: ✅ accept → dt=2012-01-08 amt=63.60 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 424: ✅ accept → dt=2012-01-10 amt=63.93 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 425: ✅ accept → dt=2012-01-15 amt=94.44 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 426: ✅ accept → dt=2012-01-16 amt=63.39 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 427: ✅ accept → dt=2012-01-16 amt=63.37 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 428: ✅ accept → dt=2012-01-17 amt=42.03 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 429: ✅ accept → dt=2012-01-17 amt=63.72 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 430: ✅ accept → dt=2012-01-17 amt=191.07 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 431: ✅ accept → dt=2012-01-18 amt=64.25 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 432: ✅ accept → dt=2012-01-19 amt=64.46 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 433: ✅ accept → dt=2012-01-20 amt=129.31 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 434: ✅ accept → dt=2012-01-21 amt=19.39 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 435: ✅ accept → dt=2012-01-21 amt=45.25 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 436: ✅ accept → dt=2012-01-21 amt=144.69 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 437: ✅ accept → dt=2012-01-21 amt=258.62 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 438: ✅ accept → dt=2012-01-25 amt=64.17 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 439: ✅ accept → dt=2012-01-28 amt=33.05 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 440: ✅ accept → dt=2012-01-28 amt=39.66 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 441: ✅ accept → dt=2012-02-01 amt=131.58 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 442: ✅ accept → dt=2012-02-10 amt=26.38 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 443: ✅ accept → dt=2012-02-12 amt=33.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 444: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:45] 🔎 row 445: ✅ accept → dt=2012-02-12 amt=66.02 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 446: ✅ accept → dt=2012-02-15 amt=130.59 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 447: ✅ accept → dt=2012-02-23 amt=133.31 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 448: ✅ accept → dt=2012-03-04 amt=32.98 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 449: ✅ accept → dt=2012-03-17 amt=65.87 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 450: ✅ accept → dt=2012-03-18 amt=131.75 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 451: ✅ accept → dt=2012-03-18 amt=131.75 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:45] 🔎 row 452: ✅ accept → dt=2012-03-22 amt=114.36 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 453: ✅ accept → dt=2012-03-22 amt=131.88 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 454: ✅ accept → dt=2012-03-22 amt=197.71 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 455: ✅ accept → dt=2012-03-25 amt=156.55 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 456: ✅ accept → dt=2012-04-13 amt=65.78 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 457: ⏭️ drop — not final 'Waiting for offline payment' (normalized='waitingforofflinepayment') (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 458: ✅ accept → dt=2012-06-01 amt=116.98 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 459: ✅ accept → dt=2012-06-05 amt=62.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 460: ✅ accept → dt=2012-06-06 amt=62.54 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 461: ✅ accept → dt=2012-06-10 amt=62.58 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 462: ✅ accept → dt=2012-06-10 amt=63.17 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 463: ✅ accept → dt=2012-06-12 amt=36.71 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 464: ✅ accept → dt=2012-06-14 amt=50.52 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 465: ✅ accept → dt=2012-06-17 amt=25.27 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 466: ✅ accept → dt=2012-06-18 amt=31.51 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 467: ✅ accept → dt=2012-06-21 amt=31.38 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 468: ✅ accept → dt=2012-07-03 amt=10.02 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 469: ✅ accept → dt=2012-07-05 amt=62.51 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 470: ✅ accept → dt=2012-07-05 amt=31.22 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 471: ✅ accept → dt=2012-07-05 amt=47.53 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 472: ✅ accept → dt=2012-07-19 amt=24.58 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 473: ✅ accept → dt=2012-07-19 amt=36.95 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 474: ✅ accept → dt=2012-10-19 amt=65.12 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 475: ✅ accept → dt=2012-10-19 amt=65.12 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 476: ✅ accept → dt=2012-11-04 amt=19.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 477: ✅ accept → dt=2012-11-04 amt=111.07 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 478: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 479: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 480: ✅ accept → dt=2012-12-28 amt=33.04 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 481: ✅ accept → dt=2013-01-04 amt=65.28 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 482: ✅ accept → dt=2013-01-04 amt=32.67 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 483: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 484: ✅ accept → dt=2013-01-04 amt=32.67 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 485: ✅ accept → dt=2013-01-04 amt=65.34 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 486: ✅ accept → dt=2013-01-04 amt=130.69 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 487: ✅ accept → dt=2013-02-01 amt=136.94 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 488: ✅ accept → dt=2013-02-01 amt=165.30 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 489: ✅ accept → dt=2013-02-03 amt=68.20 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 490: ✅ accept → dt=2013-02-10 amt=13.36 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 491: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 492: ✅ accept → dt=2013-02-27 amt=65.52 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 493: ✅ accept → dt=2013-02-27 amt=65.73 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 494: ✅ accept → dt=2013-03-01 amt=42.98 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 495: ✅ accept → dt=2013-03-06 amt=13.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 496: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 497: ✅ accept → dt=2013-03-08 amt=38.98 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 498: ✅ accept → dt=2013-03-08 amt=65.04 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 499: ✅ accept → dt=2013-03-14 amt=64.66 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 500: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 501: ✅ accept → dt=2013-07-07 amt=25.64 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 502: ✅ accept → dt=2013-09-14 amt=26.58 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 503: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 504: ✅ accept → dt=2013-09-18 amt=40.07 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 505: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 506: ✅ accept → dt=2013-09-21 amt=29.75 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 507: ✅ accept → dt=2013-09-21 amt=13.52 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 508: ✅ accept → dt=2014-02-10 amt=34.17 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 509: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 510: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 511: ✅ accept → dt=2015-01-15 amt=56.70 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 512: ✅ accept → dt=2015-01-19 amt=33.94 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 513: ✅ accept → dt=2015-02-06 amt=27.92 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 514: ✅ accept → dt=2015-02-19 amt=39.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 515: ✅ accept → dt=2015-03-23 amt=26.47 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 516: ✅ accept → dt=2015-04-08 amt=21.17 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 517: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 518: ✅ accept → dt=2015-06-23 amt=14.15 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 519: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 520: ✅ accept → dt=2015-06-23 amt=54.46 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 521: ✅ accept → dt=2015-11-21 amt=39.44 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 522: ✅ accept → dt=2015-12-01 amt=53.91 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 523: ✅ accept → dt=2015-12-23 amt=40.38 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 524: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 525: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 526: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 527: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 528: ✅ accept → dt=2016-05-04 amt=67.21 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 529: ✅ accept → dt=2016-05-04 amt=15.12 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 530: ✅ accept → dt=2016-08-06 amt=42.44 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 531: ✅ accept → dt=2016-10-19 amt=32.17 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 532: ✅ accept → dt=2016-10-24 amt=52.47 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 533: ✅ accept → dt=2017-06-14 amt=43.71 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 534: ✅ accept → dt=2017-07-17 amt=64.14 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 535: ✅ accept → dt=2017-07-23 amt=28.43 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 536: ✅ accept → dt=2018-05-22 amt=114.87 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 537: ✅ accept → dt=2018-08-07 amt=226.11 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 538: ✅ accept → dt=2018-08-07 amt=226.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 539: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 540: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 541: ✅ accept → dt=2018-08-24 amt=340.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 542: ✅ accept → dt=2018-08-24 amt=566.77 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 543: ✅ accept → dt=2018-08-24 amt=396.76 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 544: ⏭️ drop — bad status 'cancelled' (type_raw='Redeem')
+[2025-09-29 11:50:46] 🔎 row 545: ✅ accept → dt=2018-08-24 amt=453.57 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 546: ⏭️ drop — bad status 'cancelled' (type_raw='Redeem')
+[2025-09-29 11:50:46] 🔎 row 547: ⏭️ drop — bad status 'rejected' (type_raw='Redeem')
+[2025-09-29 11:50:46] 🔎 row 548: ⏭️ drop — bad status 'rejected' (type_raw='Redeem')
+[2025-09-29 11:50:46] 🔎 row 549: ✅ accept → dt=2018-08-26 amt=1740.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 550: ⏭️ drop — bad status 'rejected' (type_raw='Redeem')
+[2025-09-29 11:50:46] 🔎 row 551: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 552: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 553: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 554: ✅ accept → dt=2018-09-01 amt=800.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 555: ✅ accept → dt=2018-09-01 amt=67.90 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 556: ✅ accept → dt=2018-09-02 amt=200.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 557: ✅ accept → dt=2018-09-04 amt=9.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 558: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 559: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 560: ✅ accept → dt=2018-09-14 amt=278.55 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 561: ⏭️ drop — bad status 'cancelled' (type_raw='Redeem')
+[2025-09-29 11:50:46] 🔎 row 562: ⏭️ drop — bad status 'cancelled' (type_raw='Redeem')
+[2025-09-29 11:50:46] 🔎 row 563: ⏭️ drop — bad status 'cancelled' (type_raw='Redeem')
+[2025-09-29 11:50:46] 🔎 row 564: ⏭️ drop — bad status 'cancelled' (type_raw='Redeem')
+[2025-09-29 11:50:46] 🔎 row 565: ✅ accept → dt=2018-09-17 amt=51.28 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 566: ✅ accept → dt=2018-09-18 amt=57.04 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 567: ✅ accept → dt=2018-09-24 amt=171.83 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 568: ✅ accept → dt=2018-09-24 amt=801.74 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 569: ⏭️ drop — bad status 'cancelled' (type_raw='Redeem')
+[2025-09-29 11:50:46] 🔎 row 570: ✅ accept → dt=2018-09-26 amt=57.24 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 571: ✅ accept → dt=2018-10-06 amt=56.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 572: ✅ accept → dt=2018-10-07 amt=56.17 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 573: ✅ accept → dt=2018-10-08 amt=112.04 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 574: ✅ accept → dt=2018-10-08 amt=112.05 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 575: ✅ accept → dt=2018-10-10 amt=112.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 576: ✅ accept → dt=2018-10-12 amt=225.49 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 577: ✅ accept → dt=2018-10-12 amt=281.86 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 578: ✅ accept → dt=2018-10-12 amt=67.62 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 579: ✅ accept → dt=2018-10-23 amt=111.82 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 580: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 581: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 582: ✅ accept → dt=2018-10-23 amt=167.70 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 583: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 584: ✅ accept → dt=2018-10-23 amt=87.33 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 585: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 586: ✅ accept → dt=2018-10-26 amt=271.22 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 587: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 588: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 589: ✅ accept → dt=2018-10-31 amt=110.32 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 590: ✅ accept → dt=2018-10-31 amt=220.47 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 591: ✅ accept → dt=2018-11-25 amt=221.09 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 592: ✅ accept → dt=2018-11-25 amt=552.77 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 593: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 594: ✅ accept → dt=2018-12-10 amt=110.74 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 595: ✅ accept → dt=2019-01-23 amt=11.07 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 596: ✅ accept → dt=2019-01-23 amt=99.68 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 597: ✅ accept → dt=2019-01-23 amt=110.99 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 598: ✅ accept → dt=2019-01-23 amt=166.58 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 599: ✅ accept → dt=2019-01-23 amt=166.61 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 600: ✅ accept → dt=2019-01-23 amt=444.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 601: ✅ accept → dt=2019-01-24 amt=110.64 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 602: ✅ accept → dt=2019-01-26 amt=111.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 603: ✅ accept → dt=2019-01-26 amt=111.18 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 604: ✅ accept → dt=2019-01-29 amt=111.40 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 605: ✅ accept → dt=2019-01-29 amt=166.97 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 606: ✅ accept → dt=2019-01-29 amt=111.44 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 607: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 608: ✅ accept → dt=2019-02-08 amt=44.23 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 609: ✅ accept → dt=2019-02-08 amt=221.14 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 610: ✅ accept → dt=2019-02-08 amt=165.76 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 611: ✅ accept → dt=2019-02-08 amt=16.56 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 612: ✅ accept → dt=2019-02-08 amt=220.89 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 613: ✅ accept → dt=2019-02-08 amt=110.45 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 614: ✅ accept → dt=2019-03-01 amt=110.96 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 615: ✅ accept → dt=2019-04-17 amt=38.00 sign=+1 curr=EUR label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 616: ✅ accept → dt=2019-04-27 amt=108.81 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 617: ✅ accept → dt=2019-04-27 amt=54.35 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 618: ✅ accept → dt=2019-04-27 amt=54.35 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 619: ✅ accept → dt=2019-04-27 amt=54.35 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 620: ✅ accept → dt=2019-04-27 amt=54.35 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 621: ✅ accept → dt=2019-04-30 amt=109.32 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 622: ✅ accept → dt=2019-04-30 amt=164.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 623: ✅ accept → dt=2019-04-30 amt=54.67 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 624: ✅ accept → dt=2019-05-02 amt=108.98 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 625: ✅ accept → dt=2019-05-02 amt=109.03 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 626: ✅ accept → dt=2019-05-02 amt=54.50 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 627: ✅ accept → dt=2019-05-02 amt=109.00 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 628: ✅ accept → dt=2019-05-02 amt=98.06 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 629: ✅ accept → dt=2019-05-03 amt=97.88 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 630: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 631: ✅ accept → dt=2019-05-04 amt=109.08 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 632: ✅ accept → dt=2019-05-04 amt=70.90 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 633: ✅ accept → dt=2019-05-04 amt=54.60 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:46] 🔎 row 634: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:46] 🔎 row 635: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:47] 🔎 row 636: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:47] 🔎 row 637: ⏭️ drop — bad status 'rejected' (type_raw='Deposit')
+[2025-09-29 11:50:47] 🔎 row 638: ✅ accept → dt=2020-03-03 amt=107.89 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:47] 🔎 row 639: ✅ accept → dt=2020-03-03 amt=107.90 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:47] 🔎 row 640: ✅ accept → dt=2020-03-03 amt=140.65 sign=+1 curr=USD label=Deposit (type/gateway/descr/drcr/sign) status='approved'
+[2025-09-29 11:50:47] 🔎 recap: deposits=44062.35, cashouts=0.00, net=44062.35
+[2025-09-29 11:50:47] TA logic: Deposits = 44062.34999999999, Cashouts = 0, Net = 44062.34999999999
+[2025-09-29 11:50:47] ✅ Created Payment Summary with 518 rows.
+[2025-09-29 11:50:47] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-29 11:50:47] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:47] 🌍 FX USD/EUR 2009-09-13…2009-12-22 via CSV: 72 pts, avg=1.479400
+[2025-09-29 11:50:47] 🌍 FX USD→EUR 2009-09-13…2009-12-22: 1/( USD/EUR ) (mode CSV, 72 pts) => avg=0.675950
+[2025-09-29 11:50:47] 🌍 FX USD→EUR 2009 (2009-09-13…2009-12-22) avg = 0.675950
+[2025-09-29 11:50:47] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:47] 🌍 FX USD/EUR 2010-01-05…2010-11-09 via CSV: 219 pts, avg=1.323974
+[2025-09-29 11:50:47] 🌍 FX USD→EUR 2010-01-05…2010-11-09: 1/( USD/EUR ) (mode CSV, 219 pts) => avg=0.755302
+[2025-09-29 11:50:47] 🌍 FX USD→EUR 2010 (2010-01-05…2010-11-09) avg = 0.755302
+[2025-09-29 11:50:47] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:47] 🌍 FX USD/EUR 2011-03-17…2011-11-27 via CSV: 180 pts, avg=1.411257
+[2025-09-29 11:50:47] 🌍 FX USD→EUR 2011-03-17…2011-11-27: 1/( USD/EUR ) (mode CSV, 180 pts) => avg=0.708588
+[2025-09-29 11:50:47] 🌍 FX USD→EUR 2011 (2011-03-17…2011-11-27) avg = 0.708588
+[2025-09-29 11:50:48] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:48] 🌍 FX USD/EUR 2012-01-01…2012-12-28 via CSV: 255 pts, avg=1.284653
+[2025-09-29 11:50:48] 🌍 FX USD→EUR 2012-01-01…2012-12-28: 1/( USD/EUR ) (mode CSV, 255 pts) => avg=0.778420
+[2025-09-29 11:50:48] 🌍 FX USD→EUR 2012 (2012-01-01…2012-12-28) avg = 0.778420
+[2025-09-29 11:50:48] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:48] 🌍 FX USD/EUR 2013-01-04…2013-09-21 via CSV: 183 pts, avg=1.316002
+[2025-09-29 11:50:48] 🌍 FX USD→EUR 2013-01-04…2013-09-21: 1/( USD/EUR ) (mode CSV, 183 pts) => avg=0.759877
+[2025-09-29 11:50:48] 🌍 FX USD→EUR 2013 (2013-01-04…2013-09-21) avg = 0.759877
+[2025-09-29 11:50:48] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:48] 🌍 FX USD/EUR 2014-02-10…2014-02-10 via CSV: 1 pts, avg=1.363800
+[2025-09-29 11:50:48] 🌍 FX USD→EUR 2014-02-10…2014-02-10: 1/( USD/EUR ) (mode CSV, 1 pts) => avg=0.733245
+[2025-09-29 11:50:48] 🌍 FX USD→EUR 2014 (2014-02-10…2014-02-10) avg = 0.733245
+[2025-09-29 11:50:48] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:49] 🌍 FX USD/EUR 2015-01-15…2015-12-23 via CSV: 242 pts, avg=1.107039
+[2025-09-29 11:50:49] 🌍 FX USD→EUR 2015-01-15…2015-12-23: 1/( USD/EUR ) (mode CSV, 242 pts) => avg=0.903311
+[2025-09-29 11:50:49] 🌍 FX USD→EUR 2015 (2015-01-15…2015-12-23) avg = 0.903311
+[2025-09-29 11:50:49] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:49] 🌍 FX USD/EUR 2016-05-04…2016-10-24 via CSV: 124 pts, avg=1.118345
+[2025-09-29 11:50:49] 🌍 FX USD→EUR 2016-05-04…2016-10-24: 1/( USD/EUR ) (mode CSV, 124 pts) => avg=0.894178
+[2025-09-29 11:50:49] 🌍 FX USD→EUR 2016 (2016-05-04…2016-10-24) avg = 0.894178
+[2025-09-29 11:50:49] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:49] 🌍 FX USD/EUR 2017-06-14…2017-07-23 via CSV: 28 pts, avg=1.134439
+[2025-09-29 11:50:49] 🌍 FX USD→EUR 2017-06-14…2017-07-23: 1/( USD/EUR ) (mode CSV, 28 pts) => avg=0.881493
+[2025-09-29 11:50:49] 🌍 FX USD→EUR 2017 (2017-06-14…2017-07-23) avg = 0.881493
+[2025-09-29 11:50:49] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:49] 🌍 FX USD/EUR 2018-05-22…2018-12-10 via CSV: 145 pts, avg=1.156561
+[2025-09-29 11:50:49] 🌍 FX USD→EUR 2018-05-22…2018-12-10: 1/( USD/EUR ) (mode CSV, 145 pts) => avg=0.864632
+[2025-09-29 11:50:49] 🌍 FX USD→EUR 2018 (2018-05-22…2018-12-10) avg = 0.864632
+[2025-09-29 11:50:50] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:50] 🌍 FX USD/EUR 2019-01-23…2019-05-04 via CSV: 70 pts, avg=1.130454
+[2025-09-29 11:50:50] 🌍 FX USD→EUR 2019-01-23…2019-05-04: 1/( USD/EUR ) (mode CSV, 70 pts) => avg=0.884600
+[2025-09-29 11:50:50] 🌍 FX USD→EUR 2019 (2019-01-23…2019-05-04) avg = 0.884600
+[2025-09-29 11:50:50] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-29 11:50:50] 🌍 FX USD/EUR 2020-03-03…2020-03-03 via CSV: 1 pts, avg=1.111700
+[2025-09-29 11:50:50] 🌍 FX USD→EUR 2020-03-03…2020-03-03: 1/( USD/EUR ) (mode CSV, 1 pts) => avg=0.899523
+[2025-09-29 11:50:50] 🌍 FX USD→EUR 2020 (2020-03-03…2020-03-03) avg = 0.899523
+[2025-09-29 11:50:50] ✅ Created 'Payment Summary EUR' (499 USD rows converted).
+[2025-09-29 11:50:50] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-29 11:50:50] ✅ Finished processing: TA_Pokerstars Serkan Tas.xlsx

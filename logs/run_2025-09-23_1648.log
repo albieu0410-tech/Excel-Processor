@@ -1,0 +1,9 @@
+[2025-09-23 16:48:01] 🔎 Header row 1: ['Id', 'Title', 'Currency', 'Balance Before', 'Balance After', 'Bets sum', 'Payoffs sum', 'Bonus Issue', 'User email', 'Created at', 'Finished at']
+[2025-09-23 16:48:01] 🧭 Columns: amount=None, currency=2, type=None, ref_date=None, conf_date=None, status=None, gateway=None, descr=None, drcr=None
+[2025-09-23 16:48:01] ❌ No recognizable amount/date columns (fallbacks failed).
+[2025-09-23 16:48:01] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-09-23 16:48:01] ✅ Created Payment Summary with 0 rows.
+[2025-09-23 16:48:01] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-23 16:48:01] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-23 16:48:01] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-23 16:48:01] ✅ Finished processing: TA_Bobcasino_1.1.xlsx

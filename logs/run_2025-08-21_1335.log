@@ -1,0 +1,21 @@
+[2025-08-21 13:35:35] ➕ Added 1 file(s).
+[2025-08-21 13:35:58] 📄 Processing TA_Pokerstars.xlsx in checking Mode...
+[2025-08-21 13:35:58] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-08-21 13:35:58] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-08-21 13:35:58] ✅ Detected normal tabular structure. No CSV conversion needed.
+[2025-08-21 13:35:58] 📋 Raw headers: ['richardjjon User Info', '', '', '', '', '', '', '', '', '', '']
+[2025-08-21 13:35:58] 🔍 Normalized headers: ['richardjjonuserinfo', '', '', '', '', '', '', '', '', '', '']
+[2025-08-21 13:35:58] ⚠️ Header check failed: Missing date or amount — fallback mode. Using fallback mode (Column 0 = date, Column 1 = signed amount).
+[2025-08-21 13:35:58] ⚠️ Row 2: Unparsable date → 'None'
+[2025-08-21 13:35:58] ⚠️ Row 3: Unparsable date → 'All dates are in ET time zone'
+[2025-08-21 13:35:58] ⚠️ Row 4: Unparsable date → 'From: 06/Nov/2014 00:00:00'
+[2025-08-21 13:35:58] ⚠️ Row 5: Unparsable date → 'To: 17/Apr/2025 23:59:59'
+[2025-08-21 13:35:58] ⚠️ Row 6: Unparsable date → 'None'
+[2025-08-21 13:35:58] ⚠️ Row 7: Unparsable date → 'None'
+[2025-08-21 13:35:58] ⚠️ Row 8: Unparsable date → 'User ID'
+[2025-08-21 13:35:58] ⚠️ Row 9: Unparsable date → 'richardjjon'
+[2025-08-21 13:35:58] TA logic: Deposits = 0, Cashouts/Withdrawals = 0, Net = 0
+[2025-08-21 13:35:58] ✅ Created Payment Summary with 0 rows.
+[2025-08-21 13:35:58] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 13:35:58] 🧾 Final claim value (from Payment Summary): 0.0
+[2025-08-21 13:35:58] ✅ Finished processing: TA_Pokerstars.xlsx

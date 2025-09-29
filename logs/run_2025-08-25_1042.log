@@ -1,0 +1,6 @@
+[2025-08-25 10:42:37] ➕ Added 1 file(s).
+[2025-08-25 10:42:39] 📄 Processing TA_Unibet 2.xlsx in calculation Mode...
+[2025-08-25 10:42:41] ✔ Deposit sheets: ['Transaction history']
+[2025-08-25 10:42:41] ✔ Cashout sheets: ['Transaction history']
+[2025-08-25 10:42:41] ℹ️ Same sheet in both lists → will parse once as combined: ['Transaction history']
+[2025-08-25 10:42:41] 🔎 Parsing sheet 'Transaction history' (serial)…

@@ -1,0 +1,45 @@
+[2025-08-25 13:36:10] ➕ Added 1 file(s).
+[2025-08-25 13:36:11] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-25 13:36:13] ✔ Deposit sheets: ['PS Transactions']
+[2025-08-25 13:36:13] ✔ Cashout sheets: ['PS Transactions']
+[2025-08-25 13:36:13] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-08-25 13:36:13] ✅ Detected header row at Excel row 8: ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-08-25 13:36:13] TA logic: Deposits = 13771.79, Cashouts = 10173.06, Net = 3598.7300000000014
+[2025-08-25 13:36:13] ✅ Created Payment Summary with 594 rows.
+[2025-08-25 13:36:13] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 13:36:14] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:36:14] 🌍 FX USD/EUR 2014-11-06…2014-12-22 via CSV: 33 pts, avg=1.242379
+[2025-08-25 13:36:14] 🌍 FX USD→EUR 2014-11-06…2014-12-22: 1/( USD/EUR ) (mode CSV, 33 pts) => avg=0.804907
+[2025-08-25 13:36:14] 🌍 FX USD→EUR 2014 (2014-11-06…2014-12-22) avg = 0.804907
+[2025-08-25 13:36:14] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:36:14] 🌍 FX USD/EUR 2015-01-09…2015-12-26 via CSV: 247 pts, avg=1.108160
+[2025-08-25 13:36:14] 🌍 FX USD→EUR 2015-01-09…2015-12-26: 1/( USD/EUR ) (mode CSV, 247 pts) => avg=0.902397
+[2025-08-25 13:36:14] 🌍 FX USD→EUR 2015 (2015-01-09…2015-12-26) avg = 0.902397
+[2025-08-25 13:36:14] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:36:15] 🌍 FX USD/EUR 2016-01-02…2016-12-29 via CSV: 256 pts, avg=1.107109
+[2025-08-25 13:36:15] 🌍 FX USD→EUR 2016-01-02…2016-12-29: 1/( USD/EUR ) (mode CSV, 256 pts) => avg=0.903253
+[2025-08-25 13:36:15] 🌍 FX USD→EUR 2016 (2016-01-02…2016-12-29) avg = 0.903253
+[2025-08-25 13:36:15] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:36:15] 🌍 FX USD/EUR 2017-01-04…2017-12-11 via CSV: 241 pts, avg=1.127671
+[2025-08-25 13:36:15] 🌍 FX USD→EUR 2017-01-04…2017-12-11: 1/( USD/EUR ) (mode CSV, 241 pts) => avg=0.886784
+[2025-08-25 13:36:15] 🌍 FX USD→EUR 2017 (2017-01-04…2017-12-11) avg = 0.886784
+[2025-08-25 13:36:15] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:36:15] 🌍 FX USD/EUR 2018-01-18…2018-12-22 via CSV: 239 pts, avg=1.180245
+[2025-08-25 13:36:15] 🌍 FX USD→EUR 2018-01-18…2018-12-22: 1/( USD/EUR ) (mode CSV, 239 pts) => avg=0.847282
+[2025-08-25 13:36:15] 🌍 FX USD→EUR 2018 (2018-01-18…2018-12-22) avg = 0.847282
+[2025-08-25 13:36:15] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:36:15] 🌍 FX USD/EUR 2019-01-18…2019-12-30 via CSV: 242 pts, avg=1.118262
+[2025-08-25 13:36:15] 🌍 FX USD→EUR 2019-01-18…2019-12-30: 1/( USD/EUR ) (mode CSV, 242 pts) => avg=0.894245
+[2025-08-25 13:36:15] 🌍 FX USD→EUR 2019 (2019-01-18…2019-12-30) avg = 0.894245
+[2025-08-25 13:36:15] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:36:16] 🌍 FX USD/EUR 2020-01-01…2020-11-28 via CSV: 234 pts, avg=1.134927
+[2025-08-25 13:36:16] 🌍 FX USD→EUR 2020-01-01…2020-11-28: 1/( USD/EUR ) (mode CSV, 234 pts) => avg=0.881114
+[2025-08-25 13:36:16] 🌍 FX USD→EUR 2020 (2020-01-01…2020-11-28) avg = 0.881114
+[2025-08-25 13:36:16] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:36:16] 🌍 FX USD/EUR 2021-01-30…2021-08-12 via CSV: 137 pts, avg=1.198269
+[2025-08-25 13:36:16] 🌍 FX USD→EUR 2021-01-30…2021-08-12: 1/( USD/EUR ) (mode CSV, 137 pts) => avg=0.834537
+[2025-08-25 13:36:16] 🌍 FX USD→EUR 2021 (2021-01-30…2021-08-12) avg = 0.834537
+[2025-08-25 13:36:16] ✅ Created 'Payment Summary EUR' (585 USD rows converted).
+[2025-08-25 13:36:16] ✅ Created 'Summary EUR' with 14 rows (Currency → Type → Year).
+[2025-08-25 13:36:16] ✅ Finished processing: TA_Pokerstars.xlsx
+[2025-08-25 13:36:46] 💾 Saved: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/23193 - Richard Jonker, PokerStars\Checked_TA_Pokerstars.xlsx

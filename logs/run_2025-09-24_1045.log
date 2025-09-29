@@ -1,0 +1,22 @@
+[2025-09-24 10:45:06] ✔ Deposit sheets: —
+[2025-09-24 10:45:06] ✔ Cashout sheets: ['Withdrawal Transaction History']
+[2025-09-24 10:45:06] ❌ No recognizable amount column (looking for Credited/Txn Amount/Amount/Initial/Net).
+[2025-09-24 10:45:06] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-09-24 10:45:06] ✅ Created Payment Summary with 0 rows.
+[2025-09-24 10:45:06] ⚠️ No valid dates found in Payment Summary.
+[2025-09-24 10:45:06] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-24 10:45:06] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-24 10:45:06] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-24 10:45:06] 🧾 Final claim value (from Payment Summary): 0.0
+[2025-09-24 10:45:06] ✅ Finished processing: TA_Adnan Dag withdrawl.xlsx
+[2025-09-24 10:45:06] 📄 Processing TA_Adnan deposit.xlsx (Deal 40148) in checking Mode...
+[2025-09-24 10:45:08] ✔ Deposit sheets: ['Deposit Transaction History']
+[2025-09-24 10:45:08] ✔ Cashout sheets: —
+[2025-09-24 10:45:09] TA logic: Deposits = 162004.0, Cashouts = 0, Net = 162004.0
+[2025-09-24 10:45:09] ✅ Created Payment Summary with 624 rows.
+[2025-09-24 10:45:09] ✅ Created Summary sheet (Currency → Type → Year).
+[2025-09-24 10:45:09] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-24 10:45:09] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-24 10:45:09] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-24 10:45:09] 🧾 Final claim value (from Payment Summary): 162004.0
+[2025-09-24 10:45:09] ✅ Finished processing: TA_Adnan deposit.xlsx

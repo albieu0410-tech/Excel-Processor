@@ -1,0 +1,82 @@
+[2025-08-25 10:39:17] ➕ Added 1 file(s).
+[2025-08-25 10:39:17] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-25 10:39:20] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 10:39:20] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 10:39:20] TA logic: Deposits = 17445.0, Cashouts = 5756.25, Net = 11688.75
+[2025-08-25 10:39:20] ✅ Created Payment Summary with 166 rows.
+[2025-08-25 10:39:20] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 10:39:20] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx
+[2025-08-25 10:39:22] Cleared all files.
+[2025-08-25 10:39:29] ➕ Added 1 file(s).
+[2025-08-25 10:39:30] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-25 10:39:34] ✔ Deposit sheets: ['PS Transactions']
+[2025-08-25 10:39:34] ✔ Cashout sheets: ['PS Transactions']
+[2025-08-25 10:39:34] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-08-25 10:39:35] ✅ Detected header row at Excel row 8: ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-08-25 10:39:35] 🔎 [PS DEBUG] Sheet 'PS Transactions': header row 8 = ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-08-25 10:39:35] 🔎 [PS DEBUG] Mapped indices → amount:6, currency:5, status:7, type:2, ref_date:3, conf_date:4
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 361: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 388: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 389: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 405: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 406: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 407: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 408: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 409: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 414: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 415: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 424: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 431: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 432: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 433: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 434: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 438: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 439: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 442: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 443: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 444: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 449: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 450: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 451: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 458: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 466: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 467: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 468: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 470: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 471: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 472: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 473: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 474: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 475: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 476: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 477: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 479: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 480: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 486: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 487: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 488: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 489: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 490: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 491: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 492: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 493: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 553: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 602: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 603: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 617: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 618: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 658: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 659: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 662: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 663: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 664: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 665: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 666: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 667: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 711: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 721: Redeem with status 'Rejected' → 'rejected' not accepted
+[2025-08-25 10:39:35] 🧪 [PS DEBUG] Skipping row 725: Redeem with status 'Cancelled' → 'cancelled' not accepted
+[2025-08-25 10:39:35] TA logic: Deposits = 0, Cashouts = 10173.06, Net = -10173.06
+[2025-08-25 10:39:35] ✅ Created Payment Summary with 36 rows.
+[2025-08-25 10:39:35] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 10:39:35] ✅ Finished processing: TA_Pokerstars.xlsx

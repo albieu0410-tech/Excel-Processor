@@ -1,0 +1,12 @@
+[2025-08-25 10:18:07] ➕ Added 1 file(s).
+[2025-08-25 10:18:08] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-25 10:18:11] ✔ Deposit sheets: ['PS Transactions']
+[2025-08-25 10:18:11] ✔ Cashout sheets: ['PS Transactions']
+[2025-08-25 10:18:11] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-08-25 10:18:11] 🔎 [PS DEBUG] Sheet 'PS Transactions': header row 1 = ['All richardjjon transactions report at PokerStars', None, None, None, None, None, None, None, None, None, None, None]
+[2025-08-25 10:18:11] 🔎 [PS DEBUG] Mapped indices → amount:None, currency:None, status:None, type:None, ref_date:None, conf_date:None
+[2025-08-25 10:18:11] ❌ No recognizable amount/date columns (Unibet and generic fallbacks failed).
+[2025-08-25 10:18:11] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-25 10:18:11] ✅ Created Payment Summary with 0 rows.
+[2025-08-25 10:18:11] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 10:18:11] ✅ Finished processing: TA_Pokerstars.xlsx

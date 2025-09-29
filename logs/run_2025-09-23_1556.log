@@ -1,0 +1,107 @@
+[2025-09-23 15:56:00] 📦 25257 | Dennis Wanders, ComeOn — 1 Excel file(s)
+[2025-09-23 15:56:04] 📦 48031 | Andreas Voorbraak, N1 interactive Ltd — 6 Excel file(s)
+[2025-09-23 15:56:09] 📦 52941 | Kamal Bizjan, N1 interactive Ltd — 2 Excel file(s)
+[2025-09-23 15:56:11] 📦 28555 | Marcel Wollrabe, One Casino — 2 Excel file(s)
+[2025-09-23 15:56:16] 📄 6844 has no Excel; found 1 PDF(s).
+[2025-09-23 15:56:16] 📦 6844 | Daniel van der Bent, Spinia — 0 Excel file(s)
+[2025-09-23 15:56:17] 📄 16578 has no Excel; found 2 PDF(s).
+[2025-09-23 15:56:17] 📦 16578 | Robin Nawijn, N1 Casino — 0 Excel file(s)
+[2025-09-23 15:56:18] 📄 24979 has no Excel; found 2 PDF(s).
+[2025-09-23 15:56:18] 📦 24979 | Senno Michel, Betsafe — 0 Excel file(s)
+[2025-09-23 15:56:19] 📦 22709 | Steven Tavernier, ComeOn Casino — 1 Excel file(s)
+[2025-09-23 15:56:22] 📦 40136 | Job van Maastricht, Pokerstars — 3 Excel file(s)
+[2025-09-23 15:56:27] 📦 45122 | Josh Daniel Dijkhuizen, PokerStars — 3 Excel file(s)
+[2025-09-23 15:56:31] 📄 47331 has no Excel; found 4 PDF(s).
+[2025-09-23 15:56:31] 📦 47331 | Tom Dam, William Hill — 0 Excel file(s)
+[2025-09-23 15:56:31] 📤 Exported JSON to: C:\Users\salbahaca\Documents\Automations\Sorting Excel Dates\Excel Processor\to_calculate_files_20250923_155631.json
+[2025-09-23 15:56:48] 🧪 Converting TA PDF → Excel: TA_GamingDetails_888.pdf
+[2025-09-23 15:56:48] 🧩 Converting PDF → Excel (default headers): TA_GamingDetails_888.pdf
+[2025-09-23 15:56:48] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:48] 🔁 Falling back to camelot…
+[2025-09-23 15:56:48] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:48] ❌ Conversion failed for TA_GamingDetails_888.pdf — No tables found in PDF.
+[2025-09-23 15:56:48] 🧪 Converting TA PDF → Excel: TA_Casumo.pdf
+[2025-09-23 15:56:48] 🧩 Converting PDF → Excel (default headers): TA_Casumo.pdf
+[2025-09-23 15:56:48] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:48] 🔁 Falling back to camelot…
+[2025-09-23 15:56:48] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:48] ❌ Conversion failed for TA_Casumo.pdf — No tables found in PDF.
+[2025-09-23 15:56:48] 🧪 Converting TA PDF → Excel: TA_PinoCasino.pdf
+[2025-09-23 15:56:48] 🧩 Converting PDF → Excel (default headers): TA_PinoCasino.pdf
+[2025-09-23 15:56:48] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:48] 🔁 Falling back to camelot…
+[2025-09-23 15:56:48] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:48] ❌ Conversion failed for TA_PinoCasino.pdf — No tables found in PDF.
+[2025-09-23 15:56:48] 🧪 Converting TA PDF → Excel: TA_888Casino.pdf
+[2025-09-23 15:56:49] 🧩 Converting PDF → Excel (default headers): TA_888Casino.pdf
+[2025-09-23 15:56:49] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:49] 🔁 Falling back to camelot…
+[2025-09-23 15:56:49] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:49] ❌ Conversion failed for TA_888Casino.pdf — No tables found in PDF.
+[2025-09-23 15:56:49] 🧪 Converting TA PDF → Excel: TA_william hill transactieoverzicht.pdf
+[2025-09-23 15:56:49] 🧩 Converting PDF → Excel (default headers): TA_william hill transactieoverzicht.pdf
+[2025-09-23 15:56:49] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:49] 🔁 Falling back to camelot…
+[2025-09-23 15:56:49] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:49] ❌ Conversion failed for TA_william hill transactieoverzicht.pdf — No tables found in PDF.
+[2025-09-23 15:56:49] 🧪 Converting TA PDF → Excel: TA_11930-71104VT.pdf
+[2025-09-23 15:56:49] 🧩 Converting PDF → Excel (default headers): TA_11930-71104VT.pdf
+[2025-09-23 15:56:49] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:49] 🔁 Falling back to camelot…
+[2025-09-23 15:56:49] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:49] ❌ Conversion failed for TA_11930-71104VT.pdf — No tables found in PDF.
+[2025-09-23 15:56:49] 🧪 Converting TA PDF → Excel: TA_Duxcasino.pdf
+[2025-09-23 15:56:49] 🧩 Converting PDF → Excel (default headers): TA_Duxcasino.pdf
+[2025-09-23 15:56:49] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:49] 🔁 Falling back to camelot…
+[2025-09-23 15:56:49] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:49] ❌ Conversion failed for TA_Duxcasino.pdf — No tables found in PDF.
+[2025-09-23 15:56:49] 🧪 Converting TA PDF → Excel: TA_746193273 Thierry van Daalen - Financial Report.pdf
+[2025-09-23 15:56:49] 🧩 Converting PDF → Excel (default headers): TA_746193273 Thierry van Daalen - Financial Report.pdf
+[2025-09-23 15:56:49] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:49] 🔁 Falling back to camelot…
+[2025-09-23 15:56:49] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:49] ❌ Conversion failed for TA_746193273 Thierry van Daalen - Financial Report.pdf — No tables found in PDF.
+[2025-09-23 15:56:49] 🧪 Converting TA PDF → Excel: TA_Financial Report_888.pdf
+[2025-09-23 15:56:49] 🧩 Converting PDF → Excel (default headers): TA_Financial Report_888.pdf
+[2025-09-23 15:56:49] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:49] 🔁 Falling back to camelot…
+[2025-09-23 15:56:49] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:49] ❌ Conversion failed for TA_Financial Report_888.pdf — No tables found in PDF.
+[2025-09-23 15:56:49] 🧪 Converting TA PDF → Excel: TA_Financial Report_888_2.pdf
+[2025-09-23 15:56:49] 🧩 Converting PDF → Excel (default headers): TA_Financial Report_888_2.pdf
+[2025-09-23 15:56:49] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:49] 🔁 Falling back to camelot…
+[2025-09-23 15:56:49] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:49] ❌ Conversion failed for TA_Financial Report_888_2.pdf — No tables found in PDF.
+[2025-09-23 15:56:49] 🧪 Converting TA PDF → Excel: TA_Financial Report_888_3.pdf
+[2025-09-23 15:56:49] 🧩 Converting PDF → Excel (default headers): TA_Financial Report_888_3.pdf
+[2025-09-23 15:56:49] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:49] 🔁 Falling back to camelot…
+[2025-09-23 15:56:49] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:49] ❌ Conversion failed for TA_Financial Report_888_3.pdf — No tables found in PDF.
+[2025-09-23 15:56:49] 🧪 Converting TA PDF → Excel: TA_888.pdf
+[2025-09-23 15:56:49] 🧩 Converting PDF → Excel (default headers): TA_888.pdf
+[2025-09-23 15:56:49] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:49] 🔁 Falling back to camelot…
+[2025-09-23 15:56:49] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:49] ❌ Conversion failed for TA_888.pdf — No tables found in PDF.
+[2025-09-23 15:56:50] 🧪 Converting TA PDF → Excel: TA_Transaction History - deposit withdrawals.pdf
+[2025-09-23 15:56:50] 🧩 Converting PDF → Excel (default headers): TA_Transaction History - deposit withdrawals.pdf
+[2025-09-23 15:56:50] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:50] 🔁 Falling back to camelot…
+[2025-09-23 15:56:50] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:50] ❌ Conversion failed for TA_Transaction History - deposit withdrawals.pdf — No tables found in PDF.
+[2025-09-23 15:56:50] 🧪 Converting TA PDF → Excel: TA_888.pdf
+[2025-09-23 15:56:50] 🧩 Converting PDF → Excel (default headers): TA_888.pdf
+[2025-09-23 15:56:50] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:50] 🔁 Falling back to camelot…
+[2025-09-23 15:56:50] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:50] ❌ Conversion failed for TA_888.pdf — No tables found in PDF.
+[2025-09-23 15:56:50] 🧪 Converting TA PDF → Excel: TA_WilliamHill.pdf
+[2025-09-23 15:56:50] 🧩 Converting PDF → Excel (default headers): TA_WilliamHill.pdf
+[2025-09-23 15:56:50] ℹ️ tabula not available: No module named 'tabula'
+[2025-09-23 15:56:50] 🔁 Falling back to camelot…
+[2025-09-23 15:56:50] ℹ️ camelot not available: No module named 'camelot'
+[2025-09-23 15:56:50] ❌ Conversion failed for TA_WilliamHill.pdf — No tables found in PDF.
+[2025-09-23 15:56:50] ℹ️ No files were converted.

@@ -1,0 +1,22 @@
+[2025-08-25 10:12:23] ➕ Added 1 file(s).
+[2025-08-25 10:12:25] 📄 Processing TA_Unibet 2.xlsx in calculation Mode...
+[2025-08-25 10:12:29] ✔ Deposit sheets: ['Transaction history']
+[2025-08-25 10:12:29] ✔ Cashout sheets: ['Transaction history']
+[2025-08-25 10:12:29] ℹ️ Same sheet in both lists → will parse once as combined: ['Transaction history']
+[2025-08-25 10:12:30] TA logic: Deposits = 144094.81, Cashouts = 102065.79, Net = 42029.020000000004
+[2025-08-25 10:12:30] ✅ Created Payment Summary with 28728 rows.
+[2025-08-25 10:12:30] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 10:12:30] ✅ Finished processing: TA_Unibet 2.xlsx
+[2025-08-25 10:12:32] Cleared all selected files.
+[2025-08-25 10:12:38] ➕ Added 1 file(s).
+[2025-08-25 10:12:39] Cleared all selected files.
+[2025-08-25 10:12:44] ➕ Added 1 file(s).
+[2025-08-25 10:12:45] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-25 10:12:48] ✔ Deposit sheets: ['PS Transactions']
+[2025-08-25 10:12:48] ✔ Cashout sheets: ['PS Transactions']
+[2025-08-25 10:12:48] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-08-25 10:12:49] TA logic: Deposits = 13771.79, Cashouts = 0, Net = 13771.79
+[2025-08-25 10:12:49] ✅ Created Payment Summary with 558 rows.
+[2025-08-25 10:12:49] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 10:12:49] ✅ Finished processing: TA_Pokerstars.xlsx
+[2025-08-25 10:12:57] Cleared all files.

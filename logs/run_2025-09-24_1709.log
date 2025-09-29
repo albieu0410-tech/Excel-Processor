@@ -1,0 +1,12 @@
+[2025-09-24 17:09:31] 🔗 AC: fetching deals for pipeline=5, stage=37…
+[2025-09-24 17:09:34] ℹ️ AC: fetched 137 deal(s).
+[2025-09-24 17:09:34] 🧠 IT: fetching ALL leads (single request)…
+[2025-09-24 17:09:46] --- ActiveCampaign (https://glts.activehosted.com/api/3) ---
+[2025-09-24 17:09:46] ✅ AC /dealGroups OK — groups: 20, stages: 139
+[2025-09-24 17:09:46] ✅ AC /dealStages OK — 100 stages
+[2025-09-24 17:09:46] ✅ AC /deals OK — sample size: 5
+[2025-09-24 17:09:46] --- IT (https://api.golden-tech.de/glts_ac) ---
+[2025-09-24 17:09:46] 🔧 IT probe → https://api.golden-tech.de/glts_ac  (read timeout 90s)
+[2025-09-24 17:09:46] ✅ IT base [200] keys=['status', 'data', 'query_params'] data_items=137
+[2025-09-24 17:09:46] ℹ️ IT sample — id: 15619, title: Minas Calisir, One Casino, notes: 2
+[2025-09-24 17:09:46]    └─ first note: Opponent 'ProviderConfig[DB](name=One Casino Limited)' not supported for calcula

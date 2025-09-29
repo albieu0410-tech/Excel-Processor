@@ -1,0 +1,10 @@
+[2025-08-21 16:20:12] ➕ Added 1 file(s).
+[2025-08-21 16:20:15] 📄 Processing TA_Unibet 2.xlsx in checking Mode...
+[2025-08-21 16:20:15] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-08-21 16:20:15] ❌ No recognizable amount column (looking for Credited/Txn Amount/Amount/Initial/Net).
+[2025-08-21 16:20:15] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-21 16:20:15] ✅ Created Payment Summary with 0 rows.
+[2025-08-21 16:20:15] ⚠️ No valid dates found in Payment Summary.
+[2025-08-21 16:20:15] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 16:20:15] 🧾 Final claim value (from Payment Summary): 0.0
+[2025-08-21 16:20:16] ✅ Finished processing: TA_Unibet 2.xlsx

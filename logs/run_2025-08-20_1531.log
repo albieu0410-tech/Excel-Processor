@@ -1,0 +1,9 @@
+[2025-08-20 15:31:23] ✅ Loaded 40 deals from CSV.
+[2025-08-20 15:31:25] ✅ Selected deal: 12114
+[2025-08-20 15:31:31] 📎 Added file from Deal 12114: TA_TA_Pokerstars.xlsx
+[2025-08-20 15:31:32] 📄 Processing TA_TA_Pokerstars.xlsx in Calculation Mode...
+[2025-08-20 15:31:32] 📑 Using sheet: All
+[2025-08-20 15:31:32] ✅ Created Payment Summary (486 rows) from sheet 'All' for Calculation Mode.
+[2025-08-20 15:31:32] ✅ Created Summary sheet from Payment Summary.
+[2025-08-20 15:31:32] ✅ Finished processing: TA_TA_Pokerstars.xlsx
+[2025-08-20 15:31:37] 💾 Saved: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/12114 - lamin sanha, PokerStars\Checked_TA_TA_Pokerstars.xlsx

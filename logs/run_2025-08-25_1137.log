@@ -1,0 +1,39 @@
+[2025-08-25 11:37:10] ➕ Added 1 file(s).
+[2025-08-25 11:37:10] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-25 11:37:15] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 11:37:15] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 11:37:15] TA logic: Deposits = 17445.0, Cashouts = 5756.25, Net = 11688.75
+[2025-08-25 11:37:15] ✅ Created Payment Summary with 166 rows.
+[2025-08-25 11:37:15] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:37:15] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx
+[2025-08-25 11:37:18] Cleared all files.
+[2025-08-25 11:37:23] ➕ Added 1 file(s).
+[2025-08-25 11:37:24] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-25 11:37:26] ✔ Deposit sheets: ['PS Transactions']
+[2025-08-25 11:37:26] ✔ Cashout sheets: ['PS Transactions']
+[2025-08-25 11:37:26] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-08-25 11:37:26] ✅ Detected header row at Excel row 8: ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-08-25 11:37:26] TA logic: Deposits = 13771.79, Cashouts = 10173.06, Net = 3598.7300000000014
+[2025-08-25 11:37:26] ✅ Created Payment Summary with 594 rows.
+[2025-08-25 11:37:26] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:37:26] ✅ Finished processing: TA_Pokerstars.xlsx
+[2025-08-25 11:37:30] Cleared all files.
+[2025-08-25 11:37:34] ➕ Added 1 file(s).
+[2025-08-25 11:37:38] ➕ Added 1 file(s).
+[2025-08-25 11:37:39] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-25 11:37:43] ✔ Deposit sheets: ['PS Transactions']
+[2025-08-25 11:37:43] ✔ Cashout sheets: ['PS Transactions']
+[2025-08-25 11:37:43] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-08-25 11:37:44] ✅ Detected header row at Excel row 8: ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-08-25 11:37:44] TA logic: Deposits = 13771.79, Cashouts = 10173.06, Net = 3598.7300000000014
+[2025-08-25 11:37:44] ✅ Created Payment Summary with 594 rows.
+[2025-08-25 11:37:44] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:37:44] ✅ Finished processing: TA_Pokerstars.xlsx
+[2025-08-25 11:37:44] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-25 11:37:50] ✔ Deposit sheets: ['Deposits']
+[2025-08-25 11:37:50] ✔ Cashout sheets: ['Cashouts']
+[2025-08-25 11:37:50] TA logic: Deposits = 17445.0, Cashouts = 5756.25, Net = 11688.75
+[2025-08-25 11:37:50] ✅ Created Payment Summary with 166 rows.
+[2025-08-25 11:37:50] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 11:37:50] ✅ Finished processing: TA_DSAR - Bertje22 (bwin.com).xlsx
+[2025-08-25 11:37:55] Cleared all files.

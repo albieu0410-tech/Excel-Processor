@@ -1,0 +1,20 @@
+[2025-09-24 11:15:02] 📄 9871 has no Excel; found 4 PDF(s).
+[2025-09-24 11:15:02] 📦 9871 | Deal 9871 — 0 Excel file(s)
+[2025-09-24 11:15:02] 📤 Exported JSON to: C:\Users\salbahaca\Documents\Automations\Sorting Excel Dates\Excel Processor\to_calculate_files_20250924_111502.json
+[2025-09-24 11:15:02] ❌ Import AC Deal Links failed: '_tkinter.tkapp' object has no attribute '_prompt_convert_choice'
+[2025-09-24 11:15:39] ➕ Added 1 file(s).
+[2025-09-24 11:15:41] 📄 Processing TA_Pokerstars_kriekr.xlsx in checking Mode...
+[2025-09-24 11:15:44] ✔ Deposit sheets: ['RealMoneyAudit']
+[2025-09-24 11:15:44] ✔ Cashout sheets: ['RealMoneyAudit']
+[2025-09-24 11:15:44] ℹ️ Same sheet in both lists → will parse once as combined: ['RealMoneyAudit']
+[2025-09-24 11:15:44] 🔎 Header row 1: ["All 'kriekr' Real Money Audit at [#?PokerBrand#]:", None, None, None, None, None, None, None, None, None, None]
+[2025-09-24 11:15:44] 🧭 Columns: amount=None, currency=None, type=None, ref_date=None, conf_date=None, status=None, gateway=None, descr=None, drcr=None
+[2025-09-24 11:15:44] ❌ No recognizable amount/date columns (fallbacks failed).
+[2025-09-24 11:15:44] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-09-24 11:15:44] ✅ Created Payment Summary with 0 rows.
+[2025-09-24 11:15:44] ⚠️ No valid dates found in Payment Summary.
+[2025-09-24 11:15:44] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-24 11:15:44] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-24 11:15:44] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-24 11:15:44] 🧾 Final claim value (from Payment Summary): 0.0
+[2025-09-24 11:15:44] ✅ Finished processing: TA_Pokerstars_kriekr.xlsx

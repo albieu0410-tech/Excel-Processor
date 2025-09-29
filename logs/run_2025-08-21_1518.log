@@ -1,0 +1,9 @@
+[2025-08-21 15:18:35] 📄 Processing TA_Pokerstars.xlsx in checking Mode...
+[2025-08-21 15:18:35] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-08-21 15:18:35] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-08-21 15:18:35] ⚠️ No distinct header row found (scanned 9 rows).
+[2025-08-21 15:18:35] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-21 15:18:35] ✅ Created Payment Summary with 0 rows.
+[2025-08-21 15:18:35] ⚠️ No valid dates found in Payment Summary.
+[2025-08-21 15:18:35] 🧾 Final claim value (from Payment Summary): 0.0
+[2025-08-21 15:18:35] ✅ Finished processing: TA_Pokerstars.xlsx

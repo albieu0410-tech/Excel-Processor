@@ -1,0 +1,2 @@
+[2025-09-23 13:45:19] 🔎 No local folder match for block title: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:45:40] 🔎 No local folder match for block title: AssertionError: No column of '['Amount']' found in table (Pre) Deposits with columns ['Date', 'AMOUNT / EUROCENTS', 'STATUS', 'SUBSTATUS', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'ExchangeRate'].

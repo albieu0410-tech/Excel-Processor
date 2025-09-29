@@ -1,0 +1,6 @@
+[2025-09-26 11:41:10] 📥 Imported 9 deal ID(s) from links: 2514, 42190, 45079, 45110, 45119, 2212, 6838, 47788, 9871
+[2025-09-26 11:41:10] 🧠 IT: fetching ALL leads (single request)…
+[2025-09-26 11:41:48] ℹ️ IT: received 136 lead(s).
+[2025-09-26 11:41:48] 📂 SharePoint root: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents
+[2025-09-26 11:41:50] 🚫 SP: Checked_* file(s) present for 2514 — dropping. Samples: Checked_TA_PS information request - siddeburen (1).xlsx, Checked_TA_PS information request - siddeburenFR.xlsx
+[2025-09-26 11:41:54] 🚫 SP: Checked_* file(s) present for 42190 — dropping. Samples: Checked_TA_Pokerstars Serkan Tas.xlsx

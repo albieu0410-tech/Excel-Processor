@@ -1,0 +1,12 @@
+[2025-07-10 13:15:13] Cleared all files.
+[2025-07-10 13:15:18] Added 1 file(s).
+[2025-07-10 13:15:19] 📄 Processing TA_DSAR - DjonnieG (bwin.com).xlsx...
+[2025-07-10 13:15:19] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-07-10 13:15:19] ✅ Processed sheet 'Deposits': Total = 13382.0
+[2025-07-10 13:15:19] ✅ Processed sheet 'Cashouts': Total = 8200.0
+[2025-07-10 13:15:19] TA logic: Deposits = 13382.0, Cashouts = 8200.0, Net = 5182.0
+[2025-07-10 13:15:19] ✅ Created Payment Summary with 0 rows.
+[2025-07-10 13:15:19] ✅ Created Summary sheet from Payment Summary.
+[2025-07-10 13:15:19] 🧾 Final claim value (from Payment Summary): 0
+[2025-07-10 13:15:19] ✅ Finished processing: TA_DSAR - DjonnieG (bwin.com).xlsx
+[2025-07-10 13:15:22] 💾 Saved: C:/Users/salbahaca/Downloads\Checked_TA_DSAR - DjonnieG (bwin.com).xlsx

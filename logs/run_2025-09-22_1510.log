@@ -1,0 +1,4 @@
+[2025-09-22 15:10:03] ✅ AC /dealGroups OK — groups: 20, stages: 137
+[2025-09-22 15:10:03] ✅ AC /dealStages OK — 100 stages
+[2025-09-22 15:10:03] ✅ AC /deals OK — sample size: 5
+[2025-09-22 15:10:03] ❌ IT base request failed: HTTPSConnectionPool(host='api.golden-tech.de', port=443): Read timed out. (read timeout=25)

@@ -1,0 +1,7 @@
+[2025-08-21 14:23:22] ➕ Added 1 file(s).
+[2025-08-21 14:23:22] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in checking Mode...
+[2025-08-21 14:23:22] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-08-21 14:23:36] ✔ Selected deposit sheets: ['Deposits']
+[2025-08-21 14:23:36] ✔ Selected cashout sheets: ['Cashouts']
+[2025-08-21 14:23:36] 🔧 Using user-selected sheets for TA summary.
+[2025-08-21 14:23:36] ❌ Error in C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/30100 - Bert Relker, BWIN/TA_DSAR - Bertje22 (bwin.com).xlsx: name 'extract_rows_from_sheet' is not defined

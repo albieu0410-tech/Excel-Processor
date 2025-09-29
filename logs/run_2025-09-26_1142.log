@@ -1,0 +1,13 @@
+[2025-09-26 11:42:05] 🚫 SP: Checked_* file(s) present for 45110 — dropping. Samples: Checked_TA_PS information request - foxman2000.xlsx
+[2025-09-26 11:42:11] 🚫 SP: Checked_* file(s) present for 2212 — dropping. Samples: Checked_TA_DSAR - gerarddovoa1 (bwin.com).xlsx
+[2025-09-26 11:42:18] 🚫 SP: Checked_* file(s) present for 6838 — dropping. Samples: Checked_TA_DSAR - Daniel6674 (bwin.com).xlsx, Checked_TA_DSAR - danikarlkani88 (bwin.com).xlsx
+[2025-09-26 11:42:23] 🚫 SP: Checked_* file(s) present for 47788 — dropping. Samples: Checked_TA_DSAR - iMoreno10 (bwin.com).xlsx
+[2025-09-26 11:42:30] 🧹 Filter result — total:9 kept:3 dropped_by_sharepoint:6 dropped_by_notes:0
+[2025-09-26 11:42:35] 📄 45079 has no Excel; found 3 PDF(s).
+[2025-09-26 11:42:35] 📦 45079 | Deal 45079 — 0 Excel file(s)
+[2025-09-26 11:42:40] 📄 45119 has no Excel; found 3 PDF(s).
+[2025-09-26 11:42:40] 📦 45119 | Deal 45119 — 0 Excel file(s)
+[2025-09-26 11:42:47] 📦 9871 | Deal 9871 — 3 Excel file(s)
+[2025-09-26 11:42:47] 📤 Exported JSON to: C:\Users\salbahaca\Documents\Automations\Sorting Excel Dates\Excel Processor\to_calculate_files_20250926_114247.json
+[2025-09-26 11:42:55] ✅ Queued 3 Excel file(s) for calculation.
+[2025-09-26 11:42:55] ℹ️ These deals had no Excel files to queue: 45079, 45119

@@ -1,0 +1,134 @@
+[2025-07-10 13:40:33] Added 1 file(s).
+[2025-07-10 13:40:33] 📄 Processing TA_DSAR - DjonnieG (bwin.com).xlsx...
+[2025-07-10 13:40:33] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-07-10 13:40:33] Detected separate Deposit and Cashout sheets.
+[2025-07-10 13:40:33] ✅ Row 2: Parsed as Deposit — 125 at 2019-11-06 13:20:54
+[2025-07-10 13:40:33] ⚠️ Row 3: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ✅ Row 4: Parsed as Deposit — 100 at 2019-11-06 13:26:43
+[2025-07-10 13:40:33] ✅ Row 5: Parsed as Deposit — 250 at 2019-11-06 13:49:20
+[2025-07-10 13:40:33] ✅ Row 6: Parsed as Deposit — 100 at 2019-11-09 07:31:10
+[2025-07-10 13:40:33] ✅ Row 7: Parsed as Deposit — 150 at 2019-11-09 12:49:46
+[2025-07-10 13:40:33] ✅ Row 8: Parsed as Deposit — 100 at 2019-11-09 12:52:51
+[2025-07-10 13:40:33] ✅ Row 9: Parsed as Deposit — 520 at 2019-11-11 06:22:11
+[2025-07-10 13:40:33] ✅ Row 10: Parsed as Deposit — 1000 at 2019-11-11 06:43:57
+[2025-07-10 13:40:33] ✅ Row 11: Parsed as Deposit — 1000 at 2019-11-11 06:48:17
+[2025-07-10 13:40:33] ✅ Row 12: Parsed as Deposit — 1000 at 2019-11-11 06:53:49
+[2025-07-10 13:40:33] ⚠️ Row 13: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ✅ Row 14: Parsed as Deposit — 250 at 2019-11-11 07:35:00
+[2025-07-10 13:40:33] ⚠️ Row 15: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ✅ Row 16: Parsed as Deposit — 150 at 2019-11-12 01:24:51
+[2025-07-10 13:40:33] ✅ Row 17: Parsed as Deposit — 85 at 2019-11-12 13:22:29
+[2025-07-10 13:40:33] ✅ Row 18: Parsed as Deposit — 1000 at 2019-11-12 13:39:59
+[2025-07-10 13:40:33] ⚠️ Row 19: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ✅ Row 20: Parsed as Deposit — 10 at 2019-12-23 17:19:10
+[2025-07-10 13:40:33] ✅ Row 21: Parsed as Deposit — 400 at 2019-12-24 20:42:52
+[2025-07-10 13:40:33] ✅ Row 22: Parsed as Deposit — 50 at 2019-12-25 09:02:03
+[2025-07-10 13:40:33] ⚠️ Row 23: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ✅ Row 24: Parsed as Deposit — 64 at 2019-12-25 09:08:10
+[2025-07-10 13:40:33] ✅ Row 25: Parsed as Deposit — 35 at 2019-12-28 12:37:05
+[2025-07-10 13:40:33] ✅ Row 26: Parsed as Deposit — 5 at 2019-12-30 10:21:05
+[2025-07-10 13:40:33] ✅ Row 27: Parsed as Deposit — 20 at 2020-01-02 14:43:32
+[2025-07-10 13:40:33] ⚠️ Row 28: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ✅ Row 29: Parsed as Deposit — 53 at 2020-01-02 14:50:49
+[2025-07-10 13:40:33] ✅ Row 30: Parsed as Deposit — 35 at 2020-01-17 14:43:01
+[2025-07-10 13:40:33] ✅ Row 31: Parsed as Deposit — 25 at 2020-01-17 14:47:16
+[2025-07-10 13:40:33] ✅ Row 32: Parsed as Deposit — 15 at 2020-01-17 14:53:43
+[2025-07-10 13:40:33] ✅ Row 33: Parsed as Deposit — 45 at 2020-01-19 10:52:02
+[2025-07-10 13:40:33] ✅ Row 34: Parsed as Deposit — 45 at 2020-01-19 10:58:16
+[2025-07-10 13:40:33] ✅ Row 35: Parsed as Deposit — 54 at 2020-01-20 00:27:51
+[2025-07-10 13:40:33] ✅ Row 36: Parsed as Deposit — 47 at 2020-01-20 12:55:01
+[2025-07-10 13:40:33] ✅ Row 37: Parsed as Deposit — 80 at 2020-01-24 02:32:35
+[2025-07-10 13:40:33] ✅ Row 38: Parsed as Deposit — 150 at 2020-01-24 02:52:53
+[2025-07-10 13:40:33] ✅ Row 39: Parsed as Deposit — 20 at 2020-04-05 09:52:50
+[2025-07-10 13:40:33] ⚠️ Row 40: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ✅ Row 41: Parsed as Deposit — 25 at 2020-04-05 11:37:57
+[2025-07-10 13:40:33] ✅ Row 42: Parsed as Deposit — 25 at 2020-04-05 11:38:38
+[2025-07-10 13:40:33] ✅ Row 43: Parsed as Deposit — 25 at 2020-04-05 11:40:05
+[2025-07-10 13:40:33] ✅ Row 44: Parsed as Deposit — 25 at 2020-04-05 11:40:39
+[2025-07-10 13:40:33] ✅ Row 45: Parsed as Deposit — 50 at 2020-04-06 14:55:34
+[2025-07-10 13:40:33] ✅ Row 46: Parsed as Deposit — 50 at 2020-04-06 15:21:46
+[2025-07-10 13:40:33] ✅ Row 47: Parsed as Deposit — 10 at 2020-04-24 18:29:38
+[2025-07-10 13:40:33] ✅ Row 48: Parsed as Deposit — 10 at 2020-04-24 18:34:03
+[2025-07-10 13:40:33] ✅ Row 49: Parsed as Deposit — 25 at 2020-04-25 13:15:16
+[2025-07-10 13:40:33] ✅ Row 50: Parsed as Deposit — 25 at 2020-04-25 13:16:01
+[2025-07-10 13:40:33] ✅ Row 51: Parsed as Deposit — 25 at 2020-04-25 13:16:36
+[2025-07-10 13:40:33] ⚠️ Row 52: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ✅ Row 53: Parsed as Deposit — 200 at 2020-04-25 13:54:09
+[2025-07-10 13:40:33] ⚠️ Row 54: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ✅ Row 55: Parsed as Deposit — 25 at 2020-04-27 07:19:37
+[2025-07-10 13:40:33] ✅ Row 56: Parsed as Deposit — 25 at 2020-04-27 07:20:33
+[2025-07-10 13:40:33] ✅ Row 57: Parsed as Deposit — 25 at 2020-04-27 07:21:20
+[2025-07-10 13:40:33] ✅ Row 58: Parsed as Deposit — 25 at 2020-04-27 07:21:59
+[2025-07-10 13:40:33] ✅ Row 59: Parsed as Deposit — 100 at 2020-04-27 07:33:38
+[2025-07-10 13:40:33] ✅ Row 60: Parsed as Deposit — 25 at 2020-04-27 09:52:34
+[2025-07-10 13:40:33] ✅ Row 61: Parsed as Deposit — 10 at 2020-04-27 09:53:57
+[2025-07-10 13:40:33] ✅ Row 62: Parsed as Deposit — 10 at 2020-04-27 09:54:41
+[2025-07-10 13:40:33] ✅ Row 63: Parsed as Deposit — 130 at 2020-04-27 12:13:00
+[2025-07-10 13:40:33] ✅ Row 64: Parsed as Deposit — 120 at 2020-04-27 12:21:26
+[2025-07-10 13:40:33] ✅ Row 65: Parsed as Deposit — 200 at 2020-04-27 12:35:46
+[2025-07-10 13:40:33] ✅ Row 66: Parsed as Deposit — 200 at 2020-04-27 12:43:09
+[2025-07-10 13:40:33] ✅ Row 67: Parsed as Deposit — 400 at 2020-04-27 15:03:25
+[2025-07-10 13:40:33] ✅ Row 68: Parsed as Deposit — 95 at 2020-06-07 16:05:09
+[2025-07-10 13:40:33] ✅ Row 69: Parsed as Deposit — 10 at 2020-06-08 10:33:43
+[2025-07-10 13:40:33] ⚠️ Row 70: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ✅ Row 71: Parsed as Deposit — 10 at 2020-06-08 12:47:44
+[2025-07-10 13:40:33] ✅ Row 72: Parsed as Deposit — 50 at 2020-06-08 12:48:50
+[2025-07-10 13:40:33] ✅ Row 73: Parsed as Deposit — 150 at 2020-06-09 00:35:56
+[2025-07-10 13:40:33] ✅ Row 74: Parsed as Deposit — 80 at 2020-06-09 15:08:53
+[2025-07-10 13:40:33] ✅ Row 75: Parsed as Deposit — 22 at 2020-06-09 15:15:38
+[2025-07-10 13:40:33] ✅ Row 76: Parsed as Deposit — 50 at 2020-06-10 00:30:53
+[2025-07-10 13:40:33] ✅ Row 77: Parsed as Deposit — 120 at 2020-06-10 04:00:58
+[2025-07-10 13:40:33] ✅ Row 78: Parsed as Deposit — 60 at 2020-06-10 04:07:48
+[2025-07-10 13:40:33] ✅ Row 79: Parsed as Deposit — 70 at 2020-06-12 19:48:27
+[2025-07-10 13:40:33] ✅ Row 80: Parsed as Deposit — 60 at 2020-06-14 07:57:54
+[2025-07-10 13:40:33] ✅ Row 81: Parsed as Deposit — 200 at 2020-06-14 08:37:42
+[2025-07-10 13:40:33] ✅ Row 82: Parsed as Deposit — 50 at 2020-06-14 08:54:06
+[2025-07-10 13:40:33] ✅ Row 83: Parsed as Deposit — 50 at 2020-06-14 08:54:55
+[2025-07-10 13:40:33] ⚠️ Row 84: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ⚠️ Row 85: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ⚠️ Row 86: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ⚠️ Row 87: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ⚠️ Row 88: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ✅ Row 89: Parsed as Deposit — 1000 at 2020-06-23 17:27:25
+[2025-07-10 13:40:33] ⚠️ Row 90: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ✅ Row 91: Parsed as Deposit — 500 at 2020-06-23 17:40:04
+[2025-07-10 13:40:33] ✅ Row 92: Parsed as Deposit — 50 at 2020-07-24 05:32:12
+[2025-07-10 13:40:33] ✅ Row 93: Parsed as Deposit — 100 at 2020-07-24 05:36:59
+[2025-07-10 13:40:33] ✅ Row 94: Parsed as Deposit — 200 at 2020-07-28 08:29:19
+[2025-07-10 13:40:33] ✅ Row 95: Parsed as Deposit — 70 at 2020-07-31 15:38:09
+[2025-07-10 13:40:33] ✅ Row 96: Parsed as Deposit — 25 at 2020-08-13 17:20:50
+[2025-07-10 13:40:33] ✅ Row 97: Parsed as Deposit — 70 at 2020-08-28 19:47:43
+[2025-07-10 13:40:33] ✅ Row 98: Parsed as Deposit — 140 at 2020-08-28 19:55:10
+[2025-07-10 13:40:33] ✅ Row 99: Parsed as Deposit — 50 at 2020-09-22 07:44:06
+[2025-07-10 13:40:33] ✅ Row 100: Parsed as Deposit — 200 at 2020-09-25 11:34:25
+[2025-07-10 13:40:33] ✅ Row 101: Parsed as Deposit — 50 at 2020-09-25 11:41:14
+[2025-07-10 13:40:33] ⚠️ Row 102: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ✅ Row 103: Parsed as Deposit — 10 at 2021-04-22 12:26:32
+[2025-07-10 13:40:33] ✅ Row 104: Parsed as Deposit — 50 at 2021-04-22 12:33:09
+[2025-07-10 13:40:33] ✅ Row 105: Parsed as Deposit — 5 at 2021-05-04 15:42:49
+[2025-07-10 13:40:33] ✅ Row 106: Parsed as Deposit — 5 at 2021-05-04 15:51:27
+[2025-07-10 13:40:33] ✅ Row 107: Parsed as Deposit — 7 at 2021-05-08 10:03:11
+[2025-07-10 13:40:33] ⚠️ Row 108: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ⚠️ Row 109: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ✅ Row 110: Parsed as Deposit — 50 at 2021-05-16 08:15:32
+[2025-07-10 13:40:33] ⚠️ Row 111: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ⚠️ Row 112: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ⚠️ Row 113: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ⚠️ Row 114: Skipped due to status mismatch — dep_failed != dep_settled
+[2025-07-10 13:40:33] ✅ Row 115: Parsed as Deposit — 250 at 2021-07-11 14:25:43
+[2025-07-10 13:40:33] ⚠️ Row 116: Skipped due to status mismatch — dep_pending != dep_settled
+[2025-07-10 13:40:33] ✅ Row 117: Parsed as Deposit — 100 at 2021-07-22 02:15:43
+[2025-07-10 13:40:33] ✅ Row 118: Parsed as Deposit — 50 at 2021-08-11 19:22:24
+[2025-07-10 13:40:33] ✅ Row 119: Parsed as Deposit — 50 at 2021-08-11 19:31:24
+[2025-07-10 13:40:33] ✅ Row 120: Parsed as Deposit — 100 at 2021-08-15 11:28:39
+[2025-07-10 13:40:33] ✅ Row 121: Parsed as Deposit — 150 at 2021-08-15 18:33:27
+[2025-07-10 13:40:33] ✅ Row 122: Parsed as Deposit — 250 at 2021-08-19 05:52:41
+[2025-07-10 13:40:33] ✅ Row 2: Parsed as Redeem — -7000 at 2019-11-08 10:17:03
+[2025-07-10 13:40:33] ✅ Row 3: Parsed as Redeem — -200 at 2020-04-26 14:00:13
+[2025-07-10 13:40:33] ✅ Row 4: Parsed as Redeem — -1000 at 2021-08-12 04:06:37
+[2025-07-10 13:40:33] TA logic: Deposits = 13382, Cashouts = -8200, Net = 21582
+[2025-07-10 13:40:33] ✅ Created Payment Summary with 100 rows.
+[2025-07-10 13:40:33] ✅ Created Summary sheet from Payment Summary.
+[2025-07-10 13:40:33] 🧾 Final claim value (from Payment Summary): 5182
+[2025-07-10 13:40:33] ✅ Finished processing: TA_DSAR - DjonnieG (bwin.com).xlsx
+[2025-07-10 13:40:47] 💾 Saved: C:/Users/salbahaca/Downloads\Checked_TA_DSAR - DjonnieG (bwin.com).xlsx

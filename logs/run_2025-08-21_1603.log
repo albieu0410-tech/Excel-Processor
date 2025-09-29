@@ -1,0 +1,7 @@
+[2025-08-21 16:03:24] ℹ️ PokerStars parser: scanned 28728 rows after header; classified 0 deposits and 0 cashouts. Skipped 28728 non-payment rows.
+[2025-08-21 16:03:24] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-08-21 16:03:24] ✅ Created Payment Summary with 0 rows.
+[2025-08-21 16:03:24] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 16:03:24] ✅ Finished processing: TA_Unibet 2.xlsx
+[2025-08-21 16:03:35] ✔ Deposit sheets: ['Transaction history']
+[2025-08-21 16:03:35] ✔ Cashout sheets: ['Transaction history']

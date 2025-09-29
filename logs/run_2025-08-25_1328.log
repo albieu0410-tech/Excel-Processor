@@ -1,0 +1,52 @@
+[2025-08-25 13:28:19] ➕ Added 1 file(s).
+[2025-08-25 13:28:21] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-25 13:28:24] ✔ Deposit sheets: ['PS Transactions']
+[2025-08-25 13:28:24] ✔ Cashout sheets: ['PS Transactions']
+[2025-08-25 13:28:24] ℹ️ Same sheet in both lists → will parse once as combined: ['PS Transactions']
+[2025-08-25 13:28:25] ✅ Detected header row at Excel row 8: ['TransId', 'ParentId', 'TransType', 'Started', 'Completed', 'Account Currency', 'Amount', 'Status', 'PaySystem', 'Country', 'Logged-In', 'Reference']
+[2025-08-25 13:28:25] TA logic: Deposits = 13771.79, Cashouts = 10173.06, Net = 3598.7300000000014
+[2025-08-25 13:28:25] ✅ Created Payment Summary with 594 rows.
+[2025-08-25 13:28:25] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 13:28:26] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:26] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:26] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:26] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:26] ⚠️ ECB fetch failed for 2014 (2014-11-06…2014-12-22): ECB fetch failed for USD->EUR 2014-11-06…2014-12-22: no data
+[2025-08-25 13:28:26] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:26] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:27] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:27] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:27] ⚠️ ECB fetch failed for 2015 (2015-01-09…2015-12-26): ECB fetch failed for USD->EUR 2015-01-09…2015-12-26: no data
+[2025-08-25 13:28:27] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:27] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:27] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:27] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:27] ⚠️ ECB fetch failed for 2016 (2016-01-02…2016-12-29): ECB fetch failed for USD->EUR 2016-01-02…2016-12-29: no data
+[2025-08-25 13:28:27] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:28] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:28] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:28] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:28] ⚠️ ECB fetch failed for 2017 (2017-01-04…2017-12-11): ECB fetch failed for USD->EUR 2017-01-04…2017-12-11: no data
+[2025-08-25 13:28:28] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:28] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:28] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:29] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:29] ⚠️ ECB fetch failed for 2018 (2018-01-18…2018-12-22): ECB fetch failed for USD->EUR 2018-01-18…2018-12-22: no data
+[2025-08-25 13:28:29] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:29] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:29] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:29] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:29] ⚠️ ECB fetch failed for 2019 (2019-01-18…2019-12-30): ECB fetch failed for USD->EUR 2019-01-18…2019-12-30: no data
+[2025-08-25 13:28:29] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:29] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:30] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:30] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:30] ⚠️ ECB fetch failed for 2020 (2020-01-01…2020-11-28): ECB fetch failed for USD->EUR 2020-01-01…2020-11-28: no data
+[2025-08-25 13:28:30] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:30] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:30] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-08-25 13:28:30] 🔁 ECB CSV 404 application/problem+json — {"type":"/service/data/EXR/D.EUR.USD.SP00.A","title":"Not Found","status":404,"detail":"No results found.","instance":"/
+[2025-08-25 13:28:30] ⚠️ ECB fetch failed for 2021 (2021-01-30…2021-08-12): ECB fetch failed for USD->EUR 2021-01-30…2021-08-12: no data
+[2025-08-25 13:28:30] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-08-25 13:28:30] ✅ Created 'Summary EUR' with 3 rows (Currency → Type → Year).
+[2025-08-25 13:28:30] ✅ Finished processing: TA_Pokerstars.xlsx

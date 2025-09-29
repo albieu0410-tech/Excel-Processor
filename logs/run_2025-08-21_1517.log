@@ -1,0 +1,14 @@
+[2025-08-21 15:17:08] ➕ Added 1 file(s).
+[2025-08-21 15:17:09] 📄 Processing TA_DSAR - Bertje22 (bwin.com).xlsx in calculation Mode...
+[2025-08-21 15:17:12] 📑 Using sheet: Deposits
+[2025-08-21 15:17:12] Detected separate Deposit and Cashout sheets.
+[2025-08-21 15:17:12] ❌ Error in C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/30100 - Bert Relker, BWIN/TA_DSAR - Bertje22 (bwin.com).xlsx: 'str' object is not callable
+[2025-08-21 15:17:17] Cleared all selected files.
+[2025-08-21 15:17:24] ➕ Added 1 file(s).
+[2025-08-21 15:17:24] 📄 Processing TA_Pokerstars.xlsx in calculation Mode...
+[2025-08-21 15:17:24] 📑 Using sheet: PS Transactions
+[2025-08-21 15:17:24] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-08-21 15:17:25] TA logic: Deposits = 15464.41, Cashouts = 29745.37, Net = -14280.96
+[2025-08-21 15:17:25] ✅ Created Payment Summary with 726 rows.
+[2025-08-21 15:17:25] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 15:17:25] ✅ Finished processing: TA_Pokerstars.xlsx

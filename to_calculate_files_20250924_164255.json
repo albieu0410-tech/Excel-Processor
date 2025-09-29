@@ -1,0 +1,526 @@
+{
+  "generated_at": "2025-09-24T16:42:55",
+  "pipeline_id": "5",
+  "stage_id": "37",
+  "stage_title": "Gamechanger Check (Manual)",
+  "sharepoint_root": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents",
+  "cases": [
+    {
+      "deal_id": "15619",
+      "title": "Minas Calisir, One Casino",
+      "opponent": "One Casino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\15619 - Minas Calisir, One Casino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\15619 - Minas Calisir, One Casino\\TA_Onecasino.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "23140",
+      "title": "Geijtenbeek-Vink Petra, Bobcasino",
+      "opponent": "Bobcasino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23140 - Geijtenbeek-Vink Petra, Bobcasino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23140 - Geijtenbeek-Vink Petra, Bobcasino\\TA_Bobcasino_1.1.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23140 - Geijtenbeek-Vink Petra, Bobcasino\\TA_Bobcasino_1.2.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23140 - Geijtenbeek-Vink Petra, Bobcasino\\TA_Bobcasino_1.3.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23140 - Geijtenbeek-Vink Petra, Bobcasino\\TA_Bobcasino_2.1.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23140 - Geijtenbeek-Vink Petra, Bobcasino\\TA_Bobcasino_2.2.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23140 - Geijtenbeek-Vink Petra, Bobcasino\\TA_Bobcasino_2.3.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "23142",
+      "title": "Geijtenbeek-Vink Petra, Oranjecasino",
+      "opponent": "Oranjecasino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23142 - Geijtenbeek-Vink Petra, Oranjecasino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23142 - Geijtenbeek-Vink Petra, Oranjecasino\\23142-Incident History Report.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23142 - Geijtenbeek-Vink Petra, Oranjecasino\\TA_Betsson.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23142 - Geijtenbeek-Vink Petra, Oranjecasino\\TA_LoyalCasino 1.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23142 - Geijtenbeek-Vink Petra, Oranjecasino\\TA_LoyalCasino 2.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23142 - Geijtenbeek-Vink Petra, Oranjecasino\\TA_LoyalCasino 3.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\23142 - Geijtenbeek-Vink Petra, Oranjecasino\\TA_LoyalCasino 4.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "24718",
+      "title": "(Hilde) Elke Drok, Oranjecasino",
+      "opponent": "Oranjecasino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\24718 - (Hilde) Elke Drok, Oranjecasino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\24718 - (Hilde) Elke Drok, Oranjecasino\\TA_24718-Betsafe.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\24718 - (Hilde) Elke Drok, Oranjecasino\\TA_24718-CasinoWinner.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\24718 - (Hilde) Elke Drok, Oranjecasino\\TA_24718-LoyalCasino.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "30096",
+      "title": "Robbie van Heertum, King Billy",
+      "opponent": "King Billy",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\30096 - Robbie van Heertum, King Billy",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\30096 - Robbie van Heertum, King Billy\\TA_payments_kingbilly.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "37644",
+      "title": "Marc Perlo, 888",
+      "opponent": "888",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\37644 - Marc Perlo, 888",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\37644 - Marc Perlo, 888\\TA_TA_GamingDetails_888.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "45032",
+      "title": "Youri Thorig, Casumo",
+      "opponent": "Casumo",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45032 - Youri Thorig, Casumo",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45032 - Youri Thorig, Casumo\\TA_TA_Casumo.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "53606",
+      "title": "muller freddie, Unibet",
+      "opponent": "Unibet",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\53606 - muller freddie, Unibet",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\53606 - muller freddie, Unibet\\TA_Unibet.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "21676",
+      "title": "Fabian Wink, CasinoEuro",
+      "opponent": "CasinoEuro",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21676 - Fabian Wink, CasinoEuro",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21676 - Fabian Wink, CasinoEuro\\21676-transactions of Player - fabianlkk - BB b-bets.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21676 - Fabian Wink, CasinoEuro\\TA_casinoeuro.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "21680",
+      "title": "Fabian Wink, Millionaria",
+      "opponent": "Millionaria",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21680 - Fabian Wink, Millionaria",
+      "excel_files": [],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "21683",
+      "title": "Fabian Wink, OctoCasino",
+      "opponent": "OctoCasino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21683 - Fabian Wink, OctoCasino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21683 - Fabian Wink, OctoCasino\\TA_TA_PinoCasino.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "21686",
+      "title": "Fabian Wink, Rizk",
+      "opponent": "Rizk",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21686 - Fabian Wink, Rizk",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21686 - Fabian Wink, Rizk\\21686-transactions of Player - fabianlkk - BB b-bets.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21686 - Fabian Wink, Rizk\\TA_Rizk.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "21688",
+      "title": "Fabian Wink, Spinia",
+      "opponent": "Spinia",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21688 - Fabian Wink, Spinia",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21688 - Fabian Wink, Spinia\\21688-transactions of Player - fabianlkk - BB b-bets.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\21688 - Fabian Wink, Spinia\\TA_Spinia.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "10180",
+      "title": "Dennis Tjoonk, 888",
+      "opponent": "888",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\10180 - Dennis Tjoonk, 888",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\10180 - Dennis Tjoonk, 888\\TA_TA_888Casino.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "20000",
+      "title": "Michael Hovenga, Bobcasino",
+      "opponent": "Bobcasino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\20000 - Michael Hovenga, Bobcasino",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\20000 - Michael Hovenga, Bobcasino\\20000-2ndLvLForm-POA.pdf"
+      ]
+    },
+    {
+      "deal_id": "27583",
+      "title": "Sachs-Wissingh Petra, N1 interactive Ltd.",
+      "opponent": "N1 interactive Ltd.",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\27583 - Sachs-Wissingh Petra, Cookie Casino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\27583 - Sachs-Wissingh Petra, Cookie Casino\\Extract_Cookie Casino_Sachs-Wissingh Petra.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\27583 - Sachs-Wissingh Petra, Cookie Casino\\IB_Cookie Casino_Sachs-Wissingh Petra.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "27919",
+      "title": "Koopmans Marc, William Hill",
+      "opponent": "William Hill",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\27919 - Koopmans Marc, William Hill",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\27919 - Koopmans Marc, William Hill\\TA_TA_william hill transactieoverzicht.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "11930",
+      "title": "Max van Eijk, William Hill",
+      "opponent": "William Hill",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\11930 - Max van Eijk, William Hill",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\11930 - Max van Eijk, William Hill\\TA_TA_11930-71104VT.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "27515",
+      "title": "jacek kowalczyk, Duxcasino",
+      "opponent": "Duxcasino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\27515 - jacek kowalczyk, Duxcasino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\27515 - jacek kowalczyk, Duxcasino\\TA_TA_Duxcasino.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "37865",
+      "title": "Maurice Van daalen, 888",
+      "opponent": "888",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\37865 - Maurice Van daalen, 888",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\37865 - Maurice Van daalen, 888\\TA_TA_746193273 Thierry van Daalen - Financial Report.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "25362",
+      "title": "Benjamin Oderkerk, Krooncasino",
+      "opponent": "Krooncasino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\25362 - Benjamin Oderkerk, Krooncasino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\25362 - Benjamin Oderkerk, Krooncasino\\25362-CasinoWinner.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\25362 - Benjamin Oderkerk, Krooncasino\\TA_CasinoWinner.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "28066",
+      "title": "Jelle Veenvliet, 888",
+      "opponent": "888",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\28066 - Jelle Veenvliet, 888",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\28066 - Jelle Veenvliet, 888\\TA_888.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "15690",
+      "title": "Mirwais Sefati, One Casino",
+      "opponent": "One Casino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\15690 - Mirwais Sefati, One Casino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\15690 - Mirwais Sefati, One Casino\\TA_OneCasino_1OLD.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\15690 - Mirwais Sefati, One Casino\\TA_OneCasino_FRUITY REELS.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\15690 - Mirwais Sefati, One Casino\\TA_Onecasino_2current.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "29951",
+      "title": "Lukasz Władysław Bogusz Bogusz, One Casino",
+      "opponent": "One Casino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\29951 - Lukasz Władysław Bogusz Bogusz, One Casino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\29951 - Lukasz Władysław Bogusz Bogusz, One Casino\\TA_29951-Lukasz Bogusz - Account details FRUITY REELS 2.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "2528",
+      "title": "Jacobus Petrus (Sjaak) Bijman, 888",
+      "opponent": "888",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2528 - Sjaak Bijman, 888",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2528 - Sjaak Bijman, 888\\TA_TA_Financial Report_888.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2528 - Sjaak Bijman, 888\\TA_TA_Financial Report_888_2.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2528 - Sjaak Bijman, 888\\TA_TA_Financial Report_888_3.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "4058",
+      "title": "Rick van Beuningen, 888",
+      "opponent": "888",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\4058 - Rick van Beuningen, 888",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\4058 - Rick van Beuningen, 888\\TA_TA_888.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "11789",
+      "title": "Gijsbert Dompeling, William Hill",
+      "opponent": "William Hill",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\11789 - Gijsbert Dompeling, William Hill",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\11789 - Gijsbert Dompeling, William Hill\\TA_TA_Transaction History - deposit withdrawals.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "6720",
+      "title": "Christian Hokse, Dreamz",
+      "opponent": "Dreamz",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\6720 - Christian Hokse, Dreamz",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\6720 - Christian Hokse, Dreamz\\6720-2ndLvLForm-POA 1.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\6720 - Christian Hokse, Dreamz\\6720-2ndLvLForm-POA.pdf"
+      ]
+    },
+    {
+      "deal_id": "8076",
+      "title": "Franklin Leurs Leurs, Pino Casino",
+      "opponent": "Pino Casino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\8076 - Franklin Leurs Leurs, Pino Casino",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\8076 - Franklin Leurs Leurs, Pino Casino\\8076-2ndLvLForm-POA.pdf"
+      ]
+    },
+    {
+      "deal_id": "17052",
+      "title": "Jordi Stoffels, MasonSlots",
+      "opponent": "MasonSlots",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\17052 - Jordi Stoffels, MasonSlots",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\17052 - Jordi Stoffels, MasonSlots\\17052-jordistoffels@hotmail.com Bets.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\17052 - Jordi Stoffels, MasonSlots\\17052-jordistoffels@hotmail.com Data.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\17052 - Jordi Stoffels, MasonSlots\\TA_Masonslots.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "18986",
+      "title": "Demy Toornstra, One Casino",
+      "opponent": "One Casino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\18986 - Demy Toornstra, One Casino",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\18986 - Demy Toornstra, One Casino\\18986-2ndLvLForm-POA.pdf"
+      ]
+    },
+    {
+      "deal_id": "19547",
+      "title": "David Hol, Betsson",
+      "opponent": "Betsson",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\19547 - David Hol, Betsson",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\19547 - David Hol, Betsson\\TA_Betsson.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "28311",
+      "title": "gino spijkers, 888",
+      "opponent": "888",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\28311 - gino spijkers, 888",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\28311 - gino spijkers, 888\\TA_TA_888.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "47140",
+      "title": "Mathijn Van Kessel, Unibet",
+      "opponent": "Unibet",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\47140 - Mathijn Van Kessel, Unibet",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\47140 - Mathijn Van Kessel, Unibet\\47140-2ndLvLForm-POA.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\47140 - Mathijn Van Kessel, Unibet\\IB_Unibet letter confirming nett loss.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\47140 - Mathijn Van Kessel, Unibet\\Outlook.pdf"
+      ]
+    },
+    {
+      "deal_id": "12113",
+      "title": "lamin sanha, BWIN",
+      "opponent": "BWIN",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\12113 - lamin sanha, BWIN",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\12113 - lamin sanha, BWIN\\TA_DSAR - lamin22 (bwin.com).xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\12113 - lamin sanha, BWIN\\TA_DSAR - lamin22 (partypoker.com).xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\12113 - lamin sanha, BWIN\\TA_DSAR - lamin2705 (ladbrokes.com).xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "26566",
+      "title": "Johannes Franciscus van Mierlo, Crazy Fox",
+      "opponent": "Crazy Fox",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\26566 - Johannes Franciscus van Mierlo, Crazy Fox",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\26566 - Johannes Franciscus van Mierlo, Crazy Fox\\26566-2ndLvLForm-POA.pdf"
+      ]
+    },
+    {
+      "deal_id": "51743",
+      "title": "huseyin tercan, N1 interactive Ltd",
+      "opponent": "N1 interactive Ltd",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\51743 - huseyin tercan, Avalon78",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\51743 - huseyin tercan, Avalon78\\Extract_Avalon78_huseyin tercan.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\51743 - huseyin tercan, Avalon78\\IB_Avalon78_huseyin tercan.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "2450",
+      "title": "Roel Hermans, William Hill",
+      "opponent": "William Hill",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2450 - Roel Hermans, William Hill",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\2450 - Roel Hermans, William Hill\\TA_William Hill.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "25257",
+      "title": "Dennis Wanders, ComeOn",
+      "opponent": "ComeOn",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\25257 - Dennis Wanders, ComeOn",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\25257 - Dennis Wanders, ComeOn\\TA_ComeOn.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "48031",
+      "title": "Andreas Voorbraak, N1 interactive Ltd",
+      "opponent": "N1 interactive Ltd",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\48031 - Andreas Voorbraak, Avalon78",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\48031 - Andreas Voorbraak, Avalon78\\Extract_Avalon78_Andreas Voorbraak.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\48031 - Andreas Voorbraak, Avalon78\\IB_Avalon78_Andreas Voorbraak.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\48031 - Andreas Voorbraak, Avalon78\\TA_avalon78@cyberriot.nl TRX.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\48031 - Andreas Voorbraak, Avalon78\\avalon78@cyberriot.nl Data (2).xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\48031 - Andreas Voorbraak, Avalon78\\avalon78@cyberriot.nl Data.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\48031 - Andreas Voorbraak, Avalon78\\avalon78@cyberriot.nl TRX.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "52941",
+      "title": "Kamal Bizjan, N1 interactive Ltd",
+      "opponent": "N1 interactive Ltd",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\52941 - Kamal Bizjan, N1 Casino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\52941 - Kamal Bizjan, N1 Casino\\Extract_N1 Casino_Kamal Bizjan.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\52941 - Kamal Bizjan, N1 Casino\\IB_N1 Casino_Kamal Bizjan.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "28555",
+      "title": "Marcel Wollrabe, One Casino",
+      "opponent": "One Casino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\28555 - Wollrabe Marcel, One Casino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\28555 - Wollrabe Marcel, One Casino\\TA_Marcel Wollrabe - Account details CURRENT.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\28555 - Wollrabe Marcel, One Casino\\TA_Marcel Wollrabe account details OLD.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "6844",
+      "title": "Daniel van der Bent, Spinia",
+      "opponent": "Spinia",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\6844 - Daniel van der Bent, Spinia",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\6844 - Daniel van der Bent, Spinia\\6844-2ndLvLForm-POA.pdf"
+      ]
+    },
+    {
+      "deal_id": "16578",
+      "title": "Robin Nawijn, N1 Casino",
+      "opponent": "N1 Casino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\16578 - Robin Nawijn, N1 Casino",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\16578 - Robin Nawijn, N1 Casino\\16578-2ndLvLForm-POA 1.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\16578 - Robin Nawijn, N1 Casino\\16578-2ndLvLForm-POA.pdf"
+      ]
+    },
+    {
+      "deal_id": "24979",
+      "title": "Senno Michel, Betsafe",
+      "opponent": "Betsafe",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\24979 - Senno Michel, Betsafe",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\24979 - Senno Michel, Betsafe\\24979-2ndLvLForm-POA.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\24979 - Senno Michel, Betsafe\\24979-Transacties Senno Antonius Leonardus Michel.pdf"
+      ]
+    },
+    {
+      "deal_id": "22709",
+      "title": "Steven Tavernier, ComeOn Casino",
+      "opponent": "ComeOn Casino",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\22709 - Steven Tavernier, ComeOn Casino",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\22709 - Steven Tavernier, ComeOn Casino\\TA_ComeOn.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "40148",
+      "title": "Adnan menderes Dag, Bwin.com",
+      "opponent": "Bwin.com",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\40148 - Adnan menderes Dag, Bwin.com",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\40148 - Adnan menderes Dag, Bwin.com\\TA_Adnan Dag withdrawl.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\40148 - Adnan menderes Dag, Bwin.com\\TA_Adnan deposit.xlsx"
+      ],
+      "pdf_files": []
+    },
+    {
+      "deal_id": "47331",
+      "title": "Tom Dam, William Hill",
+      "opponent": "William Hill",
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\47331 - Tom Dam, Bwin.com",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\47331 - Tom Dam, Bwin.com\\TA_TA_WilliamHill.xlsx"
+      ],
+      "pdf_files": []
+    }
+  ]
+}

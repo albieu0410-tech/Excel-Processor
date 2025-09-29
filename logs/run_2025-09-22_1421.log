@@ -1,0 +1,3 @@
+[2025-09-22 14:21:28] ⚠️ ActiveCampaign error 404: {"message":"No route found for \"GET http:\/\/glts.activehosted.com\/api\/3\/dealPipelines\""}
+[2025-09-22 14:21:28] ℹ️ IT health probe failed (tried /health, /api/health, /status, /api/status, /v1/health): 404: {"detail":"Not Found"}
+[2025-09-22 14:21:28] ⚠️ IT notes probe failed (tried /notes, /api/notes, /v1/notes, /api/v1/notes, /notes/list, /api/notes/list, /v1/notes/list): 404: {"detail":"Not Found"}

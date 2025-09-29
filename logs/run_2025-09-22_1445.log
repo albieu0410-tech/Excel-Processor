@@ -1,0 +1,4 @@
+[2025-09-22 14:45:03] ✅ AC /dealGroups OK — groups: 20, stages: 137
+[2025-09-22 14:45:03] ✅ AC /dealStages OK — 100 stages
+[2025-09-22 14:45:03] ✅ AC /deals OK — sample size: 5
+[2025-09-22 14:45:03] ⚠️ IT base 401: {"detail":"Invalid token"}

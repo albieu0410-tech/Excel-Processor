@@ -1,0 +1,32 @@
+[2025-08-21 10:08:32] ✅ Loaded 40 deals from CSV.
+[2025-08-21 10:08:33] ✅ Selected deal: 12114
+[2025-08-21 10:08:37] 📎 Added file from Deal 12114: TA_TA_Pokerstars.xlsx
+[2025-08-21 10:08:40] 📄 Processing TA_TA_Pokerstars.xlsx in checking Mode...
+[2025-08-21 10:08:40] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-08-21 10:08:40] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-08-21 10:08:41] ⚠️ Row 488: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 489: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 490: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 491: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 492: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 493: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 494: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 495: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 496: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 497: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 498: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 499: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 500: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 501: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 502: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 503: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 504: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 505: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 506: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] ⚠️ Row 507: Unparsable date/time → 'None'
+[2025-08-21 10:08:41] TA logic: Deposits = 11048.91, Cashouts/Withdrawals = 4777.5, Net = 6271.41
+[2025-08-21 10:08:41] ✅ Created Payment Summary with 442 rows.
+[2025-08-21 10:08:41] ✅ Created Summary (Currency → Type → Date) with Excel formats.
+[2025-08-21 10:08:41] 🧾 Final claim value: 6271.41
+[2025-08-21 10:08:41] ✅ Finished processing: TA_TA_Pokerstars.xlsx
+[2025-08-21 10:08:48] 💾 Saved: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/12114 - lamin sanha, PokerStars\Checked_TA_TA_Pokerstars.xlsx

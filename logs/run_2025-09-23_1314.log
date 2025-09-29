@@ -1,0 +1,1134 @@
+[2025-09-23 13:13:59] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:00] [] Checked (28.02.2025)
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] [] - 2576 | Brian Molema, Cookie Casino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:00] [] Checked (10.03.2025)
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] [] - 3026 | Van den Berg Robin, Maneki | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:00] [] Checked (10.03.2025)
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] [] - 3990 | Weustenraad Joris, LeoVegas | [] Provider not found in the config table. Please check the provider name or if a configuration needs to be added.
+[2025-09-23 13:14:00] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:00]     
+[2025-09-23 13:14:00]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:00] [] Checked (25.02.2025)
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] [] - 6720 | Christian Hokse, Dreamz | [] No data found in the files
+[2025-09-23 13:14:00] No data was found in the files by the script.
+[2025-09-23 13:14:00] Please check the files.
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] [] - 8059 | Franklin Leurs Leurs, Evospin | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:00] [] Checked (24.02.2025)
+[2025-09-23 13:14:00]     
+[2025-09-23 13:14:00]     Amount is below 1000 EUR
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] [] - 8076 | Franklin Leurs Leurs, Pino Casino | [] Document only has one pending entry in the transaction, calculation is not possible.
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] [] - 8084 | Franklin Leurs Leurs, Spinia | [] Case could not be calculated: errors found
+[2025-09-23 13:14:00] The case still has errors and could not be calculated.
+[2025-09-23 13:14:00] [] Calculation failed for: 8084 due to internal error
+[2025-09-23 13:14:00] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:00]     
+[2025-09-23 13:14:00]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:00] [] Checked (24.02.2025)
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] [] - 8376 | Meltem Erdogan Erdogan, Krooncasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:00] [] Checked (24.02.2025)
+[2025-09-23 13:14:00]     
+[2025-09-23 13:14:00]     Amount is below 1000 EUR
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] [] - 11356 | Eef Tuitert, GiooCasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:00] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:00] [] Checked (27.02.2025)
+[2025-09-23 13:14:00] 
+[2025-09-23 13:14:01] [] - 17052 | Jordi Stoffels, MasonSlots | [] Case could not be calculated: critical errors
+[2025-09-23 13:14:01] The case still has errors and could not be calculated.
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] [] - 18986 | Demy Toornstra, One Casino | [] Opponent 'ProviderConfig[DB](name=One Casino Limited)' not supported for calculations
+[2025-09-23 13:14:01] Provider not supported. Please calculate manually.
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] [] - 19547 | David Hol, Betsson | [] Case could not be calculated: errors found
+[2025-09-23 13:14:01] The case still has errors and could not be calculated.
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] [] - 21218 | gijs dekkers, N1 Casino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:01] [] Checked (28.02.2025)
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] [] - 28311 | gino spijkers, 888 | [] Opponent 'ProviderConfig[DB](name=Virtual Digital Services Ltd)' not supported for calculations
+[2025-09-23 13:14:01] Provider not supported. Please calculate manually.
+[2025-09-23 13:14:01] [] Calculation failed for: 28311 due to calculation error
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] [] - 29214 | Nigel Inpijn, MasonSlots | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:01] [] Checked (28.02.2025)
+[2025-09-23 13:14:01] [] The same request has been submitted again.
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] [] - 30101 | Bert Relker, LeoVegas | [] The same request has been submitted again.
+[2025-09-23 13:14:01] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:01]     
+[2025-09-23 13:14:01]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:01] [] Checked (28.02.2025)
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] [] - 9866 | De Boer Martijn, Betsson | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:01] [] Checked (24.02.2025)
+[2025-09-23 13:14:01]     
+[2025-09-23 13:14:01]     Amount is below 1000 EUR
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] [] - 9974 | Olivier van Vliet, Krooncasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:01] [] Checked (24.02.2025)
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] [] - 10044 | Robert van Popering, Mr. Green | [] Can not calculate. Unconverted pdf files are present: TA_Mr Green.pdf
+[2025-09-23 13:14:01] [] Calculation failed for: 10044 due to calculation error
+[2025-09-23 13:14:01] [] Detected unconverted files and starting PDF extraction.
+[2025-09-23 13:14:01] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:01]     
+[2025-09-23 13:14:01]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:01] [] Checked (24.02.2025)
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] [] - 12112 | lamin sanha, Betsson | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:01] 
+[2025-09-23 13:14:01] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:02] [] Checked (27.02.2025)
+[2025-09-23 13:14:02] 
+[2025-09-23 13:14:02] [] - 12113 | lamin sanha, BWIN | [] Error processing file
+[2025-09-23 13:14:02] Error loading sheets from database 
+[2025-09-23 13:14:02] 
+[2025-09-23 13:14:02]  No column of '['Txn Amount']' found in table Withdrawals with columns ['Date &amp; time', 'Account / credit card', 'Type', 'Client type / platform', 'Merchant / method', 'Amount', 'Status', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'is_withdrawal', 'ExchangeRate'].   
+[2025-09-23 13:14:02] 
+[2025-09-23 13:14:02]  Traceback (most recent call last):
+[2025-09-23 13:14:02]   File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 213, in calculate_client
+[2025-09-23 13:14:02]     reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:14:02]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:02]   File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 248, in do_calculation
+[2025-09-23 13:14:02]     sheet_object.normalize_amounts()
+[2025-09-23 13:14:02]   File &quot;/usr/src/app/casino/models.py&quot;, line 2120, in normalize_amounts
+[2025-09-23 13:14:02]     check_normalizing_config(normalize_original_amount, df.columns.tolist())
+[2025-09-23 13:14:02]   File &quot;/usr/src/app/casino/models.py&quot;, line 2111, in check_normalizing_config
+[2025-09-23 13:14:02]     assert any([col in df_columns for col in
+[2025-09-23 13:14:02]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:02] AssertionError: No column of '['Txn Amount']' found in table Withdrawals with columns ['Date &amp; time', 'Account / credit card', 'Type', 'Client type / platform', 'Merchant / method', 'Amount', 'Status', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'is_withdrawal', 'ExchangeRate'].
+[2025-09-23 13:14:02] [] Calculation failed for: 12113 due to calculation error
+[2025-09-23 13:14:02] [] Error processing file
+[2025-09-23 13:14:02]     Error loading sheets from database 
+[2025-09-23 13:14:02]     
+[2025-09-23 13:14:02]      No column of '['Txn Amount']' found in table Withdrawals with columns ['Date &amp; time', 'Account / credit card', 'Type', 'Client type / platform', 'Merchant / method', 'Amount', 'Status', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'is_withdrawal', 'ExchangeRate'].   
+[2025-09-23 13:14:02]     
+[2025-09-23 13:14:02]      Traceback (most recent call last):
+[2025-09-23 13:14:02]       File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 213, in calculate_client
+[2025-09-23 13:14:02]         reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:14:02]                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:02]       File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 248, in do_calculation
+[2025-09-23 13:14:02]         sheet_object.normalize_amounts()
+[2025-09-23 13:14:02]       File &quot;/usr/src/app/casino/models.py&quot;, line 2120, in normalize_amounts
+[2025-09-23 13:14:02]         check_normalizing_config(normalize_original_amount, df.columns.tolist())
+[2025-09-23 13:14:02]       File &quot;/usr/src/app/casino/models.py&quot;, line 2111, in check_normalizing_config
+[2025-09-23 13:14:02]         assert any([col in df_columns for col in
+[2025-09-23 13:14:02]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:02]     AssertionError: No column of '['Txn Amount']' found in table Withdrawals with columns ['Date &amp; time', 'Account / credit card', 'Type', 'Client type / platform', 'Merchant / method', 'Amount', 'Status', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'is_withdrawal', 'ExchangeRate'].
+[2025-09-23 13:14:02] [] Calculation failed for: 12113 due to calculation error
+[2025-09-23 13:14:02] 
+[2025-09-23 13:14:02] [] - 16251 | Rachèl Jongedijk, Betsson | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:02] 
+[2025-09-23 13:14:02] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:02] [] Checked (28.02.2025)
+[2025-09-23 13:14:02]     
+[2025-09-23 13:14:02]     Amount is below 1000 EUR
+[2025-09-23 13:14:02] 
+[2025-09-23 13:14:02] [] - 16318 | Rachèl Jongedijk, N1 Casino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:02] 
+[2025-09-23 13:14:02] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:02] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:02]     
+[2025-09-23 13:14:03]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:03] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:03]     
+[2025-09-23 13:14:03]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:03] [] Checked (28.02.2025)
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] [] - 17822 | Tessa Zuiderveld, Spinia | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:03] [] Checked (28.02.2025)
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] [] - 20256 | Tom Veenstra, Krooncasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:03] [] Checked (28.02.2025)
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] [] - 22839 | Femke Janssens, Cookie Casino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:03] [] Checked (28.02.2025)
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] [] - 25746 | Schoonheijm Ophra, Winny | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:03] [] Checked (28.02.2025)
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] [] - 25816 | Tiago jorge Dia santos, Duxcasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:03] [] Checked (28.02.2025)
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] [] - 26566 | Johannes Franciscus van Mierlo, Crazy Fox | [] TA_Crazyfox upload
+[2025-09-23 13:14:03] [] No data found in the files
+[2025-09-23 13:14:03]     No data was found in the files by the script.
+[2025-09-23 13:14:03]     Please check the files.
+[2025-09-23 13:14:03] [] Calculation failed for: 26566 due to calculation error
+[2025-09-23 13:14:03] [] New N1 csv layout, need identification
+[2025-09-23 13:14:03] [] No data found in the files
+[2025-09-23 13:14:03]     No data was found in the files by the script.
+[2025-09-23 13:14:03]     Please check the files.
+[2025-09-23 13:14:03] [] Calculation failed for: 26566 due to calculation error
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] [] - 27330 | Thijs Opten, Avalon78 | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:03] [] Checked (28.02.2025)
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] [] - 32048 | Tobias Horsten, LeoVegas | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:03] [] Checked (7.7.2025)
+[2025-09-23 13:14:03] 
+[2025-09-23 13:14:03] [] - 37816 | Ricardo Keur, PokerStars | [] ww opgevraagd
+[2025-09-23 13:14:04] [] WW opnieuw opgevraagd
+[2025-09-23 13:14:04] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:04]     
+[2025-09-23 13:14:04]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] [] - 45549 | Lath Al-Jawrani, N1 interactive Ltd. | [] Detected unconverted files and starting PDF extraction.
+[2025-09-23 13:14:04] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:04]     
+[2025-09-23 13:14:04]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:04] [] Checked (7.7.2025)
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] [] - 51743 | huseyin tercan, N1 interactive Ltd | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] [] - 15575 | Aiko Vegter, Oranjecasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:04] [] Checked (28.02.2025)
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] [] - 2442 | Roel Hermans, Avalon78 | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:04] [] Checked (2.20.2025)
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] [] - 2446 | Roel Hermans, Mr. Green | [] Detected unconverted files and starting PDF extraction.
+[2025-09-23 13:14:04] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:04]     
+[2025-09-23 13:14:04]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:04] [] Checked (7.7.2025)
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] [] - 2447 | Roel Hermans, Oranjecasino | [] Case could not be calculated: errors found
+[2025-09-23 13:14:04] The case still has errors and could not be calculated.
+[2025-09-23 13:14:04] [] Calculation failed for: 2447 due to internal error
+[2025-09-23 13:14:04] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:04]     
+[2025-09-23 13:14:04]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:04] [] Checked (2.20.2025)
+[2025-09-23 13:14:04]     
+[2025-09-23 13:14:04]     Amount is below 1.000 EUR
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] [] - 2450 | Roel Hermans, William Hill | [] Opponent 'ProviderConfig[DB](name=WHG (International) Ltd)' not supported for calculations
+[2025-09-23 13:14:04] Provider not supported. Please calculate manually.
+[2025-09-23 13:14:04] [] Calculation failed for: 2450 due to calculation error
+[2025-09-23 13:14:04] 
+[2025-09-23 13:14:04] [] - 2451 | Roel Hermans, Krooncasino | [] andere lead van betsson met alle TA's doorgezet voor berekening
+[2025-09-23 13:14:04] [] Case could not be calculated: errors found
+[2025-09-23 13:14:04]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:04] [] Calculation failed for: 2451 due to internal error
+[2025-09-23 13:14:04] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:04]     
+[2025-09-23 13:14:04]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:05] [] Checked (2.20.2025)
+[2025-09-23 13:14:05]     
+[2025-09-23 13:14:05]     Amount is below than 1000 EUR
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] [] - 4822 | Wesley Kamphuis, Maneki | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] Stage was changed in the meantime. Current stage: 35. Did not move to next stage.
+[2025-09-23 13:14:05] [] Checked (24.02.2025)
+[2025-09-23 13:14:05]     
+[2025-09-23 13:14:05]     Amount is below 1000 EUR
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] [] - 7171 | Mart Spijkerman, LeoVegas | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:05] [] Checked (24.02.2025)
+[2025-09-23 13:14:05] [] The same request has been submitted again.
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] [] - 13167 | Bram van Boesschoten, Spinia | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] Stage was changed in the meantime. Current stage: 35. Did not move to next stage.
+[2025-09-23 13:14:05] [] Checked (27.02.2025)
+[2025-09-23 13:14:05]     
+[2025-09-23 13:14:05]     Amount is below 1000 EUR
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] [] - 13202 | Michael De vries, Duxcasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] Stage was changed in the meantime. Current stage: 35. Did not move to next stage.
+[2025-09-23 13:14:05] [] Checekd (27.02.2025)
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] [] - 13509 | Dennis Tijs, Avalon78 | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:05] [] Checked (27.02.2025)
+[2025-09-23 13:14:05]     
+[2025-09-23 13:14:05]     Amount is below 1000 EUR
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] [] - 15176 | Steven Tavernier, LeoVegas | [] The same request has been submitted again.
+[2025-09-23 13:14:05] [] Provider not found in the config table. Please check the provider name or if a configuration needs to be added.
+[2025-09-23 13:14:05] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:05]     
+[2025-09-23 13:14:05]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:05] [] Checked (28.02.2025)
+[2025-09-23 13:14:05]     
+[2025-09-23 13:14:05]     Amount is below 1000 EUR
+[2025-09-23 13:14:05] 
+[2025-09-23 13:14:05] [] - 20942 | Abdoullah Bousaada, GSlot | [] Can not calculate. Unconverted pdf files are present: TA_Gslot.pdf
+[2025-09-23 13:14:05] [] Calculation failed for: 20942 due to internal error
+[2025-09-23 13:14:05] [] Can not calculate. Unconverted pdf files are present: TA_Gslot.pdf
+[2025-09-23 13:14:05] [] Calculation failed for: 20942 due to calculation error
+[2025-09-23 13:14:05] [] Detected unconverted files and starting PDF extraction.
+[2025-09-23 13:14:05] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:06]     
+[2025-09-23 13:14:06]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:06] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:06]     
+[2025-09-23 13:14:06]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:06] [] Checked (28.02.2025)
+[2025-09-23 13:14:06]     
+[2025-09-23 13:14:06]     Amount is below 1000 EUR
+[2025-09-23 13:14:06] 
+[2025-09-23 13:14:06] [] - 21477 | Naseer Yaqoob, Spinia | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:06] 
+[2025-09-23 13:14:06] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:06] [] Checked (28.02.2025)
+[2025-09-23 13:14:06]     
+[2025-09-23 13:14:06]     Amount is below 1000 EUR
+[2025-09-23 13:14:06] 
+[2025-09-23 13:14:06] [] - 25253 | Dennis Wanders, Betsson | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:06] 
+[2025-09-23 13:14:06] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:06] [] Checked (28.02.2025)
+[2025-09-23 13:14:06] 
+[2025-09-23 13:14:06] [] - 25257 | Dennis Wanders, ComeOn | [] No data found in the files
+[2025-09-23 13:14:06] No data was found in the files by the script.
+[2025-09-23 13:14:06] Please check the files.
+[2025-09-23 13:14:06] [] Calculation failed for: 25257 due to calculation error
+[2025-09-23 13:14:06] 
+[2025-09-23 13:14:06] [] - 30247 | Ernst-Jan Ouwersloot, Royal Panda | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:06] 
+[2025-09-23 13:14:06] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:06] [] Checked (28.02.2025)
+[2025-09-23 13:14:06] 
+[2025-09-23 13:14:06] [] - 48031 | Andreas Voorbraak, N1 interactive Ltd | [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:06] [] Case could not be calculated: errors found
+[2025-09-23 13:14:06]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:06] [] Case could not be calculated: errors found
+[2025-09-23 13:14:06]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:06] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Case could not be calculated: errors found
+[2025-09-23 13:14:07]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:07] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:07] [] Case could not be calculated: errors found
+[2025-09-23 13:14:07]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:08] [] Case could not be calculated: errors found
+[2025-09-23 13:14:08]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:08] [] Case could not be calculated: errors found
+[2025-09-23 13:14:08]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Case could not be calculated: errors found
+[2025-09-23 13:14:08]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Case could not be calculated: errors found
+[2025-09-23 13:14:08]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:08] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:09] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Case could not be calculated: errors found
+[2025-09-23 13:14:10]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Case could not be calculated: errors found
+[2025-09-23 13:14:10]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:10] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:11] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Case could not be calculated: errors found
+[2025-09-23 13:14:12]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Case could not be calculated: errors found
+[2025-09-23 13:14:12]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Case could not be calculated: errors found
+[2025-09-23 13:14:12]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:12] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Case could not be calculated: errors found
+[2025-09-23 13:14:13]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Case could not be calculated: errors found
+[2025-09-23 13:14:13]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:13] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Case could not be calculated: errors found
+[2025-09-23 13:14:14]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Case could not be calculated: errors found
+[2025-09-23 13:14:14]     The case still has errors and could not be calculated.
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:14] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to internal error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:15] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:16] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:17] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:18] [] Calculation failed for: 48031 due to calculation error
+[2025-09-23 13:14:18] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:18]     
+[2025-09-23 13:14:18]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:18] 
+[2025-09-23 13:14:18] [] - 52941 | Kamal Bizjan, N1 interactive Ltd | [] The same request has been submitted again.
+[2025-09-23 13:14:18] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:18]     
+[2025-09-23 13:14:18]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:18] 
+[2025-09-23 13:14:18] [] - 28555 | Marcel Wollrabe, One Casino | [] Opponent 'ProviderConfig[DB](name=One Casino Limited)' not supported for calculations
+[2025-09-23 13:14:18] Provider not supported. Please calculate manually.
+[2025-09-23 13:14:18] [] Calculation failed for: 28555 due to calculation error
+[2025-09-23 13:14:18] [] Opponent 'ProviderConfig[DB](name=One Casino Limited)' not supported for calculations
+[2025-09-23 13:14:18]     Provider not supported. Please calculate manually.
+[2025-09-23 13:14:18] [] Calculation failed for: 28555 due to calculation error
+[2025-09-23 13:14:18] 
+[2025-09-23 13:14:18] [] - 28624 | Vincent Hoekman, BML Group Ltd. | [] Lead has no GamblingProvider. Please add a Opponent.
+[2025-09-23 13:14:18] [] Calculation failed for: 28624 due to calculation error
+[2025-09-23 13:14:18] [] Guts and Rizk should be calculated together - both BML Group
+[2025-09-23 13:14:18] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:18]     
+[2025-09-23 13:14:18]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:18] [] Checked (28.02.2025)
+[2025-09-23 13:14:18] 
+[2025-09-23 13:14:18] [] - 3262 | Tarik Benamar, MasonSlots | [] The same request has been submitted again.
+[2025-09-23 13:14:18] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:18]     
+[2025-09-23 13:14:18]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:18] [] Checked (2.24.2025)
+[2025-09-23 13:14:18]     
+[2025-09-23 13:14:18]     Amount is Below 1000 EUR
+[2025-09-23 13:14:18] 
+[2025-09-23 13:14:18] [] - 6844 | Daniel van der Bent, Spinia | [] Case could not be calculated: errors found
+[2025-09-23 13:14:18] The case still has errors and could not be calculated.
+[2025-09-23 13:14:18] 
+[2025-09-23 13:14:18] [] - 10024 | Alexander Laarman, LeoVegas | [] The same request has been submitted again.
+[2025-09-23 13:14:18] [] Case calculated / Files uploaded (Source: test). 
+[2025-09-23 13:14:18]     
+[2025-09-23 13:14:18]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:18] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:18]     
+[2025-09-23 13:14:18]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:18] [] Checked (10.03.2025)
+[2025-09-23 13:14:18] 
+[2025-09-23 13:14:18] [] - 14926 | Helene van der Meer, Spinia | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:18] 
+[2025-09-23 13:14:18] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:18] [] Checked (28.02.2025)
+[2025-09-23 13:14:18] [] The same request has been submitted again.
+[2025-09-23 13:14:18] 
+[2025-09-23 13:14:18] [] - 16578 | Robin Nawijn, N1 Casino | [] Case could not be calculated: errors found
+[2025-09-23 13:14:19] The case still has errors and could not be calculated.
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] [] - 19891 | Kaj van Wamel, N1 Casino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:19] [] Checked (28.02.2025)
+[2025-09-23 13:14:19]     
+[2025-09-23 13:14:19]     Amount is below 1000 EUR
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] [] - 19893 | Kaj van Wamel, Slothunter | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:19] [] Checked (28.02.2025)
+[2025-09-23 13:14:19]     
+[2025-09-23 13:14:19]     Amount is below 1000 EUR
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] [] - 20252 | Nick Bottenheft, Krooncasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:19] [] Checked (17.03.2025)
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] [] - 20670 | Michael Smit, Cookie Casino | [] Case could not be calculated: errors found
+[2025-09-23 13:14:19] The case still has errors and could not be calculated.
+[2025-09-23 13:14:19] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:19]     
+[2025-09-23 13:14:19]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:19] [] Checked (28.02.2025)
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] [] - 24979 | Senno Michel, Betsafe | [] No data found in the files
+[2025-09-23 13:14:19] No data was found in the files by the script.
+[2025-09-23 13:14:19] Please check the files.
+[2025-09-23 13:14:19] [] Document in Dutch
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] [] - 29741 | timo neijts, Cookie Casino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:19] [] Checked (28.02.2025)
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] [] - 29998 | Nasrudin Abdulkadir ahmed, N1 interactive Ltd. | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:19] [] Checked (7.7.2025)
+[2025-09-23 13:14:19]     
+[2025-09-23 13:14:19]     Amount is below 1000 EUR
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:19] [] - 25929 | Fabian Wink, Casino Kakadu | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:19] 
+[2025-09-23 13:14:20] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:20] [] Checked (28.02.2025)
+[2025-09-23 13:14:20]     
+[2025-09-23 13:14:20]     Amount is below 1000 EUR
+[2025-09-23 13:14:20] 
+[2025-09-23 13:14:20] [] - 25930 | Fabian Wink, Duxcasino | [] Can not calculate. Unconverted pdf files are present: TA_DuxCasino.pdf
+[2025-09-23 13:14:20] [] Calculation failed for: 25930 due to calculation error
+[2025-09-23 13:14:20] [] Detected unconverted files and starting PDF extraction.
+[2025-09-23 13:14:20] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:20]     
+[2025-09-23 13:14:20]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:20] [] Checked (28.02.2025)
+[2025-09-23 13:14:20]     
+[2025-09-23 13:14:20]     Amount is below 1000 EUR
+[2025-09-23 13:14:20] 
+[2025-09-23 13:14:20] [] - 25931 | Fabian Wink, Oranjecasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:20] 
+[2025-09-23 13:14:20] Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:20] [] Checked (28.02.2025)
+[2025-09-23 13:14:20] 
+[2025-09-23 13:14:20] [] - 22709 | Steven Tavernier, ComeOn Casino | [] No data found in the files
+[2025-09-23 13:14:20] No data was found in the files by the script.
+[2025-09-23 13:14:20] Please check the files.
+[2025-09-23 13:14:20] 
+[2025-09-23 13:14:20] [] - 40136 | Job van Maastricht, Pokerstars | [] Error processing file
+[2025-09-23 13:14:20] Error loading sheets from database 
+[2025-09-23 13:14:20] 
+[2025-09-23 13:14:20]  Error reading the Excel file: TA_Pokerstars.xlsx. Maybe due to the encrypted document.  
+[2025-09-23 13:14:20] 
+[2025-09-23 13:14:20]  Traceback (most recent call last):
+[2025-09-23 13:14:20]   File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 317, in load_file
+[2025-09-23 13:14:20]     self.file_object = pd.ExcelFile(self.file_path)
+[2025-09-23 13:14:20]                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:20]   File &quot;/usr/local/lib/python3.12/site-packages/pandas/io/excel/_base.py&quot;, line 1567, in __init__
+[2025-09-23 13:14:20]     self._reader = self._engines[engine](
+[2025-09-23 13:14:20]                    ^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:20]   File &quot;/usr/local/lib/python3.12/site-packages/pandas/io/excel/_xlrd.py&quot;, line 46, in __init__
+[2025-09-23 13:14:20]     super().__init__(
+[2025-09-23 13:14:20]   File &quot;/usr/local/lib/python3.12/site-packages/pandas/io/excel/_base.py&quot;, line 573, in __init__
+[2025-09-23 13:14:20]     self.book = self.load_workbook(self.handles.handle, engine_kwargs)
+[2025-09-23 13:14:20]                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:20]   File &quot;/usr/local/lib/python3.12/site-packages/pandas/io/excel/_xlrd.py&quot;, line 63, in load_workbook
+[2025-09-23 13:14:20]     return open_workbook(file_contents=data, **engine_kwargs)
+[2025-09-23 13:14:20]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:20]   File &quot;/usr/local/lib/python3.12/site-packages/xlrd/__init__.py&quot;, line 172, in open_workbook
+[2025-09-23 13:14:21]     bk = open_workbook_xls(
+[2025-09-23 13:14:21]          ^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:21]   File &quot;/usr/local/lib/python3.12/site-packages/xlrd/book.py&quot;, line 68, in open_workbook_xls
+[2025-09-23 13:14:21]     bk.biff2_8_load(
+[2025-09-23 13:14:21]   File &quot;/usr/local/lib/python3.12/site-packages/xlrd/book.py&quot;, line 645, in biff2_8_load
+[2025-09-23 13:14:21]     raise XLRDError(&quot;Can't find workbook in OLE2 compound document&quot;)
+[2025-09-23 13:14:21] xlrd.biffh.XLRDError: Can't find workbook in OLE2 compound document
+[2025-09-23 13:14:21] 
+[2025-09-23 13:14:21] The above exception was the direct cause of the following exception:
+[2025-09-23 13:14:21] 
+[2025-09-23 13:14:21] Traceback (most recent call last):
+[2025-09-23 13:14:21]   File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 213, in calculate_client
+[2025-09-23 13:14:21]     reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:14:21]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:21]   File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 126, in do_calculation
+[2025-09-23 13:14:21]     file_object = self.load_file()
+[2025-09-23 13:14:21]                   ^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:21]   File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 320, in load_file
+[2025-09-23 13:14:21]     raise ValueError(f&quot;Error reading the Excel file: {self.file_name}. Maybe due to the encrypted document.&quot;) from e
+[2025-09-23 13:14:21] ValueError: Error reading the Excel file: TA_Pokerstars.xlsx. Maybe due to the encrypted document.
+[2025-09-23 13:14:21] [] Calculation failed for: 40136 due to calculation error
+[2025-09-23 13:14:21] [] Error processing file
+[2025-09-23 13:14:21]     Error loading sheets from database 
+[2025-09-23 13:14:21]     
+[2025-09-23 13:14:21]      Error reading the Excel file: TA_Pokerstars.xlsx. Maybe due to the encrypted document.  
+[2025-09-23 13:14:21]     
+[2025-09-23 13:14:21]      Traceback (most recent call last):
+[2025-09-23 13:14:21]       File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 317, in load_file
+[2025-09-23 13:14:21]         self.file_object = pd.ExcelFile(self.file_path)
+[2025-09-23 13:14:21]                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:21]       File &quot;/usr/local/lib/python3.12/site-packages/pandas/io/excel/_base.py&quot;, line 1567, in __init__
+[2025-09-23 13:14:21]         self._reader = self._engines[engine](
+[2025-09-23 13:14:21]                        ^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:21]       File &quot;/usr/local/lib/python3.12/site-packages/pandas/io/excel/_xlrd.py&quot;, line 46, in __init__
+[2025-09-23 13:14:21]         super().__init__(
+[2025-09-23 13:14:21]       File &quot;/usr/local/lib/python3.12/site-packages/pandas/io/excel/_base.py&quot;, line 573, in __init__
+[2025-09-23 13:14:21]         self.book = self.load_workbook(self.handles.handle, engine_kwargs)
+[2025-09-23 13:14:21]                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:21]       File &quot;/usr/local/lib/python3.12/site-packages/pandas/io/excel/_xlrd.py&quot;, line 63, in load_workbook
+[2025-09-23 13:14:21]         return open_workbook(file_contents=data, **engine_kwargs)
+[2025-09-23 13:14:21]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:21]       File &quot;/usr/local/lib/python3.12/site-packages/xlrd/__init__.py&quot;, line 172, in open_workbook
+[2025-09-23 13:14:21]         bk = open_workbook_xls(
+[2025-09-23 13:14:21]              ^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:21]       File &quot;/usr/local/lib/python3.12/site-packages/xlrd/book.py&quot;, line 68, in open_workbook_xls
+[2025-09-23 13:14:21]         bk.biff2_8_load(
+[2025-09-23 13:14:21]       File &quot;/usr/local/lib/python3.12/site-packages/xlrd/book.py&quot;, line 645, in biff2_8_load
+[2025-09-23 13:14:22]         raise XLRDError(&quot;Can't find workbook in OLE2 compound document&quot;)
+[2025-09-23 13:14:22]     xlrd.biffh.XLRDError: Can't find workbook in OLE2 compound document
+[2025-09-23 13:14:22]     
+[2025-09-23 13:14:22]     The above exception was the direct cause of the following exception:
+[2025-09-23 13:14:22]     
+[2025-09-23 13:14:22]     Traceback (most recent call last):
+[2025-09-23 13:14:22]       File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 213, in calculate_client
+[2025-09-23 13:14:22]         reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 13:14:22]                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:22]       File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 126, in do_calculation
+[2025-09-23 13:14:22]         file_object = self.load_file()
+[2025-09-23 13:14:22]                       ^^^^^^^^^^^^^^^^
+[2025-09-23 13:14:22]       File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 320, in load_file
+[2025-09-23 13:14:22]         raise ValueError(f&quot;Error reading the Excel file: {self.file_name}. Maybe due to the encrypted document.&quot;) from e
+[2025-09-23 13:14:22]     ValueError: Error reading the Excel file: TA_Pokerstars.xlsx. Maybe due to the encrypted document.
+[2025-09-23 13:14:22] [] Calculation failed for: 40136 due to calculation error
+[2025-09-23 13:14:22] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:22]     
+[2025-09-23 13:14:22]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:22] 
+[2025-09-23 13:14:22] [] - 45122 | Josh Daniel Dijkhuizen, PokerStars | [] ww opgevraagd
+[2025-09-23 13:14:22] [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 13:14:22]     
+[2025-09-23 13:14:22]     Lead was moved to next stage in NL pipeline
+[2025-09-23 13:14:22] 
+[2025-09-23 13:14:22] [] - 47331 | Tom Dam, William Hill | [] Can not calculate. Unconverted pdf files are present: TA_WilliamHill.pdf
+[2025-09-23 13:14:22] [] Calculation failed for: 47331 due to calculation error
+[2025-09-23 13:14:22] 
+[2025-09-23 13:14:22] [] - 47336 | Abderrahim Amazyan, Bwin.com | [] No data found in the files
+[2025-09-23 13:14:22] No data was found in the files by the script.
+[2025-09-23 13:14:22] Please check the files.
+[2025-09-23 13:14:22] [] Calculation failed for: 47336 due to calculation error
+[2025-09-23 13:14:22] 

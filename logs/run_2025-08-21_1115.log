@@ -1,0 +1,16 @@
+[2025-08-21 11:15:51] ➕ Added 1 file(s).
+[2025-08-21 11:15:52] 📄 Processing TA_Pokerstars.xlsx in checking Mode...
+[2025-08-21 11:15:52] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-08-21 11:15:52] Detected single combined transaction sheet. Attempting auto-detection (with header scan)...
+[2025-08-21 11:15:52] ⚠️ No distinct header row found within the first 500 rows.
+[2025-08-21 11:15:52] ⚠️ Header detection failed. Falling back to 2-column (date, signed amount) mode.
+[2025-08-21 11:15:52] ⚠️ Row 2: Unparsable date → 'None'
+[2025-08-21 11:15:52] ⚠️ Row 3: Unparsable date → 'All dates are in ET time zone'
+[2025-08-21 11:15:52] ⚠️ Row 4: Unparsable date → 'From: 06/Nov/2014 00:00:00'
+[2025-08-21 11:15:52] ⚠️ Row 5: Unparsable date → 'To: 17/Apr/2025 23:59:59'
+[2025-08-21 11:15:52] ⚠️ Row 6: Unparsable date → 'None'
+[2025-08-21 11:15:52] ⚠️ Row 7: Unparsable date → 'None'
+[2025-08-21 11:15:52] ⚠️ Row 8: Unparsable date → 'User ID'
+[2025-08-21 11:15:52] ⚠️ Row 9: Unparsable date → 'richardjjon'
+[2025-08-21 11:15:52] ⚠️ No parsed transaction rows found. Skipping styled Summary to avoid empty output.
+[2025-08-21 11:15:52] ❌ Error in C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/23193 - Richard Jonker, PokerStars/TA_Pokerstars.xlsx: name 'create_blank_payment_summary_sheet' is not defined

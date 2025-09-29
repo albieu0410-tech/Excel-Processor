@@ -1,0 +1,12 @@
+[2025-09-02 11:57:15] ➕ Added 1 file(s).
+[2025-09-02 11:57:15] 📄 Processing Extract_Unibet_Niels Feijen.xlsx in calculation Mode...
+[2025-09-02 11:57:19] ✔ Deposit sheets: ['0TA_Financial History Niels Fei']
+[2025-09-02 11:57:19] ✔ Cashout sheets: ['0TA_Financial History Niels Fei']
+[2025-09-02 11:57:19] ℹ️ Same sheet in both lists → will parse once as combined: ['0TA_Financial History Niels Fei']
+[2025-09-02 11:57:20] ⚠️ No distinct header row found (scanned 757 rows).
+[2025-09-02 11:57:20] TA logic: Deposits = 69728.36, Cashouts = 0, Net = 69728.36
+[2025-09-02 11:57:20] ✅ Created Payment Summary with 756 rows.
+[2025-09-02 11:57:20] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-02 11:57:20] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-02 11:57:20] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-02 11:57:20] ✅ Finished processing: Extract_Unibet_Niels Feijen.xlsx

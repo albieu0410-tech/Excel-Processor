@@ -1,0 +1,17 @@
+[2025-09-24 11:37:30] 🧪 Converting TA PDF → Excel: TA_9871-Deposits Period 25-APR-2010 till 25-APR-2015 - martijn1231.pdf (Deal 9871)
+[2025-09-24 11:37:30] 🧩 Converting PDF → Excel (default headers): TA_9871-Deposits Period 25-APR-2010 till 25-APR-2015 - martijn1231.pdf
+[2025-09-24 11:37:32] ✅ Created Excel: TA_TA_9871-Deposits Period 25-APR-2010 till 25-APR-2015 - martijn1231.xlsx with 46 rows, 7 cols
+[2025-09-24 11:37:32] ✅ Converted: TA_9871-Deposits Period 25-APR-2010 till 25-APR-2015 - martijn1231.pdf → TA_TA_9871-Deposits Period 25-APR-2010 till 25-APR-2015 - martijn1231.xlsx
+[2025-09-24 11:37:32] 🧪 Converting TA PDF → Excel: TA_9871-Deposits Period 25-APR-2015 till 25-APR-2020 - martijn1231.pdf (Deal 9871)
+[2025-09-24 11:37:32] 🧩 Converting PDF → Excel (default headers): TA_9871-Deposits Period 25-APR-2015 till 25-APR-2020 - martijn1231.pdf
+[2025-09-24 11:37:33] ✅ Created Excel: TA_TA_9871-Deposits Period 25-APR-2015 till 25-APR-2020 - martijn1231.xlsx with 24 rows, 7 cols
+[2025-09-24 11:37:33] ✅ Converted: TA_9871-Deposits Period 25-APR-2015 till 25-APR-2020 - martijn1231.pdf → TA_TA_9871-Deposits Period 25-APR-2015 till 25-APR-2020 - martijn1231.xlsx
+[2025-09-24 11:37:33] 🧪 Converting TA PDF → Excel: TA_9871-Deposits Period 25-APR-2020 till 16-OCT-2024 - martijn1231.pdf (Deal 9871)
+[2025-09-24 11:37:33] 🧩 Converting PDF → Excel (default headers): TA_9871-Deposits Period 25-APR-2020 till 16-OCT-2024 - martijn1231.pdf
+[2025-09-24 11:37:34] ✅ Created Excel: TA_TA_9871-Deposits Period 25-APR-2020 till 16-OCT-2024 - martijn1231.xlsx with 24 rows, 6 cols
+[2025-09-24 11:37:34] ✅ Converted: TA_9871-Deposits Period 25-APR-2020 till 16-OCT-2024 - martijn1231.pdf → TA_TA_9871-Deposits Period 25-APR-2020 till 16-OCT-2024 - martijn1231.xlsx
+[2025-09-24 11:37:45] 📥 Queued 3 converted file(s) for calculation.
+[2025-09-24 11:37:52] ❌ Failed to queue CreditStatus.xls: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+[2025-09-24 11:37:52] ❌ Failed to queue TA_POKERSTARS.xls: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+[2025-09-24 11:37:52] ❌ Failed to queue TA_RealMoneyAudit - hassanfluit.xls: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+[2025-09-24 11:37:54] ✅ Queued 8 Excel file(s) for calculation.

@@ -1,0 +1,25 @@
+[2025-09-03 09:01:33] ➕ Added 1 file(s).
+[2025-09-03 09:01:34] 📄 Processing TA_TA_pokerstars audit.xlsx in calculation Mode...
+[2025-09-03 09:01:36] ✔ Deposit sheets: ['All']
+[2025-09-03 09:01:36] ✔ Cashout sheets: ['All']
+[2025-09-03 09:01:36] ℹ️ Same sheet in both lists → will parse once as combined: ['All']
+[2025-09-03 09:01:37] ✅ Detected header row at Excel row 1: ['TransId', 'ParentId', 'Transaction Type', 'Started', 'Created', 'Currency', 'Amount', 'Status', 'Gateway', 'Country', 'Logged-In Reference']
+[2025-09-03 09:01:37] 🧭 Columns: amount=6, currency=5, type=None, ref_date=3, conf_date=None, status=7
+[2025-09-03 09:01:37] TA logic: Deposits = 6120.25, Cashouts = 0, Net = 6120.25
+[2025-09-03 09:01:37] ✅ Created Payment Summary with 75 rows.
+[2025-09-03 09:01:37] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-03 09:01:37] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-03 09:01:37] 🌍 FX USD/EUR 2016-02-04…2016-02-04 via CSV: 1 pts, avg=1.120600
+[2025-09-03 09:01:37] 🌍 FX USD→EUR 2016-02-04…2016-02-04: 1/( USD/EUR ) (mode CSV, 1 pts) => avg=0.892379
+[2025-09-03 09:01:37] 🌍 FX USD→EUR 2016 (2016-02-04…2016-02-04) avg = 0.892379
+[2025-09-03 09:01:37] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-03 09:01:37] 🌍 FX USD/EUR 2017-05-26…2017-08-29 via CSV: 68 pts, avg=1.149079
+[2025-09-03 09:01:37] 🌍 FX USD→EUR 2017-05-26…2017-08-29: 1/( USD/EUR ) (mode CSV, 68 pts) => avg=0.870262
+[2025-09-03 09:01:37] 🌍 FX USD→EUR 2017 (2017-05-26…2017-08-29) avg = 0.870262
+[2025-09-03 09:01:37] 🔁 ECB JSON 406 application/problem+json — {"type":"about:blank","title":"Not Acceptable","status":406,"detail":"Acceptable representations: [application/xml, text
+[2025-09-03 09:01:38] 🌍 FX USD/EUR 2019-02-07…2019-12-03 via CSV: 211 pts, avg=1.117342
+[2025-09-03 09:01:38] 🌍 FX USD→EUR 2019-02-07…2019-12-03: 1/( USD/EUR ) (mode CSV, 211 pts) => avg=0.894981
+[2025-09-03 09:01:38] 🌍 FX USD→EUR 2019 (2019-02-07…2019-12-03) avg = 0.894981
+[2025-09-03 09:01:38] ✅ Created 'Payment Summary EUR' (75 USD rows converted).
+[2025-09-03 09:01:38] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-03 09:01:38] ✅ Finished processing: TA_TA_pokerstars audit.xlsx

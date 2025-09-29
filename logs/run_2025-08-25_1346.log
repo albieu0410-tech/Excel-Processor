@@ -1,0 +1,13 @@
+[2025-08-25 13:46:08] ✅ Selected deal: 40144
+[2025-08-25 13:46:19] 📎 Added file from Deal 40144: TA_Unibet.xlsx
+[2025-08-25 13:46:23] 📄 Processing TA_Unibet.xlsx in calculation Mode...
+[2025-08-25 13:46:33] ✔ Deposit sheets: ['Financial history']
+[2025-08-25 13:46:33] ✔ Cashout sheets: ['Financial history']
+[2025-08-25 13:46:33] ℹ️ Same sheet in both lists → will parse once as combined: ['Financial history']
+[2025-08-25 13:46:34] ⚠️ No distinct header row found (scanned 467 rows).
+[2025-08-25 13:46:34] TA logic: Deposits = 44197.38, Cashouts = 0, Net = 44197.38
+[2025-08-25 13:46:34] ✅ Created Payment Summary with 451 rows.
+[2025-08-25 13:46:34] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-25 13:46:34] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-08-25 13:46:34] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-08-25 13:46:34] ✅ Finished processing: TA_Unibet.xlsx

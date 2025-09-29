@@ -1,0 +1,20 @@
+[2025-08-21 11:03:01] ➕ Added 1 file(s).
+[2025-08-21 11:03:03] 📄 Processing TA_Pokerstars.xlsx in checking Mode...
+[2025-08-21 11:03:03] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-08-21 11:03:03] Detected single combined transaction sheet. Attempting auto-detection (with header scan)...
+[2025-08-21 11:03:03] ⚠️ No distinct header row found within the first 50 rows.
+[2025-08-21 11:03:03] ⚠️ Header detection failed. Falling back to 2-column (date, signed amount) mode.
+[2025-08-21 11:03:03] ⚠️ Row 2: Unparsable date → 'None'
+[2025-08-21 11:03:03] ⚠️ Row 3: Unparsable date → 'All dates are in ET time zone'
+[2025-08-21 11:03:03] ⚠️ Row 4: Unparsable date → 'From: 06/Nov/2014 00:00:00'
+[2025-08-21 11:03:03] ⚠️ Row 5: Unparsable date → 'To: 17/Apr/2025 23:59:59'
+[2025-08-21 11:03:03] ⚠️ Row 6: Unparsable date → 'None'
+[2025-08-21 11:03:03] ⚠️ Row 7: Unparsable date → 'None'
+[2025-08-21 11:03:03] ⚠️ Row 8: Unparsable date → 'User ID'
+[2025-08-21 11:03:03] ⚠️ Row 9: Unparsable date → 'richardjjon'
+[2025-08-21 11:03:03] TA logic: Deposits = 0, Cashouts/Withdrawals = 0, Net = 0
+[2025-08-21 11:03:03] ✅ Created Payment Summary with 0 rows.
+[2025-08-21 11:03:03] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-08-21 11:03:03] 🧾 Final claim value: 0
+[2025-08-21 11:03:03] ✅ Finished processing: TA_Pokerstars.xlsx
+[2025-08-21 11:03:32] 💾 Saved: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents/23193 - Richard Jonker, PokerStars\Checked_TA_Pokerstars.xlsx

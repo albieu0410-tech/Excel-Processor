@@ -1,0 +1,45 @@
+{
+  "generated_at": "2025-09-26T11:42:47",
+  "pipeline_id": "5",
+  "stage_id": "37",
+  "stage_title": "Gamechanger Check (Manual)",
+  "sharepoint_root": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents",
+  "cases": [
+    {
+      "deal_id": "45079",
+      "title": "Deal 45079",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45079 - Tom Hereijgers, Pokerstars",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45079 - Tom Hereijgers, Pokerstars\\Fragebogen_1.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45079 - Tom Hereijgers, Pokerstars\\Ici_Poa_1.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45079 - Tom Hereijgers, Pokerstars\\Lichtbildausweis_1.pdf"
+      ]
+    },
+    {
+      "deal_id": "45119",
+      "title": "Deal 45119",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45119 - Mohammed El Kaddouri, PokerStars",
+      "excel_files": [],
+      "pdf_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45119 - Mohammed El Kaddouri, PokerStars\\Fragebogen_1.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45119 - Mohammed El Kaddouri, PokerStars\\Ici_Poa_1.pdf",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\45119 - Mohammed El Kaddouri, PokerStars\\Lichtbildausweis_1.pdf"
+      ]
+    },
+    {
+      "deal_id": "9871",
+      "title": "Deal 9871",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\9871 - De Boer Martijn, Party Poker",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\9871 - De Boer Martijn, Party Poker\\TA_TA_9871-Deposits Period 25-APR-2010 till 25-APR-2015 - martijn1231.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\9871 - De Boer Martijn, Party Poker\\TA_TA_9871-Deposits Period 25-APR-2015 till 25-APR-2020 - martijn1231.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\9871 - De Boer Martijn, Party Poker\\TA_TA_9871-Deposits Period 25-APR-2020 till 16-OCT-2024 - martijn1231.xlsx"
+      ],
+      "pdf_files": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[2025-09-24 09:23:00] 🚫 IT: 'Checked' note for 29741 — dropping.
+[2025-09-24 09:23:00]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 09:23:00]     ↳ preview: Checked (28.02.2025)
+[2025-09-24 09:23:00] 🚫 IT: 'Checked' note for 29998 — dropping.
+[2025-09-24 09:23:00]     ↳ first line: Checked (7.7.2025)
+[2025-09-24 09:23:00]     ↳ preview: Checked (7.7.2025)  Amount is below 1000 EUR
+[2025-09-24 09:23:00] 🚫 IT: 'Checked' note for 25929 — dropping.
+[2025-09-24 09:23:00]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 09:23:00]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR
+[2025-09-24 09:23:00] 🚫 IT: 'Checked' note for 25930 — dropping.
+[2025-09-24 09:23:00]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 09:23:00]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR
+[2025-09-24 09:23:00] 🚫 IT: 'Checked' note for 25931 — dropping.
+[2025-09-24 09:23:00]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 09:23:00]     ↳ preview: Checked (28.02.2025)
+[2025-09-24 09:23:16] 🚫 SP: Checked_* file(s) present for 47336 — dropping. Samples: Checked_TA_DSAR - NPR45732472_ Noble Casino.xlsx
+[2025-09-24 09:23:16] 🧹 Filter result — total:139 kept:48 dropped_by_sharepoint:3 dropped_by_notes:88
+[2025-09-24 09:23:16] 📦 15619 | Minas Calisir, One Casino — 1 Excel file(s)
+[2025-09-24 09:23:18] 📦 23140 | Geijtenbeek-Vink Petra, Bobcasino — 6 Excel file(s)
+[2025-09-24 09:23:19] 📦 23142 | Geijtenbeek-Vink Petra, Oranjecasino — 6 Excel file(s)
+[2025-09-24 09:23:20] 📦 24718 | (Hilde) Elke Drok, Oranjecasino — 3 Excel file(s)
+[2025-09-24 09:23:21] 📦 30096 | Robbie van Heertum, King Billy — 1 Excel file(s)
+[2025-09-24 09:23:24] 📦 37644 | Marc Perlo, 888 — 1 Excel file(s)
+[2025-09-24 09:23:28] 📦 45032 | Youri Thorig, Casumo — 1 Excel file(s)
+[2025-09-24 09:23:29] 📦 21676 | Fabian Wink, CasinoEuro — 2 Excel file(s)
+[2025-09-24 09:23:30] 📦 21680 | Fabian Wink, Millionaria — 0 Excel file(s)
+[2025-09-24 09:23:31] 📦 21683 | Fabian Wink, OctoCasino — 1 Excel file(s)
+[2025-09-24 09:23:32] 📦 21686 | Fabian Wink, Rizk — 2 Excel file(s)
+[2025-09-24 09:23:33] 📦 21688 | Fabian Wink, Spinia — 2 Excel file(s)
+[2025-09-24 09:23:33] 📦 10180 | Dennis Tjoonk, 888 — 1 Excel file(s)
+[2025-09-24 09:23:34] 📄 20000 has no Excel; found 1 PDF(s).
+[2025-09-24 09:23:34] 📦 20000 | Michael Hovenga, Bobcasino — 0 Excel file(s)
+[2025-09-24 09:23:35] 📦 27583 | Sachs-Wissingh Petra, N1 interactive Ltd. — 2 Excel file(s)
+[2025-09-24 09:23:37] 📦 27919 | Koopmans Marc, William Hill — 1 Excel file(s)
+[2025-09-24 09:23:37] 📦 11930 | Max van Eijk, William Hill — 1 Excel file(s)
+[2025-09-24 09:23:38] 📦 27515 | jacek kowalczyk, Duxcasino — 1 Excel file(s)
+[2025-09-24 09:23:41] 📦 37865 | Maurice Van daalen, 888 — 1 Excel file(s)
+[2025-09-24 09:23:42] 📦 25362 | Benjamin Oderkerk, Krooncasino — 2 Excel file(s)
+[2025-09-24 09:23:44] 📦 28066 | Jelle Veenvliet, 888 — 1 Excel file(s)
+[2025-09-24 09:23:44] 📦 15690 | Mirwais Sefati, One Casino — 3 Excel file(s)
+[2025-09-24 09:23:46] 📦 29951 | Lukasz Władysław Bogusz Bogusz, One Casino — 1 Excel file(s)
+[2025-09-24 09:23:47] 📦 2528 | Jacobus Petrus (Sjaak) Bijman, 888 — 3 Excel file(s)
+[2025-09-24 09:23:50] 📦 4058 | Rick van Beuningen, 888 — 1 Excel file(s)
+[2025-09-24 09:23:50] 📦 11789 | Gijsbert Dompeling, William Hill — 1 Excel file(s)
+[2025-09-24 09:23:55] 📄 6720 has no Excel; found 2 PDF(s).
+[2025-09-24 09:23:55] 📦 6720 | Christian Hokse, Dreamz — 0 Excel file(s)

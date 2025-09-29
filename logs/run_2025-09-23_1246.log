@@ -1,0 +1,81 @@
+[2025-09-23 12:46:20] 🔗 Fetching ActiveCampaign deals in saved stage (top 5)…
+[2025-09-23 12:46:59] [] - 15619 | Minas Calisir, One Casino | [] Opponent 'ProviderConfig[DB](name=One Casino Limited)' not supported for calculations
+[2025-09-23 12:46:59] Provider not supported. Please calculate manually.
+[2025-09-23 12:46:59] [] Calculation failed for: 15619 due to calculation error
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] [] - 22332 | Jan Nathanael Hoekstra, Betsson | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] Lead was moved to next stage in NL pipeline
+[2025-09-23 12:46:59] [] Checked (28.02.2025)
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] [] - 22334 | Jan Nathanael Hoekstra, Krooncasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] Lead was moved to next stage in NL pipeline
+[2025-09-23 12:46:59] [] Checked (28.02.2025)
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] [] - 23140 | Geijtenbeek-Vink Petra, Bobcasino | [] GameChanger Calculation failed
+[2025-09-23 12:46:59] [] No payments, GameChanger is not proceeding in this case.
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] [] - 23142 | Geijtenbeek-Vink Petra, Oranjecasino | [] GameChanger Calculation failed.
+[2025-09-23 12:46:59] This case will take a long time due to the large amount of bets. The script in the end provided a result but failed when it tried to create an IB file.
+[2025-09-23 12:46:59] ```
+[2025-09-23 12:46:59] Row numbers must be between 1 and 1048576
+[2025-09-23 12:46:59] Traceback (most recent call last):
+[2025-09-23 12:46:59]   File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/gt_process_automatisation/decorators.py&quot;, line 211, in wrapper
+[2025-09-23 12:46:59]     result = func(*args, **kwargs)
+[2025-09-23 12:46:59]              ^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 12:46:59]   File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 353, in calculate_client
+[2025-09-23 12:46:59]     save_report_and_dfs_to_excel(
+[2025-09-23 12:46:59]   File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/utils/utils_save_IB_report_to_excel.py&quot;, line 238, in save_report_and_dfs_to_excel
+[2025-09-23 12:46:59]     cell = ws.cell(row=r_idx, column=c_idx, value=value)
+[2025-09-23 12:46:59]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 12:46:59]   File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/venv/lib/python3.11/site-packages/openpyxl/worksheet/worksheet.py&quot;, line 240, in cell
+[2025-09-23 12:46:59]     cell = self._get_cell(row, column)
+[2025-09-23 12:46:59]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 12:46:59]   File &quot;/Users/guangyuhe/PycharmProjects/landing_calc1/venv/lib/python3.11/site-packages/openpyxl/worksheet/worksheet.py&quot;, line 253, in _get_cell
+[2025-09-23 12:46:59]     raise ValueError(&quot;Row numbers must be between 1 and 1048576&quot;)
+[2025-09-23 12:46:59] ValueError: Row numbers must be between 1 and 1048576
+[2025-09-23 12:46:59] ´´´
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] [] - 23544 | De ruiter Kevin, Bobcasino | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] Lead was moved to next stage in NL pipeline
+[2025-09-23 12:46:59] [] Checked (28.02.2025)
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] [] - 23626 | Petrus Johannes Frederik Dreise, Avalon78 | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] Lead was moved to next stage in NL pipeline
+[2025-09-23 12:46:59] [] Checked (28.02.2025)
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] [] - 23632 | Petrus Johannes Frederik Dreise, GSlot | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] Lead was moved to next stage in NL pipeline
+[2025-09-23 12:46:59] [] Checked (28.02.2025)
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] [] - 23635 | Petrus Johannes Frederik Dreise, LeoVegas | [] Case calculated / Files uploaded (Source: webhook). 
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] Lead was moved to next stage in NL pipeline
+[2025-09-23 12:46:59] [] Checked (28.02.2025)
+[2025-09-23 12:46:59]     
+[2025-09-23 12:46:59]     Amount is below 1000 EUR
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59] [] - 24718 | (Hilde) Elke Drok, Oranjecasino | [] Error processing file
+[2025-09-23 12:46:59] Error loading sheets from database 
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59]  No column of '['Amount']' found in table (Pre) Deposits with columns ['Date', 'AMOUNT / EUROCENTS', 'STATUS', 'SUBSTATUS', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'ExchangeRate'].   
+[2025-09-23 12:46:59] 
+[2025-09-23 12:46:59]  Traceback (most recent call last):
+[2025-09-23 12:46:59]   File &quot;/usr/src/app/gt_process_automatisation/scripts/casino_scripts/CAS23a_calculate_client_activecampaign.py&quot;, line 193, in calculate_client
+[2025-09-23 12:46:59]     reader = get_file_reader(folder, file, zoho_client=db_lead, limitation_period=limitation_period).do_calculation(recalculate=recalculate)
+[2025-09-23 12:46:59]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 12:46:59]   File &quot;/usr/src/app/casino/extraction/excel/excel_extraction.py&quot;, line 248, in do_calculation
+[2025-09-23 12:46:59]     sheet_object.normalize_amounts()
+[2025-09-23 12:46:59]   File &quot;/usr/src/app/casino/models.py&quot;, line 2120, in normalize_amounts
+[2025-09-23 12:46:59]     check_normalizing_config(normalize_original_amount, df.columns.tolist())
+[2025-09-23 12:46:59]   File &quot;/usr/src/app/casino/models.py&quot;, line 2111, in check_normalizing_config
+[2025-09-23 12:46:59]     assert any([col in df_columns for col in
+[2025-09-23 12:46:59]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-09-23 12:46:59] AssertionError: No column of '['Amount']' found in table (Pre) Deposits with columns ['Date', 'AMOUNT / EUROCENTS', 'STATUS', 'SUBSTATUS', 'sheet_name', 'TA_Source', 'DATA_Source', 'row_type', 'is_relevant', 'ExchangeRate'].
+[2025-09-23 12:46:59] [] Calculation failed for: 24718 due to calculation error
+[2025-09-23 12:46:59] [] Error processing file
+[2025-09-23 12:46:59]     Error loading sheets from database 

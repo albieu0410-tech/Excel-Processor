@@ -1,0 +1,14 @@
+[2025-07-10 14:07:50] Cleared all files.
+[2025-07-10 14:07:53] Added 1 file(s).
+[2025-07-10 14:07:53] 📄 Processing TA_Pokerstars_kriekr.xlsx...
+[2025-07-10 14:07:53] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-07-10 14:07:53] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-07-10 14:07:53] ✅ Detected normal tabular structure. No CSV conversion needed.
+[2025-07-10 14:07:53] 📋 Raw headers: ["All 'kriekr' Real Money Audit at [#?PokerBrand#]:", 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None']
+[2025-07-10 14:07:53] 🔍 Normalized headers: ["all'kriekr'realmoneyauditat[#?pokerbrand#]:", 'none', 'none', 'none', 'none', 'none', 'none', 'none', 'none', 'none', 'none']
+[2025-07-10 14:07:53] ❌ Missing required headers in combined sheet: Missing required column: activiteit
+[2025-07-10 14:07:53] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-07-10 14:07:53] ✅ Created Payment Summary with 0 rows.
+[2025-07-10 14:07:53] ⚠️ No valid dates found in Payment Summary.
+[2025-07-10 14:07:53] 🧾 Final claim value (from Payment Summary): 0
+[2025-07-10 14:07:53] ✅ Finished processing: TA_Pokerstars_kriekr.xlsx

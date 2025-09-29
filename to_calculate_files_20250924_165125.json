@@ -1,0 +1,20 @@
+{
+  "generated_at": "2025-09-24T16:51:25",
+  "pipeline_id": "5",
+  "stage_id": "37",
+  "stage_title": "Gamechanger Check (Manual)",
+  "sharepoint_root": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents",
+  "cases": [
+    {
+      "deal_id": "40148",
+      "title": "Deal 40148",
+      "opponent": null,
+      "folder": "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\40148 - Adnan menderes Dag, Bwin.com",
+      "excel_files": [
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\40148 - Adnan menderes Dag, Bwin.com\\TA_Adnan Dag withdrawl.xlsx",
+        "C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\\40148 - Adnan menderes Dag, Bwin.com\\TA_Adnan deposit.xlsx"
+      ],
+      "pdf_files": []
+    }
+  ]
+}

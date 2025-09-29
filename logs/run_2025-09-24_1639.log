@@ -1,0 +1,47 @@
+[2025-09-24 16:39:00] 🔗 AC: fetching deals for pipeline=5, stage=37…
+[2025-09-24 16:39:02] ℹ️ AC: fetched 137 deal(s).
+[2025-09-24 16:39:02] 🧠 IT: fetching ALL leads (single request)…
+[2025-09-24 16:39:41] ℹ️ IT: received 137 lead(s).
+[2025-09-24 16:39:41] 📂 SharePoint root: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents
+[2025-09-24 16:39:41] 🚫 IT: 'Checked' note for 22332 — dropping.
+[2025-09-24 16:39:41]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:41]     ↳ preview: Checked (28.02.2025)
+[2025-09-24 16:39:41] 🚫 IT: 'Checked' note for 22334 — dropping.
+[2025-09-24 16:39:42]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:42]     ↳ preview: Checked (28.02.2025)
+[2025-09-24 16:39:44] 🚫 IT: 'Checked' note for 23544 — dropping.
+[2025-09-24 16:39:44]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:44]     ↳ preview: Checked (28.02.2025)
+[2025-09-24 16:39:44] 🚫 IT: 'Checked' note for 23626 — dropping.
+[2025-09-24 16:39:44]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:44]     ↳ preview: Checked (28.02.2025)
+[2025-09-24 16:39:44] 🚫 IT: 'Checked' note for 23632 — dropping.
+[2025-09-24 16:39:44]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:44]     ↳ preview: Checked (28.02.2025)
+[2025-09-24 16:39:44] 🚫 IT: 'Checked' note for 23635 — dropping.
+[2025-09-24 16:39:44]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:44]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR
+[2025-09-24 16:39:45] 🚫 IT: 'Checked' note for 29441 — dropping.
+[2025-09-24 16:39:45]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:45]     ↳ preview: Checked (28.02.2025)
+[2025-09-24 16:39:54] 🚫 IT: 'Checked' note for 46370 — dropping.
+[2025-09-24 16:39:54]     ↳ first line: Checked (7.7.2025)
+[2025-09-24 16:39:54]     ↳ preview: Checked (7.7.2025)
+[2025-09-24 16:39:59] 🚫 IT: 'Checked' note for 19624 — dropping.
+[2025-09-24 16:39:59]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:59]     ↳ preview: Checked (28.02.2025)
+[2025-09-24 16:39:59] 🚫 IT: 'Checked' note for 19637 — dropping.
+[2025-09-24 16:39:59]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:59]     ↳ preview: Checked (28.02.2025)
+[2025-09-24 16:39:59] 🚫 IT: 'Checked' note for 21670 — dropping.
+[2025-09-24 16:39:59]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:59]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR
+[2025-09-24 16:39:59] 🚫 IT: 'Checked' note for 21672 — dropping.
+[2025-09-24 16:39:59]     ↳ first line: Checked (17.03.2025)
+[2025-09-24 16:39:59]     ↳ preview: Checked (17.03.2025)
+[2025-09-24 16:39:59] 🚫 IT: 'Checked' note for 21673 — dropping.
+[2025-09-24 16:39:59]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:59]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR
+[2025-09-24 16:39:59] 🚫 IT: 'Checked' note for 21675 — dropping.
+[2025-09-24 16:39:59]     ↳ first line: Checked (28.02.2025)
+[2025-09-24 16:39:59]     ↳ preview: Checked (28.02.2025)  Amount is below 1000 EUR

@@ -1,0 +1,115 @@
+[2025-07-17 09:44:23] Added 1 file(s).
+[2025-07-17 09:44:24] 📄 Processing TA_Unibet (4).xlsx...
+[2025-07-17 09:44:24] 🧾 Detected TA file — using deposit/cashout logic.
+[2025-07-17 09:44:24] Detected single combined transaction sheet. Attempting auto-detection...
+[2025-07-17 09:44:24] ✅ Detected normal tabular structure. No CSV conversion needed.
+[2025-07-17 09:44:24] 📋 Raw headers: ['Datum', 'Tijdzone', 'Transactie', 'ID', 'Context', 'ID', 'Activiteit', 'Betalingskenmerk', 'aangevraagd', 'Cash', 'betaling', 'aangevraagd', 'Betalingskosten', 'Hoeveelheid', 'Cash', 'Niet', 'opneembare', 'hoeveelheid', 'cash', 'Bonus', 'aantal', 'Totaal', 'aantal']
+[2025-07-17 09:44:24] 🔍 Normalized headers: ['datum', 'tijdzone', 'transactie', 'id', 'context', 'id', 'activiteit', 'betalingskenmerk', 'aangevraagd', 'cash', 'betaling', 'aangevraagd', 'betalingskosten', 'hoeveelheid', 'cash', 'niet', 'opneembare', 'hoeveelheid', 'cash', 'bonus', 'aantal', 'totaal', 'aantal']
+[2025-07-17 09:44:24] ✅ Indexes — Date: 0, Time: None, Type: 6, Amount: 17, Status: None
+[2025-07-17 09:44:24] 🔢 Row 2: Raw amount = None
+[2025-07-17 09:44:24] ⚠️ Row 2: Unusable amount → None
+[2025-07-17 09:44:24] 🔢 Row 3: Raw amount = None
+[2025-07-17 09:44:24] ⚠️ Row 3: Unusable amount → None
+[2025-07-17 09:44:24] 🔢 Row 4: Raw amount = None
+[2025-07-17 09:44:24] ⚠️ Row 4: Unusable amount → None
+[2025-07-17 09:44:24] 🔢 Row 5: Raw amount = None
+[2025-07-17 09:44:24] ⚠️ Row 5: Unusable amount → None
+[2025-07-17 09:44:24] 🔢 Row 6: Raw amount = None
+[2025-07-17 09:44:24] ⚠️ Row 6: Unusable amount → None
+[2025-07-17 09:44:24] 🔢 Row 7: Raw amount = None
+[2025-07-17 09:44:24] ⚠️ Row 7: Unusable amount → None
+[2025-07-17 09:44:24] 🔢 Row 8: Raw amount = None
+[2025-07-17 09:44:24] ⚠️ Row 8: Unusable amount → None
+[2025-07-17 09:44:24] 🔢 Row 9: Raw amount = None
+[2025-07-17 09:44:24] ⚠️ Row 9: Unusable amount → None
+[2025-07-17 09:44:24] 🔢 Row 10: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 10: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 11: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 11: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 12: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 12: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 13: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 13: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 14: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 14: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 15: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 15: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 16: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 16: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 17: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 17: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 18: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 18: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 19: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 19: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 20: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 20: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 21: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 21: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 22: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 22: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 23: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 23: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 24: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 24: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 25: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 25: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 26: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 26: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 27: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 27: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 28: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 28: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 29: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 29: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 30: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 30: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 31: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 31: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 32: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 32: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 33: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 33: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 34: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 34: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 35: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 35: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 36: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 36: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 37: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 37: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 38: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 38: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 39: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 39: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 40: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 40: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 41: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 41: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 42: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 42: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 43: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 43: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 44: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 44: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 45: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 45: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 46: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 46: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 47: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 47: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 48: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 48: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 49: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 49: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 50: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 50: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 51: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 51: Unusable amount → None
+[2025-07-17 09:44:25] 🔢 Row 52: Raw amount = None
+[2025-07-17 09:44:25] ⚠️ Row 52: Unusable amount → None
+[2025-07-17 09:44:25] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-07-17 09:44:25] ✅ Created Payment Summary with 0 rows.
+[2025-07-17 09:44:25] ⚠️ No valid dates found in Payment Summary.
+[2025-07-17 09:44:25] 🧾 Final claim value (from Payment Summary): 0
+[2025-07-17 09:44:25] ✅ Finished processing: TA_Unibet (4).xlsx

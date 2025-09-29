@@ -1,0 +1,29 @@
+[2025-09-23 14:25:06] 🔎 SP: Deal 21683 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\21683 - Fabian Wink, OctoCasino
+[2025-09-23 14:25:06] ✅ SP: No Checked_* files for deal 21683.
+[2025-09-23 14:25:29] 🔗 AC: fetching deals in pipeline=5 stage=37…
+[2025-09-23 14:25:30] ℹ️ AC: fetched 139 deal(s).
+[2025-09-23 14:25:30] 🧠 IT: fetching ALL leads (single request)…
+[2025-09-23 14:25:52] ℹ️ IT: received 139 lead(s).
+[2025-09-23 14:25:52] 📂 SharePoint root: C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents
+[2025-09-23 14:25:52] 🔎 SP: Deal 15619 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\15619 - Minas Calisir, One Casino
+[2025-09-23 14:25:52] ✅ SP: No Checked_* files for deal 15619.
+[2025-09-23 14:25:54] 🔎 SP: Deal 22332 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\22332 - Jan Nathanael Hoekstra, Betsson
+[2025-09-23 14:25:54]    ↳ SP matches:
+[2025-09-23 14:25:54]       - Checked_IB_Betsson_Jan Nathanael Hoekstra.xlsx
+[2025-09-23 14:25:54] 🚫 SP: Found Checked_* file(s) for deal 22332 — filtering out.
+[2025-09-23 14:25:55] 🔎 SP: Deal 22334 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\22334 - Jan Nathanael Hoekstra, Krooncasino
+[2025-09-23 14:25:55]    ↳ SP matches:
+[2025-09-23 14:25:55]       - Checked_IB_Krooncasino_Jan Nathanael Hoekstra.xlsx
+[2025-09-23 14:25:55] 🚫 SP: Found Checked_* file(s) for deal 22334 — filtering out.
+[2025-09-23 14:25:56] 🔎 SP: Deal 23140 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\23140 - Geijtenbeek-Vink Petra, Bobcasino
+[2025-09-23 14:25:56] ✅ SP: No Checked_* files for deal 23140.
+[2025-09-23 14:25:57] 🔎 SP: Deal 23142 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\23142 - Geijtenbeek-Vink Petra, Oranjecasino
+[2025-09-23 14:25:57] ✅ SP: No Checked_* files for deal 23142.
+[2025-09-23 14:25:58] 🔎 SP: Deal 23544 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\23544 - De ruiter Kevin, Bobcasino
+[2025-09-23 14:25:58]    ↳ SP matches:
+[2025-09-23 14:25:58]       - Checked_IB_Bobcasino_De ruiter Kevin.xlsx
+[2025-09-23 14:25:58] 🚫 SP: Found Checked_* file(s) for deal 23544 — filtering out.
+[2025-09-23 14:25:59] 🔎 SP: Deal 23626 → C:/Sharepoint/Golden-Tech GmbH/LeadDocuments - Casino Germany - Documents\23626 - Petrus Johannes Frederik Dreise, Avalon78
+[2025-09-23 14:25:59]    ↳ SP matches:
+[2025-09-23 14:25:59]       - Checked_IB_Avalon78_Petrus Johannes Frederik Dreise.xlsx
+[2025-09-23 14:25:59] 🚫 SP: Found Checked_* file(s) for deal 23626 — filtering out.

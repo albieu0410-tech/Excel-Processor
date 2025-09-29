@@ -1,0 +1,9 @@
+[2025-09-23 16:47:06] ✔ Deposit sheets: ['Total deposits']
+[2025-09-23 16:47:06] ✔ Cashout sheets: ['Total withdrawals']
+[2025-09-23 16:47:30] TA logic: Deposits = 0, Cashouts = 0, Net = 0
+[2025-09-23 16:47:30] ✅ Created Payment Summary with 0 rows.
+[2025-09-23 16:47:30] ✅ Created styled Summary (Currency → Type → Year) with title row.
+[2025-09-23 16:47:30] ✅ Created 'Payment Summary EUR' (0 USD rows converted).
+[2025-09-23 16:47:30] ✅ Created 'Summary EUR' (pivot-style Currency → Type → Year).
+[2025-09-23 16:47:30] ✅ Finished processing: TA_Onecasino.xlsx
+[2025-09-23 16:47:42] 📄 Processing TA_Bobcasino_1.1.xlsx in calculation Mode...
