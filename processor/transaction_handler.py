@@ -104,6 +104,12 @@ def _currency(s: Any) -> str:
     return c or "USD"
 
 
+def _shorten(s: str, limit: int = 60) -> str:
+    if len(s) <= limit:
+        return s
+    return s[: limit - 1] + "…"
+
+
 # -----------------------------------------------------------------------------
 
 
@@ -119,6 +125,10 @@ class Txn:
     type_raw: str
     status_norm: str
     type_norm: str
+    gateway_raw: str
+    descr_raw: str
+    drcr_raw: str
+    sign_source: str
     accepted: bool
     reason: Optional[str] = None
 
@@ -132,6 +142,35 @@ COL_ALIASES = {
     "status": {"status", "state"},
     "currency": {"currency", "curr"},
     "amount": {"amount", "amt", "value", "sum"},
+    "gateway": {
+        "paysystem",
+        "gateway",
+        "payment system",
+        "payment provider",
+        "payment method",
+        "processor",
+        "provider",
+    },
+    "description": {
+        "description",
+        "details",
+        "reference",
+        "memo",
+        "notes",
+        "narrative",
+        "comment",
+        "info",
+    },
+    "drcr": {
+        "dr/cr",
+        "drcr",
+        "debit/credit",
+        "direction",
+        "txn direction",
+        "transaction direction",
+        "debitcredit",
+        "type description",
+    },
     "date": {
         "date",
         "transaction date",
@@ -162,6 +201,9 @@ def interpret_row(i1_based: int, row: Dict[str, Any]) -> Txn:
     status_raw = _get_first(row, COL_ALIASES["status"]) or ""
     currency = _currency(_get_first(row, COL_ALIASES["currency"]))
     amount = _as_float(_get_first(row, COL_ALIASES["amount"])) or 0.0
+    gateway_raw = _get_first(row, COL_ALIASES["gateway"]) or ""
+    descr_raw = _get_first(row, COL_ALIASES["description"]) or ""
+    drcr_raw = _get_first(row, COL_ALIASES["drcr"]) or ""
 
     dt = (
         _parse_date(
@@ -174,13 +216,18 @@ def interpret_row(i1_based: int, row: Dict[str, Any]) -> Txn:
 
     t_norm = _norm_type(type_raw)
     s_norm = _norm_status(status_raw)
+    gateway_clean = _clean_str(gateway_raw)
+    descr_clean = _clean_str(descr_raw)
+    drcr_clean = _clean_str(drcr_raw)
 
     if t_norm == "cashout":
         sign = -1
         label = "Cashout"
+        sign_source = "type_norm='cashout'"
     elif t_norm == "deposit":
         sign = +1
         label = "Deposit"
+        sign_source = "type_norm='deposit'"
     else:
         return Txn(
             row_index=i1_based,
@@ -193,6 +240,10 @@ def interpret_row(i1_based: int, row: Dict[str, Any]) -> Txn:
             type_raw=_clean_str(type_raw),
             status_norm=s_norm,
             type_norm=t_norm,
+            gateway_raw=gateway_clean,
+            descr_raw=descr_clean,
+            drcr_raw=drcr_clean,
+            sign_source="type_norm='unknown'",
             accepted=False,
             reason=f"unknown type '{_clean_str(type_raw)}'",
         )
@@ -221,6 +272,10 @@ def interpret_row(i1_based: int, row: Dict[str, Any]) -> Txn:
         type_raw=_clean_str(type_raw),
         status_norm=s_norm,
         type_norm=t_norm,
+        gateway_raw=gateway_clean,
+        descr_raw=descr_clean,
+        drcr_raw=drcr_clean,
+        sign_source=sign_source,
         accepted=accepted,
         reason=reason,
     )
@@ -246,10 +301,18 @@ def process_rows(
     for idx, raw in enumerate(rows, start=1):
         t = interpret_row(idx, raw)
         dt_str = t.when.strftime("%Y-%m-%d")
+        context_parts: List[str] = []
+        if t.gateway_raw:
+            context_parts.append(f"gateway='{_shorten(t.gateway_raw)}'")
+        if t.drcr_raw:
+            context_parts.append(f"drcr='{_shorten(t.drcr_raw, 20)}'")
+        if t.descr_raw:
+            context_parts.append(f"descr='{_shorten(t.descr_raw)}'")
+        context_suffix = f" | hints: {', '.join(context_parts)}" if context_parts else ""
         _emit(
             f"{_ts()} 🧾 row {t.row_index}: type_raw='{t.type_raw or '-'}' → "
             f"'{t.type_norm}' | status_raw='{t.status_raw or '-'}' → '{t.status_norm}' | "
-            f"amount={t.amount:.2f} {t.currency}"
+            f"amount={t.amount:.2f} {t.currency} | sign_source={t.sign_source}{context_suffix}"
         )
         if t.accepted:
             if t.label == "Deposit":
@@ -259,17 +322,35 @@ def process_rows(
                 cash_total += t.amount
                 sign = "-1"
 
+            accept_context = []
+            if t.drcr_raw:
+                accept_context.append(f"drcr='{_shorten(t.drcr_raw, 20)}'")
+            if t.gateway_raw:
+                accept_context.append(f"gateway='{_shorten(t.gateway_raw)}'")
+            if t.descr_raw:
+                accept_context.append(f"descr='{_shorten(t.descr_raw)}'")
+            accept_suffix = f"; ctx: {', '.join(accept_context)}" if accept_context else ""
             _emit(
                 f"{_ts()} 🔎 row {t.row_index}: ✅ accept → dt={dt_str} "
                 f"amt={t.amount:.2f} sign={sign} curr={t.currency} "
-                f"label={t.label} (type_norm='{t.type_norm}', status_norm='{t.status_norm}')"
+                f"label={t.label} (type_norm='{t.type_norm}', status_norm='{t.status_norm}', "
+                f"source={t.sign_source}){accept_suffix}"
             )
             txns.append(t)
         else:
             reason = t.reason or "dropped"
+            drop_context = []
+            if t.drcr_raw:
+                drop_context.append(f"drcr='{_shorten(t.drcr_raw, 20)}'")
+            if t.gateway_raw:
+                drop_context.append(f"gateway='{_shorten(t.gateway_raw)}'")
+            if t.descr_raw:
+                drop_context.append(f"descr='{_shorten(t.descr_raw)}'")
+            drop_suffix = f"; ctx: {', '.join(drop_context)}" if drop_context else ""
             _emit(
                 f"{_ts()} 🔎 row {t.row_index}: ⏭️ drop — {reason} "
-                f"(type_norm='{t.type_norm}', status_norm='{t.status_norm}')"
+                f"(type_norm='{t.type_norm}', status_norm='{t.status_norm}', "
+                f"source={t.sign_source}){drop_suffix}"
             )
 
     return txns, dep_total, cash_total
