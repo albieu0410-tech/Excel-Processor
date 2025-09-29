@@ -117,6 +117,8 @@ class Txn:
     label: str  # "Deposit" or "Cashout" (or "Unknown")
     status_raw: str
     type_raw: str
+    status_norm: str
+    type_norm: str
     accepted: bool
     reason: Optional[str] = None
 
@@ -189,6 +191,8 @@ def interpret_row(i1_based: int, row: Dict[str, Any]) -> Txn:
             label="Unknown",
             status_raw=_clean_str(status_raw),
             type_raw=_clean_str(type_raw),
+            status_norm=s_norm,
+            type_norm=t_norm,
             accepted=False,
             reason=f"unknown type '{_clean_str(type_raw)}'",
         )
@@ -215,6 +219,8 @@ def interpret_row(i1_based: int, row: Dict[str, Any]) -> Txn:
         label=label,
         status_raw=_clean_str(status_raw),
         type_raw=_clean_str(type_raw),
+        status_norm=s_norm,
+        type_norm=t_norm,
         accepted=accepted,
         reason=reason,
     )
@@ -240,6 +246,11 @@ def process_rows(
     for idx, raw in enumerate(rows, start=1):
         t = interpret_row(idx, raw)
         dt_str = t.when.strftime("%Y-%m-%d")
+        _emit(
+            f"{_ts()} 🧾 row {t.row_index}: type_raw='{t.type_raw or '-'}' → "
+            f"'{t.type_norm}' | status_raw='{t.status_raw or '-'}' → '{t.status_norm}' | "
+            f"amount={t.amount:.2f} {t.currency}"
+        )
         if t.accepted:
             if t.label == "Deposit":
                 dep_total += t.amount
@@ -251,14 +262,14 @@ def process_rows(
             _emit(
                 f"{_ts()} 🔎 row {t.row_index}: ✅ accept → dt={dt_str} "
                 f"amt={t.amount:.2f} sign={sign} curr={t.currency} "
-                f"label={t.label} (type/gateway/descr/drcr/sign) "
-                f"status='{_clean_str(t.status_raw).lower()}'"
+                f"label={t.label} (type_norm='{t.type_norm}', status_norm='{t.status_norm}')"
             )
             txns.append(t)
         else:
             reason = t.reason or "dropped"
             _emit(
-                f"{_ts()} 🔎 row {t.row_index}: ⏭️ drop — {reason} (type_raw='{_clean_str(t.type_raw)}')"
+                f"{_ts()} 🔎 row {t.row_index}: ⏭️ drop — {reason} "
+                f"(type_norm='{t.type_norm}', status_norm='{t.status_norm}')"
             )
 
     return txns, dep_total, cash_total
